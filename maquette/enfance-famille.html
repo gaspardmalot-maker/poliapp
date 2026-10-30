@@ -1,0 +1,488 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Enfance et famille — Poliapp</title>
+<style>
+:root {
+  --fond: #f6f7f9; --carte: #ffffff; --texte: #1b1f24; --discret: #667085; --bord: #e6e8ec; --survol: #f1f4f8;
+  --accent: #2f6fde; --pour: #2f6fde; --contre: #ee8434; --abstention: #a6acb8; --partage: #8b6fd6; --absent: #e4e7ec;
+  --adopte: #1f8a5b; --rejete: #c2410c; --citation: #f4f6fa;
+  color-scheme: light;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: 72px; }
+body { margin: 0; background: var(--fond); color: var(--texte); font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothing: antialiased; }
+a { color: var(--accent); }
+button { font: inherit; }
+[hidden] { display: none !important; }
+.contenu { max-width: 1160px; margin: 0 auto; padding: 0 20px; }
+.discret { color: var(--discret); font-size: 13px; }
+.brouillon { background: #fff4db; color: #8a5a00; border-radius: 999px; padding: 1px 8px; font-weight: 500; font-size: 12px; white-space: nowrap; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+header.site { position: sticky; top: 0; z-index: 20; background: rgba(255,255,255,.94); backdrop-filter: blur(8px); border-bottom: 1px solid var(--bord); }
+header.site .contenu { display: flex; align-items: center; gap: 20px; height: 60px; }
+.marque { display: flex; align-items: center; gap: 10px; font-weight: 700; font-size: 18px; text-decoration: none; color: var(--texte); flex-shrink: 0; }
+.marque svg { width: 30px; }
+.recherche-entete { margin-left: auto; width: min(340px, 100%); }
+.champ { width: 100%; padding: 9px 14px; border: 1px solid var(--bord); border-radius: 999px; background: var(--fond); font: inherit; font-size: 15px; color: var(--texte); }
+.champ:focus { outline: 2px solid var(--accent); outline-offset: 0; border-color: transparent; background: #fff; }
+
+.cadre-logo { display: inline-grid; place-items: center; width: 56px; height: 34px; border-radius: 8px; background: #fff; border: 1px solid var(--bord); overflow: hidden; flex-shrink: 0; }
+.cadre-logo img { width: 100%; height: 100%; object-fit: contain; padding: 4px; }
+.sigle-logo { font-size: 11px; font-weight: 700; color: #3b4452; letter-spacing: -0.02em; }
+.cadre-logo.petit { width: 44px; height: 26px; border-radius: 6px; }
+.cadre-logo.petit img { padding: 3px; }
+.cadre-logo.petit .sigle-logo { font-size: 9.5px; }
+
+.badge { font-size: 12px; font-weight: 600; text-align: center; border-radius: 999px; padding: 3px 10px; color: #fff; white-space: nowrap; }
+.b-pour { background: var(--pour); } .b-contre { background: var(--contre); } .b-abstention { background: var(--abstention); }
+.b-partage { background: var(--partage); } .b-null { background: var(--absent); color: var(--discret); }
+.res { font-size: 12px; font-weight: 600; border-radius: 999px; padding: 2px 10px; white-space: nowrap; }
+.res-adopté { color: var(--adopte); background: #e7f5ee; }
+.res-rejeté { color: var(--rejete); background: #fdeee4; }
+
+footer { margin: 64px 0 0; padding: 24px 0 48px; border-top: 1px solid var(--bord); font-size: 13px; color: var(--discret); background: var(--carte); }
+.liens-pied { display: flex; flex-wrap: wrap; gap: 6px 18px; margin-bottom: 10px; font-weight: 500; }
+.liens-pied a { color: var(--texte); text-decoration: none; }
+.liens-pied a:hover { color: var(--accent); }
+.bandeau-test { background: #fff4db; color: #6b4a00; font-size: 13px; text-align: center; padding: 7px 16px; }
+.bandeau-test a { color: inherit; font-weight: 600; }
+.page-texte { max-width: 760px; padding-top: 32px; }
+.page-texte h1 { font-size: clamp(28px, 4.5vw, 40px); letter-spacing: -0.02em; margin: 0 0 16px; }
+.page-texte h2 { font-size: 19px; margin: 32px 0 8px; }
+.page-texte p, .page-texte li { font-size: 15.5px; line-height: 1.65; color: #2b3138; }
+.page-texte .chapeau { font-size: 18px; color: var(--texte); }
+.page-texte ul { padding-left: 20px; }
+@media (max-width: 560px) {
+  .contenu { padding: 0 16px; }
+  .marque span { display: none; }
+}
+
+.entete-sujet { background: var(--carte); border-bottom: 1px solid var(--bord); padding: 32px 0 0; }
+.fil { color: var(--discret); font-size: 14px; margin: 0 0 6px; }
+.fil a { color: inherit; text-decoration: none; }
+.fil a:hover { color: var(--accent); }
+h1 { font-size: clamp(30px, 5vw, 44px); line-height: 1.1; letter-spacing: -0.025em; margin: 0 0 12px; }
+.contexte { font-size: 17px; max-width: 760px; margin: 0; color: #3b4452; }
+.onglets { display: flex; gap: 24px; margin-top: 24px; }
+.onglets a { padding: 0 0 12px; text-decoration: none; color: var(--discret); font-weight: 600; border-bottom: 2px solid transparent; }
+.onglets a:hover { color: var(--texte); }
+.onglets a.actif { color: var(--texte); border-color: var(--texte); }
+.onglets span { font-weight: 500; color: var(--discret); margin-left: 4px; }
+
+section { padding-top: 32px; }
+h2 { font-size: 24px; letter-spacing: -0.015em; margin: 0 0 16px; }
+
+.disposition { display: grid; grid-template-columns: 320px minmax(0, 1fr); gap: 24px; align-items: start; }
+.colonne-liste { position: sticky; top: 76px; max-height: calc(100vh - 92px); display: flex; flex-direction: column; gap: 10px; min-width: 0; }
+#liste-votes { overflow-y: auto; display: grid; gap: 8px; padding: 2px 4px 8px 2px; }
+.choix-vote { all: unset; box-sizing: border-box; cursor: pointer; display: grid; gap: 6px; background: var(--carte); border: 1px solid var(--bord); border-radius: 12px; padding: 12px 14px; transition: border-color .15s, box-shadow .15s; }
+.choix-vote:hover { border-color: #c9d3e3; }
+.choix-vote:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.choix-vote[aria-current="true"] { border-color: var(--accent); box-shadow: 0 0 0 3px #2f6fde1f; }
+.choix-vote .meta { font-size: 12px; color: var(--discret); }
+.leg { background: var(--survol); border-radius: 999px; padding: 0 6px; }
+.choix-vote .resume { font-size: 14.5px; font-weight: 500; line-height: 1.4; }
+.apercu { display: inline-flex; gap: 2px; }
+.mini { display: block; width: 9px; height: 9px; border-radius: 50%; }
+.mini.b-absent { background: transparent; border: 1px dashed var(--bord); }
+#aucun-resultat { font-size: 14px; color: var(--discret); margin: 0; }
+
+.panneau { background: var(--carte); border: 1px solid var(--bord); border-radius: 16px; padding: 24px; scroll-margin-top: 72px; }
+.navigation-vote { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 12px; }
+.btn { all: unset; cursor: pointer; padding: 6px 12px; border: 1px solid var(--bord); border-radius: 999px; font-size: 13px; font-weight: 500; background: var(--carte); }
+.btn:hover:not(:disabled) { background: var(--survol); }
+.btn:disabled { opacity: .35; cursor: default; }
+.btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+#position-vote { font-size: 13px; color: var(--discret); }
+.panneau .meta { font-size: 13px; color: var(--discret); margin: 0; }
+.aide-motion { margin: 8px 0 0; font-size: 13.5px; background: #fff4db; color: #6b4a00; border-radius: 8px; padding: 6px 10px; display: inline-block; }
+.panneau h3 { font-size: 22px; line-height: 1.3; letter-spacing: -0.01em; margin: 8px 0 0; }
+#hemicycle { margin: 4px auto 0; max-width: 540px; }
+#hemicycle svg { display: block; width: 100%; height: auto; }
+.siege, .etiquette { transition: opacity .15s; }
+.estompe { opacity: 0.15; }
+.etiquette { font: 600 0.05px system-ui, sans-serif; fill: var(--discret); }
+.s-pour { fill: var(--pour); background: var(--pour); } .s-contre { fill: var(--contre); background: var(--contre); }
+.s-abstention { fill: var(--abstention); background: var(--abstention); } .s-null { fill: var(--absent); background: var(--absent); }
+.centre { font: 700 0.15px system-ui, sans-serif; text-anchor: middle; }
+.centre.res-adopté { fill: var(--adopte); } .centre.res-rejeté { fill: var(--rejete); }
+.centre-detail { font: 500 0.065px system-ui, sans-serif; fill: var(--discret); text-anchor: middle; }
+.totaux { display: flex; flex-wrap: wrap; justify-content: center; gap: 6px 18px; font-size: 14px; margin: 6px 0 20px; }
+.totaux span { display: inline-flex; align-items: center; gap: 6px; }
+.pastille { display: inline-block; width: 11px; height: 11px; border-radius: 50%; }
+
+.titre-groupes { font-size: 15px; margin: 0; padding-bottom: 10px; border-bottom: 1px solid var(--bord); }
+ul.groupes { list-style: none; margin: 0; padding: 0; }
+.ligne-groupe { padding: 14px 6px; border-bottom: 1px solid var(--bord); display: grid; gap: 10px; border-radius: 8px; }
+.ligne-groupe.actif { background: var(--survol); }
+.ligne-haut { display: grid; grid-template-columns: 56px minmax(0, 1fr) auto; align-items: center; gap: 12px; }
+.nom-groupe { display: grid; min-width: 0; line-height: 1.35; }
+.nom-groupe strong { font-size: 15px; }
+.nom-groupe small { font-size: 12.5px; color: var(--discret); }
+.explication { margin-left: 68px; background: var(--citation); border-radius: 10px; padding: 12px 14px; }
+.explication blockquote { margin: 0; font-size: 15px; line-height: 1.6; }
+.explication[data-ouvert="false"] blockquote { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.explication .coupe { color: var(--discret); }
+.actions { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 14px; margin-top: 8px; font-size: 13px; }
+.action { all: unset; cursor: pointer; color: var(--accent); font-weight: 500; }
+.action:hover { text-decoration: underline; }
+.action:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.action.video { background: var(--texte); color: #fff; border-radius: 999px; padding: 4px 12px; }
+.action.video:hover { text-decoration: none; opacity: .9; }
+.qui { color: var(--discret); margin-left: auto; }
+.pas-explication { margin: 0 0 0 68px; font-size: 13px; color: var(--discret); font-style: italic; }
+.note-lecture { font-size: 12.5px; color: var(--discret); margin: 16px 0 0; }
+
+.programmes { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 16px; }
+.programme { background: var(--carte); border: 1px solid var(--bord); border-radius: 16px; padding: 20px; display: flex; flex-direction: column; gap: 12px; }
+.entete-prog { display: flex; align-items: center; gap: 12px; }
+.logos-prog { display: flex; gap: 4px; flex-wrap: wrap; max-width: 96px; }
+.entete-prog h3 { margin: 0; font-size: 17px; line-height: 1.3; }
+.entete-prog p { margin: 2px 0 0; font-size: 12.5px; color: var(--discret); }
+.propositions { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.propositions li { background: var(--citation); border-radius: 10px; padding: 10px 12px; font-size: 15px; line-height: 1.5; }
+.propositions q { quotes: "« " " »"; }
+.propositions a { font-size: 12px; white-space: nowrap; margin-left: 4px; }
+.programme .ref { margin: auto 0 0; font-size: 12.5px; color: var(--discret); }
+.avertissement { font-size: 14px; color: #3b4452; background: var(--carte); border: 1px solid var(--bord); border-left: 4px solid var(--partage); border-radius: 12px; padding: 12px 16px; margin: 0 0 16px; }
+.manquants { margin-top: 16px; font-size: 14px; color: var(--discret); display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+
+dialog#lecteur { width: min(860px, 94vw); padding: 0; border: none; border-radius: 16px; background: #000; color: #fff; }
+dialog#lecteur::backdrop { background: rgba(10, 14, 20, .75); }
+.lecteur-entete { display: flex; align-items: center; gap: 12px; padding: 12px 16px; background: #14171c; font-size: 14px; }
+.lecteur-entete strong { flex: 1; font-weight: 600; }
+.lecteur-entete a { color: #9fc0ff; font-size: 13px; }
+#lecteur-fermer { all: unset; cursor: pointer; font-size: 22px; line-height: 1; padding: 0 4px; }
+dialog#lecteur video { display: block; width: 100%; aspect-ratio: 16 / 9; background: #000; }
+#lecteur-erreur { padding: 10px 16px; margin: 0; background: #14171c; font-size: 13px; }
+#lecteur-erreur a { color: #9fc0ff; }
+
+@media (max-width: 900px) {
+  .disposition { grid-template-columns: minmax(0, 1fr); }
+  .colonne-liste { position: static; max-height: none; }
+  #liste-votes { grid-auto-flow: column; grid-auto-columns: 78%; overflow-x: auto; overflow-y: hidden; scroll-snap-type: x mandatory; padding-bottom: 10px; }
+  .choix-vote { scroll-snap-align: start; }
+  .panneau { padding: 18px; }
+}
+@media (max-width: 560px) {
+  .entete-sujet { padding-top: 22px; }
+  .contexte { font-size: 16px; }
+  .recherche-entete { width: auto; flex: 1; }
+  .ligne-haut { grid-template-columns: 48px minmax(0, 1fr) auto; gap: 10px; }
+  .ligne-haut .cadre-logo { width: 48px; height: 30px; }
+  .explication, .pas-explication { margin-left: 0; }
+  .qui { margin-left: 0; width: 100%; }
+  .programmes { grid-template-columns: 1fr; }
+  .panneau h3 { font-size: 19px; }
+}
+</style>
+</head>
+<body>
+<div class="bandeau-test">Version de test : une partie des sélections et des citations est automatique et en cours de relecture. <a href="methodologie.html">En savoir plus</a></div>
+
+<header class="site"><div class="contenu">
+  <a class="marque" href="index.html">
+  <svg viewBox="0 0 32 18" aria-hidden="true"><path d="M2 17a14 14 0 0 1 28 0" fill="none" stroke="var(--pour)" stroke-width="3" stroke-linecap="round"/><path d="M9 17a7 7 0 0 1 14 0" fill="none" stroke="var(--contre)" stroke-width="3" stroke-linecap="round"/></svg>
+  <span>Poliapp</span>
+</a>
+  <form class="recherche-entete" action="index.html" role="search"><input class="champ" type="search" name="q" placeholder="Rechercher un sujet, un vote…" aria-label="Rechercher"></form>
+</div></header>
+<div class="entete-sujet"><div class="contenu">
+  <p class="fil"><a href="index.html">Tous les sujets</a> › Enfance et famille</p>
+  <h1>Enfance et famille</h1>
+  <p class="contexte">Protection de l'enfance, crèches, allocations familiales, parentalité.</p>
+  <nav class="onglets" aria-label="Sections">
+    <a href="#votes" class="actif">Ce qu'ils ont voté<span>12</span></a>
+    <a href="#programmes">Ce qu'ils proposent<span>0</span></a>
+  </nav>
+</div></div>
+
+<main class="contenu">
+  <section id="votes">
+    <div class="disposition">
+      <div class="colonne-liste">
+        <input type="search" id="filtre" class="champ" placeholder="Filtrer les votes…" aria-label="Filtrer les votes">
+        <div id="liste-votes"></div>
+        <p id="aucun-resultat" hidden>Aucun vote ne correspond.</p>
+      </div>
+      <div class="panneau" id="panneau">
+        <div class="navigation-vote">
+          <button class="btn" id="precedent">← Plus récent</button>
+          <span id="position-vote"></span>
+          <button class="btn" id="suivant">Plus ancien →</button>
+        </div>
+        <div id="panneau-entete"></div>
+        <div id="hemicycle"></div>
+        <div class="totaux" id="totaux"></div>
+        <h4 class="titre-groupes">Pourquoi chaque groupe a voté ainsi</h4>
+        <ul class="groupes" id="liste-groupes"></ul>
+        <p class="note-lecture">Seuls les scrutins publics sont enregistrés. La position d'un groupe est celle de la majorité de ses votants. Explications citées mot pour mot depuis les débats. · <a id="lien-officiel" target="_blank" rel="noopener">Scrutin officiel ↗</a></p>
+      </div>
+    </div>
+  </section>
+
+  <section id="programmes">
+    <h2>Ce qu'ils proposent</h2>
+    <p class="avertissement"><strong>Programmes 2027 pas encore publiés.</strong> En attendant, voici les derniers programmes officiels complets (législatives 2024) et les déclarations publiques des partis, toujours sourcées.</p>
+    <p class="discret">Aucune proposition relevée pour l’instant sur ce sujet.</p>
+  </section>
+</main>
+
+<dialog id="lecteur" aria-labelledby="lecteur-titre">
+  <div class="lecteur-entete"><strong id="lecteur-titre"></strong><a id="lecteur-source" target="_blank" rel="noopener">Compte rendu ↗</a><button id="lecteur-fermer" aria-label="Fermer">×</button></div>
+  <video controls playsinline></video>
+  <p id="lecteur-erreur" hidden>La vidéo n'a pas pu être chargée. Elle reste disponible sur le <a href="https://videos.assemblee-nationale.fr" target="_blank" rel="noopener">portail vidéo de l'Assemblée</a>.</p>
+</dialog>
+<footer><div class="contenu">
+  <nav class="liens-pied"><a href="methodologie.html">Méthodologie</a><a href="sources.html">Sources et licences</a><a href="mentions-legales.html">Mentions légales</a><a href="confidentialite.html">Données personnelles</a><a href="https://github.com/gaspardmalot-maker/poliapp/issues/new" target="_blank" rel="noopener">Signaler une erreur</a></nav>
+  <p>Données : Assemblée nationale, open data (Licence Ouverte / Etalab 2.0), récupérées le 30 octobre 2026. Programmes : documents officiels des partis. Toutes les citations sont reprises mot pour mot. Site indépendant, sans publicité, sans lien avec un parti.</p>
+</div></footer>
+<script>function dispositionHemicycle(n) {
+  const cache = (dispositionHemicycle.cache ??= new Map());
+  if (cache.has(n)) return cache.get(n);
+  const rangees = n > 400 ? 12 : n > 200 ? 9 : 6;
+  const r0 = 0.38;
+  const rayons = Array.from({ length: rangees }, (_, i) => r0 + ((1 - r0) * i) / (rangees - 1));
+  const somme = rayons.reduce((a, b) => a + b, 0);
+  const parRangee = rayons.map((r) => Math.floor((n * r) / somme));
+  for (let i = rangees - 1, reste = n - parRangee.reduce((a, b) => a + b, 0); reste > 0; reste--, i = (i - 1 + rangees) % rangees) parRangee[i]++;
+  const sieges = [];
+  rayons.forEach((r, i) => {
+    const k = parRangee[i];
+    for (let j = 0; j < k; j++) {
+      const angle = Math.PI * (1 - (k === 1 ? 0.5 : j / (k - 1)));
+      sieges.push({ angle, r, x: r * Math.cos(angle), y: -r * Math.sin(angle) });
+    }
+  });
+  sieges.sort((a, b) => b.angle - a.angle || a.r - b.r);
+  const resultat = { sieges, rayon: (((1 - r0) / (rangees - 1)) * 0.4).toFixed(4) };
+  cache.set(n, resultat);
+  return resultat;
+}
+(function appSujet(DATA) {
+  const POSITIONS = { pour: 'Pour', contre: 'Contre', abstention: 'Abstention', partage: 'Partagé', null: "N'a pas voté" };
+  const SVG = 'http://www.w3.org/2000/svg';
+  const $ = (sel, racine = document) => racine.querySelector(sel);
+  const $$ = (sel, racine = document) => [...racine.querySelectorAll(sel)];
+  const esc = (t) => String(t ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
+  const dateFr = (d) => new Date(d).toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' });
+  const dateCourte = (d) => new Date(d).toLocaleDateString('fr-FR', { day: 'numeric', month: 'short', year: 'numeric' });
+  const normaliser = (t) => t.toLowerCase().normalize('NFD').replace(/\p{Diacritic}/gu, '');
+  const groupe = (sigle) => DATA.groupes.find((g) => g.sigle === sigle);
+  const logoHtml = (g, taille = '') =>
+    `<span class="cadre-logo ${taille}" aria-hidden="true">${g.logo ? `<img src="${g.logo}" alt="">` : `<span class="sigle-logo">${esc(g.sigle)}</span>`}</span>`;
+
+  const disposition = dispositionHemicycle;
+  const element = (tag, attrs = {}, texte) => {
+    const e = document.createElementNS(SVG, tag);
+    for (const [k, v] of Object.entries(attrs)) e.setAttribute(k, v);
+    if (texte) e.textContent = texte;
+    return e;
+  };
+  function hemicycle(vote) {
+    const presents = DATA.groupes.filter((g) => vote.groupes[g.sigle]);
+    const total = presents.reduce((n, g) => n + vote.groupes[g.sigle].membres, 0);
+    const { sieges, rayon } = disposition(total);
+    const svg = element('svg', { viewBox: '-1.3 -1.2 2.6 1.26', role: 'img', 'aria-label': `Hémicycle : ${vote.decompte.pour} pour, ${vote.decompte.contre} contre, ${vote.decompte.abstention} abstentions` });
+    let i = 0;
+    for (const g of presents) {
+      const r = vote.groupes[g.sigle];
+      const portion = sieges.slice(i, i + r.membres);
+      if (portion.length) {
+        const milieu = (portion[0].angle + portion.at(-1).angle) / 2;
+        const deg = (milieu * 180) / Math.PI;
+        const gauche = deg > 90;
+        const [x, y] = [(1.05 * Math.cos(milieu)).toFixed(4), (-1.05 * Math.sin(milieu)).toFixed(4)];
+        const t = element('text', { x, y, transform: `rotate(${gauche ? 180 - deg : -deg} ${x} ${y})`, 'text-anchor': gauche ? 'end' : 'start', 'dominant-baseline': 'central', class: 'etiquette' }, g.sigle);
+        t.dataset.groupe = g.sigle;
+        svg.appendChild(t);
+      }
+      const nonVotants = Math.max(r.membres - r.pour - r.contre - r.abstention, 0);
+      for (const [pos, nb] of [['pour', r.pour], ['contre', r.contre], ['abstention', r.abstention], ['null', nonVotants]]) {
+        for (let k = 0; k < nb && i < sieges.length; k++, i++) {
+          const c = element('circle', { cx: sieges[i].x.toFixed(4), cy: sieges[i].y.toFixed(4), r: rayon, class: `siege s-${pos}` });
+          c.dataset.groupe = g.sigle;
+          svg.appendChild(c);
+        }
+      }
+    }
+    svg.appendChild(element('text', { x: 0, y: -0.1, class: `centre res-${vote.resultat}` }, vote.resultat === 'adopté' ? 'Adopté' : 'Rejeté'));
+    svg.appendChild(element('text', { x: 0, y: 0, class: 'centre-detail' }, `${vote.decompte.votants} votants`));
+    svg.addEventListener('mouseover', (e) => e.target.dataset?.groupe && surligner(e.target.dataset.groupe));
+    svg.addEventListener('mouseleave', () => surligner(null));
+    return svg;
+  }
+  function surligner(sigle) {
+    $$('#panneau .siege, #panneau .etiquette').forEach((c) => c.classList.toggle('estompe', !!sigle && c.dataset.groupe !== sigle));
+    $$('#panneau .ligne-groupe').forEach((l) => l.classList.toggle('actif', l.dataset.groupe === sigle));
+  }
+
+  // --- Lecteur vidéo : flux HLS officiel de la séance, ouvert au moment de l'intervention.
+  let hls = null;
+  let chargementHls = null;
+  const chargerHls = () =>
+    (chargementHls ??= new Promise((ok, ko) => {
+      const s = document.createElement('script');
+      s.src = 'https://cdnjs.cloudflare.com/ajax/libs/hls.js/1.5.13/hls.min.js';
+      s.onload = () => ok(window.Hls);
+      s.onerror = ko;
+      document.head.appendChild(s);
+    }));
+  async function lireVideo({ flux, debut, titre, source }) {
+    const dialogue = $('#lecteur');
+    const video = $('#lecteur video');
+    $('#lecteur-titre').textContent = titre;
+    $('#lecteur-source').href = source;
+    $('#lecteur-erreur').hidden = true;
+    dialogue.showModal();
+    const erreur = () => ($('#lecteur-erreur').hidden = false);
+    if (video.canPlayType('application/vnd.apple.mpegurl')) {
+      video.src = flux;
+      video.addEventListener('loadedmetadata', () => { video.currentTime = debut; video.play().catch(() => {}); }, { once: true });
+      video.addEventListener('error', erreur, { once: true });
+      return;
+    }
+    try {
+      const Hls = await chargerHls();
+      hls = new Hls({ startPosition: debut });
+      hls.on(Hls.Events.ERROR, (_, d) => d.fatal && erreur());
+      hls.loadSource(flux);
+      hls.attachMedia(video);
+      hls.on(Hls.Events.MANIFEST_PARSED, () => video.play().catch(() => {}));
+    } catch {
+      erreur();
+    }
+  }
+  $('#lecteur').addEventListener('close', () => {
+    const video = $('#lecteur video');
+    video.pause();
+    hls?.destroy();
+    hls = null;
+    video.removeAttribute('src');
+    video.load();
+  });
+  $('#lecteur-fermer').addEventListener('click', () => $('#lecteur').close());
+  $('#lecteur').addEventListener('click', (e) => e.target === e.currentTarget && $('#lecteur').close());
+
+  // --- Panneau d'un vote.
+  function explicationHtml(ex, sigle) {
+    if (!ex) return sigle === 'NI' ? '' : `<p class="pas-explication">Pas d'explication de vote relevée dans les débats.</p>`;
+    if (!ex.citations.length) return `<p class="pas-explication">${esc(ex.remarque)} <a href="${ex.url}" target="_blank" rel="noopener">Voir l'intervention</a></p>`;
+    return `
+      <div class="explication" data-ouvert="false">
+        <blockquote>${ex.citations.map((c) => `« ${esc(c)} »`).join(' <span class="coupe">[…]</span> ')}</blockquote>
+        <div class="actions">
+          ${
+            ex.video
+              ? DATA.videoIntegree
+                ? `<button class="action video" data-groupe="${esc(sigle)}"><span aria-hidden="true">▶</span> Voir en vidéo</button>`
+                : `<a class="action video" href="${ex.url}" target="_blank" rel="noopener" title="Ouvre le compte rendu officiel à ce passage, avec la vidéo de la séance"><span aria-hidden="true">▶</span> Voir la vidéo</a>`
+              : ''
+          }
+          <button class="action lire">Lire tout</button>
+          <a class="action" href="${ex.url}" target="_blank" rel="noopener">Source ↗</a>
+          <span class="qui">${esc(ex.orateur ?? '')}${ex.statut === 'auto' ? ' · <span class="brouillon">extrait automatique</span>' : ex.statut === 'brouillon' ? ' · <span class="brouillon">à valider</span>' : ''}</span>
+        </div>
+      </div>`;
+  }
+  function ligneGroupe(vote, g) {
+    const r = vote.groupes[g.sigle];
+    if (!r) return '';
+    const votants = r.pour + r.contre + r.abstention;
+    const detail = [r.pour && `${r.pour} pour`, r.contre && `${r.contre} contre`, r.abstention && `${r.abstention} abst.`].filter(Boolean).join(' · ') || 'aucun votant';
+    return `
+      <li class="ligne-groupe" data-groupe="${esc(g.sigle)}">
+        <div class="ligne-haut">
+          ${logoHtml(g)}
+          <span class="nom-groupe"><strong>${esc(g.sigle)}</strong><small>${detail} — ${votants} votants sur ${r.membres}</small></span>
+          <span class="badge b-${r.position}">${POSITIONS[r.position]}</span>
+        </div>
+        ${explicationHtml(vote.explications[g.sigle], g.sigle)}
+      </li>`;
+  }
+
+  let courant = null;
+  function afficher(cle, { defiler = false } = {}) {
+    const index = Math.max(DATA.votes.findIndex((v) => v.cle === cle), 0);
+    const vote = DATA.votes[index];
+    courant = vote;
+    $$('.choix-vote').forEach((b) => b.setAttribute('aria-current', String(b.dataset.cle === vote.cle)));
+    $('.choix-vote[aria-current="true"]')?.scrollIntoView({ block: 'nearest', inline: 'center' });
+    $('#panneau-entete').innerHTML = `
+      <p class="meta">${dateFr(vote.date)} · ${vote.congres ? 'Congrès du Parlement' : vote.motion ? 'Motion' : vote.resolution ? 'Résolution' : 'Loi'}${vote.lecture ? ` · ${esc(vote.lecture)}` : ''} · <span class="res res-${vote.resultat}">${vote.resultat === 'adopté' ? 'Adopté' : 'Rejeté'}</span>${vote.statut === 'auto' ? ' · <span class="brouillon">sélection automatique</span>' : vote.statut === 'brouillon' ? ' · <span class="brouillon">à valider</span>' : ''}</p>
+      <h3>${esc(vote.resume)}</h3>
+      ${vote.motion ? `<p class="aide-motion">${vote.motion === 'censure' ? 'Voter <b>pour</b> cette motion, c’est vouloir renverser le gouvernement. Seuls les votes pour sont comptés : il faut la majorité absolue des membres de l’Assemblée (289 si tous les sièges sont pourvus).' : 'Voter <b>pour</b> cette motion, c’est rejeter le texte sans l’examiner.'}</p>` : ''}`;
+    $('#hemicycle').replaceChildren(hemicycle(vote));
+    $('#totaux').innerHTML = `
+      <span><i class="pastille s-pour"></i><strong>${vote.decompte.pour}</strong> pour</span>
+      <span><i class="pastille s-contre"></i><strong>${vote.decompte.contre}</strong> contre</span>
+      <span><i class="pastille s-abstention"></i><strong>${vote.decompte.abstention}</strong> abstention${vote.decompte.abstention > 1 ? 's' : ''}</span>
+      <span><i class="pastille s-null"></i>absents</span>`;
+    $('#liste-groupes').innerHTML = DATA.groupes.map((g) => ligneGroupe(vote, g)).join('');
+    $('#lien-officiel').href = vote.url;
+    $('#precedent').disabled = index === 0;
+    $('#suivant').disabled = index === DATA.votes.length - 1;
+    $('#position-vote').textContent = `${index + 1} / ${DATA.votes.length}`;
+    $$('.ligne-groupe').forEach((l) => {
+      l.addEventListener('mouseenter', () => surligner(l.dataset.groupe));
+      l.addEventListener('mouseleave', () => surligner(null));
+    });
+    $$('#liste-groupes .lire').forEach((b) =>
+      b.addEventListener('click', () => {
+        const bloc = b.closest('.explication');
+        const ouvert = bloc.dataset.ouvert !== 'true';
+        bloc.dataset.ouvert = String(ouvert);
+        b.textContent = ouvert ? 'Réduire' : 'Lire tout';
+      }),
+    );
+    $$('#liste-groupes .video').forEach((b) =>
+      b.addEventListener('click', () => {
+        const ex = courant.explications[b.dataset.groupe];
+        lireVideo({ ...ex.video, titre: `${ex.orateur} (${b.dataset.groupe}) — ${dateFr(ex.date)}`, source: ex.url });
+      }),
+    );
+    history.replaceState(null, '', `#vote-${vote.cle}`);
+    if (defiler) $('#panneau').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+
+  // --- Liste des votes.
+  $('#liste-votes').innerHTML = DATA.votes
+    .map(
+      (v) => `
+      <button class="choix-vote" data-cle="${v.cle}" data-texte="${esc(normaliser(v.resume + ' ' + v.titre))}" aria-current="false">
+        <span class="meta">${dateCourte(v.date)}${v.legislature === 16 ? ' · <span class="leg">2022-2024</span>' : ''}</span>
+        <span class="resume">${esc(v.resume)}</span>
+        <span class="apercu">${DATA.groupes
+          .filter((g) => v.groupes[g.sigle])
+          .map((g) => `<i class="mini b-${v.groupes[g.sigle] ? v.groupes[g.sigle].position : 'absent'}" title="${esc(g.sigle)} : ${v.groupes[g.sigle] ? POSITIONS[v.groupes[g.sigle].position] : '—'}"></i>`)
+          .join('')}</span>
+      </button>`,
+    )
+    .join('');
+  $$('.choix-vote').forEach((b) => b.addEventListener('click', () => afficher(b.dataset.cle, { defiler: window.matchMedia('(max-width: 900px)').matches })));
+  $('#filtre').addEventListener('input', (e) => {
+    const q = normaliser(e.target.value.trim());
+    let visibles = 0;
+    $$('.choix-vote').forEach((b) => {
+      b.hidden = !!q && !b.dataset.texte.includes(q);
+      visibles += !b.hidden;
+    });
+    $('#aucun-resultat').hidden = visibles > 0;
+  });
+  $('#precedent').addEventListener('click', () => afficher(DATA.votes[DATA.votes.indexOf(courant) - 1].cle));
+  $('#suivant').addEventListener('click', () => afficher(DATA.votes[DATA.votes.indexOf(courant) + 1].cle));
+  $$('[data-logo]').forEach((el) => {
+    const g = groupe(el.dataset.logo);
+    if (g) el.outerHTML = logoHtml(g, 'petit');
+  });
+
+  // Anciens liens « #vote-3061 » : numéro seul = XVIIe législature.
+  const ancre = (location.hash.match(/vote-(\w+)/) ?? [])[1];
+  afficher(/^\d+$/.test(ancre ?? '') ? `VTANR5L17V${ancre}` : ancre ?? DATA.votes[0].cle);
+})({"groupes":[{"sigle":"LFI-NFP","nom":"La France insoumise - Nouveau Front Populaire","logo":"logos/LFI-NFP.svg"},{"sigle":"LFI-NUPES","nom":"La France insoumise - Nouvelle Union Populaire écologique et sociale","logo":"logos/LFI-NFP.svg"},{"sigle":"GDR","nom":"Gauche Démocrate et Républicaine","logo":"logos/GDR.svg"},{"sigle":"GDR-NUPES","nom":"Gauche démocrate et républicaine - NUPES","logo":"logos/GDR.svg"},{"sigle":"EcoS","nom":"Écologiste et Social","logo":"logos/EcoS.png"},{"sigle":"Ecolo-NUPES","nom":"Écologiste - NUPES","logo":"logos/EcoS.png"},{"sigle":"SOC","nom":"Socialistes et apparentés","logo":"logos/SOC.svg"},{"sigle":"LIOT","nom":"Libertés, Indépendants, Outre-mer et Territoires","logo":null},{"sigle":"Dem","nom":"Les Démocrates","logo":"logos/Dem.svg"},{"sigle":"EPR","nom":"Ensemble pour la République","logo":"logos/EPR.svg"},{"sigle":"RE","nom":"Renaissance","logo":"logos/EPR.svg"},{"sigle":"HOR","nom":"Horizons & Indépendants","logo":"logos/HOR.svg"},{"sigle":"DR","nom":"Droite Républicaine","logo":"logos/DR.svg"},{"sigle":"LR","nom":"Les Républicains","logo":"logos/DR.svg"},{"sigle":"UDR","nom":"Union des droites pour la République","logo":"logos/UDR.svg"},{"sigle":"RN","nom":"Rassemblement National","logo":"logos/RN.svg"},{"sigle":"NI","nom":"Non inscrit","logo":null}],"votes":[{"cle":"VTANR5L17V8705","numero":8705,"legislature":17,"congres":false,"motion":null,"lecture":"première lecture","resume":"Proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants","statut":"auto","date":"2026-10-13","titre":"la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).","resolution":false,"resultat":"adopté","decompte":{"votants":570,"pour":503,"contre":0,"abstention":67},"url":"https://www.assemblee-nationale.fr/dyn/17/scrutins/8705","groupes":{"RN":{"position":"pour","membres":121,"pour":121,"contre":0,"abstention":0,"nonVotants":0},"EPR":{"position":"pour","membres":90,"pour":90,"contre":0,"abstention":0,"nonVotants":0},"LFI-NFP":{"position":"abstention","membres":70,"pour":4,"contre":0,"abstention":66,"nonVotants":0},"SOC":{"position":"pour","membres":68,"pour":68,"contre":0,"abstention":0,"nonVotants":0},"DR":{"position":"pour","membres":47,"pour":45,"contre":0,"abstention":0,"nonVotants":0},"EcoS":{"position":"pour","membres":38,"pour":38,"contre":0,"abstention":0,"nonVotants":0},"Dem":{"position":"pour","membres":37,"pour":36,"contre":0,"abstention":0,"nonVotants":0},"HOR":{"position":"pour","membres":35,"pour":34,"contre":0,"abstention":0,"nonVotants":0},"LIOT":{"position":"pour","membres":23,"pour":23,"contre":0,"abstention":0,"nonVotants":0},"GDR":{"position":"pour","membres":17,"pour":17,"contre":0,"abstention":0,"nonVotants":0},"UDR":{"position":"pour","membres":17,"pour":16,"contre":0,"abstention":1,"nonVotants":0},"NI":{"position":"pour","membres":11,"pour":11,"contre":0,"abstention":0,"nonVotants":0}},"explications":{"EcoS":{"citations":["Cette loi est un premier pas, c'est pourquoi nous la voterons, mais le combat ne fait que commencer."],"statut":"auto","orateur":"Mme Clémentine Autain","date":"2026-10-13","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N020#4184149","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/10/hemi_20261013144511.smil/master.m3u8","debut":8524}},"Dem":{"citations":["Voilà pourquoi la question des moyens est décisive. Le groupe Les Démocrates votera avec fierté en faveur du texte, pour les avancées qu'il a défendues en son sein."],"statut":"auto","orateur":"Mme Sandrine Josso","date":"2026-10-13","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N020#4184157","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/10/hemi_20261013144511.smil/master.m3u8","debut":8881}},"HOR":{"citations":["Le groupe Horizons & indépendants votera en faveur du texte, avec la conviction que la protection des victimes ne peut être ni un combat partisan ni un combat solitaire ; qu'elle est l'affaire de la société tout entière et de tous nos bancs."],"statut":"auto","orateur":"Mme Isabelle Rauch","date":"2026-10-13","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N020#4183848","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/10/hemi_20261013144511.smil/master.m3u8","debut":9212}},"LIOT":{"citations":["Il n'y a pas de hasard. C'est donc avec fierté que le groupe LIOT votera ce texte."],"statut":"auto","orateur":"Mme Constance de Pélichy","date":"2026-10-13","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N020#4184402","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/10/hemi_20261013144511.smil/master.m3u8","debut":12054}},"GDR":{"citations":["Mon groupe votera en faveur de ce texte, non pas – vous l'aurez compris – en confiance béate à l'égard du gouvernement, mais bien en lutte aux côtés des victimes et aux côtés de celles et ceux qui se sont battus pour que ce texte advienne."],"statut":"auto","orateur":"Mme Elsa Faucillon","date":"2026-10-13","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N020#4184163","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/10/hemi_20261013144511.smil/master.m3u8","debut":9924}},"UDR":{"citations":["Ce n'est pas notre conception du travail parlementaire. Néanmoins, notre groupe votera en faveur de ce texte, parce qu'il contient des avancées et que les victimes ne peuvent plus attendre."],"statut":"auto","orateur":"Mme Sophie Ricourt Vaginay","date":"2026-10-13","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N020#4184180","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/10/hemi_20261013144511.smil/master.m3u8","debut":10298}},"RN":{"citations":["Au Rassemblement national, nous ne pratiquons jamais la politique du pire. Le groupe Rassemblement national votera donc en faveur du texte."],"statut":"auto","orateur":"M. Thomas Ménagé","date":"2026-10-13","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N020#4184205","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/10/hemi_20261013144511.smil/master.m3u8","debut":10653}},"EPR":{"citations":["Mes chers collègues, en ce jour de vote solennel, nous devons être à la hauteur du mandat qui nous a été confié. Le groupe Ensemble pour la République votera en faveur de la proposition de loi."],"statut":"auto","orateur":"Mme Alexandra Martin (Gironde)","date":"2026-10-13","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N020#4184232","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/10/hemi_20261013144511.smil/master.m3u8","debut":10992}},"LFI-NFP":{"citations":["Cette loi n'a d'intégral que le nom et nous sommes loin du grand soir. Toutefois, par respect pour le travail colossal et essentiel de l'ensemble des associations féministes et enfantistes, nous nous abstiendrons."],"statut":"auto","orateur":"Mme Élise Leboucher","date":"2026-10-13","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N020#4184243","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/10/hemi_20261013144511.smil/master.m3u8","debut":11317}},"SOC":{"citations":["Vous l'aurez compris, c'est avec une immense fierté que les députés du groupe Socialistes et apparentés voteront cette proposition de loi et passeront le relais au Sénat, chère Laurence Rossignol."],"statut":"auto","orateur":"Mme Florence Herouin-Léautey","date":"2026-10-13","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N020#4184383","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/10/hemi_20261013144511.smil/master.m3u8","debut":11669}},"DR":{"citations":["Eu égard à ces objectifs, aux avancées obtenues et aux corrections apportées au texte, le groupe Droite républicaine votera en faveur de cette proposition de loi."],"statut":"auto","orateur":"Mme Sylvie Bonnet","date":"2026-10-13","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N020#4183866","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/10/hemi_20261013144511.smil/master.m3u8","debut":9543}}}},{"cle":"VTANR5L17V8430","numero":8430,"legislature":17,"congres":false,"motion":null,"lecture":"première lecture","resume":"Projet de loi relatif à la protection des enfants","statut":"auto","date":"2026-07-21","titre":"l'ensemble du projet de loi relatif à la protection des enfants (première lecture).","resolution":false,"resultat":"adopté","decompte":{"votants":558,"pour":378,"contre":7,"abstention":173},"url":"https://www.assemblee-nationale.fr/dyn/17/scrutins/8430","groupes":{"RN":{"position":"pour","membres":122,"pour":119,"contre":0,"abstention":0,"nonVotants":0},"EPR":{"position":"pour","membres":91,"pour":86,"contre":0,"abstention":2,"nonVotants":1},"LFI-NFP":{"position":"abstention","membres":71,"pour":0,"contre":0,"abstention":69,"nonVotants":0},"SOC":{"position":"abstention","membres":68,"pour":0,"contre":0,"abstention":63,"nonVotants":0},"DR":{"position":"pour","membres":48,"pour":48,"contre":0,"abstention":0,"nonVotants":0},"EcoS":{"position":"abstention","membres":38,"pour":3,"contre":0,"abstention":33,"nonVotants":0},"Dem":{"position":"pour","membres":37,"pour":33,"contre":0,"abstention":1,"nonVotants":0},"HOR":{"position":"pour","membres":35,"pour":35,"contre":0,"abstention":0,"nonVotants":0},"LIOT":{"position":"pour","membres":23,"pour":23,"contre":0,"abstention":0,"nonVotants":0},"UDR":{"position":"pour","membres":17,"pour":17,"contre":0,"abstention":0,"nonVotants":0},"GDR":{"position":"contre","membres":17,"pour":5,"contre":7,"abstention":5,"nonVotants":0},"NI":{"position":"pour","membres":10,"pour":9,"contre":0,"abstention":0,"nonVotants":0}},"explications":{"LFI-NFP":{"citations":["Notre groupe ne soutiendra donc pas ce texte. Il s'abstiendra pour marquer son opposition à une partie des mesures."],"statut":"auto","orateur":"Mme Marianne Maximi","date":"2026-07-21","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N023#4166877","video":null},"SOC":{"citations":["Ceux qui se battent depuis longtemps en faveur de la protection de l'enfance ne peuvent nier, il est vrai, les avancées réelles contenues dans ce texte. Cependant, il reste insuffisant et c'est pourquoi le groupe Socialistes et apparentés s'abstiendra."],"statut":"auto","orateur":"Mme Ayda Hadizadeh","date":"2026-07-21","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N023#4166890","video":null},"DR":{"citations":["Mais nous ne pouvons faire l'économie d'une loi pénale qui soit le puissant porte-voix des enfants, eux qui ne peuvent pas s'exprimer. Vous l'aurez compris, les députés de la Droite républicaine, avec Laurent Wauquiez, voteront en faveur de ce texte."],"statut":"auto","orateur":"Mme Émilie Bonnivard","date":"2026-07-21","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N023#4167111","video":null},"EcoS":{"citations":["C'est pourquoi nous saluons l'enrichissement de ce projet de loi par plusieurs mesures que nous défendons et qui sont autant d'avancées substantielles. Malgré cela – je le dis avec une grande tristesse –, nous nous abstiendrons."],"statut":"auto","orateur":"M. Arnaud Bonnet","date":"2026-07-21","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N023#4167127","video":null},"Dem":{"citations":["Pour toutes ces raisons, parce qu'il constitue une étape importante, parce qu'il apporte des améliorations concrètes et parce qu'il traduit une volonté d'agir plutôt que d'attendre une réforme parfaite, le groupe Les Démocrates votera en faveur de ce projet de loi."],"statut":"auto","orateur":"Mme Sabine Gervais","date":"2026-07-21","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N023#4166469","video":null},"HOR":{"citations":["Ce texte est le fruit d'amendements venant de tous les groupes – y compris de ceux de la gauche, qui ont pourtant voté contre le projet de loi en commission. Chacun votera en conscience ; mais je crois pouvoir dire que le texte qui nous est soumis a été écrit et enrichi par toutes les sensibilités de cet hémicycle."],"statut":"auto","orateur":"Mme Nathalie Colin-Oesterlé","date":"2026-07-21","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N023#4166481","video":null},"LIOT":{"citations":["C'est pourquoi la parole de l'enfant doit devenir le cœur de la politique publique : écouter plus tôt, détecter plus vite, accompagner mieux et former davantage. Nous voterons ce texte parce qu'il contient des avancées."],"statut":"auto","orateur":"Mme Constance de Pélichy","date":"2026-07-21","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N023#4166497","video":null},"GDR":{"citations":["Parce que je ne veux pas laisser les familles, les professionnels du secteur et les associations dans l'illusion d'un acte législatif accompli se souciant réellement de protéger les enfants, je voterai, avec plusieurs députés de mon groupe, résolument contre ce texte."],"statut":"auto","orateur":"M. Yannick Monnet","date":"2026-07-21","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N023#4167192","video":null},"UDR":{"citations":["Nous voterons ce texte parce qu'il contient des mesures utiles et attendues, mais notre vote favorable ne saurait valoir absolution."],"statut":"auto","orateur":"M. Antoine Valentin","date":"2026-07-21","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N023#4167209","video":null},"RN":{"citations":["Le groupe Rassemblement national votera donc en faveur de ce texte, mais avec la conviction que la défense des plus vulnérables, qui sera l'un des axes de la campagne de Marine Le Pen en 2027, nécessite bien plus."],"statut":"auto","orateur":"Mme Sophie Blanc","date":"2026-07-21","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N023#4167234","video":null},"EPR":{"citations":["Il propose de mieux accompagner les enfants suivis par l'aide sociale à l'enfance tout en protégeant plus largement l'ensemble des enfants grâce au contrôle de l'honorabilité des personnes qui les encadrent. Pour toutes ces raisons, le groupe Ensemble pour la République votera en faveur de ce projet de loi."],"statut":"auto","orateur":"Mme Pauline Cestrières","date":"2026-07-21","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N023#4167341","video":null}}},{"cle":"VTANR5L17V8431","numero":8431,"legislature":17,"congres":false,"motion":null,"lecture":"texte de la commission mixte paritaire","resume":"Proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux","statut":"auto","date":"2026-07-21","titre":"l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).","resolution":false,"resultat":"adopté","decompte":{"votants":426,"pour":279,"contre":81,"abstention":66},"url":"https://www.assemblee-nationale.fr/dyn/17/scrutins/8431","groupes":{"RN":{"position":"abstention","positionSource":"contre","membres":122,"pour":0,"contre":2,"abstention":14,"nonVotants":1},"EPR":{"position":"pour","membres":91,"pour":83,"contre":0,"abstention":0,"nonVotants":1},"LFI-NFP":{"position":"contre","membres":71,"pour":0,"contre":63,"abstention":0,"nonVotants":0},"SOC":{"position":"pour","membres":68,"pour":30,"contre":0,"abstention":28,"nonVotants":0},"DR":{"position":"pour","membres":48,"pour":40,"contre":0,"abstention":3,"nonVotants":0},"EcoS":{"position":"pour","positionSource":"contre","membres":38,"pour":19,"contre":7,"abstention":7,"nonVotants":0},"Dem":{"position":"pour","membres":37,"pour":32,"contre":1,"abstention":2,"nonVotants":0},"HOR":{"position":"pour","membres":35,"pour":33,"contre":0,"abstention":0,"nonVotants":0},"LIOT":{"position":"pour","membres":23,"pour":22,"contre":0,"abstention":1,"nonVotants":0},"UDR":{"position":"pour","membres":17,"pour":8,"contre":5,"abstention":4,"nonVotants":0},"GDR":{"position":"pour","membres":17,"pour":6,"contre":3,"abstention":5,"nonVotants":0},"NI":{"position":"pour","membres":10,"pour":6,"contre":0,"abstention":2,"nonVotants":0}},"explications":{"LIOT":{"citations":["Comment nous assurer que l'attrait de l'interdit ne conduira pas certains jeunes à le contourner par des comptes empruntés ou l'utilisation de VPN ? Cela dit, et compte tenu de l'utilité de tous ses articles, nous voterons en faveur du texte."],"statut":"auto","orateur":"M. Joël Bruneau","date":"2026-07-21","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N023#4167762","video":null},"UDR":{"citations":["La plupart d'entre nous, mais pas tous, voteront l'article 1er instaurant une interdiction d'accès aux réseaux sociaux avant 15 ans et la suspension des comptes déjà existants de mineurs de moins de 15 ans."],"statut":"auto","orateur":"M. Olivier Fayssat","date":"2026-07-21","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N023#4167779","video":null},"RN":{"citations":["Dans la mesure où il n'est pas équilibré, nous vous invitons, madame la ministre, à le retirer de l'ordre du jour et à revoir votre copie, sans quoi nous refuserons de le voter et nous nous abstiendrons."],"statut":"auto","orateur":"Mme Laure Lavalette","date":"2026-07-21","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N023#4167794","video":null},"DR":{"citations":["Il s'agit de les protéger, de leur offrir un peu de répit et de leur permettre de se dédier pleinement à leurs études. Pour protéger la jeunesse contre le principal fléau de notre époque, le groupe Droite républicaine votera en faveur de la proposition de loi."],"statut":"auto","orateur":"M. Lionel Duparay","date":"2026-07-21","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N023#4167925","video":null},"EcoS":{"citations":["Parce que l'interdiction prévue est une demande des parents et peut servir d'aide éducative, je voterai en faveur du texte, avec une partie des membres de mon groupe."],"statut":"auto","orateur":"Mme Lisa Belluco","date":"2026-07-21","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N023#4167933","video":null},"Dem":{"citations":["Parce qu'il nous faut avancer, parce qu'elle va dans le bon sens et parce qu'il est urgent de protéger nos enfants, le groupe Démocrate votera en faveur de ce texte."],"statut":"auto","orateur":"M. Laurent Croizier","date":"2026-07-21","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N023#4167960","video":null},"HOR":{"citations":["Le groupe Horizons & indépendants votera donc ce texte avec fierté, avec la conviction que nous ouvrons un chemin dont nous ne voyons pas encore le terme, mais au bout duquel nous aurons reconquis le bien le plus précieux que ces plateformes nous dérobent chaque jour : notre attention, c'est-à-dire notre liberté de choisir à quoi et à qui nous consacrons le temps si court de nos existences."],"statut":"auto","orateur":"M. Laurent Marcangeli","date":"2026-07-21","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N023#4167972","video":null}}},{"cle":"VTANR5L17V7904","numero":7904,"legislature":17,"congres":false,"motion":null,"lecture":"deuxième lecture","resume":"Proposition de loi visant à assurer le droit de chaque enfant à être assisté d'un avocat dans le cadre d'une mesure d'assistance éducative et de protection de l'enfance","statut":"auto","date":"2026-07-01","titre":"l'ensemble de la proposition de loi visant à assurer le droit de chaque enfant à être assisté d'un avocat dans le cadre d'une mesure d'assistance éducative et de protection de l'enfance (deuxième lecture).","resolution":false,"resultat":"adopté","decompte":{"votants":292,"pour":292,"contre":0,"abstention":0},"url":"https://www.assemblee-nationale.fr/dyn/17/scrutins/7904","groupes":{"RN":{"position":"pour","membres":122,"pour":55,"contre":0,"abstention":0,"nonVotants":0},"EPR":{"position":"pour","membres":91,"pour":54,"contre":0,"abstention":0,"nonVotants":1},"LFI-NFP":{"position":"pour","membres":71,"pour":41,"contre":0,"abstention":0,"nonVotants":0},"SOC":{"position":"pour","membres":68,"pour":41,"contre":0,"abstention":0,"nonVotants":0},"DR":{"position":"pour","membres":48,"pour":19,"contre":0,"abstention":0,"nonVotants":0},"EcoS":{"position":"pour","membres":38,"pour":15,"contre":0,"abstention":0,"nonVotants":0},"Dem":{"position":"pour","membres":37,"pour":21,"contre":0,"abstention":0,"nonVotants":0},"HOR":{"position":"pour","membres":35,"pour":22,"contre":0,"abstention":0,"nonVotants":0},"LIOT":{"position":"pour","membres":23,"pour":8,"contre":0,"abstention":0,"nonVotants":0},"UDR":{"position":"pour","membres":17,"pour":6,"contre":0,"abstention":0,"nonVotants":0},"GDR":{"position":"pour","membres":17,"pour":7,"contre":0,"abstention":0,"nonVotants":0},"NI":{"position":"pour","membres":10,"pour":3,"contre":0,"abstention":0,"nonVotants":0}},"explications":{"UDR":{"citations":["C'est pourquoi le groupe UDR soutiendra cette proposition de loi."],"statut":"auto","orateur":"M. Éric Michoux","date":"2026-07-01","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N001#4145459","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/07/hemi_20260701134502.smil/master.m3u8","debut":3277}},"RN":{"citations":["Pour l'enfant, nous voulons un défenseur, pas un figurant. Nous voterons ce texte par conviction, par responsabilité, parce que c'est une mesure que nous soutenons de longue date."],"statut":"auto","orateur":"Mme Marine Hamelet","date":"2026-07-01","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N001#4144976","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/07/hemi_20260701134502.smil/master.m3u8","debut":3319}},"SOC":{"citations":["Le groupe Socialistes et apparentés votera bien évidemment en faveur de cette proposition de loi, afin de garantir sa promulgation rapide et de permettre à l'ensemble des acteurs de se préparer à son entrée en vigueur en janvier 2027."],"statut":"auto","orateur":"Mme Marie-José Allemand","date":"2026-07-01","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N001#4145135","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/07/hemi_20260701134502.smil/master.m3u8","debut":3451}},"EcoS":{"citations":["Les enfants seront enfin accompagnés tout au long d'une procédure qui conditionnera toute leur vie et qui, même pour un adulte, est excessivement difficile. Nous voterons contre les amendements pour que soit adoptée une version conforme à celle du Sénat."],"statut":"auto","orateur":"M. Arnaud Bonnet","date":"2026-07-01","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N001#4145155","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/07/hemi_20260701134502.smil/master.m3u8","debut":3509}},"Dem":{"citations":["Nous voterons en faveur de ce texte, dont l'ambition s'inscrit dans la continuité de notre engagement en faveur d'un meilleur accès à la justice pour nos enfants et, surtout, pour ceux qui en ont le plus besoin : les enfants déjà fragilisés, les enfants protégés."],"statut":"auto","orateur":"Mme Perrine Goulet","date":"2026-07-01","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N001#4145707","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/07/hemi_20260701134502.smil/master.m3u8","debut":3527}},"HOR":{"citations":["Parce que derrière chaque dossier qui s'accumule sur le bureau d'un juge des enfants débordé, il y a un enfant qui attend, parce que la protection de l'enfance est une mission dans laquelle la République ne peut se permettre de faillir, notre groupe votera bien évidemment, et avec une grande conviction, en faveur de cette proposition de loi."],"statut":"auto","orateur":"Mme Agnès Firmin Le Bodo","date":"2026-07-01","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N001#4145726","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/07/hemi_20260701134502.smil/master.m3u8","debut":3660}},"LIOT":{"citations":["Le groupe LIOT espère que le Parlement pourra enfin débattre de la proposition de loi visant à lutter de manière intégrale contre les violences sexistes et sexuelles faites aux femmes et aux enfants. Dans l'attente, notre groupe votera une nouvelle fois pour cette proposition de loi."],"statut":"auto","orateur":"M. Yannick Favennec-Bécot","date":"2026-07-01","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N001#4145736","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/07/hemi_20260701134502.smil/master.m3u8","debut":3679}}}},{"cle":"VTANR5L17V7270","numero":7270,"legislature":17,"congres":false,"motion":null,"lecture":"deuxième lecture","resume":"Proposition de loi visant à améliorer la protection et l'accompagnement des parents d'enfants atteints d'un cancer, d'une maladie grave ou d'un handicap","statut":"auto","date":"2026-06-02","titre":"l'ensemble de la proposition de loi visant à améliorer la protection et l'accompagnement des parents d'enfants atteints d'un cancer, d'une maladie grave ou d'un handicap (deuxième lecture).","resolution":false,"resultat":"adopté","decompte":{"votants":212,"pour":212,"contre":0,"abstention":0},"url":"https://www.assemblee-nationale.fr/dyn/17/scrutins/7270","groupes":{"RN":{"position":"pour","membres":122,"pour":32,"contre":0,"abstention":0,"nonVotants":0},"EPR":{"position":"pour","membres":91,"pour":24,"contre":0,"abstention":0,"nonVotants":1},"LFI-NFP":{"position":"pour","membres":71,"pour":40,"contre":0,"abstention":0,"nonVotants":0},"SOC":{"position":"pour","membres":68,"pour":30,"contre":0,"abstention":0,"nonVotants":0},"DR":{"position":"pour","membres":48,"pour":27,"contre":0,"abstention":0,"nonVotants":0},"EcoS":{"position":"pour","membres":38,"pour":14,"contre":0,"abstention":0,"nonVotants":0},"Dem":{"position":"pour","membres":37,"pour":8,"contre":0,"abstention":0,"nonVotants":0},"HOR":{"position":"pour","membres":34,"pour":24,"contre":0,"abstention":0,"nonVotants":0},"LIOT":{"position":"pour","membres":23,"pour":8,"contre":0,"abstention":0,"nonVotants":0},"UDR":{"position":"pour","membres":17,"pour":2,"contre":0,"abstention":0,"nonVotants":0},"GDR":{"position":"pour","membres":17,"pour":3,"contre":0,"abstention":0,"nonVotants":0},"NI":{"position":null,"membres":11,"pour":0,"contre":0,"abstention":0,"nonVotants":0}},"explications":{"SOC":{"citations":["Nous voterons pour ce texte parce qu'il permet, à sa mesure, de soulager la charge des familles."],"statut":"auto","orateur":"M. Sébastien Saint-Pasteur","date":"2026-06-02","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N260#4113489","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/06/hemi_20260602211522.smil/master.m3u8","debut":8553}},"DR":{"citations":["Il est des moments où le Parlement doit simplement voter, et voter utile. Aussi le groupe de la Droite républicaine votera-t-il ce texte conforme."],"statut":"auto","orateur":"M. Yannick Neuder","date":"2026-06-02","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N260#4112837","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/06/hemi_20260602211522.smil/master.m3u8","debut":1247}},"EcoS":{"citations":["Vouloir agir sur les conséquences est louable et c'est pourquoi, je le répète, le groupe Écologiste et social votera pour ce texte."],"statut":"auto","orateur":"M. Jean-Claude Raux","date":"2026-06-02","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N260#4113497","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/06/hemi_20260602211522.smil/master.m3u8","debut":8714}},"Dem":{"citations":["Je confirme que le groupe Démocrates votera cette proposition de loi."],"statut":"auto","orateur":"Mme Sabine Gervais","date":"2026-06-02","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N260#4113505","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/06/hemi_20260602211522.smil/master.m3u8","debut":8859}},"LIOT":{"citations":["Les dispositifs actuels ne répondent que partiellement à ces contraintes spécifiques qui méritent pourtant une attention renforcée. Sous ces réserves, et pour l'ensemble des raisons que je viens d'exposer, notre groupe votera en faveur de cette proposition de loi."],"statut":"auto","orateur":"Mme Audrey Abadie-Amiel","date":"2026-06-02","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N260#4112889","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/06/hemi_20260602211522.smil/master.m3u8","debut":2384}},"GDR":{"citations":["Par esprit de responsabilité envers toutes les familles touchées et tous les enfants malades, auxquels nous pensons, nous voterons en faveur du texte dans sa version actuelle, même si nos amendements n'ont pas été adoptés."],"statut":"auto","orateur":"Mme Karine Lebon","date":"2026-06-02","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N260#4113613","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/06/hemi_20260602211522.smil/master.m3u8","debut":8909}},"UDR":{"citations":["L'Assemblée nationale s'étant déjà prononcée favorablement sur ce texte il y a plus d'un an, il est important qu'il soit adopté. Pour toutes ces raisons, le groupe UDR votera en faveur de cette proposition de loi."],"statut":"auto","orateur":"M. Olivier Fayssat","date":"2026-06-02","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N260#4113380","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/06/hemi_20260602211522.smil/master.m3u8","debut":2958}},"RN":{"citations":["Toutefois, nous avons su travailler pour faire avancer plusieurs dispositions, conformément à ce que nos concitoyens attendent de nous : dépasser les clivages lorsque les intérêts des enfants et des parents sont en jeu. C'est donc avec lucidité, mais dans un esprit de responsabilité que nous voterons en faveur du texte, tout en restant mobilisés lors des prochaines étapes."],"statut":"auto","orateur":"Mme Sandrine Dogor-Such","date":"2026-06-02","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N260#4113618","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/06/hemi_20260602211522.smil/master.m3u8","debut":9013}},"EPR":{"citations":["Nous avons déjà adopté au moins trois textes comportant des avancées sur le sujet. La proposition de loi qui nous est soumise les complétant, le groupe EPR votera en sa faveur."],"statut":"auto","orateur":"M. Michel Lauzzana","date":"2026-06-02","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N260#4113624","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/06/hemi_20260602211522.smil/master.m3u8","debut":9098}},"LFI-NFP":{"citations":["Face au chantage des parlementaires LR, qui menacent de ne pas examiner à nouveau le texte avant l'année prochaine si l'Assemblée le modifiait, le groupe Insoumis, en force responsable, a décidé de retirer ses amendements. Nous voterons donc en faveur du texte, mais en gardant en tête des questions."],"statut":"auto","orateur":"Mme Ségolène Amiot","date":"2026-06-02","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N260#4113632","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/06/hemi_20260602211522.smil/master.m3u8","debut":9171}}}},{"cle":"VTANR5L17V4714","numero":4714,"legislature":17,"congres":false,"motion":null,"lecture":"première lecture","resume":"Proposition de loi visant à assurer le droit de chaque enfant à être assisté d'un avocat dans le cadre d'une mesure d'assistance éducative et de protection de l'enfance","statut":"auto","date":"2025-12-11","titre":"l'ensemble de la proposition de loi visant à assurer le droit de chaque enfant à être assisté d'un avocat dans le cadre d'une mesure d'assistance éducative et de protection de l'enfance (première lecture).","resolution":false,"resultat":"adopté","decompte":{"votants":270,"pour":269,"contre":0,"abstention":1},"url":"https://www.assemblee-nationale.fr/dyn/17/scrutins/4714","groupes":{"RN":{"position":"pour","membres":123,"pour":45,"contre":0,"abstention":0,"nonVotants":0},"EPR":{"position":"pour","membres":91,"pour":33,"contre":0,"abstention":0,"nonVotants":1},"LFI-NFP":{"position":"pour","membres":71,"pour":55,"contre":0,"abstention":0,"nonVotants":0},"SOC":{"position":"pour","membres":69,"pour":65,"contre":0,"abstention":0,"nonVotants":0},"DR":{"position":"pour","membres":49,"pour":8,"contre":0,"abstention":1,"nonVotants":0},"EcoS":{"position":"pour","membres":38,"pour":22,"contre":0,"abstention":0,"nonVotants":0},"Dem":{"position":"pour","membres":36,"pour":14,"contre":0,"abstention":0,"nonVotants":0},"HOR":{"position":"pour","membres":34,"pour":13,"contre":0,"abstention":0,"nonVotants":0},"LIOT":{"position":"pour","membres":22,"pour":4,"contre":0,"abstention":0,"nonVotants":0},"GDR":{"position":"pour","membres":17,"pour":4,"contre":0,"abstention":0,"nonVotants":0},"UDR":{"position":"pour","membres":16,"pour":5,"contre":0,"abstention":0,"nonVotants":0},"NI":{"position":"pour","membres":9,"pour":1,"contre":0,"abstention":0,"nonVotants":0}},"explications":{"DR":{"citations":["C'est pourquoi nous proposons une expérimentation nationale préalable, ouverte aux départements volontaires, encadrée par un cahier des charges commun, assortie d'une évaluation indépendante et d'un bilan objectif après deux ans, avant toute généralisation. Nous nous abstiendrons sur ce texte et laissons la liberté de vote aux députés de notre groupe."],"statut":"auto","orateur":"Mme Élisabeth de Maistre","date":"2025-12-11","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N090#3969241","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2025/12/hemi_20251211084612.smil/master.m3u8","debut":5147}},"EcoS":{"citations":["Nous le soutiendrons car c'est l'engagement d'une République qui protège les siens – tous les siens – et qui ne laisse plus jamais un enfant affronter seul la justice."],"statut":"auto","orateur":"M. Pouria Amirshahi","date":"2025-12-11","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N090#3969807","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2025/12/hemi_20251211084612.smil/master.m3u8","debut":5459}},"Dem":{"citations":["Les enfants deviendront en effet des justiciables comme les autres et bénéficieront des mêmes droits que les adultes. Nous voterons donc pour l'adoption de cette proposition de loi."],"statut":"auto","orateur":"Mme Perrine Goulet","date":"2025-12-11","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N090#3969008","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2025/12/hemi_20251211084612.smil/master.m3u8","debut":10675}},"LIOT":{"citations":["Cette mesure contribuera à faire de la protection de l'intérêt supérieur de l'enfant une réalité plutôt qu'un simple slogan. Le groupe Libertés, indépendants, outre-mer et territoires votera en faveur du texte."],"statut":"auto","orateur":"Mme Constance de Pélichy","date":"2025-12-11","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N090#3969249","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2025/12/hemi_20251211084612.smil/master.m3u8","debut":10823}},"UDR":{"citations":["Elle contribue à sécuriser leur place dans la procédure, à renforcer leurs droits et à harmoniser notre législation autour de principes partagés par les professionnels du secteur. C'est pourquoi le groupe UDR votera en faveur de ce texte."],"statut":"auto","orateur":"M. Pierre-Henri Carbonnel","date":"2025-12-11","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N090#3970010","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2025/12/hemi_20251211084612.smil/master.m3u8","debut":6970}},"RN":{"citations":["Malgré toutes ces approximations, le Rassemblement national, fidèle à sa volonté de protéger les plus faibles, votera pour la présence systématique d'un avocat aux côtés du mineur dans le cadre de la procédure d'assistance éducative, garantie essentielle du procès équitable."],"statut":"auto","orateur":"Mme Sylvie Josserand","date":"2025-12-11","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N090#3970185","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2025/12/hemi_20251211084612.smil/master.m3u8","debut":7278}},"EPR":{"citations":["Elle est indispensable car, en protégeant la fragilité de ceux qui ne peuvent se protéger eux-mêmes, nous affirmons quelque chose de fondamental : la valeur que nous accordons à la dignité humaine la plus simple, la plus nue, la plus essentielle. Oui, nous voterons ce texte avec conviction, avec détermination, à l'unanimité, parce qu'il touche à ce que nous avons de plus profondément humain."],"statut":"auto","orateur":"Mme Caroline Yadan","date":"2025-12-11","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N090#3969261","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2025/12/hemi_20251211084612.smil/master.m3u8","debut":11077}},"LFI-NFP":{"citations":["De nombreux députés macronistes sur ces bancs voteront probablement en faveur de ce texte – vous montez à la tribune pour vous féliciter de cette avancée – et la ministre saluera la création de ce nouveau droit ; mais il faudra aller beaucoup plus loin – vous le savez."],"statut":"auto","orateur":"Mme Marianne Maximi","date":"2025-12-11","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N090#3970213","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2025/12/hemi_20251211084612.smil/master.m3u8","debut":7915}}}},{"cle":"VTANR5L17V4723","numero":4723,"legislature":17,"congres":false,"motion":null,"lecture":"première lecture","resume":"Proposition de loi visant à protéger les mineurs isolés et à lutter contre le sans-abrisme","statut":"auto","date":"2025-12-11","titre":"l'ensemble de la proposition de loi visant à protéger les mineurs isolés et à lutter contre le sans-abrisme (première lecture).","resolution":false,"resultat":"adopté","decompte":{"votants":246,"pour":144,"contre":100,"abstention":2},"url":"https://www.assemblee-nationale.fr/dyn/17/scrutins/4723","groupes":{"RN":{"position":"contre","membres":123,"pour":0,"contre":48,"abstention":0,"nonVotants":0},"EPR":{"position":"contre","membres":91,"pour":0,"contre":28,"abstention":0,"nonVotants":1},"LFI-NFP":{"position":"pour","membres":71,"pour":51,"contre":0,"abstention":0,"nonVotants":0},"SOC":{"position":"pour","membres":69,"pour":63,"contre":0,"abstention":0,"nonVotants":0},"DR":{"position":"contre","membres":49,"pour":0,"contre":6,"abstention":0,"nonVotants":0},"EcoS":{"position":"pour","membres":38,"pour":23,"contre":0,"abstention":0,"nonVotants":0},"Dem":{"position":"contre","membres":36,"pour":0,"contre":3,"abstention":2,"nonVotants":1},"HOR":{"position":"contre","membres":34,"pour":0,"contre":10,"abstention":0,"nonVotants":0},"LIOT":{"position":"contre","membres":22,"pour":0,"contre":1,"abstention":0,"nonVotants":0},"GDR":{"position":"pour","membres":17,"pour":7,"contre":0,"abstention":0,"nonVotants":0},"UDR":{"position":"contre","membres":16,"pour":0,"contre":4,"abstention":0,"nonVotants":0},"NI":{"position":null,"membres":9,"pour":0,"contre":0,"abstention":0,"nonVotants":0}},"explications":{"DR":{"citations":["Nous souhaitons plutôt une réduction de la dépense publique entraînée par ces comités Théodule et autres opérateurs ; en l'occurrence, mieux vaudrait rediriger vers des plans de lutte contre le sans-abrisme la dépense prévue à l'article 2. Pour l'ensemble de ces raisons, les députés de la Droite républicaine voteront contre l'article et contre l'ensemble de la proposition de loi."],"statut":"auto","orateur":"Mme Josiane Corneloup","date":"2025-12-11","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N090#3969600","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2025/12/hemi_20251211084612.smil/master.m3u8","debut":13300}},"EcoS":{"citations":["C'est ainsi que la France pourra enfin tenir ses engagements internationaux et garantir à ces enfants la protection, la sécurité et la reconnaissance auxquelles ils ont droit. Encore une fois, monsieur le rapporteur, merci pour cette avancée importante : notre groupe soutiendra fortement votre texte !"],"statut":"auto","orateur":"Mme Danielle Simonnet","date":"2025-12-11","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N090#3969757","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2025/12/hemi_20251211084612.smil/master.m3u8","debut":13560}},"Dem":{"citations":["Je vous le répète, je suis très ennuyée face à ce texte et c'est bien pour cette raison que chaque député de mon groupe votera en son âme et conscience."],"statut":"auto","orateur":"Mme Perrine Goulet","date":"2025-12-11","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N091#3969312","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2025/12/hemi_20251211144620.smil/master.m3u8","debut":5366}},"HOR":{"citations":["Si votre proposition était adoptée, des majeurs prendraient la place de mineurs et des majeurs cohabiteraient avec de vrais mineurs, dans les mêmes structures. Nous voterons contre cette proposition de loi et nous vous invitons à confirmer le rejet dont elle a fait l'objet en commission."],"statut":"auto","orateur":"M. Loïc Kervran","date":"2025-12-11","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N090#3969779","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2025/12/hemi_20251211084612.smil/master.m3u8","debut":14190}},"UDR":{"citations":["Notre groupe votera bien sûr contre cette proposition de loi, déjà invraisemblable au départ, mais qui est devenue absolument terrifiante à présent qu'ont été votés les amendements de l'extrême gauche qui nous privent, si cela était encore possible, des derniers moyens qui restaient à notre disposition pour attester de l'âge d'un étranger isolé, lorsque la question se pose, le test osseux, le test dentaire et le test de puberté étant désormais interdits."],"statut":"auto","orateur":"Mme Hanane Mansouri","date":"2025-12-11","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N091#3969321","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2025/12/hemi_20251211144620.smil/master.m3u8","debut":5541}},"RN":{"citations":["» La vérité, c'est que la France prend déjà largement sa part et que Mayotte en assume beaucoup plus que tout le reste du pays. Le Rassemblement national votera contre ce texte, par responsabilité, par loyauté envers les Mahorais et tous les Français."],"statut":"auto","orateur":"Mme Anchya Bamana","date":"2025-12-11","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N090#3970858","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2025/12/hemi_20251211084612.smil/master.m3u8","debut":15112}}}},{"cle":"VTANR5L17V2220","numero":2220,"legislature":17,"congres":false,"motion":null,"lecture":"première lecture","resume":"Proposition de loi portant reconnaissance de la Nation envers les rapatriés d'Indochine et réparation des préjudices subis par ceux-ci et leurs familles du fait de l'indignité de leurs conditions d'accueil et de vie dans certaines structures sur le territoire français","statut":"auto","date":"2025-06-03","titre":"l'ensemble de la proposition de loi portant reconnaissance de la Nation envers les rapatriés d'Indochine et réparation des préjudices subis par ceux-ci et leurs familles du fait de l'indignité de leurs conditions d'accueil et de vie dans certaines structures sur le territoire français (première lecture).","resolution":false,"resultat":"adopté","decompte":{"votants":232,"pour":231,"contre":0,"abstention":1},"url":"https://www.assemblee-nationale.fr/dyn/17/scrutins/2220","groupes":{"RN":{"position":"pour","membres":123,"pour":58,"contre":0,"abstention":0,"nonVotants":0},"EPR":{"position":"pour","membres":94,"pour":30,"contre":0,"abstention":1,"nonVotants":1},"LFI-NFP":{"position":"pour","membres":71,"pour":33,"contre":0,"abstention":0,"nonVotants":0},"SOC":{"position":"pour","membres":66,"pour":34,"contre":0,"abstention":0,"nonVotants":0},"DR":{"position":"pour","membres":49,"pour":13,"contre":0,"abstention":0,"nonVotants":0},"EcoS":{"position":"pour","membres":38,"pour":9,"contre":0,"abstention":0,"nonVotants":0},"Dem":{"position":"pour","membres":36,"pour":17,"contre":0,"abstention":0,"nonVotants":0},"HOR":{"position":"pour","membres":33,"pour":17,"contre":0,"abstention":0,"nonVotants":0},"LIOT":{"position":"pour","membres":23,"pour":3,"contre":0,"abstention":0,"nonVotants":0},"GDR":{"position":"pour","membres":17,"pour":7,"contre":0,"abstention":0,"nonVotants":0},"UDR":{"position":"pour","membres":16,"pour":8,"contre":0,"abstention":0,"nonVotants":0},"NI":{"position":"pour","membres":11,"pour":2,"contre":0,"abstention":0,"nonVotants":0}},"explications":{"DR":{"citations":["En tout cas, le groupe de la Droite républicaine votera sans réserve pour cette proposition de loi juste et nécessaire qui rend leur honneur tant aux rapatriés d'Indochine qu'à la France."],"statut":"auto","orateur":"M. Nicolas Ray","date":"2025-06-03","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N224#3777791","video":null},"EcoS":{"citations":["Le groupe Écologiste et social votera en faveur de cette proposition de loi portant reconnaissance de la nation envers les rapatriés d'Indochine et réparation des préjudices subis par ceux-ci, leurs familles et leurs descendants."],"statut":"auto","orateur":"Mme Catherine Hervieu","date":"2025-06-03","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N224#3777436","video":null},"Dem":{"citations":["Notre groupe soutiendra l'amendement du gouvernement tendant à retenir cette borne temporelle : il y va de la réalité historique, de l'équité et de la sécurité juridique. Notre groupe votera bien sûr cette proposition de loi, grande, courageuse et, surtout, juste."],"statut":"auto","orateur":"Mme Geneviève Darrieussecq","date":"2025-06-03","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N224#3777449","video":null},"HOR":{"citations":["C'est tout à l'honneur de notre assemblée que de réussir à se mettre d'accord sur des thématiques aussi importantes. Le groupe Horizons & indépendants votera en faveur de cette proposition de loi en séance, comme il l'a fait en commission."],"statut":"auto","orateur":"Mme Anne Le Hénanff","date":"2025-06-03","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N224#3777793","video":null},"UDR":{"citations":["Le groupe UDR votera en faveur de cette proposition de loi importante, qui illustre les vertus d'une juste mémoire : non pas une mémoire honteuse, mais une mémoire consciente, qui sait combien il est important de reconnaître les erreurs commises pour mieux célébrer les gloires acquises au fil d'une histoire qui n'en a jamais manqué."],"statut":"auto","orateur":"M. Maxime Michelet","date":"2025-06-03","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N224#3777494","video":null},"RN":{"citations":["Malgré votre sectarisme, monsieur le rapporteur, malgré la signature des communistes, nous voterons en faveur de ce texte."],"statut":"auto","orateur":"M. Laurent Jacobelli","date":"2025-06-03","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N224#3777506","video":null},"LFI-NFP":{"citations":["J'en profite donc pour inviter le gouvernement à revoir sa copie concernant les harkis, en espérant que nous n'ayons pas à le faire s'agissant des rapatriés d'Indochine. Nous voterons en faveur de ce texte s'il permet de réparer vraiment un oubli."],"statut":"auto","orateur":"Mme Nadège Abomangoli","date":"2025-06-03","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N224#3777533","video":null}}},{"cle":"VTANR5L17V1624","numero":1624,"legislature":17,"congres":false,"motion":null,"lecture":"texte de la commission mixte paritaire","resume":"Proposition de loi visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents","statut":"auto","date":"2025-05-13","titre":"l'ensemble de la proposition de loi visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents (texte de la commission mixte paritaire).","resolution":false,"resultat":"adopté","decompte":{"votants":536,"pour":341,"contre":187,"abstention":8},"url":"https://www.assemblee-nationale.fr/dyn/17/scrutins/1624","groupes":{"RN":{"position":"pour","membres":123,"pour":119,"contre":0,"abstention":0,"nonVotants":0},"EPR":{"position":"pour","membres":94,"pour":80,"contre":1,"abstention":4,"nonVotants":1},"LFI-NFP":{"position":"contre","membres":71,"pour":0,"contre":67,"abstention":0,"nonVotants":0},"SOC":{"position":"contre","membres":66,"pour":0,"contre":62,"abstention":0,"nonVotants":0},"DR":{"position":"pour","membres":48,"pour":45,"contre":0,"abstention":0,"nonVotants":0},"EcoS":{"position":"contre","membres":38,"pour":0,"contre":36,"abstention":0,"nonVotants":0},"Dem":{"position":"pour","membres":36,"pour":31,"contre":0,"abstention":0,"nonVotants":0},"HOR":{"position":"pour","membres":33,"pour":32,"contre":0,"abstention":0,"nonVotants":0},"LIOT":{"position":"pour","positionSource":"contre","membres":23,"pour":14,"contre":6,"abstention":3,"nonVotants":0},"GDR":{"position":"contre","membres":17,"pour":0,"contre":13,"abstention":0,"nonVotants":0},"UDR":{"position":"pour","membres":16,"pour":16,"contre":0,"abstention":0,"nonVotants":0},"NI":{"position":"pour","membres":11,"pour":4,"contre":2,"abstention":1,"nonVotants":0}},"explications":{}},{"cle":"VTANR5L16V3048","numero":3048,"legislature":16,"congres":false,"motion":null,"lecture":null,"resume":"Proposition de résolution tendant à la création d'une commission d'enquête sur le modèle économique des entreprises de crèches et la qualité de l’accueil des jeunes enfants au sein de leurs établissements","statut":"auto","date":"2023-11-28","titre":"l’ensemble de la proposition de résolution tendant à la création d'une commission d'enquête sur le modèle économique des entreprises de crèches et la qualité de l’accueil des jeunes enfants au sein de leurs établissements.","resolution":true,"resultat":"adopté","decompte":{"votants":349,"pour":178,"contre":161,"abstention":10},"url":"https://www.assemblee-nationale.fr/dyn/16/scrutins/3048","groupes":{"RE":{"position":"contre","membres":170,"pour":0,"contre":100,"abstention":0,"nonVotants":0},"RN":{"position":"pour","membres":88,"pour":46,"contre":0,"abstention":0,"nonVotants":0},"LFI-NUPES":{"position":"pour","membres":75,"pour":68,"contre":0,"abstention":0,"nonVotants":1},"LR":{"position":"contre","membres":62,"pour":0,"contre":30,"abstention":2,"nonVotants":0},"Dem":{"position":"contre","membres":51,"pour":0,"contre":29,"abstention":1,"nonVotants":0},"SOC":{"position":"pour","membres":31,"pour":17,"contre":0,"abstention":0,"nonVotants":0},"HOR":{"position":"pour","membres":30,"pour":11,"contre":2,"abstention":2,"nonVotants":0},"Ecolo-NUPES":{"position":"pour","membres":23,"pour":16,"contre":0,"abstention":0,"nonVotants":0},"GDR-NUPES":{"position":"pour","membres":22,"pour":11,"contre":0,"abstention":0,"nonVotants":0},"LIOT":{"position":"pour","membres":21,"pour":9,"contre":0,"abstention":3,"nonVotants":0},"NI":{"position":"abstention","membres":4,"pour":0,"contre":0,"abstention":2,"nonVotants":0}},"explications":{"Dem":{"citations":["construisons ensemble un texte contenant les avancées dont tout le secteur a besoin, parce que là est l'urgence ! Vous l'avez compris : le groupe Démocrate votera contre cette proposition de création d'une commission d'enquête qui ne servirait à rien !"],"statut":"auto","orateur":"Mme Perrine Goulet","date":"2023-11-28","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N065#3306724","video":null},"SOC":{"citations":["Nous voterons donc pour cette proposition de résolution visant à créer une commission d'enquête parlementaire sur le modèle économique des crèches et sur la maltraitance institutionnelle dans certains établissements."],"statut":"auto","orateur":"M. Joël Aviragnet","date":"2023-11-28","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N065#3307175","video":null},"HOR":{"citations":["Et nous veillerons à ce que le travail d'enquête parlementaire soit fait avec rigueur et impartialité, et mette ainsi sur le même pied l'ensemble des acteurs de la petite enfance. C'est pourquoi nous voterons la proposition de résolution."],"statut":"auto","orateur":"M. Frédéric Valletoux","date":"2023-11-28","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N065#3307182","video":null},"Ecolo-NUPES":{"citations":["Fidèle à la lancée constructive impulsée en commission, le groupe Écologiste votera évidemment pour la création de cette commission d'enquête."],"statut":"auto","orateur":"Mme Marie-Charlotte Garin","date":"2023-11-28","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N065#3307187","video":null},"LIOT":{"citations":["Le groupe LIOT soutiendra la création de la commission d'enquête."],"statut":"auto","orateur":"M. Laurent Panifous","date":"2023-11-28","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N065#3307213","video":null},"RN":{"citations":["Une commission d'enquête est plus que nécessaire ; nous voterons donc en faveur de cette proposition de résolution."],"statut":"auto","orateur":"M. Serge Muller","date":"2023-11-28","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N065#3307436","video":null}}},{"cle":"VTANR5L16V2255","numero":2255,"legislature":16,"congres":false,"motion":null,"lecture":"texte de la commission mixte paritaire","resume":"Proposition de loi visant à renforcer la protection des familles d'enfants atteints d'une maladie ou d'un handicap ou victimes d'un accident d'une particulière gravité","statut":"auto","date":"2023-07-12","titre":"l'ensemble de la proposition de loi visant à renforcer la protection des familles d'enfants atteints d'une maladie ou d'un handicap ou victimes d'un accident d'une particulière gravité (texte de la commission mixte paritaire).","resolution":false,"resultat":"adopté","decompte":{"votants":213,"pour":210,"contre":3,"abstention":0},"url":"https://www.assemblee-nationale.fr/dyn/16/scrutins/2255","groupes":{"RE":{"position":"pour","membres":171,"pour":67,"contre":2,"abstention":0,"nonVotants":0},"RN":{"position":"pour","membres":88,"pour":43,"contre":0,"abstention":0,"nonVotants":0},"LFI-NUPES":{"position":"pour","membres":75,"pour":21,"contre":0,"abstention":0,"nonVotants":1},"LR":{"position":"pour","membres":62,"pour":16,"contre":0,"abstention":0,"nonVotants":0},"Dem":{"position":"pour","membres":51,"pour":18,"contre":1,"abstention":0,"nonVotants":0},"SOC":{"position":"pour","membres":31,"pour":8,"contre":0,"abstention":0,"nonVotants":0},"HOR":{"position":"pour","membres":29,"pour":17,"contre":0,"abstention":0,"nonVotants":0},"Ecolo-NUPES":{"position":"pour","membres":23,"pour":4,"contre":0,"abstention":0,"nonVotants":0},"GDR-NUPES":{"position":"pour","membres":22,"pour":7,"contre":0,"abstention":0,"nonVotants":0},"LIOT":{"position":"pour","membres":21,"pour":9,"contre":0,"abstention":0,"nonVotants":0},"NI":{"position":null,"membres":4,"pour":0,"contre":0,"abstention":0,"nonVotants":0}},"explications":{"HOR":{"citations":["Nous voterons évidemment cette proposition de loi déposée par notre collègue Paul Christophe, que nous remercions pour son travail et pour l'engagement dont il fait preuve depuis de nombreuses années sur le sujet."],"statut":"auto","orateur":"M. François Gernigon","date":"2023-07-12","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023E1N014#3197647","video":null},"Ecolo-NUPES":{"citations":["Le groupe Écologiste soutiendra le texte issu de la commission mixte paritaire et continuera son combat pour remettre le soin au cœur des préoccupations de l'État."],"statut":"auto","orateur":"Mme Marie-Charlotte Garin","date":"2023-07-12","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023E1N014#3197579","video":null},"GDR-NUPES":{"citations":["Je me réjouis de voir, à travers ce texte, la solidarité nationale prendre enfin sa part dans l'accompagnement des aidants et se substituer à la solidarité familiale, sur laquelle nous nous sommes trop longtemps reposés. Pour toutes ces raisons, le groupe GDR votera pour cette proposition de loi."],"statut":"auto","orateur":"Mme Soumya Bourouaha","date":"2023-07-12","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023E1N014#3197594","video":null},"LIOT":{"citations":["Plus largement, il faudra enfin s'interroger sur l'octroi aux familles concernées d'un statut véritablement protecteur. D'ici là, notre groupe soutiendra bien évidemment cette proposition de loi."],"statut":"auto","orateur":"Mme Béatrice Descamps","date":"2023-07-12","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023E1N014#3197607","video":null},"RE":{"citations":["Ce texte permettra de soutenir des parents qui, au-delà du choc de l'annonce de la maladie et de la réorganisation complète de leur vie familiale, doivent faire face à des problèmes de maintien dans l'emploi et, souvent, à un manque crucial de compréhension et de bienveillance de la part de leur employeur. Pour toutes ces raisons, le groupe Renaissance votera logiquement et sans hésitation en faveur de la proposition de loi."],"statut":"auto","orateur":"Mme Servane Hugues","date":"2023-07-12","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023E1N014#3197891","video":null},"RN":{"citations":["Nous continuerons de le faire et j'espère que vous le ferez aussi, chers collègues. Vous l'avez compris : dans l'ensemble favorable aux dispositions de ce texte, notre groupe votera en sa faveur."],"statut":"auto","orateur":"M. Serge Muller","date":"2023-07-12","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023E1N014#3197896","video":null},"LFI-NUPES":{"citations":["En définitive, cette proposition de loi ne supprime pas toutes les difficultés qui surviennent dans la vie des familles d'enfants touchés par une affection de longue durée, mais elle leur garantit une protection accrue et lève un certain nombre d'obstacles lourds et contraignants. Le groupe LFI-NUPES soutiendra évidemment cette proposition de loi qui a su faire consensus et surmonter les clivages."],"statut":"auto","orateur":"Mme Karen Erodi","date":"2023-07-12","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023E1N014#3197903","video":null},"Dem":{"citations":["Il faut notamment organiser, au bénéfice des familles, des connexions directes entre les organismes et les travailleurs sociaux. Le groupe Démocrate votera en faveur de ce texte."],"statut":"auto","orateur":"Mme Anne Bergantz","date":"2023-07-12","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023E1N014#3197942","video":null}}},{"cle":"VTANR5L16V937","numero":937,"legislature":16,"congres":false,"motion":null,"lecture":"première lecture","resume":"Proposition de loi visant à mieux protéger et accompagner les enfants victimes et co-victimes de violences intrafamiliales","statut":"auto","date":"2023-02-09","titre":"l'ensemble de la proposition de loi visant à mieux protéger et accompagner les enfants victimes et co-victimes de violences intrafamiliales (première lecture).","resolution":false,"resultat":"adopté","decompte":{"votants":233,"pour":232,"contre":0,"abstention":1},"url":"https://www.assemblee-nationale.fr/dyn/16/scrutins/937","groupes":{"RE":{"position":"pour","membres":170,"pour":80,"contre":0,"abstention":0,"nonVotants":0},"RN":{"position":"pour","membres":88,"pour":37,"contre":0,"abstention":1,"nonVotants":0},"LFI-NUPES":{"position":"pour","membres":74,"pour":26,"contre":0,"abstention":0,"nonVotants":1},"LR":{"position":"pour","membres":61,"pour":7,"contre":0,"abstention":0,"nonVotants":0},"Dem":{"position":"pour","membres":51,"pour":26,"contre":0,"abstention":0,"nonVotants":0},"SOC":{"position":"pour","membres":31,"pour":27,"contre":0,"abstention":0,"nonVotants":0},"HOR":{"position":"pour","membres":29,"pour":12,"contre":0,"abstention":0,"nonVotants":0},"GDR-NUPES":{"position":"pour","membres":22,"pour":6,"contre":0,"abstention":0,"nonVotants":0},"Ecolo-NUPES":{"position":"pour","membres":22,"pour":7,"contre":0,"abstention":0,"nonVotants":0},"LIOT":{"position":"pour","membres":20,"pour":3,"contre":0,"abstention":0,"nonVotants":0},"NI":{"position":"pour","membres":5,"pour":1,"contre":0,"abstention":0,"nonVotants":0}},"explications":{"HOR":{"citations":["Le groupe Horizons et apparentés sera toujours déterminé à accompagner les évolutions favorables à l'intérêt de l'enfant et à sa protection. C'est pourquoi nous voterons ce texte avec conviction."],"statut":"auto","orateur":"Mme Marie-Agnès Poussier-Winsback","date":"2023-02-09","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N139#3008541","video":null},"Ecolo-NUPES":{"citations":["Afin que les débats puissent aller à leur terme et que l'avancée proposée par notre collègue devienne rapidement effective, le groupe Écologiste-NUPES a décidé de retirer tous ses amendements. Nous voterons sans hésitation en faveur du texte…"],"statut":"auto","orateur":"Mme Francesca Pasquini","date":"2023-02-09","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N139#3008549","video":null},"GDR-NUPES":{"citations":["Ce sont eux que la proposition de loi de notre collègue Isabelle Santiago vise à défendre, et c'est pour eux que le groupe GDR-NUPES soutiendra ce texte qui s'inscrit pleinement dans la lignée des combats qu'il mène."],"statut":"auto","orateur":"Mme Karine Lebon","date":"2023-02-09","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N139#3008561","video":null},"LIOT":{"citations":["Je conclurai en répétant ce qui a déjà été dit : non, un conjoint violent n'est pas un parent digne de ce nom ; oui, l'intérêt supérieur de l'enfant doit marquer le nord sur notre boussole à tous. Par conséquent, le groupe LIOT soutiendra bien sûr votre texte."],"statut":"auto","orateur":"Mme Béatrice Descamps","date":"2023-02-09","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N140#3008659","video":null},"Dem":{"citations":["Il doit être la considération déterminante de nos réflexions et de nos choix. Soyez assurés que si l'équilibre est maintenu, le groupe Démocrate votera avec enthousiasme en faveur de ce texte."],"statut":"auto","orateur":"M. Erwan Balanant","date":"2023-02-09","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N140#3008799","video":null}}}],"videoIntegree":false});</script>
+</body>
+</html>

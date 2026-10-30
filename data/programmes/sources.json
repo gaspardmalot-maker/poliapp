@@ -1,0 +1,22 @@
+[
+  {
+    "id": "rn-legislatives-2024",
+    "parti": "Rassemblement national",
+    "groupe": "RN",
+    "titre": "Programme des élections législatives 2024",
+    "type": "programme",
+    "election": "Législatives 2024 (dernier programme complet publié)",
+    "url": "https://rassemblementnational.fr/documents/202406-programme.pdf",
+    "publieLe": "2024-06"
+  },
+  {
+    "id": "nfp-legislatives-2024",
+    "parti": "Nouveau Front populaire (LFI, PS, Les Écologistes, PCF…)",
+    "groupe": "LFI-NFP, SOC, EcoS, GDR",
+    "titre": "Contrat de législature du Nouveau Front populaire",
+    "type": "programme",
+    "election": "Législatives 2024 (dernier programme commun publié)",
+    "url": "https://melenchon2027.fr/wp-content/uploads/2026/04/PROGRAMME-FRONT-POPULAIRE.pdf",
+    "publieLe": "2024-06"
+  }
+]

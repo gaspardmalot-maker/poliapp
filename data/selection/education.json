@@ -1,0 +1,696 @@
+{
+  "sujet": "education",
+  "auto": true,
+  "note": "Pré-sélection automatique (scripts/brouillon.mjs). Passer « statut » à « valide » après relecture : l’entrée ne sera plus modifiée.",
+  "scrutins": [
+    {
+      "id": "VTANR5L17V9203",
+      "resume": "Proposition de loi visant à créer un corps de fonctionnaires de catégorie B pour les accompagnants d’élèves en situation de handicap",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "SOC": {
+          "ancre": "4207619",
+          "citations": [
+            "Notre responsabilité est de permettre à leurs descendants d'en faire un avenir. Le groupe Socialistes et apparentés votera en faveur de la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4208030",
+          "citations": [
+            "C'est dans cet esprit de responsabilité, avec le souci de protéger le droit de propriété sans aggraver les blocages fonciers, que notre groupe s'abstiendra sur cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4208037",
+          "citations": [
+            "Autrement dit, nous souhaitons donner aux populations les moyens de régler de manière durable les situations foncières conflictuelles plutôt que de tout miser sur l'accélération des délais. Les députés du groupe Écologiste et social voteront en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "4208070",
+          "citations": [
+            "Il en a un autre : rappeler aux indivisaires qu'ils sont responsables du patrimoine dont ils estiment être propriétaires, qu'ils doivent payer les impôts, et que la règle de la République veut que nul n'est censé rester dans l'indivision. À l'heure où je vous parle, le groupe Horizons & indépendants s'abstiendra."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4208082",
+          "citations": [
+            "Si nous sommes rassemblés ce matin, c'est précisément parce que nous croyons faire œuvre utile pour notre communauté ultramarine. Le groupe LIOT, que je représente à cette tribune, votera en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "4208090",
+          "citations": [
+            "Pour les outre-mer, le gouvernement a fait le choix de contraindre les indivisaires. Cher collègue, nous voterons en faveur de votre proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4208259",
+          "citations": [
+            "Pour toutes ces raisons, le groupe UDR laissera la liberté de vote à l'ensemble de ses parlementaires. Certains s'abstiendront, d'autres voteront pour le texte, bien qu'il vienne de vous."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "4208355",
+          "citations": [
+            "De même, nous croyons que la réforme de 2024 devra être évaluée, ainsi que l'application de l'article 3. En attendant ces évaluations, nous nous abstiendrons de voter ce texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V7258",
+      "resume": "Proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "HOR": {
+          "ancre": "4110858",
+          "citations": [
+            "Pour toutes ces raisons, notre groupe votera en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4110870",
+          "citations": [
+            "Le texte, cependant, pose les bons jalons : reconnaître, prévenir, contrôler, sanctionner, réparer. C'est pourquoi nous le soutiendrons."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "4111421",
+          "citations": [
+            "C'est dans cet esprit que le groupe Ensemble pour la République abordera l'examen de cette proposition de loi. Nous la soutiendrons car, lorsque les faits sont établis, le courage politique consiste à en tirer les conséquences."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4111953",
+          "citations": [
+            "Enfin, deux lignes rouges ont été supprimées : le dispositif de renouvellement des contrats d'association et les dispositions relatives au secret de la confession. C'est pourquoi le groupe Droite républicaine votera cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4111545",
+          "citations": [
+            "Il est également nécessaire de renforcer les moyens humains et financiers, car les dispositions que nous voterons resteront lettre morte tant que l'éducation nationale n'aura pas les moyens de les appliquer."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4111560",
+          "citations": [
+            "Pour les enfants d'hier, ceux d'aujourd'hui et de demain, nous devons ériger ce droit en principe cardinal. Parce que cette proposition de loi, en cherchant à briser le silence, va dans le bon sens, le groupe Les Démocrates votera en sa faveur."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V6076",
+      "resume": "Proposition de loi visant à encadrer les regroupements pédagogiques intercommunaux afin de garantir l'égalité d'accès à l'école en milieu rural",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "LIOT": {
+          "ancre": "4057108",
+          "citations": [
+            "Cela posé, la proposition de loi n'en est pas moins utile et réaliste dans ses ambitions. Nous la soutiendrons pour ce qu'elle est, à savoir une première étape de mise en ordre, sans être une réponse complète à la question de l'école rurale."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4057117",
+          "citations": [
+            "Outil indispensable pour la coopération territoriale en matière scolaire, il n'en souffrait pas moins d'imprécisions juridiques que votre proposition de loi, monsieur le rapporteur, vient très utilement combler. Le groupe de l'Union des droites pour la République soutiendra donc sans réserve cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "4058099",
+          "citations": [
+            "Le groupe Rassemblement national votera pour cette proposition de loi, sans enthousiasme, parce que vous encadrez les désastres que vous avez causés pendant des années."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "4057646",
+          "citations": [
+            "Donner un cadre à ces regroupements revient à leur donner une chance de durer. Pour toutes ces raisons, le groupe Ensemble pour la République votera en faveur de la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "4058138",
+          "citations": [
+            "Nous nous abstiendrons sur ce texte."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4057282",
+          "citations": [
+            "Le groupe Écologiste et social ne votera pas contre le texte, mais n'en reste pas moins persuadé que les années à venir seront douloureuses si nous n'imaginons pas, dès maintenant, une autre vision de l'école publique rurale."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4057293",
+          "citations": [
+            "C'est pourquoi le groupe Démocrates votera en faveur du dispositif dont nous débattons, qui constitue une réponse utile et attendue aux difficultés rencontrées par les élus et les habitants de nos territoires."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4058134",
+          "citations": [
+            "Dans le temps dont nous disposons pour relancer la démographie et trouver de nouveaux modèles éducatifs pour nos enfants, nous devrons parfois surseoir à la fermeture de classes pour donner aux maires et aux élus locaux la possibilité de trouver des solutions. C'est pourquoi le groupe de la Droite républicaine votera cette proposition du groupe Horizons."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V2880",
+      "resume": "Proposition de loi relative à la lutte contre l'antisémitisme dans l'enseignement supérieur",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "DR": {
+          "ancre": "3829414",
+          "citations": [
+            "Dans le combat de longue haleine contre cette haine archaïque qu'est l'antisémitisme, ce texte constitue une nouvelle pierre à l'édifice juridique et offre des solutions concrètes pour mettre fin à l'impunité de ceux qui intimident et parfois même violentent les étudiants de confession juive. Pour toutes ces raisons, les députés de la Droite républicaine voteront pour cette loi avec conviction, détermination et honneur."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3830389",
+          "citations": [
+            "Les compétences de ce dernier permettront aux sections disciplinaires de traiter les situations d'antisémitisme avec plus de sérénité. Vous aurez compris que le groupe Les Démocrates salue le texte, en faveur duquel il votera."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3830396",
+          "citations": [
+            "Le groupe Horizons & indépendants, fidèle à ses valeurs et à son engagement sur le sujet, votera bien sûr en faveur du texte parce que l'université doit rester un sanctuaire où nul ne doit craindre pour sa sécurité ou sa dignité en raison de ses origines, de sa foi ou de ses convictions et parce que la République ne tolère aucune forme de haine ou de discrimination."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3830403",
+          "citations": [
+            "En même temps, elles ne doivent pas rester aveugles aux dérives et aux atteintes aux droits des personnes. La proposition de loi est un outil utile pour ces établissements et nous la soutiendrons."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3830414",
+          "citations": [
+            "Chers collègues, la lutte contre l'antisémitisme, défi majeur de notre temps, mérite bien mieux qu'une proposition de loi dont les principales dispositions risquent de porter atteinte au droit et à la liberté de manifestation des étudiants. C'est pourquoi notre groupe ne votera pas ce texte."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3830430",
+          "citations": [
+            "Il s'agit de sauvegarder l'honneur de l'université française, de défendre la République et de tenir parole, puisque notre Constitution protège sans distinction, en particulier dans la transmission du savoir. C'est pourquoi le groupe UDR votera en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3830451",
+          "citations": [
+            "Elle est toutefois un premier pas vers une prise de conscience et une réaction contre l'emprise de l'islamo-gauchisme sur nos universités. Nous voterons donc en faveur de son adoption."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3830475",
+          "citations": [
+            "Nous voterons donc pour cette proposition de loi visant à lutter non seulement contre l'antisémitisme mais aussi contre le racisme et toutes les formes de haine dans les universités, qui doivent rester des sanctuaires d'inclusion, de tolérance, de débat libre et d'émancipation intellectuelle pour toutes et tous."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "3829342",
+          "citations": [
+            "Comme vous le savez, nous voterons contre ce texte et je vais être claire dès le départ : non, nous ne prenons pas à la légère la lutte contre l'antisémitisme, car oui, l'antisémitisme existe et oui, il doit être combattu fermement, dans les universités comme partout ailleurs dans la société !"
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3829379",
+          "citations": [
+            "Il nous revient maintenant de recoudre les liens distendus de notre société ; ce texte y participe pleinement. Aussi les députés du groupe Ensemble pour la République voteront-ils avec conviction en faveur de la proposition de loi."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V2104",
+      "resume": "Projet de loi relatif au transfert à l’Etat des personnels enseignants de l’enseignement du premier degré dans les îles Wallis et Futuna",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "HOR": {
+          "ancre": "3767987",
+          "citations": [
+            "Ce texte réaffirme le principe fondamental de notre pacte républicain : l'égalité devant le service public, partout sur le territoire. Le groupe Horizons & indépendants votera donc résolument en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3767995",
+          "citations": [
+            "Cela dit, le projet de loi constitue une avancée importante pour le territoire de Wallis-et-Futuna. Le groupe LIOT soutiendra une adoption conforme de ce texte, afin qu'il entre en vigueur avant la fin de la convention."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3768003",
+          "citations": [
+            "Ce transfert soulève aussi un problème de laïcité : les enseignants, désormais professeurs des écoles, continueront à enseigner le catéchisme, alors même que le préambule de la Constitution de 1946 dispose que « l'organisation de l'enseignement public gratuit et laïque à tous les degrés est un devoir de l'État ». Malgré ces quelques réserves, dans l'attente de la transmission du projet de loi de ratification, notre groupe votera en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3768080",
+          "citations": [
+            "Au vu du très court délai dans lequel les mesures d'intégration nécessaires doivent être prises et au regard de l'importance de ces mesures pour le territoire de Wallis-et-Futuna, le groupe de l'Union des droites pour la République votera en faveur de cette loi d'habilitation, considérant que l'ensemble des acteurs sur place soutiennent cette initiative."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3768099",
+          "citations": [
+            "Le groupe Ensemble pour la République soutiendra pleinement ce texte, qui constitue une mesure de justice et d'égalité pour les enseignants de Wallis-et-Futuna."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3768126",
+          "citations": [
+            "Alors oui, le groupe Socialistes et apparentés votera ce texte, mais nous avons une exigence : que plus jamais, dans la République, on ne traite les outre-mer comme des annexes administratives, mais comme ce qu'ils sont, à savoir des territoires français à part entière, avec des citoyens à part entière, des citoyens de la République, comme nous."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3768135",
+          "citations": [
+            "Ce cadre avait été conçu pour concilier les principes de la République et l'identité du territoire ; aujourd'hui, il est vecteur de tension et source de complexité pour toutes les parties prenantes – l'État, le personnel éducatif, la direction de l'enseignement catholique, les parents d'élèves. Le groupe Droite républicaine votera donc tout naturellement pour ce texte, qui fait la quasi-unanimité chez les acteurs concernés."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "3768141",
+          "citations": [
+            "Malgré tout, le groupe Écologiste et social votera pour ce texte, car il incarne une mesure de justice, une avancée républicaine et un alignement nécessaire des droits."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V1601",
+      "resume": "Proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "DR": {
+          "ancre": "3730546",
+          "citations": [
+            "Voter pour ce texte, c'est dire aux étudiants juifs qu'ils ne sont pas seuls et qu'ils peuvent compter sur nous ; c'est dire aussi à ceux qui les menacent que la loi les attend et que leurs intimidations sont terminées. C'est pourquoi nous voterons cette proposition de loi avec clarté, fermeté et honneur."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3728907",
+          "citations": [
+            "Religieux à l'époque de l'Inquisition, nationaliste du temps de l'affaire Dreyfus, racial au XXe siècle ou antisioniste au XXIe, l'antisémitisme reste un cri de haine, une lèpre qui mérite d'être combattue sans trêve par tous ceux qui sont attachés aux valeurs de la République. C'est pourquoi nous voterons résolument en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3730563",
+          "citations": [
+            "Je terminerai de manière assez solennelle : il y a des votes qui disent beaucoup du positionnement politique et du clientélisme électoral de certains groupes de cette assemblée. Les Français nous regardent ; le groupe Horizons votera cette loi avec la détermination et la fermeté qu'appelle la lutte contre l'antisémitisme."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3728936",
+          "citations": [
+            "Le groupe LIOT soutiendra bien évidemment cette proposition de loi relative à la lutte contre l'antisémitisme dans l'enseignement supérieur."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3729217",
+          "citations": [
+            "Il ne s'agit pas seulement de protéger les étudiants juifs ; il s'agit de sauvegarder l'honneur de l'université française, de défendre la République, de tenir la parole de notre Constitution qui protège sans distinction, en particulier s'agissant de la transmission du savoir. C'est pourquoi le groupe UDR votera pour le texte."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3730606",
+          "citations": [
+            "Nous voterons pour cette proposition de loi, même si elle est insuffisante et qu'à part des mots et des incantations, elle n'offre rien et ne permettra malheureusement pas de résoudre le problème. Nous voterons pour…"
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3730629",
+          "citations": [
+            "Notre groupe votera évidemment pour cette proposition de loi qui répond à l'augmentation constatée des propos et actes racistes ou antisémites au sein des établissements d'enseignement supérieur."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3730659",
+          "citations": [
+            "Je sais que vous honorerez cet engagement moral. Le groupe Socialistes et apparentés votera en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V1204",
+      "resume": "Proposition de résolution tendant à créer un Institut Océan de l'université des Nations unies en France (article 34-1 de la Constitution)",
+      "statut": "auto",
+      "explications": {
+        "SOC": {
+          "ancre": "3692255",
+          "citations": [
+            "Notre université peut retrouver un rôle moteur, nos étudiants et chercheurs aussi ; à nous de le rendre possible ! Fidèle à son héritage maritime, le groupe Socialistes et apparentés votera pour cette proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "3692456",
+          "citations": [
+            "Cela ne se fera pas sans le soutien du Parlement et sans l'engagement du gouvernement, garant du financement de cet institut qui permettra de renforcer encore notre rayonnement scientifique. Vous l'aurez compris, les parlementaires du groupe Écologiste et social voteront en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3692464",
+          "citations": [
+            "Les derniers thèmes évoqués par le président de la République sont la décarbonation du transport maritime, la lutte contre la pollution plastique, la mobilisation de nouveaux financements, la lutte contre le changement climatique, la défense de la science et le soutien aux pôles et aux grands fonds. Le groupe Les Démocrates votera en faveur de la proposition de résolution, avec néanmoins une réserve : résolution n'est pas loi de finances."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3694677",
+          "citations": [
+            "Comme j'ai épuisé mon temps de parole, je m'arrêterai là, après avoir dit que le groupe LIOT ne pense que du bien de cette proposition de résolution et qu'il la soutiendra."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3694703",
+          "citations": [
+            "Nous devrons aussi solliciter les acteurs privés, qui feront émerger les solutions de demain. Pour toutes ces raisons, le groupe UDR s'abstiendra sur la proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3693478",
+          "citations": [
+            "Il ne s'agit pas de refuser un tel institut ni d'en freiner la création, mais de vouloir mieux, plus grand, pour nos océans. C'est pourquoi nous nous abstiendrons."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V840",
+      "resume": "Proposition de loi visant à proroger le dispositif d'expérimentation favorisant l'égalité des chances pour l'accès à certaines écoles de service public",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "SOC": {
+          "ancre": "3636825",
+          "citations": [
+            "Le chemin qu'il reste à faire est encore long, mais chaque avancée est bonne à prendre et ce texte marque une avancée. Sans réserve, le groupe socialiste votera pour la proposition de loi et nous appelons tous les députés à en faire autant."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3636834",
+          "citations": [
+            "Nous formulons la même exigence : permettre à des jeunes méritants, motivés et compétents issus de milieux modestes de modifier le visage de la haute fonction publique et d'y insuffler de l'égalité réelle, au bénéfice de la nation. La Droite républicaine votera pour la prorogation de l'expérimentation."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "3636846",
+          "citations": [
+            "Le dispositif « talents » est certes imparfait, mais nous soutiendrons sa prorogation et défendrons des amendements pour en améliorer l'ampleur – ainsi, le plancher de 15 % d'admis issus des prépas « talents » nous paraît insuffisant."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3636105",
+          "citations": [
+            "Partant du constat que ce texte œuvre en faveur de l'égalité des chances et de l'attractivité de la fonction publique, notre groupe votera en faveur de son adoption."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3636114",
+          "citations": [
+            "Le groupe Horizons & indépendants votera donc en faveur de cette proposition de loi, qui vise à faire vivre davantage la méritocratie au sein de la fonction publique."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3636124",
+          "citations": [
+            "Il y aurait bien davantage à dire, mais le temps m'est compté. Le groupe de la Gauche démocrate et républicaine votera le texte qui, s'il n'est pas suffisant, est attendu et a le mérite d'exister."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V606",
+      "resume": "Proposition de loi visant à rendre accessible à tous les étudiants le repas à 1 euro",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "HOR": {
+          "ancre": "3607204",
+          "citations": [
+            "Nous ne pouvons nous permettre de diluer nos ressources au détriment des plus précaires. C'est pourquoi notre groupe votera contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3607215",
+          "citations": [
+            "Le repas étudiant à 1 euro, s'il n'est pas le remède miracle à la précarité pour tous les étudiants sera, nous en sommes certains, une bouffée d'air frais pour beaucoup d'entre eux. C'est pourquoi le groupe LIOT votera en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3606894",
+          "citations": [
+            "Bien évidemment, nous voterons pour la proposition de loi et nous vous félicitons, madame la rapporteure !"
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3607298",
+          "citations": [
+            "Elle alourdit les charges publiques et propose une réponse simpliste à une problématique plutôt complexe. Le groupe UDR votera donc contre ce texte tout en appelant à des solutions mieux pensées, comme le ticket-restaurant étudiant proposé par l'UNI."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3606719",
+          "citations": [
+            "Je note cependant que cette adoption ne se fera pas avec les macronistes, qui ont annoncé qu'ils ne voteront pas le texte, de la même façon qu'ils s'y étaient opposés en 2023."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3606715",
+          "citations": [
+            "En outre, le contexte budgétaire est contraint. C'est pourquoi notre groupe s'abstiendra."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "3606879",
+          "citations": [
+            "Au contraire, avec la NUPES, puis avec le Nouveau Front populaire, nous nous sommes emparés de cette question et nous l'avons inscrite dans notre programme commun. Pour toutes ces raisons, nous voterons évidemment la proposition de loi défendue par notre collègue Fatiha Keloua Hachi, que nous remercions."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V3566",
+      "resume": "Proposition de loi tendant à tenir compte de la capacité contributive des collectivités territoriales dans l'attribution des subventions et dotations destinées aux investissements relatifs à la transition écologique des bâtiments scolaires",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "LIOT": {
+          "ancre": "3412895",
+          "citations": [
+            "Nous voterons cette proposition de loi transpartisane."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "3412225",
+          "citations": [
+            "Le groupe Renaissance votera cette proposition de loi qui vise à tenir compte de la capacité des collectivités à financer le reste à charge en matière d'investissements relatifs à la transition écologique des bâtiments scolaires, en cohérence avec notre volonté de soutenir les collectivités territoriales chaque fois que nécessaire."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3412237",
+          "citations": [
+            "ainsi que pour tous les maires ruraux des communes les plus modestes, la baisse de leur participation financière à 10 %, sur décision préfectorale, est donc la bienvenue. La proposition de loi constitue une avancée pour les communes rurales et les députés du groupe Rassemblement national la voteront."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "3412891",
+          "citations": [
+            "Nous voterons le texte, mais nous espérons que notre main tendue au service des enfants sera saisie de nouveau lors de textes ultérieurs, afin de travailler ensemble à des textes de loi, des décrets gouvernementaux et des engagements ministériels qui iront beaucoup plus loin que la proposition de loi votée aujourd'hui."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3412273",
+          "citations": [
+            "Il aurait été plus judicieux de laisser à nos communes les moyens leur permettant de les réaliser. Le groupe LR votera donc la proposition de loi, mais les défis à relever sont immenses."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3412303",
+          "citations": [
+            "Parce qu'elle vise à donner aux collectivités territoriales plus de liberté et de souplesse dans la conduite de leurs politiques, la proposition de loi s'inscrit pleinement dans l'approche des députés du groupe Horizons et apparentés, qui voteront donc en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3412887",
+          "citations": [
+            "À cet égard, votre action affligeante pour l'école de la République laisse à penser que nous pourrions faire beaucoup plus qu'avec ce texte – qui n'est pas mauvais, puisque nous le voterons, mais qui est insuffisant au vu des enjeux scolaires qui sont devant nous."
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "3412334",
+          "citations": [
+            "Malgré ces réserves, nous voterons cette proposition de loi – mais sans illusion, car elle ne favorisera la réalisation de projets de rénovation que de manière très marginale."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V1779",
+      "resume": "Proposition de résolution relative aux écoles nationales d’architecture (art. 34-1 de la Constitution)",
+      "statut": "auto",
+      "explications": {
+        "RE": {
+          "ancre": "3144141",
+          "citations": [
+            "Voter cette proposition de résolution, c'est s'assurer de la transition de nos villes et de l'ensemble de notre bâti. Parce qu'elle permet d'engager le grand chantier de consolidation des Ensa, le groupe Renaissance votera fièrement en sa faveur."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3144507",
+          "citations": [
+            "La proposition de résolution est un premier pas vers la définition d'un cap au bénéfice de ces écoles. C'est pourquoi mes collègues du Rassemblement national et moi-même voterons en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3144701",
+          "citations": [
+            "Le groupe Démocrate votera donc en faveur de cette proposition de résolution, avec l'espoir que tant le ministère de la culture que celui de l'enseignement supérieur pourront prendre en compte nos remarques."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3144708",
+          "citations": [
+            "J'ajoute qu'il nous semble inconcevable d'appliquer des droits d'inscription différenciés à certains étudiants extracommunautaires pour compenser le faible niveau de ressources propres des écoles. Parce que nous défendons un enseignement supérieur accessible et public, nous voterons contre cette proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "3145012",
+          "citations": [
+            "Nous voterons contre ce texte, mais loin d'être une fin de non-recevoir, cette opposition est plutôt une invitation à élargir nos travaux et la réflexion autour d'un projet global pour les futurs architectes et leur métier."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V931",
+      "resume": "Proposition de loi visant à assurer un repas à un euro pour tous les étudiants",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "HOR": {
+          "ancre": "3008337",
+          "citations": [
+            "Les députés du groupe Horizons et apparentés ne voteront pas ce texte."
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "3006297",
+          "citations": [
+            "Les députés du groupe GDR voteront pour la proposition de loi si elle respecte l'esprit de sa rédaction initiale ; ils ne voteront pas pour une version bas de gamme, affaiblie, une « version Wish »."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3006516",
+          "citations": [
+            "Dans la vie comme en politique, plus que ce qu'on dit, on est ce qu'on fait : en ce qui nous concerne, nous soutiendrons cette proposition de loi, car elle aurait un impact direct pour les étudiants de France."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "3008333",
+          "citations": [
+            "Nous voterons contre la proposition de loi, injuste, qui privera les étudiants les plus précaires d'une aide précieuse pour manger tous les jours à prix réduit."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3007153",
+          "citations": [
+            "Nous voterons donc pour cette proposition loi dans sa rédaction issue de la commission, encore corrigée par les bonnes idées qui seront avancées lors du présent débat, dans une sérénité active."
+          ],
+          "statut": "auto"
+        }
+      }
+    }
+  ]
+}

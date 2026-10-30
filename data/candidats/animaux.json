@@ -1,0 +1,69 @@
+{
+  "sujet": "animaux",
+  "titre": "Bien-être animal",
+  "genereLe": "2026-10-30T15:04:08.672Z",
+  "textes": [
+    {
+      "texte": "proposition de loi visant à endiguer le prolifération du frelon asiatique et à préserver la filière apicole",
+      "legislature": 17,
+      "motsCles": [
+        "frelon"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V914",
+          "legislature": 17,
+          "numero": 914,
+          "date": "2025-03-06",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à endiguer le prolifération du frelon asiatique et à préserver la filière apicole (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/914",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V913",
+          "legislature": 17,
+          "numero": 913,
+          "date": "2025-03-06",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article unique de la proposition de loi visant à endiguer le prolifération du frelon asiatique et à préserver la filière apicole (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/913",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de résolution européenne relative à l’adoption et à la mise en œuvre d’exigences à l’importation pour le respect de normes de production équivalentes aux normes de production essentielles, en matière de santé, d’environnement, de biodiversité et de bien-être animal applicables dans l’Union européenne",
+      "legislature": 17,
+      "motsCles": [
+        "animal"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V685",
+          "legislature": 17,
+          "numero": 685,
+          "date": "2025-01-30",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de résolution européenne relative à l’adoption et à la mise en œuvre d’exigences à l’importation pour le respect de normes de production équivalentes aux normes de production essentielles, en matière de santé, d’environnement, de biodiversité et de bien-être animal applicables dans l’Union européenne.",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/685",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V684",
+          "legislature": 17,
+          "numero": 684,
+          "date": "2025-01-30",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article unique de la proposition de résolution européenne relative à l’adoption et à la mise en œuvre d’exigences à l’importation pour le respect de normes de production équivalentes aux normes de production essentielles, en matière de santé, d’environnement, de biodiversité et de bien-être animal applicables dans l’Union européenne.",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/684",
+          "dejaRetenu": false
+        }
+      ]
+    }
+  ]
+}

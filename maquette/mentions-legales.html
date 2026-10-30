@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mentions légales — Poliapp</title>
+<style>
+:root {
+  --fond: #f6f7f9; --carte: #ffffff; --texte: #1b1f24; --discret: #667085; --bord: #e6e8ec; --survol: #f1f4f8;
+  --accent: #2f6fde; --pour: #2f6fde; --contre: #ee8434; --abstention: #a6acb8; --partage: #8b6fd6; --absent: #e4e7ec;
+  --adopte: #1f8a5b; --rejete: #c2410c; --citation: #f4f6fa;
+  color-scheme: light;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: 72px; }
+body { margin: 0; background: var(--fond); color: var(--texte); font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothing: antialiased; }
+a { color: var(--accent); }
+button { font: inherit; }
+[hidden] { display: none !important; }
+.contenu { max-width: 1160px; margin: 0 auto; padding: 0 20px; }
+.discret { color: var(--discret); font-size: 13px; }
+.brouillon { background: #fff4db; color: #8a5a00; border-radius: 999px; padding: 1px 8px; font-weight: 500; font-size: 12px; white-space: nowrap; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+header.site { position: sticky; top: 0; z-index: 20; background: rgba(255,255,255,.94); backdrop-filter: blur(8px); border-bottom: 1px solid var(--bord); }
+header.site .contenu { display: flex; align-items: center; gap: 20px; height: 60px; }
+.marque { display: flex; align-items: center; gap: 10px; font-weight: 700; font-size: 18px; text-decoration: none; color: var(--texte); flex-shrink: 0; }
+.marque svg { width: 30px; }
+.recherche-entete { margin-left: auto; width: min(340px, 100%); }
+.champ { width: 100%; padding: 9px 14px; border: 1px solid var(--bord); border-radius: 999px; background: var(--fond); font: inherit; font-size: 15px; color: var(--texte); }
+.champ:focus { outline: 2px solid var(--accent); outline-offset: 0; border-color: transparent; background: #fff; }
+
+.cadre-logo { display: inline-grid; place-items: center; width: 56px; height: 34px; border-radius: 8px; background: #fff; border: 1px solid var(--bord); overflow: hidden; flex-shrink: 0; }
+.cadre-logo img { width: 100%; height: 100%; object-fit: contain; padding: 4px; }
+.sigle-logo { font-size: 11px; font-weight: 700; color: #3b4452; letter-spacing: -0.02em; }
+.cadre-logo.petit { width: 44px; height: 26px; border-radius: 6px; }
+.cadre-logo.petit img { padding: 3px; }
+.cadre-logo.petit .sigle-logo { font-size: 9.5px; }
+
+.badge { font-size: 12px; font-weight: 600; text-align: center; border-radius: 999px; padding: 3px 10px; color: #fff; white-space: nowrap; }
+.b-pour { background: var(--pour); } .b-contre { background: var(--contre); } .b-abstention { background: var(--abstention); }
+.b-partage { background: var(--partage); } .b-null { background: var(--absent); color: var(--discret); }
+.res { font-size: 12px; font-weight: 600; border-radius: 999px; padding: 2px 10px; white-space: nowrap; }
+.res-adopté { color: var(--adopte); background: #e7f5ee; }
+.res-rejeté { color: var(--rejete); background: #fdeee4; }
+
+footer { margin: 64px 0 0; padding: 24px 0 48px; border-top: 1px solid var(--bord); font-size: 13px; color: var(--discret); background: var(--carte); }
+.liens-pied { display: flex; flex-wrap: wrap; gap: 6px 18px; margin-bottom: 10px; font-weight: 500; }
+.liens-pied a { color: var(--texte); text-decoration: none; }
+.liens-pied a:hover { color: var(--accent); }
+.bandeau-test { background: #fff4db; color: #6b4a00; font-size: 13px; text-align: center; padding: 7px 16px; }
+.bandeau-test a { color: inherit; font-weight: 600; }
+.page-texte { max-width: 760px; padding-top: 32px; }
+.page-texte h1 { font-size: clamp(28px, 4.5vw, 40px); letter-spacing: -0.02em; margin: 0 0 16px; }
+.page-texte h2 { font-size: 19px; margin: 32px 0 8px; }
+.page-texte p, .page-texte li { font-size: 15.5px; line-height: 1.65; color: #2b3138; }
+.page-texte .chapeau { font-size: 18px; color: var(--texte); }
+.page-texte ul { padding-left: 20px; }
+@media (max-width: 560px) {
+  .contenu { padding: 0 16px; }
+  .marque span { display: none; }
+}
+</style>
+</head>
+<body>
+<div class="bandeau-test">Version de test : une partie des sélections et des citations est automatique et en cours de relecture. <a href="methodologie.html">En savoir plus</a></div>
+<header class="site"><div class="contenu">
+  <a class="marque" href="index.html">
+  <svg viewBox="0 0 32 18" aria-hidden="true"><path d="M2 17a14 14 0 0 1 28 0" fill="none" stroke="var(--pour)" stroke-width="3" stroke-linecap="round"/><path d="M9 17a7 7 0 0 1 14 0" fill="none" stroke="var(--contre)" stroke-width="3" stroke-linecap="round"/></svg>
+  <span>Poliapp</span>
+</a>
+  <form class="recherche-entete" action="index.html" role="search"><input class="champ" type="search" name="q" placeholder="Rechercher un sujet, un vote…" aria-label="Rechercher"></form>
+</div></header><main class="contenu page-texte"><h1>Mentions légales</h1>
+<h2>Éditeur</h2>
+<p>Poliapp est un site d'information citoyenne, gratuit, sans publicité et sans financement, édité à titre non professionnel par un particulier. Conformément à la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique (LCEN), l'éditeur non professionnel peut ne communiquer au public que les coordonnées de l'hébergeur ; son identité est connue de celui-ci.</p>
+<p>Le site n'est rattaché à aucun parti, groupe parlementaire, candidat ou institution, et n'en reçoit aucun soutien.</p>
+
+<h2>Hébergeur</h2>
+<p>GitHub, Inc. (service GitHub Pages)<br>88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis<br><a href="https://github.com" target="_blank" rel="noopener">github.com</a></p>
+
+<h2>Contact, signalement et droit de réponse</h2>
+<p>Pour signaler une erreur, un contenu illicite ou exercer un droit de réponse (toute personne nommée ou désignée sur le site peut en faire la demande), écrivez via <a href="https://github.com/gaspardmalot-maker/poliapp/issues/new" target="_blank" rel="noopener">le formulaire de signalement du projet</a>. Les demandes sont traitées dans les meilleurs délais ; les corrections sont publiques et datées.</p>
+
+<h2>Responsabilité</h2>
+<p>Les informations proviennent de sources officielles et sont reprises sans modification. Le site ne peut garantir l'absence d'erreur dans ces sources (il en signale certaines) ni dans leur traitement : chaque information renvoie à sa source pour vérification. Les liens vers des sites tiers n'engagent pas l'éditeur sur leur contenu.</p>
+
+<h2>Propriété intellectuelle</h2>
+<p>Voir la page <a href="sources.html">Sources et licences</a>.</p>
+<p class="discret">Dernière mise à jour : 30 octobre 2026.</p></main>
+<footer><div class="contenu">
+  <nav class="liens-pied"><a href="methodologie.html">Méthodologie</a><a href="sources.html">Sources et licences</a><a href="mentions-legales.html">Mentions légales</a><a href="confidentialite.html">Données personnelles</a><a href="https://github.com/gaspardmalot-maker/poliapp/issues/new" target="_blank" rel="noopener">Signaler une erreur</a></nav>
+  <p>Données : Assemblée nationale, open data (Licence Ouverte / Etalab 2.0), récupérées le 30 octobre 2026. Programmes : documents officiels des partis. Toutes les citations sont reprises mot pour mot. Site indépendant, sans publicité, sans lien avec un parti.</p>
+</div></footer>
+
+</body>
+</html>

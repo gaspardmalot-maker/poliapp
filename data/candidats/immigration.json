@@ -1,0 +1,2489 @@
+{
+  "sujet": "immigration",
+  "titre": "Immigration et nationalité",
+  "genereLe": "2026-10-30T15:04:07.297Z",
+  "textes": [
+    {
+      "texte": "proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d’attentat",
+      "legislature": 17,
+      "motsCles": [
+        "retention administrative"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V7405",
+          "legislature": 17,
+          "numero": 7405,
+          "date": "2026-06-16",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d’attentat (texte de la commission mixte paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7405",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6181",
+          "legislature": 17,
+          "numero": 6181,
+          "date": "2026-04-13",
+          "type": "motion",
+          "resultat": "rejeté",
+          "titre": "la motion de rejet préalable, déposée par M. Boris Vallaud, de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d’attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6181",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7402",
+          "legislature": 17,
+          "numero": 7402,
+          "date": "2026-06-16",
+          "type": "motion",
+          "resultat": "rejeté",
+          "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d’attentat (texte de la commission mixte paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7402",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7403",
+          "legislature": 17,
+          "numero": 7403,
+          "date": "2026-06-16",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 2 du Gouvernement à la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d’attentat (texte de la commission mixte paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7403",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7404",
+          "legislature": 17,
+          "numero": 7404,
+          "date": "2026-06-16",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 1 du Gouvernement à la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d’attentat (texte de la commission mixte paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7404",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi organique portant régularisation des natifs dans le corps électoral pour les élections au congrès et aux assemblées de province de Nouvelle-Calédonie",
+      "legislature": 17,
+      "motsCles": [
+        "regularisation"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V6753",
+          "legislature": 17,
+          "numero": 6753,
+          "date": "2026-05-20",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi organique portant régularisation des natifs dans le corps électoral pour les élections au congrès et aux assemblées de province de Nouvelle-Calédonie (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6753",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6750",
+          "legislature": 17,
+          "numero": 6750,
+          "date": "2026-05-20",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi organique portant régularisation des natifs dans le corps électoral pour les élections au congrès et aux assemblées de province de Nouvelle-Calédonie (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6750",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6752",
+          "legislature": 17,
+          "numero": 6752,
+          "date": "2026-05-20",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 de la proposition de loi organique portant régularisation des natifs dans le corps électoral pour les élections au congrès et aux assemblées de province de Nouvelle-Calédonie (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6752",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6748",
+          "legislature": 17,
+          "numero": 6748,
+          "date": "2026-05-20",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 4 de M. Lachaud de suppression de l'article premier de la proposition de loi organique portant régularisation des natifs dans le corps électoral pour les élections au congrès et aux assemblées de province de Nouvelle-Calédonie (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6748",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6749",
+          "legislature": 17,
+          "numero": 6749,
+          "date": "2026-05-20",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 6 de M. Lachaud à l'article premier de la proposition de loi organique portant régularisation des natifs dans le corps électoral pour les élections au congrès et aux assemblées de province de Nouvelle-Calédonie (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6749",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6751",
+          "legislature": 17,
+          "numero": 6751,
+          "date": "2026-05-20",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 11 du Gouvernement après l'article premier de la proposition de loi organique portant régularisation des natifs dans le corps électoral pour les élections au congrès et aux assemblées de province de Nouvelle-Calédonie (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6751",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat",
+      "legislature": 17,
+      "motsCles": [
+        "retention administrative"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V6318",
+          "legislature": 17,
+          "numero": 6318,
+          "date": "2026-05-05",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6318",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6200",
+          "legislature": 17,
+          "numero": 6200,
+          "date": "2026-04-15",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6200",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6212",
+          "legislature": 17,
+          "numero": 6212,
+          "date": "2026-04-15",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6212",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6224",
+          "legislature": 17,
+          "numero": 6224,
+          "date": "2026-04-15",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 4 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6224",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6229",
+          "legislature": 17,
+          "numero": 6229,
+          "date": "2026-04-15",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 5 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6229",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6242",
+          "legislature": 17,
+          "numero": 6242,
+          "date": "2026-04-15",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 6 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6242",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6254",
+          "legislature": 17,
+          "numero": 6254,
+          "date": "2026-04-16",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 7 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6254",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6281",
+          "legislature": 17,
+          "numero": 6281,
+          "date": "2026-04-16",
+          "type": "article",
+          "resultat": "rejeté",
+          "titre": "l'article 8 bis de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6281",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6185",
+          "legislature": 17,
+          "numero": 6185,
+          "date": "2026-04-14",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 2 de M. Kerbrat et les amendements identiques suivants de suppression de l'article premier de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6185",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6186",
+          "legislature": 17,
+          "numero": 6186,
+          "date": "2026-04-14",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 3 de M. Léaument et l'amendement identique suivant à l'article premier de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6186",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6187",
+          "legislature": 17,
+          "numero": 6187,
+          "date": "2026-04-14",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 85 de Mme Faucillon et l'amendement identique suivant à l'article premier de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6187",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6188",
+          "legislature": 17,
+          "numero": 6188,
+          "date": "2026-04-14",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 4 de M. Kerbrat à l'article premier de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6188",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6189",
+          "legislature": 17,
+          "numero": 6189,
+          "date": "2026-04-14",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 117 de Mme Balage El Mariky à l'article premier de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6189",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6190",
+          "legislature": 17,
+          "numero": 6190,
+          "date": "2026-04-14",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 80 de Mme Faucillon à l'article premier de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6190",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6191",
+          "legislature": 17,
+          "numero": 6191,
+          "date": "2026-04-14",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 24 (rect.) de M. Mazaury à l'article premier de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6191",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6192",
+          "legislature": 17,
+          "numero": 6192,
+          "date": "2026-04-14",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 86 de Mme Faucillon à l'article premier de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6192",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6193",
+          "legislature": 17,
+          "numero": 6193,
+          "date": "2026-04-14",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 118 de Mme Balage El Mariky à l'article premier de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6193",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6194",
+          "legislature": 17,
+          "numero": 6194,
+          "date": "2026-04-14",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 5 de M. Léaument à l'article premier de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6194",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6195",
+          "legislature": 17,
+          "numero": 6195,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 156 du Gouvernement et l'amendement identique suivant à l'article premier de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6195",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6196",
+          "legislature": 17,
+          "numero": 6196,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 7 de M. Léaument à l'article premier de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6196",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6197",
+          "legislature": 17,
+          "numero": 6197,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 8 de M. Kerbrat à l'article premier de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6197",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6199",
+          "legislature": 17,
+          "numero": 6199,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 122 de Mme Balage El Mariky à l'article premier de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6199",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6201",
+          "legislature": 17,
+          "numero": 6201,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 44 de M. Kerbrat et les amendements identiques suivants de suppression de l'article 2 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6201",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6202",
+          "legislature": 17,
+          "numero": 6202,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 45 de M. Léaument à l'article 2 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6202",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6203",
+          "legislature": 17,
+          "numero": 6203,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 25 de M. Mazaury à l'article 2 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6203",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6207",
+          "legislature": 17,
+          "numero": 6207,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 125 de Mme Balage El Mariky à l'article 2 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6207",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6208",
+          "legislature": 17,
+          "numero": 6208,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 30 de M. Mazaury à l'article 2 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6208",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6209",
+          "legislature": 17,
+          "numero": 6209,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 46 de M. Kerbrat à l'article 2 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6209",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6210",
+          "legislature": 17,
+          "numero": 6210,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 42 de M. Chenu à l'article 2 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6210",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6211",
+          "legislature": 17,
+          "numero": 6211,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 47 de M. Léaument à l'article 2 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6211",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6213",
+          "legislature": 17,
+          "numero": 6213,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 50 de M. Kerbrat et les amendements identiques suivants de suppression de l'article 3 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6213",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6214",
+          "legislature": 17,
+          "numero": 6214,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendmeent n° 196 de M. Léaument à l'amendement n° 109 de M. Boudié à l'article 3 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6214",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6216",
+          "legislature": 17,
+          "numero": 6216,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 109 de M. Boudié à l'article 3 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6216",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6217",
+          "legislature": 17,
+          "numero": 6217,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 10 de M. Kerbrat et les amendements identiques suivants de suppression de l'article 4 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6217",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6218",
+          "legislature": 17,
+          "numero": 6218,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 11 de M. Léaument à l'article 4 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6218",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6219",
+          "legislature": 17,
+          "numero": 6219,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 106 de M. Taverne à l'article 4 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6219",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6220",
+          "legislature": 17,
+          "numero": 6220,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 161 de Mme Balage El Mariky à l'article 4 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6220",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6221",
+          "legislature": 17,
+          "numero": 6221,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 12 de M. Kerbrat à l'article 4 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6221",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6222",
+          "legislature": 17,
+          "numero": 6222,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 13 de M. Léaument à l'article 4 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6222",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6223",
+          "legislature": 17,
+          "numero": 6223,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 162 de Mme Balage El Mariky à l'article 4 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6223",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6225",
+          "legislature": 17,
+          "numero": 6225,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 52 de M. Léaument et les amendements identiques suivants de suppression de l'article 5 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6225",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6226",
+          "legislature": 17,
+          "numero": 6226,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 56 de M. Léaument à l'article 5 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6226",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6227",
+          "legislature": 17,
+          "numero": 6227,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 107 de M. Taverne à l'article 5 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6227",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6228",
+          "legislature": 17,
+          "numero": 6228,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 57 de M. Kerbrat à l'article 5 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6228",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6230",
+          "legislature": 17,
+          "numero": 6230,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 14 de M. Kerbrat et l'amendement identique suivant de suppression de l'article 6 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6230",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6231",
+          "legislature": 17,
+          "numero": 6231,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 15 de M. Léaument à l'article 6 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6231",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6232",
+          "legislature": 17,
+          "numero": 6232,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 43 de M. Kerbrat et l'amendement identique suivant à l'article 6 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6232",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6233",
+          "legislature": 17,
+          "numero": 6233,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 16 de M. Kerbrat à l'article 6 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6233",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6234",
+          "legislature": 17,
+          "numero": 6234,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 17 de M. Léaument à l'article 6 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6234",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6237",
+          "legislature": 17,
+          "numero": 6237,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 18 de M. Kerbrat à l'article 6 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6237",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6238",
+          "legislature": 17,
+          "numero": 6238,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 19 de M. Léaument à l'article 6 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6238",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6239",
+          "legislature": 17,
+          "numero": 6239,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 20 de M. Kerbrat à l'article 6 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6239",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6240",
+          "legislature": 17,
+          "numero": 6240,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 21 de M. Léaument à l'article 6 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6240",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6241",
+          "legislature": 17,
+          "numero": 6241,
+          "date": "2026-04-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 22 de M. Kerbrat à l'article 6 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6241",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6243",
+          "legislature": 17,
+          "numero": 6243,
+          "date": "2026-04-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 59 de M. Kerbrat et les amendements identiques suivants de suppression de l'article 7 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6243",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6244",
+          "legislature": 17,
+          "numero": 6244,
+          "date": "2026-04-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 60 de M. Léaument à l'article 7 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6244",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6245",
+          "legislature": 17,
+          "numero": 6245,
+          "date": "2026-04-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 62 de M. Léaument et l'amendement identique suivant à l'article 7 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6245",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6250",
+          "legislature": 17,
+          "numero": 6250,
+          "date": "2026-04-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 170 de Mme Balage El Mariky à l'article 7 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6250",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6251",
+          "legislature": 17,
+          "numero": 6251,
+          "date": "2026-04-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 98 de Mme Faucillon à l'article 7 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6251",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6252",
+          "legislature": 17,
+          "numero": 6252,
+          "date": "2026-04-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 61 de M. Kerbrat à l'article 7 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6252",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6253",
+          "legislature": 17,
+          "numero": 6253,
+          "date": "2026-04-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 82 de Mme Faucillon à l'article 7 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6253",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6256",
+          "legislature": 17,
+          "numero": 6256,
+          "date": "2026-04-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 63 de M. Kerbrat et les amendements identiques suivants de suppression de l'article 8 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6256",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6263",
+          "legislature": 17,
+          "numero": 6263,
+          "date": "2026-04-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 172 de Mme Balage El Mariky à l'article 8 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6263",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6264",
+          "legislature": 17,
+          "numero": 6264,
+          "date": "2026-04-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 64 de M. Léaument à l'article 8 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6264",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6268",
+          "legislature": 17,
+          "numero": 6268,
+          "date": "2026-04-16",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 173 de Mme Balage El Mariky à l'article 8 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6268",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6270",
+          "legislature": 17,
+          "numero": 6270,
+          "date": "2026-04-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 65 de M. Kerbrat et les amendements identiques suivants de suppression de l'article 8 bis de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6270",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6271",
+          "legislature": 17,
+          "numero": 6271,
+          "date": "2026-04-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 175 de Mme Balage El Mariky à l'article 8 bis de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6271",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6276",
+          "legislature": 17,
+          "numero": 6276,
+          "date": "2026-04-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 176 de Mme Balage El Mariky à l'article 8 bis de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6276",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6277",
+          "legislature": 17,
+          "numero": 6277,
+          "date": "2026-04-16",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 66 de M. Léaument à l'article 8 bis de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6277",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6278",
+          "legislature": 17,
+          "numero": 6278,
+          "date": "2026-04-16",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 69 de M. Kerbrat à l'article 8 bis de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6278",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6279",
+          "legislature": 17,
+          "numero": 6279,
+          "date": "2026-04-16",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 102 de Mme Faucillon à l'article 8 bis de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6279",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6280",
+          "legislature": 17,
+          "numero": 6280,
+          "date": "2026-04-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 157 du Gouvernement à l'article 8 bis de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6280",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6282",
+          "legislature": 17,
+          "numero": 6282,
+          "date": "2026-04-16",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 300 du Gouvernement et l'amendement identique suivant à l'article 9 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6282",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6317",
+          "legislature": 17,
+          "numero": 6317,
+          "date": "2026-05-05",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 1 de M. Rodwell à l'article 8 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (seconde délibération) (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6317",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6198",
+          "legislature": 17,
+          "numero": 6198,
+          "date": "2026-04-15",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 190 de M. Léaument à l'amendement n° 122 de Mme Balage El Mariky à l'article premier de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6198",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6204",
+          "legislature": 17,
+          "numero": 6204,
+          "date": "2026-04-15",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 223 de M. Kerbrat à l'amendement n° 87 de Mme Faucilon à l'article 2 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6204",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6205",
+          "legislature": 17,
+          "numero": 6205,
+          "date": "2026-04-15",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 224 de M. Kerbrat à l'amendement n° 87 de Mme Faucilon à l'article 2 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6205",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6206",
+          "legislature": 17,
+          "numero": 6206,
+          "date": "2026-04-15",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 229 de M. Léaument à l'amendement n° 87 de Mme Faucilon à l'article 2 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6206",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6215",
+          "legislature": 17,
+          "numero": 6215,
+          "date": "2026-04-15",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 192 de M. Léaument à l'amendement n° 109 de M. Boudié à l'article 3 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6215",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6235",
+          "legislature": 17,
+          "numero": 6235,
+          "date": "2026-04-15",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 248 de M. Kerbrat à l'amendement n° 135 de Mme Balage El Mariky à l'article 6 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6235",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6236",
+          "legislature": 17,
+          "numero": 6236,
+          "date": "2026-04-15",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 247 de M. Léaument à l'amendement n° 135 de Mme Balage El Mariky à l'article 6 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6236",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6246",
+          "legislature": 17,
+          "numero": 6246,
+          "date": "2026-04-16",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 252 de M. Kerbrat à l'amendement n° 170 de Mme Balage El Mariky à l'article 7 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6246",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6247",
+          "legislature": 17,
+          "numero": 6247,
+          "date": "2026-04-16",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 253 de M. Kerbrat à l'amendement n° 170 de Mme Balage El Mariky à l'article 7 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6247",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6248",
+          "legislature": 17,
+          "numero": 6248,
+          "date": "2026-04-16",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 254 de M. Léaument à l'amendement n° 170 de Mme Balage El Mariky à l'article 7 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6248",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6249",
+          "legislature": 17,
+          "numero": 6249,
+          "date": "2026-04-16",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 198 de M. Kerbrat à l'amendement n° 170 de Mme Balage El Mariky à l'article 7 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6249",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6257",
+          "legislature": 17,
+          "numero": 6257,
+          "date": "2026-04-16",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 265 de M. Léaument à l'amendement n° 172 de Mme Balage El Mariky à l'article 8 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6257",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6258",
+          "legislature": 17,
+          "numero": 6258,
+          "date": "2026-04-16",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 267 de M. Léaument à l'amendement n° 172 de Mme Balage El Mariky à l'article 8 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6258",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6259",
+          "legislature": 17,
+          "numero": 6259,
+          "date": "2026-04-16",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 272 de M. Kerbrat à l'amendement n° 172 de Mme Balage El Mariky à l'article 8 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6259",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6260",
+          "legislature": 17,
+          "numero": 6260,
+          "date": "2026-04-16",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 271 de M. Kerbrat à l'amendement n° 172 de Mme Balage El Mariky à l'article 8 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6260",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6261",
+          "legislature": 17,
+          "numero": 6261,
+          "date": "2026-04-16",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 268 de M. Léaument à l'amendement n° 172 de Mme Balage El Mariky à l'article 8 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6261",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6262",
+          "legislature": 17,
+          "numero": 6262,
+          "date": "2026-04-16",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 269 de M. Kerbrat à l'amendement n° 172 de Mme Balage El Mariky à l'article 8 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6262",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6265",
+          "legislature": 17,
+          "numero": 6265,
+          "date": "2026-04-16",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 199 de M. Léaument à l'amendement n° 173 de Mme Balage El Mariky à l'article 8 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6265",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6266",
+          "legislature": 17,
+          "numero": 6266,
+          "date": "2026-04-16",
+          "type": "sous-amendement",
+          "resultat": "adopté",
+          "titre": "le sous-amendement n° 273 de M. Kerbrat à l'amendement n° 173 de Mme Balage El Mariky à l'article 8 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6266",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6267",
+          "legislature": 17,
+          "numero": 6267,
+          "date": "2026-04-16",
+          "type": "sous-amendement",
+          "resultat": "adopté",
+          "titre": "le sous-amendement n° 275 de M. Kerbrat à l'amendement n° 173 de Mme Balage El Mariky à l'article 8 de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6267",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6272",
+          "legislature": 17,
+          "numero": 6272,
+          "date": "2026-04-16",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 278 de M. Kerbrat à l'amendement n° 176 de Mme Balage El Mariky à l'article 8 bis de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6272",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6273",
+          "legislature": 17,
+          "numero": 6273,
+          "date": "2026-04-16",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 279 de M. Kerbrat à l'amendement n° 176 de Mme Balage El Mariky à l'article 8 bis de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6273",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6274",
+          "legislature": 17,
+          "numero": 6274,
+          "date": "2026-04-16",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 280 de M. Kerbrat à l'amendement n° 176 de Mme Balage El Mariky à l'article 8 bis de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6274",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6275",
+          "legislature": 17,
+          "numero": 6275,
+          "date": "2026-04-16",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 202 de M. Léaument à l'amendement n° 176 de Mme Balage El Mariky à l'article 8 bis de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6275",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à garantir un renouvellement automatique des titres de séjour de longue durée",
+      "legislature": 17,
+      "motsCles": [
+        "titres de sejour"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V4754",
+          "legislature": 17,
+          "numero": 4754,
+          "date": "2025-12-11",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à garantir un renouvellement automatique des titres de séjour de longue durée (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4754",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4746",
+          "legislature": 17,
+          "numero": 4746,
+          "date": "2025-12-11",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 1 de M. Pauget et les amendements identiques suivants à l'article premier de la proposition de loi visant à garantir un renouvellement automatique des titres de séjour de longue durée (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4746",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4748",
+          "legislature": 17,
+          "numero": 4748,
+          "date": "2025-12-11",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 12 de M. Jacobelli à l'article premier de la proposition de loi visant à garantir un renouvellement automatique des titres de séjour de longue durée (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4748",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4749",
+          "legislature": 17,
+          "numero": 4749,
+          "date": "2025-12-11",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 5 de M. Gery à l'article 2 de la proposition de loi visant à garantir un renouvellement automatique des titres de séjour de longue durée (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4749",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4750",
+          "legislature": 17,
+          "numero": 4750,
+          "date": "2025-12-11",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 14 de M. Jacobelli après l'article 2 de la proposition de loi visant à garantir un renouvellement automatique des titres de séjour de longue durée (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4750",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4752",
+          "legislature": 17,
+          "numero": 4752,
+          "date": "2025-12-11",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 15 de M. Jacobelli après l'article 2 de la proposition de loi visant à garantir un renouvellement automatique des titres de séjour de longue durée (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4752",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4753",
+          "legislature": 17,
+          "numero": 4753,
+          "date": "2025-12-11",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 16 de M. Jacobelli après l'article 2 de la proposition de loi visant à garantir un renouvellement automatique des titres de séjour de longue durée (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4753",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4747",
+          "legislature": 17,
+          "numero": 4747,
+          "date": "2025-12-11",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 33 de M. Tonussi à l'amendement n° 12 de M. Jacobelli à l'article premier de la proposition de loi visant à garantir un renouvellement automatique des titres de séjour de longue durée (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4747",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4751",
+          "legislature": 17,
+          "numero": 4751,
+          "date": "2025-12-11",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 32 de M. Tonussi à l'amendement n° 15 de M. Jacobelli après l'article 2 de la proposition de loi visant à garantir un renouvellement automatique des titres de séjour de longue durée (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4751",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte",
+      "legislature": 17,
+      "motsCles": [
+        "nationalite"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V738",
+          "legislature": 17,
+          "numero": 738,
+          "date": "2025-02-06",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/738",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1308",
+          "legislature": 17,
+          "numero": 1308,
+          "date": "2025-04-08",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (texte de la commission mixte paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1308",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1307",
+          "legislature": 17,
+          "numero": 1307,
+          "date": "2025-04-08",
+          "type": "motion",
+          "resultat": "rejeté",
+          "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (texte de la commission mixte paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1307",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V710",
+          "legislature": 17,
+          "numero": 710,
+          "date": "2025-02-06",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article unique de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/710",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V695",
+          "legislature": 17,
+          "numero": 695,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1 de M. Bernalicis et les amendements identiques suivants de suppression de l'article unique de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/695",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V696",
+          "legislature": 17,
+          "numero": 696,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 2 de M. Taché et l'amendement identique suivant de rédaction globale de l'article unique de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/696",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V697",
+          "legislature": 17,
+          "numero": 697,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 7 de M. Gillet et l'amendement identique suivant de rédaction globale de l'article unique de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/697",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V698",
+          "legislature": 17,
+          "numero": 698,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 87 de M. Ciotti de rédaction globale de l'article unique de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/698",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V699",
+          "legislature": 17,
+          "numero": 699,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 78 de Mme Faucillon à l'article unique de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/699",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V700",
+          "legislature": 17,
+          "numero": 700,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 12 de M. Taché et l'amendement identique suivant à l'article unique de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/700",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V701",
+          "legislature": 17,
+          "numero": 701,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 56 de Mme Capdevielle à l'article unique de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/701",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V702",
+          "legislature": 17,
+          "numero": 702,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 14 de M. Taché et l'amendement identique suivant à l'article unique de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/702",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V703",
+          "legislature": 17,
+          "numero": 703,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 24 de M. Bernalicis à l'article unique de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/703",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V704",
+          "legislature": 17,
+          "numero": 704,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 23 de M. Taché à l'article unique de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/704",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V705",
+          "legislature": 17,
+          "numero": 705,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 95 de M. Rimane à l'article unique de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/705",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V706",
+          "legislature": 17,
+          "numero": 706,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 22 de M. Bernalicis à l'article unique de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/706",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V707",
+          "legislature": 17,
+          "numero": 707,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 10 de M. Gillet à l'article unique de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/707",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V708",
+          "legislature": 17,
+          "numero": 708,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 88 de Mme Ricourt Vaginay à l'article unique de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/708",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V709",
+          "legislature": 17,
+          "numero": 709,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 71 de Mme Youssouffa à l'article unique de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/709",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V711",
+          "legislature": 17,
+          "numero": 711,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 27 de M. Bernalicis après l'article unique de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/711",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V712",
+          "legislature": 17,
+          "numero": 712,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 74 de Mme Faucillon après l'article unique de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/712",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V713",
+          "legislature": 17,
+          "numero": 713,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 31 de M. Bernalicis après l'article unique de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/713",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V714",
+          "legislature": 17,
+          "numero": 714,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 76 de Mme Faucillon après l'article unique de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/714",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V715",
+          "legislature": 17,
+          "numero": 715,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 32 de Mme Cathala après l'article unique de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/715",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V716",
+          "legislature": 17,
+          "numero": 716,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 60 de M. Taché après l'article unique de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/716",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V717",
+          "legislature": 17,
+          "numero": 717,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 62 de Mme Voynet après l'article unique de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/717",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V718",
+          "legislature": 17,
+          "numero": 718,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 68 de M. Metzdorf après l'article unique de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/718",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V719",
+          "legislature": 17,
+          "numero": 719,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 64 de Mme Robert-Dehault après l'article unique de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/719",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V720",
+          "legislature": 17,
+          "numero": 720,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 36 de M. Bernalicis au titre de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/720",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V721",
+          "legislature": 17,
+          "numero": 721,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 35 de M. Taché au titre de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/721",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V722",
+          "legislature": 17,
+          "numero": 722,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 34 de M. Bernalicis au titre de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/722",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V723",
+          "legislature": 17,
+          "numero": 723,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 42 de M. Bernalicis au titre de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/723",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V724",
+          "legislature": 17,
+          "numero": 724,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 37 de M. Taché au titre de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/724",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V725",
+          "legislature": 17,
+          "numero": 725,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 39 de M. Taché au titre de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/725",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V726",
+          "legislature": 17,
+          "numero": 726,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 40 de M. Bernalicis au titre de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/726",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V727",
+          "legislature": 17,
+          "numero": 727,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 91 de M. Rimane au titre de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/727",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V728",
+          "legislature": 17,
+          "numero": 728,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 92 de M. Rimane au titre de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/728",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V729",
+          "legislature": 17,
+          "numero": 729,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 41 de M. Taché au titre de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/729",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V730",
+          "legislature": 17,
+          "numero": 730,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 43 de M. Taché au titre de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/730",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V731",
+          "legislature": 17,
+          "numero": 731,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 38 de M. Bernalicis au titre de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/731",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V732",
+          "legislature": 17,
+          "numero": 732,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 44 de M. Bernalicis au titre de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/732",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V733",
+          "legislature": 17,
+          "numero": 733,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 90 de M. Rimane au titre de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/733",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V734",
+          "legislature": 17,
+          "numero": 734,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 45 de M. Taché au titre de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/734",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V735",
+          "legislature": 17,
+          "numero": 735,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 46 de M. Bernalicis au titre de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/735",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V736",
+          "legislature": 17,
+          "numero": 736,
+          "date": "2025-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 98 de M. Rimane au titre de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/736",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V737",
+          "legislature": 17,
+          "numero": 737,
+          "date": "2025-02-06",
+          "type": "autre",
+          "resultat": "rejeté",
+          "titre": "la demande de seconde délibération, présentée par M. Bernalicis, de l'article unique de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/737",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à prévenir les ingérences étrangères en France",
+      "legislature": 16,
+      "motsCles": [
+        "etranger"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3587",
+          "legislature": 16,
+          "numero": 3587,
+          "date": "2024-03-27",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à prévenir les ingérences étrangères en France (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3587",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V4051",
+          "legislature": 16,
+          "numero": 4051,
+          "date": "2024-06-05",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à prévenir les ingérences étrangères en France (texte de la commission mixte paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/4051",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3567",
+          "legislature": 16,
+          "numero": 3567,
+          "date": "2024-03-26",
+          "type": "motion",
+          "resultat": "rejeté",
+          "titre": "la motion de rejet préalable, déposée par Mme Mathilde panot, de la proposition de loi visant à prévenir les ingérences étrangères en France (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3567",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V4050",
+          "legislature": 16,
+          "numero": 4050,
+          "date": "2024-06-05",
+          "type": "motion",
+          "resultat": "rejeté",
+          "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, de la proposition de loi visant à prévenir les ingérences étrangères en France (texte de la commission mixte paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/4050",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3575",
+          "legislature": 16,
+          "numero": 3575,
+          "date": "2024-03-26",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi visant à prévenir les ingérences étrangères en France (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3575",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3581",
+          "legislature": 16,
+          "numero": 3581,
+          "date": "2024-03-26",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 3 de la proposition de loi visant à prévenir les ingérences étrangères en France (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3581",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3568",
+          "legislature": 16,
+          "numero": 3568,
+          "date": "2024-03-26",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 6 de M. Jean-Philippe Tanguy à l'article premier de la proposition de loi visant à prévenir les ingérences étrangères en France (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3568",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3569",
+          "legislature": 16,
+          "numero": 3569,
+          "date": "2024-03-26",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 78 de M. Jean-Philippe Tanguy à l'article premier de la proposition de loi visant à prévenir les ingérences étrangères en France (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3569",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3570",
+          "legislature": 16,
+          "numero": 3570,
+          "date": "2024-03-26",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 63 de M. Jean-Philippe Tanguy à l'article premier de la proposition de loi visant à prévenir les ingérences étrangères en France (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3570",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3571",
+          "legislature": 16,
+          "numero": 3571,
+          "date": "2024-03-26",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 64 de M. Iordanoff à l'article premier de la proposition de loi visant à prévenir les ingérences étrangères en France (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3571",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3572",
+          "legislature": 16,
+          "numero": 3572,
+          "date": "2024-03-26",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 152 de M. Houlié à l'article premier de la proposition de loi visant à prévenir les ingérences étrangères en France (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3572",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3573",
+          "legislature": 16,
+          "numero": 3573,
+          "date": "2024-03-26",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 99 de M. Lachaud à l'article premier de la proposition de loi visant à prévenir les ingérences étrangères en France (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3573",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3574",
+          "legislature": 16,
+          "numero": 3574,
+          "date": "2024-03-26",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 157 de M. Houlié à l'article premier de la proposition de loi visant à prévenir les ingérences étrangères en France (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3574",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3576",
+          "legislature": 16,
+          "numero": 3576,
+          "date": "2024-03-26",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 137 de M. Haddad après l'article premier de la proposition de loi visant à prévenir les ingérences étrangères en France (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3576",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3577",
+          "legislature": 16,
+          "numero": 3577,
+          "date": "2024-03-26",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 9 de M. Jean-Philippe Tanguy et l'amendement identique suivant à l'article 2 de la proposition de loi visant à prévenir les ingérences étrangères en France (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3577",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3578",
+          "legislature": 16,
+          "numero": 3578,
+          "date": "2024-03-26",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 66 de M. Iordanoff à l'article 3 de la proposition de loi visant à prévenir les ingérences étrangères en France (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3578",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3579",
+          "legislature": 16,
+          "numero": 3579,
+          "date": "2024-03-26",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 67 de M. Iordanoff à l'article 3 de la proposition de loi visant à prévenir les ingérences étrangères en France (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3579",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3580",
+          "legislature": 16,
+          "numero": 3580,
+          "date": "2024-03-26",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 21 de Mme Pic à l'article 3 de la proposition de loi visant à prévenir les ingérences étrangères en France (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3580",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3582",
+          "legislature": 16,
+          "numero": 3582,
+          "date": "2024-03-27",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 112 de M. Lachaud après l'article 4 de la proposition de loi visant à prévenir les ingérences étrangères en France (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3582",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3583",
+          "legislature": 16,
+          "numero": 3583,
+          "date": "2024-03-27",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 114 de M. Lachaud après l'article 4 de la proposition de loi visant à prévenir les ingérences étrangères en France (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3583",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3584",
+          "legislature": 16,
+          "numero": 3584,
+          "date": "2024-03-27",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 115 de M. Lachaud après l'article 4 de la proposition de loi visant à prévenir les ingérences étrangères en France (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3584",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3585",
+          "legislature": 16,
+          "numero": 3585,
+          "date": "2024-03-27",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 120 de M. Jacobelli après l'article 4 de la proposition de loi visant à prévenir les ingérences étrangères en France (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3585",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3586",
+          "legislature": 16,
+          "numero": 3586,
+          "date": "2024-03-27",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 121 de M. Jacobelli après l'article 4 de la proposition de loi visant à prévenir les ingérences étrangères en France (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3586",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à poursuivre la dématérialisation de l'état civil du ministère de l'Europe et des affaires étrangères",
+      "legislature": 16,
+      "motsCles": [
+        "etranger"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V4052",
+          "legislature": 16,
+          "numero": 4052,
+          "date": "2024-06-05",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à poursuivre la dématérialisation de l'état civil du ministère de l'Europe et des affaires étrangères (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/4052",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "projet de loi pour contrôler l'immigration, améliorer l'intégration",
+      "legislature": 16,
+      "motsCles": [
+        "immigration"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3213",
+          "legislature": 16,
+          "numero": 3213,
+          "date": "2023-12-19",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble du projet de loi pour contrôler l'immigration, améliorer l'intégration (texte de la commission mixte paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3213",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3203",
+          "legislature": 16,
+          "numero": 3203,
+          "date": "2023-12-11",
+          "type": "motion",
+          "resultat": "adopté",
+          "titre": "la motion de rejet préalable, déposée par Mme Cyrielle Chatelain, du projet de loi pour contrôler l'immigration, améliorer l'intégration (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3203",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3212",
+          "legislature": 16,
+          "numero": 3212,
+          "date": "2023-12-19",
+          "type": "motion",
+          "resultat": "rejeté",
+          "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi pour contrôler l'immigration, améliorer l'intégration (texte de la commission mixte paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3212",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de résolution relative au dérapage du coût pour l’État de la couverture santé des étrangers en situation irrégulière et des demandeurs d’asile provenant de pays d’origine sûrs et au nombre d’étrangers en situation irrégulière",
+      "legislature": 16,
+      "motsCles": [
+        "etranger",
+        "asile"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V1780",
+          "legislature": 16,
+          "numero": 1780,
+          "date": "2023-06-07",
+          "type": "ensemble",
+          "resultat": "rejeté",
+          "titre": "la proposition de résolution relative au dérapage du coût pour l’État de la couverture santé des étrangers en situation irrégulière et des demandeurs d’asile provenant de pays d’origine sûrs et au nombre d’étrangers en situation irrégulière (art. 34-1 de la Constitution).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1780",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de résolution européenne visant à condamner la dérive illibérale et autoritaire du gouvernement géorgien et à réaffirmer notre soutien au destin européen de la Géorgie",
+      "legislature": 17,
+      "motsCles": [
+        "etranger"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V6519",
+          "legislature": 17,
+          "numero": 6519,
+          "date": "2026-05-11",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 23 de la commission des affaires étrangères à l'article unique de la proposition de résolution européenne visant à condamner la dérive illibérale et autoritaire du gouvernement géorgien et à réaffirmer notre soutien au destin européen de la Géorgie.",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6519",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6520",
+          "legislature": 17,
+          "numero": 6520,
+          "date": "2026-05-11",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 22 de la commission des affaires étrangères à l'article unique de la proposition de résolution européenne visant à condamner la dérive illibérale et autoritaire du gouvernement géorgien et à réaffirmer notre soutien au destin européen de la Géorgie.",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6520",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6521",
+          "legislature": 17,
+          "numero": 6521,
+          "date": "2026-05-11",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 21 de la commission des affaires étrangères à l'article unique de la proposition de résolution européenne visant à condamner la dérive illibérale et autoritaire du gouvernement géorgien et à réaffirmer notre soutien au destin européen de la Géorgie.",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6521",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de résolution européenne appelant à la préservation des principes démocratiques, des libertés publiques et de l’État de droit en Turquie",
+      "legislature": 17,
+      "motsCles": [
+        "etranger"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V5303",
+          "legislature": 17,
+          "numero": 5303,
+          "date": "2026-02-04",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 11 de de la commission des affaires étrangères et l'amendement identique suivant à l'article unique de la proposition de résolution européenne appelant à la préservation des principes démocratiques, des libertés publiques et de l’État de droit en Turquie.",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5303",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de résolution européenne appelant à la régulation des réseaux sociaux face aux ingérences étrangères",
+      "legislature": 17,
+      "motsCles": [
+        "etranger"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V2283",
+          "legislature": 17,
+          "numero": 2283,
+          "date": "2025-06-11",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article unique de la proposition de résolution européenne appelant à la régulation des réseaux sociaux face aux ingérences étrangères.",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2283",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à assouplir les conditions d’expulsion des étrangers constituant une menace grave pour l’ordre public",
+      "legislature": 17,
+      "motsCles": [
+        "etranger",
+        "expulsion"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V218",
+          "legislature": 17,
+          "numero": 218,
+          "date": "2024-10-31",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement de suppression n° 1 de Mme Élisa Martin et les amendements identiques suivants à l'article premier de la proposition de loi visant à assouplir les conditions d’expulsion des étrangers constituant une menace grave pour l’ordre public (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/218",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi constitutionnelle relative à la souveraineté de la France, à la nationalité, à l’immigration et à l’asile",
+      "legislature": 16,
+      "motsCles": [
+        "immigration",
+        "asile",
+        "nationalite"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3188",
+          "legislature": 16,
+          "numero": 3188,
+          "date": "2023-12-07",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi constitutionnelle relative à la souveraineté de la France, à la nationalité, à l’immigration et à l’asile (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3188",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3191",
+          "legislature": 16,
+          "numero": 3191,
+          "date": "2023-12-07",
+          "type": "article",
+          "resultat": "rejeté",
+          "titre": "l'article 7 (examen prioritaire) de la proposition de loi constitutionnelle relative à la souveraineté de la France, à la nationalité, à l’immigration et à l’asile (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3191",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3184",
+          "legislature": 16,
+          "numero": 3184,
+          "date": "2023-12-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 55 de M. Lucas avant l'article premier de la proposition de loi constitutionnelle relative à la souveraineté de la France, à la nationalité, à l’immigration et à l’asile (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3184",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3185",
+          "legislature": 16,
+          "numero": 3185,
+          "date": "2023-12-07",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 68 de M. Houlié et l'amendement identique suivant avant l'article premier de la proposition de loi constitutionnelle relative à la souveraineté de la France, à la nationalité, à l’immigration et à l’asile (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3185",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3186",
+          "legislature": 16,
+          "numero": 3186,
+          "date": "2023-12-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 18 de M. Caron et les amendements identiques suivants à l'article premier de la proposition de loi constitutionnelle relative à la souveraineté de la France, à la nationalité, à l’immigration et à l’asile (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3186",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3187",
+          "legislature": 16,
+          "numero": 3187,
+          "date": "2023-12-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 20 de Mme Le Pen à l'article premier de la proposition de loi constitutionnelle relative à la souveraineté de la France, à la nationalité, à l’immigration et à l’asile (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3187",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3189",
+          "legislature": 16,
+          "numero": 3189,
+          "date": "2023-12-07",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement de suppression n° 17 de Mme Le Pen et les amendements identiques suivants à l'article 6 (examen prioritaire) de la proposition de loi constitutionnelle relative à la souveraineté de la France, à la nationalité, à l’immigration et à l’asile (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3189",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3190",
+          "legislature": 16,
+          "numero": 3190,
+          "date": "2023-12-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 2 de Mme Ménard à l'article 7 (examen prioritaire) de la proposition de loi constitutionnelle relative à la souveraineté de la France, à la nationalité, à l’immigration et à l’asile (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3190",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3192",
+          "legislature": 16,
+          "numero": 3192,
+          "date": "2023-12-07",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement de suppression n° 66 de M. Lucas et les amendements identiques suivants à l'article 8 (examen prioritaire) de la proposition de loi constitutionnelle relative à la souveraineté de la France, à la nationalité, à l’immigration et à l’asile (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3192",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3193",
+          "legislature": 16,
+          "numero": 3193,
+          "date": "2023-12-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 21 de Mme Le Pen après l'article premier de la proposition de loi constitutionnelle relative à la souveraineté de la France, à la nationalité, à l’immigration et à l’asile (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3193",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3194",
+          "legislature": 16,
+          "numero": 3194,
+          "date": "2023-12-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 120 de M. Ciotti après l'article premier de la proposition de loi constitutionnelle relative à la souveraineté de la France, à la nationalité, à l’immigration et à l’asile (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3194",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à assouplir les conditions d'expulsion des étrangers constituant une menace grave pour l'ordre public",
+      "legislature": 16,
+      "motsCles": [
+        "etranger",
+        "expulsion"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V655",
+          "legislature": 16,
+          "numero": 655,
+          "date": "2022-12-01",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 117 de Mme Keloua Hachi et l'amendement identique suivant à l'article unique de la proposition de loi visant à assouplir les conditions d'expulsion des étrangers constituant une menace grave pour l'ordre public (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/655",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V656",
+          "legislature": 16,
+          "numero": 656,
+          "date": "2022-12-01",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 6 de M. Kamardine après l'article unique de la proposition de loi visant à assouplir les conditions d'expulsion des étrangers constituant une menace grave pour l'ordre public (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/656",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi portant création d'une juridiction spécialisée dans l'expulsion des étrangers délinquants",
+      "legislature": 16,
+      "motsCles": [
+        "etranger",
+        "expulsion"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V657",
+          "legislature": 16,
+          "numero": 657,
+          "date": "2022-12-01",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement de suppression n° 3 de M. Kerbrat et les amendements identiques suivants à l'article premier de la proposition de loi portant création d'une juridiction spécialisée dans l'expulsion des étrangers délinquants (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/657",
+          "dejaRetenu": false
+        }
+      ]
+    }
+  ]
+}

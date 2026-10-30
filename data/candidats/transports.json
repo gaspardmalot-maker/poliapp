@@ -1,0 +1,1656 @@
+{
+  "sujet": "transports",
+  "titre": "Transports et mobilité",
+  "genereLe": "2026-10-30T15:04:08.339Z",
+  "textes": [
+    {
+      "texte": "proposition de loi visant à accélérer le développement du transport maritime à propulsion vélique",
+      "legislature": 17,
+      "motsCles": [
+        "transport"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V6541",
+          "legislature": 17,
+          "numero": 6541,
+          "date": "2026-05-12",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à accélérer le développement du transport maritime à propulsion vélique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6541",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6528",
+          "legislature": 17,
+          "numero": 6528,
+          "date": "2026-05-12",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi visant à accélérer le développement du transport maritime à propulsion vélique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6528",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6530",
+          "legislature": 17,
+          "numero": 6530,
+          "date": "2026-05-12",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 de la proposition de loi visant à accélérer le développement du transport maritime à propulsion vélique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6530",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6533",
+          "legislature": 17,
+          "numero": 6533,
+          "date": "2026-05-12",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 4 de la proposition de loi visant à accélérer le développement du transport maritime à propulsion vélique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6533",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6537",
+          "legislature": 17,
+          "numero": 6537,
+          "date": "2026-05-12",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 5 de la proposition de loi visant à accélérer le développement du transport maritime à propulsion vélique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6537",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6526",
+          "legislature": 17,
+          "numero": 6526,
+          "date": "2026-05-12",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 50 du Gouvernement à l'article premier de la proposition de loi visant à accélérer le développement du transport maritime à propulsion vélique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6526",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6527",
+          "legislature": 17,
+          "numero": 6527,
+          "date": "2026-05-12",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 41 de M. Tavel à l'article premier de la proposition de loi visant à accélérer le développement du transport maritime à propulsion vélique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6527",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6529",
+          "legislature": 17,
+          "numero": 6529,
+          "date": "2026-05-12",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 4 de M. Coquerel et les amendements identiques suivants de suppression de l'article 2 de la proposition de loi visant à accélérer le développement du transport maritime à propulsion vélique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6529",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6531",
+          "legislature": 17,
+          "numero": 6531,
+          "date": "2026-05-12",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 17 de Mme Firmin Le Bodo et l'amendement identique suivant à l'article 3 de la proposition de loi visant à accélérer le développement du transport maritime à propulsion vélique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6531",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6532",
+          "legislature": 17,
+          "numero": 6532,
+          "date": "2026-05-12",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 18 de Mme Firmin Le Bodo et l'amendement identique suivant à l'article 3 de la proposition de loi visant à accélérer le développement du transport maritime à propulsion vélique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6532",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6534",
+          "legislature": 17,
+          "numero": 6534,
+          "date": "2026-05-12",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 9 de M. Coquerel à l'article 5 de la proposition de loi visant à accélérer le développement du transport maritime à propulsion vélique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6534",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6535",
+          "legislature": 17,
+          "numero": 6535,
+          "date": "2026-05-12",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 8 de M. Tavel à l'article 5 de la proposition de loi visant à accélérer le développement du transport maritime à propulsion vélique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6535",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6536",
+          "legislature": 17,
+          "numero": 6536,
+          "date": "2026-05-12",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 38 de M. Tavel à l'article 5 de la proposition de loi visant à accélérer le développement du transport maritime à propulsion vélique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6536",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6538",
+          "legislature": 17,
+          "numero": 6538,
+          "date": "2026-05-12",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 14 de M. Coquerel et l'amendement identique suivant de suppression de l'article 6 de la proposition de loi visant à accélérer le développement du transport maritime à propulsion vélique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6538",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6539",
+          "legislature": 17,
+          "numero": 6539,
+          "date": "2026-05-12",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 15 de M. Tavel et l'amendement identique suivant de suppression de l'article 7 de la proposition de loi visant à accélérer le développement du transport maritime à propulsion vélique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6539",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6540",
+          "legislature": 17,
+          "numero": 6540,
+          "date": "2026-05-12",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 12 de M. Tavel après l'article 7 de la proposition de loi visant à accélérer le développement du transport maritime à propulsion vélique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6540",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi créant l'homicide routier et visant à lutter contre la violence routière",
+      "legislature": 17,
+      "motsCles": [
+        "routier",
+        "routiere"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V2217",
+          "legislature": 17,
+          "numero": 2217,
+          "date": "2025-06-03",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi créant l'homicide routier et visant à lutter contre la violence routière (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2217",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V2216",
+          "legislature": 17,
+          "numero": 2216,
+          "date": "2025-06-03",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi créant l'homicide routier et visant à lutter contre la violence routière (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2216",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne en matière économique, financière, environnementale, énergétique, de transport, de santé et de circulation des personnes",
+      "legislature": 17,
+      "motsCles": [
+        "transport"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V1203",
+          "legislature": 17,
+          "numero": 1203,
+          "date": "2025-04-02",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble du projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne en matière économique, financière, environnementale, énergétique, de transport, de santé et de circulation des personnes (texte de la commission mixte paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1203",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V591",
+          "legislature": 17,
+          "numero": 591,
+          "date": "2025-01-22",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 du projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne en matière économique, financière, environnementale, énergétique, de transport, de santé et de circulation des personnes (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/591",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V594",
+          "legislature": 17,
+          "numero": 594,
+          "date": "2025-01-22",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 3 du projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne en matière économique, financière, environnementale, énergétique, de transport, de santé et de circulation des personnes (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/594",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V590",
+          "legislature": 17,
+          "numero": 590,
+          "date": "2025-01-22",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 218 du Gouvernement à l'article premier du projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne en matière économique, financière, environnementale, énergétique, de transport, de santé et de circulation des personnes (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/590",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V592",
+          "legislature": 17,
+          "numero": 592,
+          "date": "2025-01-22",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 219 du Gouvernement à l'article 3 du projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne en matière économique, financière, environnementale, énergétique, de transport, de santé et de circulation des personnes (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/592",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V593",
+          "legislature": 17,
+          "numero": 593,
+          "date": "2025-01-22",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 15 de M. Cernon à l'article 3 du projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne en matière économique, financière, environnementale, énergétique, de transport, de santé et de circulation des personnes (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/593",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi relative au renforcement de la sûreté dans les transports",
+      "legislature": 17,
+      "motsCles": [
+        "transport"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V1041",
+          "legislature": 17,
+          "numero": 1041,
+          "date": "2025-03-18",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi relative au renforcement de la sûreté dans les transports (texte de la commission mixte paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1041",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V743",
+          "legislature": 17,
+          "numero": 743,
+          "date": "2025-02-10",
+          "type": "motion",
+          "resultat": "rejeté",
+          "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/743",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1040",
+          "legislature": 17,
+          "numero": 1040,
+          "date": "2025-03-18",
+          "type": "motion",
+          "resultat": "rejeté",
+          "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, de la proposition de loi relative au renforcement de la sûreté dans les transports (texte de la commission mixte paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1040",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V759",
+          "legislature": 17,
+          "numero": 759,
+          "date": "2025-02-11",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/759",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V762",
+          "legislature": 17,
+          "numero": 762,
+          "date": "2025-02-11",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/762",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V765",
+          "legislature": 17,
+          "numero": 765,
+          "date": "2025-02-11",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 6 de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/765",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V768",
+          "legislature": 17,
+          "numero": 768,
+          "date": "2025-02-11",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 7 de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/768",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V770",
+          "legislature": 17,
+          "numero": 770,
+          "date": "2025-02-11",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 8 de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/770",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V771",
+          "legislature": 17,
+          "numero": 771,
+          "date": "2025-02-11",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 8 quater de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/771",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V783",
+          "legislature": 17,
+          "numero": 783,
+          "date": "2025-02-11",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 17 de la proposition de loi relative au renforcement de la sûreté dans les transports ( première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/783",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V784",
+          "legislature": 17,
+          "numero": 784,
+          "date": "2025-02-11",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 18 de la proposition de loi relative au renforcement de la sûreté dans les transports ( première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/784",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V744",
+          "legislature": 17,
+          "numero": 744,
+          "date": "2025-02-10",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 2 de M. Vicot et les amendements identiques suivants à l'article premier de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/744",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V745",
+          "legislature": 17,
+          "numero": 745,
+          "date": "2025-02-10",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 100 de M. Portes à l'article premier de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/745",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V746",
+          "legislature": 17,
+          "numero": 746,
+          "date": "2025-02-10",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 125 (rect.) de Mme Élisa Martin à l'article premier de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/746",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V747",
+          "legislature": 17,
+          "numero": 747,
+          "date": "2025-02-10",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 101 de M. Portes à l'article premier de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/747",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V749",
+          "legislature": 17,
+          "numero": 749,
+          "date": "2025-02-10",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 3 (rect.) de M. Vicot à l'article premier de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/749",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V750",
+          "legislature": 17,
+          "numero": 750,
+          "date": "2025-02-11",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 34 de M. Gillet et l'amendement identique suivant à l'article premier de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/750",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V751",
+          "legislature": 17,
+          "numero": 751,
+          "date": "2025-02-11",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 36 de M. Gouffier Valente à l'article premier de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/751",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V752",
+          "legislature": 17,
+          "numero": 752,
+          "date": "2025-02-11",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 75 de Mme Regol à l'article premier de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/752",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V753",
+          "legislature": 17,
+          "numero": 753,
+          "date": "2025-02-11",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 50 de M. Jenft et l'amendement identique suivant à l'article premier de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/753",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V754",
+          "legislature": 17,
+          "numero": 754,
+          "date": "2025-02-11",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 111 de M. Di Filippo et l'amendement identique suivant à l'article premier de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/754",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V755",
+          "legislature": 17,
+          "numero": 755,
+          "date": "2025-02-11",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 51 (rect.) de M. Jenft et l'amendement identique suivant à l'article premier de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/755",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V756",
+          "legislature": 17,
+          "numero": 756,
+          "date": "2025-02-11",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 22 de M. Gouffier Valente à l'article premier de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/756",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V757",
+          "legislature": 17,
+          "numero": 757,
+          "date": "2025-02-11",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 76 de Mme Regol à l'article premier de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/757",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V760",
+          "legislature": 17,
+          "numero": 760,
+          "date": "2025-02-11",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 18 de M. Boucard et les amendements identiques suivants après l'article premier de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/760",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V761",
+          "legislature": 17,
+          "numero": 761,
+          "date": "2025-02-11",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 5 de M. Vicot et les amendements identiques suivants à l'article 2 de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/761",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V763",
+          "legislature": 17,
+          "numero": 763,
+          "date": "2025-02-11",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 17 (2ème rect.) de M. Boucard après l'article 2 de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/763",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V764",
+          "legislature": 17,
+          "numero": 764,
+          "date": "2025-02-11",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 189 de M. Ray et l'amendement identique suivant après l'article 3 de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/764",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V766",
+          "legislature": 17,
+          "numero": 766,
+          "date": "2025-02-11",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 70 de M. Rancoule à l'article 7 de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/766",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V767",
+          "legislature": 17,
+          "numero": 767,
+          "date": "2025-02-11",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 132 de Mme Duby-Muller et l'amendement identique suivant à l'article 7 de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/767",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V769",
+          "legislature": 17,
+          "numero": 769,
+          "date": "2025-02-11",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 200 de M. Boucard après l'article 7 de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/769",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V772",
+          "legislature": 17,
+          "numero": 772,
+          "date": "2025-02-11",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 85 de Mme Regol après l'article 9 de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/772",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V773",
+          "legislature": 17,
+          "numero": 773,
+          "date": "2025-02-11",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 237 (rect.) du Gouvernement et l'amendement identique suivant après l'article 9 de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/773",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V774",
+          "legislature": 17,
+          "numero": 774,
+          "date": "2025-02-11",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 30 de M. Gouffier Valente et l'amendement identique suivant à l'article 11 (supprimé) de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/774",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V775",
+          "legislature": 17,
+          "numero": 775,
+          "date": "2025-02-11",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 55 de M. Jenft à l'article 13 (supprimé) de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/775",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V776",
+          "legislature": 17,
+          "numero": 776,
+          "date": "2025-02-11",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 61 de M. Pauget et les amendements identiques suivants à l'article 13 (supprimé) de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/776",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V777",
+          "legislature": 17,
+          "numero": 777,
+          "date": "2025-02-11",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 32 (rect.) de M. Gouffier Valente et l'amendement suivant à l'article 14 de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/777",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V778",
+          "legislature": 17,
+          "numero": 778,
+          "date": "2025-02-11",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 58 de M. Jenft à l'article 14 de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/778",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V779",
+          "legislature": 17,
+          "numero": 779,
+          "date": "2025-02-11",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 208 de M. Amirshahi à l'article 15 de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture)",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/779",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V780",
+          "legislature": 17,
+          "numero": 780,
+          "date": "2025-02-11",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 56 de M. Jenft à l'article 15 de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/780",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V781",
+          "legislature": 17,
+          "numero": 781,
+          "date": "2025-02-11",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 74 de M. Jenft à l'article 16 (supprimé) de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/781",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V782",
+          "legislature": 17,
+          "numero": 782,
+          "date": "2025-02-11",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 47 de M. Latombe et l'amendement identique suivant à l'article 17 de la proposition de loi relative au renforcement de la sûreté dans les transports ( première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/782",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V748",
+          "legislature": 17,
+          "numero": 748,
+          "date": "2025-02-10",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 270 de M. Gouffier Valente à l'amendement n° 3 (rect.) de M. Vicot à l'article premier de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/748",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V758",
+          "legislature": 17,
+          "numero": 758,
+          "date": "2025-02-11",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 255 de M. Gouffier Valente à l'amendement n° 88 de Mme Regol à l'article premier de la proposition de loi relative au renforcement de la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/758",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi relative à la sûreté dans les transports",
+      "legislature": 17,
+      "motsCles": [
+        "transport"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V788",
+          "legislature": 17,
+          "numero": 788,
+          "date": "2025-02-11",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi relative à la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/788",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V786",
+          "legislature": 17,
+          "numero": 786,
+          "date": "2025-02-11",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 19 de la proposition de loi relative à la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/786",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V785",
+          "legislature": 17,
+          "numero": 785,
+          "date": "2025-02-11",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1 de Mme Lise Magnier à l'article 19 de la proposition de loi relative à la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/785",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V787",
+          "legislature": 17,
+          "numero": 787,
+          "date": "2025-02-11",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 73 de M. Sanvert à l'article 19 de la proposition de loi relative à la sûreté dans les transports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/787",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à favoriser le réemploi des véhicules, au service des mobilités durables et solidaires sur les territoires",
+      "legislature": 16,
+      "motsCles": [
+        "mobilite",
+        "vehicule"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3622",
+          "legislature": 16,
+          "numero": 3622,
+          "date": "2024-03-27",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à favoriser le réemploi des véhicules, au service des mobilités durables et solidaires sur les territoires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3622",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3618",
+          "legislature": 16,
+          "numero": 3618,
+          "date": "2024-03-27",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 8 de M. Millienne à l'article premier de la proposition de loi visant à favoriser le réemploi des véhicules, au service des mobilités durables et solidaires sur les territoires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3618",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3619",
+          "legislature": 16,
+          "numero": 3619,
+          "date": "2024-03-27",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 9 de M. Millienne à l'article premier de la proposition de loi visant à favoriser le réemploi des véhicules, au service des mobilités durables et solidaires sur les territoires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3619",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3620",
+          "legislature": 16,
+          "numero": 3620,
+          "date": "2024-03-27",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 10 de M. Millienne à l'article premier de la proposition de loi visant à favoriser le réemploi des véhicules, au service des mobilités durables et solidaires sur les territoires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3620",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3621",
+          "legislature": 16,
+          "numero": 3621,
+          "date": "2024-03-27",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 11 de M. Millienne à l'article premier de la proposition de loi visant à favoriser le réemploi des véhicules, au service des mobilités durables et solidaires sur les territoires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3621",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à faciliter la mise à disposition aux régions du réseau routier national non concédé",
+      "legislature": 16,
+      "motsCles": [
+        "routier"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3370",
+          "legislature": 16,
+          "numero": 3370,
+          "date": "2024-02-14",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à faciliter la mise à disposition aux régions du réseau routier national non concédé (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3370",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3369",
+          "legislature": 16,
+          "numero": 3369,
+          "date": "2024-02-14",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 2 de M. Léaument à l'article unique de la proposition de loi visant à faciliter la mise à disposition aux régions du réseau routier national non concédé (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3369",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi créant l'homicide routier et visant à lutter contre la violence routière",
+      "legislature": 16,
+      "motsCles": [
+        "routier",
+        "routiere"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3296",
+          "legislature": 16,
+          "numero": 3296,
+          "date": "2024-01-31",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi créant l'homicide routier et visant à lutter contre la violence routière (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3296",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3295",
+          "legislature": 16,
+          "numero": 3295,
+          "date": "2024-01-30",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi créant l'homicide routier et visant à lutter contre la violence routière (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3295",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3290",
+          "legislature": 16,
+          "numero": 3290,
+          "date": "2024-01-30",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 88 de M. Meurin à l'article premier de la proposition de loi créant l'homicide routier et visant à lutter contre la violence routière (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3290",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3291",
+          "legislature": 16,
+          "numero": 3291,
+          "date": "2024-01-30",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 42 de Mme Lanlo et les amendements identiques suivants à l'article premier de la proposition de loi créant l'homicide routier et visant à lutter contre la violence routière (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3291",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3292",
+          "legislature": 16,
+          "numero": 3292,
+          "date": "2024-01-30",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 14 de Mme Untermaier à l'article premier de la proposition de loi créant l'homicide routier et visant à lutter contre la violence routière (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3292",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3293",
+          "legislature": 16,
+          "numero": 3293,
+          "date": "2024-01-30",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 15 de Mme Untermaier à l'article premier de la proposition de loi créant l'homicide routier et visant à lutter contre la violence routière (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3293",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3294",
+          "legislature": 16,
+          "numero": 3294,
+          "date": "2024-01-30",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 16 de Mme Untermaier à l'article premier de la proposition de loi créant l'homicide routier et visant à lutter contre la violence routière (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3294",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi relative à la prévisibilité de l'organisation des services de la navigation aérienne en cas de mouvement social et à l'adéquation entre l'ampleur de la grève et la réduction du trafic",
+      "legislature": 16,
+      "motsCles": [
+        "aerien"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V2988",
+          "legislature": 16,
+          "numero": 2988,
+          "date": "2023-11-15",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi relative à la prévisibilité de l'organisation des services de la navigation aérienne en cas de mouvement social et à l'adéquation entre l'ampleur de la grève et la réduction du trafic (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2988",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2984",
+          "legislature": 16,
+          "numero": 2984,
+          "date": "2023-11-15",
+          "type": "motion",
+          "resultat": "rejeté",
+          "titre": "la motion de rejet préalable, déposée par M. Boris Vallaud, de la proposition de loi relative à la prévisibilité de l'organisation des services de la navigation aérienne en cas de mouvement social et à l'adéquation entre l'ampleur de la grève et la réduction du trafic (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2984",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2987",
+          "legislature": 16,
+          "numero": 2987,
+          "date": "2023-11-15",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article unique de la proposition de loi relative à la prévisibilité de l'organisation des services de la navigation aérienne en cas de mouvement social et à l'adéquation entre l'ampleur de la grève et la réduction du trafic (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2987",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2985",
+          "legislature": 16,
+          "numero": 2985,
+          "date": "2023-11-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 2 de M. Portes et les amendements identiques suivants à l'article unique de la proposition de loi relative à la prévisibilité de l'organisation des services de la navigation aérienne en cas de mouvement social et à l'adéquation entre l'ampleur de la grève et la réduction du trafic (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2985",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2986",
+          "legislature": 16,
+          "numero": 2986,
+          "date": "2023-11-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 5  de Mme Belluco à l'article unique de la proposition de loi relative à la prévisibilité de l'organisation des services de la navigation aérienne en cas de mouvement social et à l'adéquation entre l'ampleur de la grève et la réduction du trafic (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2986",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à lutter contre le dumping social sur le transmanche et à renforcer la sécurité du transport maritime",
+      "legislature": 16,
+      "motsCles": [
+        "transport"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V2391",
+          "legislature": 16,
+          "numero": 2391,
+          "date": "2023-07-19",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à lutter contre le dumping social sur le transmanche et à renforcer la sécurité du transport maritime (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2391",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à faciliter le passage et l'obtention de l'examen du permis de conduire",
+      "legislature": 16,
+      "motsCles": [
+        "permis de conduire"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V1801",
+          "legislature": 16,
+          "numero": 1801,
+          "date": "2023-06-12",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à faciliter le passage et l'obtention de l'examen du permis de conduire (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1801",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à faciliter la mobilité internationale des alternants, pour un « Erasmus de l’apprentissage »",
+      "legislature": 16,
+      "motsCles": [
+        "mobilite"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V1503",
+          "legislature": 16,
+          "numero": 1503,
+          "date": "2023-05-11",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à faciliter la mobilité internationale des alternants, pour un « Erasmus de l’apprentissage » (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1503",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1502",
+          "legislature": 16,
+          "numero": 1502,
+          "date": "2023-05-11",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 20 (rect.) du Gouvernement et l'amendement identique suivant après l'article 2 de la proposition de loi visant à faciliter la mobilité internationale des alternants, pour un « Erasmus de l’apprentissage » (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1502",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à faciliter le passage et l’obtention de l’examen du permis de conduire",
+      "legislature": 16,
+      "motsCles": [
+        "permis de conduire"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V1298",
+          "legislature": 16,
+          "numero": 1298,
+          "date": "2023-03-27",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à faciliter le passage et l’obtention de l’examen du permis de conduire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1298",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1295",
+          "legislature": 16,
+          "numero": 1295,
+          "date": "2023-03-27",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi visant à faciliter le passage et l’obtention de l’examen du permis de conduire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1295",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1296",
+          "legislature": 16,
+          "numero": 1296,
+          "date": "2023-03-27",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 de la proposition de loi visant à faciliter le passage et l’obtention de l’examen du permis de conduire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1296",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1297",
+          "legislature": 16,
+          "numero": 1297,
+          "date": "2023-03-27",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 3 de la proposition de loi visant à faciliter le passage et l’obtention de l’examen du permis de conduire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1297",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne dans les domaines de l'économie, de la santé, du travail, des transports et de l'agriculture",
+      "legislature": 16,
+      "motsCles": [
+        "transport"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V888",
+          "legislature": 16,
+          "numero": 888,
+          "date": "2023-01-24",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble du projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne dans les domaines de l'économie, de la santé, du travail, des transports et de l'agriculture (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/888",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1098",
+          "legislature": 16,
+          "numero": 1098,
+          "date": "2023-02-28",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble du projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne dans les domaines de l'économie, de la santé, du travail, des transports et de l'agriculture (texte de la commission mixte paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1098",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V882",
+          "legislature": 16,
+          "numero": 882,
+          "date": "2023-01-24",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 11 du projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne dans les domaines de l'économie, de la santé, du travail, des transports et de l'agriculture (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/882",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V883",
+          "legislature": 16,
+          "numero": 883,
+          "date": "2023-01-24",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 12 du projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne dans les domaines de l'économie, de la santé, du travail, des transports et de l'agriculture (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/883",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V885",
+          "legislature": 16,
+          "numero": 885,
+          "date": "2023-01-24",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 26 du projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne dans les domaines de l'économie, de la santé, du travail, des transports et de l'agriculture (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/885",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V877",
+          "legislature": 16,
+          "numero": 877,
+          "date": "2023-01-24",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 61 (rect.) de M. Labaronne à l'article 5 bis du projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne dans les domaines de l'économie, de la santé, du travail, des transports et de l'agriculture (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/877",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V878",
+          "legislature": 16,
+          "numero": 878,
+          "date": "2023-01-24",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 15 de Mme Amrani et l'amendement identique suivant à l'article 7 du projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne dans les domaines de l'économie, de la santé, du travail, des transports et de l'agriculture (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/878",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V879",
+          "legislature": 16,
+          "numero": 879,
+          "date": "2023-01-24",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 19 de M. Bernalicis et l'amendement identique suivant à l'article 8 du projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne dans les domaines de l'économie, de la santé, du travail, des transports et de l'agriculture (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/879",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V880",
+          "legislature": 16,
+          "numero": 880,
+          "date": "2023-01-24",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 3 de M. Guitton et les amendements identiques suivants à l'article 9 du projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne dans les domaines de l'économie, de la santé, du travail, des transports et de l'agriculture (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/880",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V881",
+          "legislature": 16,
+          "numero": 881,
+          "date": "2023-01-24",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 4 de M. Guitton et les amendements identiques suivants à l'article 11 du projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne dans les domaines de l'économie, de la santé, du travail, des transports et de l'agriculture (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/881",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V884",
+          "legislature": 16,
+          "numero": 884,
+          "date": "2023-01-24",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 78 de M. Villedieu à l'article 26 du projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne dans les domaines de l'économie, de la santé, du travail, des transports et de l'agriculture (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/884",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V886",
+          "legislature": 16,
+          "numero": 886,
+          "date": "2023-01-24",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 20 de Mme Trouvé à l'article 30 du projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne dans les domaines de l'économie, de la santé, du travail, des transports et de l'agriculture (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/886",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V887",
+          "legislature": 16,
+          "numero": 887,
+          "date": "2023-01-24",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 6 de M. Raphaël Gérard après l'article 31 du projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne dans les domaines de l'économie, de la santé, du travail, des transports et de l'agriculture (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/887",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à abroger les zones à faibles émissions-mobilités",
+      "legislature": 17,
+      "motsCles": [
+        "mobilite"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V8613",
+          "legislature": 17,
+          "numero": 8613,
+          "date": "2026-10-08",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 7 de Mme Belluco de suppression de l'article unique de la proposition de loi visant à abroger les zones à faibles émissions-mobilités (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8613",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V8614",
+          "legislature": 17,
+          "numero": 8614,
+          "date": "2026-10-08",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 29 de M. Maillard à l'article unique de la proposition de loi visant à abroger les zones à faibles émissions-mobilités (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8614",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V8617",
+          "legislature": 17,
+          "numero": 8617,
+          "date": "2026-10-08",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 10 de Mme Nosbé à l'article unique de la proposition de loi visant à abroger les zones à faibles émissions-mobilités (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8617",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V8618",
+          "legislature": 17,
+          "numero": 8618,
+          "date": "2026-10-08",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 1 de M. Meurin à l'article unique de la proposition de loi visant à abroger les zones à faibles émissions-mobilités (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8618",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V8621",
+          "legislature": 17,
+          "numero": 8621,
+          "date": "2026-10-08",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 11 de M. Carrière à l'article unique de la proposition de loi visant à abroger les zones à faibles émissions-mobilités (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8621",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V8615",
+          "legislature": 17,
+          "numero": 8615,
+          "date": "2026-10-08",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 47 de M. Sitzenstuhl à l'amendement n° 10 de Mme Nosbé à l'article unique de la proposition de loi visant à abroger les zones à faibles émissions-mobilités (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8615",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V8616",
+          "legislature": 17,
+          "numero": 8616,
+          "date": "2026-10-08",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 35 de Mme Belluco à l'amendement n° 10 de Mme Nosbé à l'article unique de la proposition de loi visant à abroger les zones à faibles émissions-mobilités (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8616",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V8619",
+          "legislature": 17,
+          "numero": 8619,
+          "date": "2026-10-08",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 36 de Mme Belluco à l'amendement n° 11 de M. Carrière à l'article unique de la proposition de loi visant à abroger les zones à faibles émissions-mobilités (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8619",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V8620",
+          "legislature": 17,
+          "numero": 8620,
+          "date": "2026-10-08",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 48 de M. Sitzenstuhl à l'amendement n° 11 de M. Carrière à l'article unique de la proposition de loi visant à abroger les zones à faibles émissions-mobilités (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8620",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de résolution visant à évaluer précisément le coût réel et sociétal de l’insécurité routière et son impact sur les finances publiques",
+      "legislature": 17,
+      "motsCles": [
+        "routier",
+        "routiere"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V7349",
+          "legislature": 17,
+          "numero": 7349,
+          "date": "2026-06-04",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l’article unique de la proposition de résolution visant à évaluer précisément le coût réel et sociétal de l’insécurité routière et son impact sur les finances publiques (article 34-1 de la Constitution).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7349",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "projet de loi autorisant la ratification du Protocole du 30 avril 2010 à la Convention internationale de 1996 sur la responsabilité et l’indemnisation pour les dommages liés au transport par mer de substances nocives et potentiellement dangereuses",
+      "legislature": 16,
+      "motsCles": [
+        "transport"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V2389",
+          "legislature": 16,
+          "numero": 2389,
+          "date": "2023-07-19",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article unique du projet de loi autorisant la ratification du Protocole du 30 avril 2010 à la Convention internationale de 1996 sur la responsabilité et l’indemnisation pour les dommages liés au transport par mer de substances nocives et potentiellement dangereuses (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2389",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "projet de loi autorisant l'approbation de l'avenant entre le Gouvernement de la République française et le Gouvernement du Grand-Duché de Luxembourg au protocole d'accord du 20 mars 2018 relatif au renforcement de la coopération en matière de transports transfrontaliers et à la convention du 23 octobre 2020 relative au financement d'aménagements visant à renforcer la desserte ferroviaire et favoriser les mobilités durables",
+      "legislature": 16,
+      "motsCles": [
+        "transport",
+        "ferroviaire",
+        "mobilite"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V2105",
+          "legislature": 16,
+          "numero": 2105,
+          "date": "2023-06-29",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article unique du projet de loi autorisant l'approbation de l'avenant entre le Gouvernement de la République française et le Gouvernement du Grand-Duché de Luxembourg au protocole d'accord du 20 mars 2018 relatif au renforcement de la coopération en matière de transports transfrontaliers et à la convention du 23 octobre 2020 relative au financement d'aménagements visant à renforcer la desserte ferroviaire et favoriser les mobilités durables (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2105",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à supprimer les zones à faibles émissions mobilité",
+      "legislature": 16,
+      "motsCles": [
+        "mobilite"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V827",
+          "legislature": 16,
+          "numero": 827,
+          "date": "2023-01-12",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement de suppression n° 1 de Mme Belluco et les amendements identiques suivants à l'article premier de la proposition de loi visant à supprimer les zones à faibles émissions mobilité (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/827",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V828",
+          "legislature": 16,
+          "numero": 828,
+          "date": "2023-01-12",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 25 de M. Meurin après l'article 2 de la proposition de loi visant à supprimer les zones à faibles émissions mobilité (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/828",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "projet de loi de finances pour 2023",
+      "legislature": 16,
+      "motsCles": [
+        "mobilite"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V487",
+          "legislature": 16,
+          "numero": 487,
+          "date": "2022-10-31",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 2271 de M. Jean-Philippe Tanguy à l'article 27 et État B du projet de loi de finances pour 2023 (première lecture) - Mission Écologie, développement et mobilités durables.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/487",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V488",
+          "legislature": 16,
+          "numero": 488,
+          "date": "2022-10-31",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 403 de M. Meurin à l'article 27 et État B de la seconde partie du projet de loi de finances pour 2023 (première lecture) - Mission Écologie, développement et mobilités durables.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/488",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V489",
+          "legislature": 16,
+          "numero": 489,
+          "date": "2022-10-31",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 404 de M. Meurin à l'article 27 et État B de la seconde partie du projet de loi de finances pour 2023 (première lecture) - Mission Écologie, développement et mobilités durables.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/489",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V490",
+          "legislature": 16,
+          "numero": 490,
+          "date": "2022-10-31",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 2200 de Mme Battistel à l'article 27 et État B de la seconde partie du projet de loi de finances pour 2023 (première lecture) - Mission Écologie, développement et mobilités durables.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/490",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V491",
+          "legislature": 16,
+          "numero": 491,
+          "date": "2022-10-31",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 516 de M. Guy Bricout et l'amendement identique suivant à l'article 27 et État B de la seconde partie du projet de loi de finances pour 2023 (première lecture) - Mission Écologie, développement et mobilités durables.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/491",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V492",
+          "legislature": 16,
+          "numero": 492,
+          "date": "2022-10-31",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 303 de M. Pancher à l'article 27 et État B de la seconde partie du projet de loi de finances pour 2023 (première lecture) - Mission Écologie, développement et mobilités durables.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/492",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V493",
+          "legislature": 16,
+          "numero": 493,
+          "date": "2022-10-31",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 345 de M. Leseul à l'article 27 et État B de la seconde partie du projet de loi de finances pour 2023 (première lecture) - Mission Écologie, développement et mobilités durables.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/493",
+          "dejaRetenu": false
+        }
+      ]
+    }
+  ]
+}

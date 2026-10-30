@@ -1,0 +1,326 @@
+{
+  "meta": {
+    "source": {
+      "16": {
+        "scrutins": "https://data.assemblee-nationale.fr/static/openData/repository/16/loi/scrutins/Scrutins.json.zip",
+        "organes": "https://data.assemblee-nationale.fr/static/openData/repository/16/amo/tous_acteurs_mandats_organes_xi_legislature/AMO30_tous_acteurs_tous_mandats_tous_organes_historique.json.zip"
+      },
+      "17": {
+        "scrutins": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip",
+        "organes": "https://data.assemblee-nationale.fr/static/openData/repository/17/amo/tous_acteurs_mandats_organes_xi_legislature/AMO30_tous_acteurs_tous_mandats_tous_organes_historique.json.zip"
+      }
+    },
+    "licence": "Licence Ouverte / Etalab 2.0",
+    "recupereLe": "2026-10-30T15:03:46.317Z"
+  },
+  "groupes": [
+    {
+      "sigle": "LFI-NFP",
+      "nom": "La France insoumise - Nouveau Front Populaire",
+      "actif": true,
+      "periodes": [
+        {
+          "id": "PO845413",
+          "legislature": 17,
+          "nom": "La France insoumise - Nouveau Front Populaire",
+          "dateDebut": "2024-07-18",
+          "dateFin": null
+        }
+      ]
+    },
+    {
+      "sigle": "LFI-NUPES",
+      "nom": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+      "actif": false,
+      "periodes": [
+        {
+          "id": "PO800490",
+          "legislature": 16,
+          "nom": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+          "dateDebut": "2022-06-28",
+          "dateFin": "2024-06-09"
+        }
+      ]
+    },
+    {
+      "sigle": "GDR",
+      "nom": "Gauche Démocrate et Républicaine",
+      "actif": true,
+      "periodes": [
+        {
+          "id": "PO845514",
+          "legislature": 17,
+          "nom": "Gauche Démocrate et Républicaine",
+          "dateDebut": "2024-07-18",
+          "dateFin": null
+        }
+      ]
+    },
+    {
+      "sigle": "GDR-NUPES",
+      "nom": "Gauche démocrate et républicaine - NUPES",
+      "actif": false,
+      "periodes": [
+        {
+          "id": "PO800502",
+          "legislature": 16,
+          "nom": "Gauche démocrate et républicaine - NUPES",
+          "dateDebut": "2022-06-28",
+          "dateFin": "2024-06-09"
+        }
+      ]
+    },
+    {
+      "sigle": "EcoS",
+      "nom": "Écologiste et Social",
+      "actif": true,
+      "periodes": [
+        {
+          "id": "PO845439",
+          "legislature": 17,
+          "nom": "Écologiste et Social",
+          "dateDebut": "2024-07-18",
+          "dateFin": null
+        }
+      ]
+    },
+    {
+      "sigle": "Ecolo-NUPES",
+      "nom": "Écologiste - NUPES",
+      "actif": false,
+      "periodes": [
+        {
+          "id": "PO800526",
+          "legislature": 16,
+          "nom": "Écologiste - NUPES",
+          "dateDebut": "2022-06-28",
+          "dateFin": "2024-06-09"
+        }
+      ]
+    },
+    {
+      "sigle": "SOC",
+      "nom": "Socialistes et apparentés",
+      "actif": true,
+      "periodes": [
+        {
+          "id": "PO800496",
+          "legislature": 16,
+          "nom": "Socialistes et apparentés (membre de l’intergroupe NUPES)",
+          "dateDebut": "2022-06-28",
+          "dateFin": "2023-10-18"
+        },
+        {
+          "id": "PO830170",
+          "legislature": 16,
+          "nom": "Socialistes et apparentés",
+          "dateDebut": "2023-10-19",
+          "dateFin": "2024-06-09"
+        },
+        {
+          "id": "PO845419",
+          "legislature": 17,
+          "nom": "Socialistes et apparentés",
+          "dateDebut": "2024-07-18",
+          "dateFin": null
+        }
+      ]
+    },
+    {
+      "sigle": "LIOT",
+      "nom": "Libertés, Indépendants, Outre-mer et Territoires",
+      "actif": true,
+      "periodes": [
+        {
+          "id": "PO800532",
+          "legislature": 16,
+          "nom": "Libertés, Indépendants, Outre-mer et Territoires",
+          "dateDebut": "2022-06-28",
+          "dateFin": "2024-06-09"
+        },
+        {
+          "id": "PO845485",
+          "legislature": 17,
+          "nom": "Libertés, Indépendants, Outre-mer et Territoires",
+          "dateDebut": "2024-07-18",
+          "dateFin": null
+        }
+      ]
+    },
+    {
+      "sigle": "Dem",
+      "nom": "Les Démocrates",
+      "actif": true,
+      "periodes": [
+        {
+          "id": "PO800484",
+          "legislature": 16,
+          "nom": "Démocrate (MoDem et Indépendants)",
+          "dateDebut": "2022-06-28",
+          "dateFin": "2024-06-09"
+        },
+        {
+          "id": "PO845454",
+          "legislature": 17,
+          "nom": "Les Démocrates",
+          "dateDebut": "2024-07-18",
+          "dateFin": null
+        }
+      ]
+    },
+    {
+      "sigle": "EPR",
+      "nom": "Ensemble pour la République",
+      "actif": true,
+      "periodes": [
+        {
+          "id": "PO845407",
+          "legislature": 17,
+          "nom": "Ensemble pour la République",
+          "dateDebut": "2024-07-18",
+          "dateFin": null
+        }
+      ]
+    },
+    {
+      "sigle": "RE",
+      "nom": "Renaissance",
+      "actif": false,
+      "periodes": [
+        {
+          "id": "PO800538",
+          "legislature": 16,
+          "nom": "Renaissance",
+          "dateDebut": "2022-06-28",
+          "dateFin": "2024-06-09"
+        }
+      ]
+    },
+    {
+      "sigle": "HOR",
+      "nom": "Horizons & Indépendants",
+      "actif": true,
+      "periodes": [
+        {
+          "id": "PO800514",
+          "legislature": 16,
+          "nom": "Horizons et apparentés",
+          "dateDebut": "2022-06-28",
+          "dateFin": "2024-06-09"
+        },
+        {
+          "id": "PO845470",
+          "legislature": 17,
+          "nom": "Horizons & Indépendants",
+          "dateDebut": "2024-07-18",
+          "dateFin": null
+        }
+      ]
+    },
+    {
+      "sigle": "DR",
+      "nom": "Droite Républicaine",
+      "actif": true,
+      "periodes": [
+        {
+          "id": "PO845425",
+          "legislature": 17,
+          "nom": "Droite Républicaine",
+          "dateDebut": "2024-07-18",
+          "dateFin": null
+        }
+      ]
+    },
+    {
+      "sigle": "LR",
+      "nom": "Les Républicains",
+      "actif": false,
+      "periodes": [
+        {
+          "id": "PO800508",
+          "legislature": 16,
+          "nom": "Les Républicains",
+          "dateDebut": "2022-06-28",
+          "dateFin": "2024-06-09"
+        }
+      ]
+    },
+    {
+      "sigle": "UDR",
+      "nom": "Union des droites pour la République",
+      "actif": true,
+      "periodes": [
+        {
+          "id": "PO847173",
+          "legislature": 17,
+          "nom": "UDR",
+          "dateDebut": "2024-09-12",
+          "dateFin": "2025-09-04"
+        },
+        {
+          "id": "PO872880",
+          "legislature": 17,
+          "nom": "Union des droites pour la République",
+          "dateDebut": "2025-09-05",
+          "dateFin": null
+        }
+      ]
+    },
+    {
+      "sigle": "AD",
+      "nom": "À Droite",
+      "actif": false,
+      "periodes": [
+        {
+          "id": "PO845520",
+          "legislature": 17,
+          "nom": "À Droite",
+          "dateDebut": "2024-07-18",
+          "dateFin": "2024-09-11"
+        }
+      ]
+    },
+    {
+      "sigle": "RN",
+      "nom": "Rassemblement National",
+      "actif": true,
+      "periodes": [
+        {
+          "id": "PO800520",
+          "legislature": 16,
+          "nom": "Rassemblement National",
+          "dateDebut": "2022-06-28",
+          "dateFin": "2024-06-09"
+        },
+        {
+          "id": "PO845401",
+          "legislature": 17,
+          "nom": "Rassemblement National",
+          "dateDebut": "2024-07-18",
+          "dateFin": null
+        }
+      ]
+    },
+    {
+      "sigle": "NI",
+      "nom": "Non inscrit",
+      "actif": true,
+      "periodes": [
+        {
+          "id": "PO793087",
+          "legislature": 16,
+          "nom": "Non inscrit",
+          "dateDebut": "2022-06-22",
+          "dateFin": "2024-06-09"
+        },
+        {
+          "id": "PO840056",
+          "legislature": 17,
+          "nom": "Non inscrit",
+          "dateDebut": "2024-07-01",
+          "dateFin": null
+        }
+      ]
+    }
+  ]
+}

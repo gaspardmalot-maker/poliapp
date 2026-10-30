@@ -1,0 +1,447 @@
+{
+  "sujet": "fin-de-vie",
+  "auto": true,
+  "note": "Pré-sélection automatique (scripts/brouillon.mjs). Passer « statut » à « valide » après relecture : l’entrée ne sera plus modifiée.",
+  "scrutins": [
+    {
+      "id": "VTANR5L17V8280",
+      "resume": "Proposition de loi relative au droit à l'aide à mourir",
+      "lecture": "lecture définitive",
+      "statut": "auto",
+      "explications": {
+        "HOR": {
+          "ancre": "4143126",
+          "citations": [
+            "Je le voterai sans triomphe, avec gravité, en pensant à ceux qui sont partis sans ce geste d'ultime fraternité et à ceux qui, demain, n'auront plus à franchir une frontière ni à se cacher pour s'éteindre apaisés, entourés des leurs."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4143139",
+          "citations": [
+            "En effet, ce texte touche à l'intime, il interroge nos convictions les plus profondes et aucune discipline partisane ne saurait s'imposer sur un tel sujet. Au sein de notre groupe, certains voteront en faveur du texte, d'autres voteront contre, d'autres encore choisiront de s'abstenir."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4159586",
+          "citations": [
+            "Pour ma part, je voterai en faveur du texte, en pensant à celles et ceux que la médecine ne peut plus guérir et dont elle ne parvient plus, parfois, à apaiser toutes les souffrances."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "4143711",
+          "citations": [
+            "Pour ma part, et avec plusieurs députés du groupe GDR, je voterai en faveur de cette proposition de loi, parce que je considère qu'elle ouvre un droit strictement encadré, profondément humain."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4143725",
+          "citations": [
+            "Nous voulons transmettre un pays plus humain et un système de santé plus fort, parce que la souffrance se soigne, parce que la solitude se combat et parce que, jusqu'à son dernier souffle, chaque vie est digne et mérite d'être protégée. C'est pourquoi le groupe UDR votera à l'unanimité contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4143943",
+          "citations": [
+            "Nous resterons vigilants jusqu'au bout pour consacrer, enfin, ce droit à l'aide à mourir – ce droit à partir de manière libre et éclairée. Cette même liberté s'appliquera au vote des députés du groupe Socialistes et apparentés, qui votera de manière quasi unanime la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4159404",
+          "citations": [
+            "Mais un humain n'abandonne jamais un autre humain : c'est un principe fondamental, qui fonde notre pacte social. Mes chers collègues, dans quelques instants, chacun d'entre nous, seul avec sa conscience, votera."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4143968",
+          "citations": [
+            "Je rappelle que la cause du décès mentionnée sur le formulaire Cerfa devra être l'affection grave et incurable. Malgré ces regrets sur les modalités du dispositif, notre groupe votera majoritairement pour cette proposition de loi humaniste."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V7894",
+      "resume": "Proposition de loi relative au droit à l'aide à mourir",
+      "lecture": "nouvelle lecture",
+      "statut": "auto",
+      "explications": {
+        "Dem": {
+          "ancre": "4143139",
+          "citations": [
+            "En effet, ce texte touche à l'intime, il interroge nos convictions les plus profondes et aucune discipline partisane ne saurait s'imposer sur un tel sujet. Au sein de notre groupe, certains voteront en faveur du texte, d'autres voteront contre, d'autres encore choisiront de s'abstenir."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4127073",
+          "citations": [
+            "Mes chers collègues, voilà fidèlement rapportées les trois voix de notre groupe. Chacun, au sein du groupe LIOT, votera selon sa conscience."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "4143711",
+          "citations": [
+            "Pour ma part, et avec plusieurs députés du groupe GDR, je voterai en faveur de cette proposition de loi, parce que je considère qu'elle ouvre un droit strictement encadré, profondément humain."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4143725",
+          "citations": [
+            "Nous voulons transmettre un pays plus humain et un système de santé plus fort, parce que la souffrance se soigne, parce que la solitude se combat et parce que, jusqu'à son dernier souffle, chaque vie est digne et mérite d'être protégée. C'est pourquoi le groupe UDR votera à l'unanimité contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "4127404",
+          "citations": [
+            "Nous croyons en la dignité de toute vie humaine, nous voulons protéger les plus fragiles, nous refusons ce basculement anthropologique majeur. Pour toutes ces raisons, je voterai résolument contre le texte."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "4143126",
+          "citations": [
+            "Je le voterai sans triomphe, avec gravité, en pensant à ceux qui sont partis sans ce geste d'ultime fraternité et à ceux qui, demain, n'auront plus à franchir une frontière ni à se cacher pour s'éteindre apaisés, entourés des leurs."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4143943",
+          "citations": [
+            "Nous resterons vigilants jusqu'au bout pour consacrer, enfin, ce droit à l'aide à mourir – ce droit à partir de manière libre et éclairée. Cette même liberté s'appliquera au vote des députés du groupe Socialistes et apparentés, qui votera de manière quasi unanime la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4143968",
+          "citations": [
+            "Je rappelle que la cause du décès mentionnée sur le formulaire Cerfa devra être l'affection grave et incurable. Malgré ces regrets sur les modalités du dispositif, notre groupe votera majoritairement pour cette proposition de loi humaniste."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V5729",
+      "resume": "Proposition de loi relative au droit à l'aide à mourir",
+      "lecture": "deuxième lecture",
+      "statut": "auto",
+      "explications": {
+        "HOR": {
+          "ancre": "4035077",
+          "citations": [
+            "Mourir parce que vivre n'est plus qu'une agonie, ce n'est pas la même chose que mourir parce qu'on n'a pas reçu l'accompagnement qu'on méritait. Pour toutes ces raisons, je voterai contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4035091",
+          "citations": [
+            "Sans cela, ce texte, aussi important soit-il, fait office de trompe-l'œil, de leurre, de volonté virtuelle. Nous voterons toutefois pour ce texte, mais nous ne pouvons pas nous en satisfaire."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "4034947",
+          "citations": [
+            "À titre personnel, je voterai ces deux textes, parce qu'ils affirment une ambition – que nous aurions pu encore élever – pour les soins palliatifs, encadrent strictement un droit attendu par une partie de nos concitoyens et souhaité par la société, et répondent à des situations de grande souffrance, que nous ne pouvons ignorer."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4035302",
+          "citations": [
+            "Pour toutes ces raisons, au nom des malades, des soignants, des personnes âgées, des enfants, de notre conscience collective, je m'opposerai avec force à ce texte. L'ensemble du groupe UDR votera contre."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4035214",
+          "citations": [
+            "Comme pour beaucoup ici, ma réflexion a évolué, au contact des réalités humaines, des témoignages et des débats que nous avons eus ensemble. C'est pourquoi chaque membre du groupe Les Démocrates votera en toute indépendance, en son âme et conscience."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "4034967",
+          "citations": [
+            "Nous soutenons le droit de choisir la fin de vie librement et nous savons combien les Françaises et Français attendent cette nouvelle liberté. Nous voterons pour le texte sur l'aide à mourir et nous espérons que vous ferez de même."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4034928",
+          "citations": [
+            "Pour la dignité, pour la liberté d'être et d'agir, une large majorité du groupe Socialistes et apparentés – car nous respectons, bien sûr, la liberté de vote de chacun – se prononcera en faveur de la proposition de loi relative aux soins palliatifs et de celle visant à autoriser le recours à l'aide à mourir en France."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4035128",
+          "citations": [
+            "Aucun pays n'est allé d'emblée aussi loin dans l'ouverture des critères, la brièveté des délais, la faiblesse du contrôle et la pression qui pèsera sur les plus vulnérables. Les députés de la Droite républicaine voteront en conscience."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4034894",
+          "citations": [
+            "Vous l'aurez compris, le groupe Écologiste et social votera majoritairement pour ces deux textes – avec sérieux, avec humilité, en sachant que nous touchons à l'intime de chacune et chacun, mais en assumant notre responsabilité d'offrir à toutes et tous cette promesse républicaine : être accompagné, être respecté et, lorsque toute autre réponse a échoué, pouvoir choisir en conscience la manière dont notre vie s'achève."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V5728",
+      "resume": "Proposition de loi visant à garantir l'égal accès de tous à l'accompagnement et aux soins palliatifs",
+      "lecture": "deuxième lecture",
+      "statut": "auto",
+      "explications": {
+        "HOR": {
+          "ancre": "4035077",
+          "citations": [
+            "Mourir parce que vivre n'est plus qu'une agonie, ce n'est pas la même chose que mourir parce qu'on n'a pas reçu l'accompagnement qu'on méritait. Pour toutes ces raisons, je voterai contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4035091",
+          "citations": [
+            "Sans cela, ce texte, aussi important soit-il, fait office de trompe-l'œil, de leurre, de volonté virtuelle. Nous voterons toutefois pour ce texte, mais nous ne pouvons pas nous en satisfaire."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "4034947",
+          "citations": [
+            "À titre personnel, je voterai ces deux textes, parce qu'ils affirment une ambition – que nous aurions pu encore élever – pour les soins palliatifs, encadrent strictement un droit attendu par une partie de nos concitoyens et souhaité par la société, et répondent à des situations de grande souffrance, que nous ne pouvons ignorer."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4035302",
+          "citations": [
+            "Pour toutes ces raisons, au nom des malades, des soignants, des personnes âgées, des enfants, de notre conscience collective, je m'opposerai avec force à ce texte. L'ensemble du groupe UDR votera contre."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4035214",
+          "citations": [
+            "Comme pour beaucoup ici, ma réflexion a évolué, au contact des réalités humaines, des témoignages et des débats que nous avons eus ensemble. C'est pourquoi chaque membre du groupe Les Démocrates votera en toute indépendance, en son âme et conscience."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "4034967",
+          "citations": [
+            "Nous soutenons le droit de choisir la fin de vie librement et nous savons combien les Françaises et Français attendent cette nouvelle liberté. Nous voterons pour le texte sur l'aide à mourir et nous espérons que vous ferez de même."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4034928",
+          "citations": [
+            "Pour la dignité, pour la liberté d'être et d'agir, une large majorité du groupe Socialistes et apparentés – car nous respectons, bien sûr, la liberté de vote de chacun – se prononcera en faveur de la proposition de loi relative aux soins palliatifs et de celle visant à autoriser le recours à l'aide à mourir en France."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4035128",
+          "citations": [
+            "Aucun pays n'est allé d'emblée aussi loin dans l'ouverture des critères, la brièveté des délais, la faiblesse du contrôle et la pression qui pèsera sur les plus vulnérables. Les députés de la Droite républicaine voteront en conscience."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4034894",
+          "citations": [
+            "Vous l'aurez compris, le groupe Écologiste et social votera majoritairement pour ces deux textes – avec sérieux, avec humilité, en sachant que nous touchons à l'intime de chacune et chacun, mais en assumant notre responsabilité d'offrir à toutes et tous cette promesse républicaine : être accompagné, être respecté et, lorsque toute autre réponse a échoué, pouvoir choisir en conscience la manière dont notre vie s'achève."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V2106",
+      "resume": "Proposition de loi visant à garantir l'égal accès de tous à l’accompagnement et aux soins palliatifs",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "Dem": {
+          "ancre": "3769235",
+          "citations": [
+            "Je tiens d'emblée à le dire : tous mes collègues voteront en faveur de la proposition de loi qui permettra de pourvoir tout le territoire français en soins palliatifs et d'accompagnement, madame la ministre ; une grande majorité d'entre eux votera pour la proposition de loi relative au droit à l'aide à mourir, quelques-uns voteront contre, d'autres ont choisi de s'abstenir."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3769540",
+          "citations": [
+            "Pour ma part, je voterai en sa faveur. Je le voterai car il ne sacralise pas une idéologie, n'ouvre pas une liberté sans garde-fous, mais propose un chemin balisé, exigeant, réfléchi."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3769567",
+          "citations": [
+            "Pour ma part, je voterai en faveur de chacun de ces deux textes, convaincu que la direction empruntée est la bonne, convaincu aussi qu'il faut ce vote aujourd'hui pour que se poursuive une construction éclairée de ces deux nouveaux droits."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3770286",
+          "citations": [
+            "Une jeunesse qui ne se résigne pas à accepter un monde qui ne croit plus, une société défaitiste. Le groupe UDR votera à l'unanimité contre ce renoncement."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3770318",
+          "citations": [
+            "Elle n'affaiblit pas les valeurs de la vie, mais reconnaît la liberté de chacun face à l'extrême douleur. Parce qu'il conjugue liberté et dignité, plusieurs députés du groupe Rassemblement national, dont je fais partie, voteront pour ce texte."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3770340",
+          "citations": [
+            "Par ailleurs, le gouvernement devra présenter au Parlement des rapports sur plusieurs réformes attendues. Notre groupe, Ensemble pour la République, laisse à chacun de ses membres la liberté de vote, mais j'espère que nous soutiendrons unanimement ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "3769673",
+          "citations": [
+            "Rien ne révèle mieux l'âme d'un pays que la façon dont il accompagne ses membres les plus fragiles. Pour toutes ces raisons, le groupe La France insoumise votera en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3770065",
+          "citations": [
+            "La très grande majorité du groupe Socialistes et apparentés votera donc avec humilité et conviction en faveur de ces deux textes."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3770078",
+          "citations": [
+            "Pour ma part, j'ai choisi : je ne veux pas d'une société qui aide à mourir, je veux d'une société qui aide à vivre et qui soigne. Je ne voterai pas pour la proposition de loi relative à l'aide à mourir !"
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V2107",
+      "resume": "Proposition de loi relative au droit à l’aide à mourir",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "Dem": {
+          "ancre": "3769235",
+          "citations": [
+            "Je tiens d'emblée à le dire : tous mes collègues voteront en faveur de la proposition de loi qui permettra de pourvoir tout le territoire français en soins palliatifs et d'accompagnement, madame la ministre ; une grande majorité d'entre eux votera pour la proposition de loi relative au droit à l'aide à mourir, quelques-uns voteront contre, d'autres ont choisi de s'abstenir."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3769540",
+          "citations": [
+            "Pour ma part, je voterai en sa faveur. Je le voterai car il ne sacralise pas une idéologie, n'ouvre pas une liberté sans garde-fous, mais propose un chemin balisé, exigeant, réfléchi."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3769567",
+          "citations": [
+            "Pour ma part, je voterai en faveur de chacun de ces deux textes, convaincu que la direction empruntée est la bonne, convaincu aussi qu'il faut ce vote aujourd'hui pour que se poursuive une construction éclairée de ces deux nouveaux droits."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3770286",
+          "citations": [
+            "Une jeunesse qui ne se résigne pas à accepter un monde qui ne croit plus, une société défaitiste. Le groupe UDR votera à l'unanimité contre ce renoncement."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3770318",
+          "citations": [
+            "Elle n'affaiblit pas les valeurs de la vie, mais reconnaît la liberté de chacun face à l'extrême douleur. Parce qu'il conjugue liberté et dignité, plusieurs députés du groupe Rassemblement national, dont je fais partie, voteront pour ce texte."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3770340",
+          "citations": [
+            "Par ailleurs, le gouvernement devra présenter au Parlement des rapports sur plusieurs réformes attendues. Notre groupe, Ensemble pour la République, laisse à chacun de ses membres la liberté de vote, mais j'espère que nous soutiendrons unanimement ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "3769673",
+          "citations": [
+            "Rien ne révèle mieux l'âme d'un pays que la façon dont il accompagne ses membres les plus fragiles. Pour toutes ces raisons, le groupe La France insoumise votera en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3770065",
+          "citations": [
+            "La très grande majorité du groupe Socialistes et apparentés votera donc avec humilité et conviction en faveur de ces deux textes."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3770078",
+          "citations": [
+            "Pour ma part, j'ai choisi : je ne veux pas d'une société qui aide à mourir, je veux d'une société qui aide à vivre et qui soigne. Je ne voterai pas pour la proposition de loi relative à l'aide à mourir !"
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V3202",
+      "resume": "Proposition de résolution visant à rendre effectifs les soins palliatifs sur tout le territoire national (art. 34-1 de la Constitution)",
+      "statut": "auto",
+      "explications": {
+        "HOR": {
+          "ancre": "3325713",
+          "citations": [
+            "C'est un droit, qui doit être garanti. Pour toutes ces raisons, le groupe Horizons et apparentés votera cette proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3325721",
+          "citations": [
+            "Nous ne pouvons pas leur demander de traverser le pays pour accompagner le traitement d'un proche, ni leur refuser une prise en charge qui permettrait de soulager des souffrances insupportables. C'est pourquoi nous voterons cette proposition de résolution, complément nécessaire à l'aide active à mourir."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3325986",
+          "citations": [
+            "L'état des services de soins palliatifs, l'absence d'unités de soins palliatifs dans vingt et un départements français, dont la Haute-Marne, et l'absence de permanence des soins démontrent que la France n'est pas tout à fait entrée dans le XXIe siècle. Malgré tout, nous voterons cette proposition de résolution."
+          ],
+          "statut": "auto"
+        }
+      }
+    }
+  ]
+}

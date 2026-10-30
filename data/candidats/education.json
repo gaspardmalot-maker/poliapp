@@ -1,0 +1,2175 @@
+{
+  "sujet": "education",
+  "titre": "École et études",
+  "genereLe": "2026-10-30T15:04:07.509Z",
+  "textes": [
+    {
+      "texte": "proposition de loi visant à créer un corps de fonctionnaires de catégorie B pour les accompagnants d’élèves en situation de handicap",
+      "legislature": 17,
+      "motsCles": [
+        "eleve"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V9203",
+          "legislature": 17,
+          "numero": 9203,
+          "date": "2026-10-29",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à créer un corps de fonctionnaires de catégorie B pour les accompagnants d’élèves en situation de handicap (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9203",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V9202",
+          "legislature": 17,
+          "numero": 9202,
+          "date": "2026-10-29",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi visant à créer un corps de fonctionnaires de catégorie B pour les accompagnants d’élèves en situation de handicap (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9202",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à réformer les bourses sur critères sociaux et à lutter contre la précarité étudiante",
+      "legislature": 17,
+      "motsCles": [
+        "etudiant",
+        "bourse"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V7397",
+          "legislature": 17,
+          "numero": 7397,
+          "date": "2026-06-11",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à réformer les bourses sur critères sociaux et à lutter contre la précarité étudiante (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7397",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7391",
+          "legislature": 17,
+          "numero": 7391,
+          "date": "2026-06-11",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi visant à réformer les bourses sur critères sociaux et à lutter contre la précarité étudiante (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7391",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7396",
+          "legislature": 17,
+          "numero": 7396,
+          "date": "2026-06-11",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 de la proposition de loi visant à réformer les bourses sur critères sociaux et à lutter contre la précarité étudiante (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7396",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7387",
+          "legislature": 17,
+          "numero": 7387,
+          "date": "2026-06-11",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 10 de M. Sitzenstuhl à l'article premier de la proposition de loi visant à réformer les bourses sur critères sociaux et à lutter contre la précarité étudiante (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7387",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7388",
+          "legislature": 17,
+          "numero": 7388,
+          "date": "2026-06-11",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 19 de M. Sitzenstuhl à l'article premier de la proposition de loi visant à réformer les bourses sur critères sociaux et à lutter contre la précarité étudiante (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7388",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7389",
+          "legislature": 17,
+          "numero": 7389,
+          "date": "2026-06-11",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 20 de M. Sitzenstuhl à l'article premier de la proposition de loi visant à réformer les bourses sur critères sociaux et à lutter contre la précarité étudiante (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7389",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7390",
+          "legislature": 17,
+          "numero": 7390,
+          "date": "2026-06-11",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 21 de M. Sitzenstuhl à l'article premier de la proposition de loi visant à réformer les bourses sur critères sociaux et à lutter contre la précarité étudiante (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7390",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7392",
+          "legislature": 17,
+          "numero": 7392,
+          "date": "2026-06-11",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1 (rect.) de M. Ballard après l'article premier de la proposition de loi visant à réformer les bourses sur critères sociaux et à lutter contre la précarité étudiante (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7392",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7393",
+          "legislature": 17,
+          "numero": 7393,
+          "date": "2026-06-11",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 14 (rect.) de M. Sitzenstuhl après l'article premier de la proposition de loi visant à réformer les bourses sur critères sociaux et à lutter contre la précarité étudiante (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7393",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7394",
+          "legislature": 17,
+          "numero": 7394,
+          "date": "2026-06-11",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 23 de M. Sitzenstuhl après l'article premier de la proposition de loi visant à réformer les bourses sur critères sociaux et à lutter contre la précarité étudiante (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7394",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7395",
+          "legislature": 17,
+          "numero": 7395,
+          "date": "2026-06-11",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 12 de M. Sitzenstuhl à l'article 2 de la proposition de loi visant à réformer les bourses sur critères sociaux et à lutter contre la précarité étudiante (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7395",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire",
+      "legislature": 17,
+      "motsCles": [
+        "scolaire"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V7258",
+          "legislature": 17,
+          "numero": 7258,
+          "date": "2026-06-01",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7258",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7211",
+          "legislature": 17,
+          "numero": 7211,
+          "date": "2026-06-01",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7211",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7221",
+          "legislature": 17,
+          "numero": 7221,
+          "date": "2026-06-01",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 4 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7221",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7248",
+          "legislature": 17,
+          "numero": 7248,
+          "date": "2026-06-01",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 7 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7248",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7257",
+          "legislature": 17,
+          "numero": 7257,
+          "date": "2026-06-01",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 8 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7257",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7209",
+          "legislature": 17,
+          "numero": 7209,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 180 du Gouvernement à l'article premier de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7209",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7210",
+          "legislature": 17,
+          "numero": 7210,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 138 de Mme Perrine Goulet à l'article premier de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7210",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7212",
+          "legislature": 17,
+          "numero": 7212,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 183 du Gouvernement à l'article 2 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7212",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7213",
+          "legislature": 17,
+          "numero": 7213,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 141 de M. Christian Girard à l'article 3 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7213",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7214",
+          "legislature": 17,
+          "numero": 7214,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 108 de Mme Spillebout à l'article 3 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7214",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7215",
+          "legislature": 17,
+          "numero": 7215,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 184 du Gouvernement à l'article 3 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7215",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7216",
+          "legislature": 17,
+          "numero": 7216,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 117 de M. Tesson à l'article 4 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7216",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7217",
+          "legislature": 17,
+          "numero": 7217,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 118 de M. Tesson à l'article 4 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7217",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7218",
+          "legislature": 17,
+          "numero": 7218,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 110 de Mme Spillebout à l'article 4 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7218",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7219",
+          "legislature": 17,
+          "numero": 7219,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 119 de M. Tesson à l'article 4 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7219",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7220",
+          "legislature": 17,
+          "numero": 7220,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 185 (rect.) du Gouvernement à l'article 4 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7220",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7226",
+          "legislature": 17,
+          "numero": 7226,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 181 du Gouvernement à l'article 5 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7226",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7227",
+          "legislature": 17,
+          "numero": 7227,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 182 du Gouvernement de suppression de l'article 6 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7227",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7228",
+          "legislature": 17,
+          "numero": 7228,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 105 de M. Valentin à l'article 6 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7228",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7229",
+          "legislature": 17,
+          "numero": 7229,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 157 de Mme Perrine Goulet à l'article 6 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7229",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7230",
+          "legislature": 17,
+          "numero": 7230,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 120 de M. Tesson à l'article 6 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7230",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7231",
+          "legislature": 17,
+          "numero": 7231,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1 de M. Breton de suppression de l'article 7 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7231",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7232",
+          "legislature": 17,
+          "numero": 7232,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 3 de M. Michelet et l'amendement identique suivant à l'article 7 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7232",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7233",
+          "legislature": 17,
+          "numero": 7233,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 74 de M. Valentin à l'article 7 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7233",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7234",
+          "legislature": 17,
+          "numero": 7234,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 123 de M. Tesson à l'article 7 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7234",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7235",
+          "legislature": 17,
+          "numero": 7235,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 22 de M. Chudeau à l'article 7 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7235",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7236",
+          "legislature": 17,
+          "numero": 7236,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 63 de Mme Lorho à l'article 7 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7236",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7237",
+          "legislature": 17,
+          "numero": 7237,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 132 de M. Balanant à l'article 7 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7237",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7238",
+          "legislature": 17,
+          "numero": 7238,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 11 de M. Chudeau à l'article 7 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7238",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7239",
+          "legislature": 17,
+          "numero": 7239,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 155 de Mme Frédérique Meunier à l'article 7 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7239",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7240",
+          "legislature": 17,
+          "numero": 7240,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 24 de M. Chudeau à l'article 7 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7240",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7241",
+          "legislature": 17,
+          "numero": 7241,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 20 de M. Chudeau à l'article 7 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7241",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7242",
+          "legislature": 17,
+          "numero": 7242,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 51 de M. Chudeau à l'article 7 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7242",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7243",
+          "legislature": 17,
+          "numero": 7243,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 12 de M. Chudeau à l'article 7 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7243",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7244",
+          "legislature": 17,
+          "numero": 7244,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 38 de M. Breton et l'amendement identique suivant à l'article 7 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7244",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7245",
+          "legislature": 17,
+          "numero": 7245,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 178 de M. Chudeau à l'article 7 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7245",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7246",
+          "legislature": 17,
+          "numero": 7246,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 5 de M. Michelet et l'amendement identique suivant à l'article 7 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7246",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7247",
+          "legislature": 17,
+          "numero": 7247,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 7 de M. Michelet à l'article 7 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7247",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7249",
+          "legislature": 17,
+          "numero": 7249,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 88 de M. Valentin après l'article 7 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7249",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7250",
+          "legislature": 17,
+          "numero": 7250,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 99 de Mme Hamelet après l'article 7 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7250",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7253",
+          "legislature": 17,
+          "numero": 7253,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 186 du Gouvernement après l'article 7 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7253",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7254",
+          "legislature": 17,
+          "numero": 7254,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 15 de M. Vannier à l'article 8 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7254",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7255",
+          "legislature": 17,
+          "numero": 7255,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 171 de Mme Perrine Goulet à l'article 8 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7255",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7256",
+          "legislature": 17,
+          "numero": 7256,
+          "date": "2026-06-01",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 16 (rect.) de M. Vannier à l'article 8 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7256",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7222",
+          "legislature": 17,
+          "numero": 7222,
+          "date": "2026-06-01",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 213 de Mme Spillebout à l'amendement n° 181 du Gouvernement à l'article 5 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7222",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7223",
+          "legislature": 17,
+          "numero": 7223,
+          "date": "2026-06-01",
+          "type": "sous-amendement",
+          "resultat": "adopté",
+          "titre": "le sous-amendement n° 197 de M. Vannier à l'amendement n° 181 du Gouvernement à l'article 5 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7223",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7224",
+          "legislature": 17,
+          "numero": 7224,
+          "date": "2026-06-01",
+          "type": "sous-amendement",
+          "resultat": "adopté",
+          "titre": "le sous-amendement n° 201 de M. Vannier à l'amendement n° 181 du Gouvernement à l'article 5 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7224",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7225",
+          "legislature": 17,
+          "numero": 7225,
+          "date": "2026-06-01",
+          "type": "sous-amendement",
+          "resultat": "adopté",
+          "titre": "le sous-amendement n° 196 de M. Vannier à l'amendement n° 181 du Gouvernement à l'article 5 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7225",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7251",
+          "legislature": 17,
+          "numero": 7251,
+          "date": "2026-06-01",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 209 de M. Michelet à l'amendement n° 186 du Gouvernement après l'article 7 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7251",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7252",
+          "legislature": 17,
+          "numero": 7252,
+          "date": "2026-06-01",
+          "type": "sous-amendement",
+          "resultat": "adopté",
+          "titre": "le sous-amendement n° 215 de M. Breton à l'amendement n° 186 du Gouvernement après l'article 7 de la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7252",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à encadrer les regroupements pédagogiques intercommunaux afin de garantir l'égalité d'accès à l'école en milieu rural",
+      "legislature": 17,
+      "motsCles": [
+        "ecole"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V6076",
+          "legislature": 17,
+          "numero": 6076,
+          "date": "2026-04-09",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à encadrer les regroupements pédagogiques intercommunaux afin de garantir l'égalité d'accès à l'école en milieu rural (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6076",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6073",
+          "legislature": 17,
+          "numero": 6073,
+          "date": "2026-04-09",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi visant à encadrer les regroupements pédagogiques intercommunaux afin de garantir l'égalité d'accès à l'école en milieu rural (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6073",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6070",
+          "legislature": 17,
+          "numero": 6070,
+          "date": "2026-04-09",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1 de M. Proença à l'article premier de la proposition de loi visant à encadrer les regroupements pédagogiques intercommunaux afin de garantir l'égalité d'accès à l'école en milieu rural (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6070",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6071",
+          "legislature": 17,
+          "numero": 6071,
+          "date": "2026-04-09",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 11 de M. Raux à l'article premier de la proposition de loi visant à encadrer les regroupements pédagogiques intercommunaux afin de garantir l'égalité d'accès à l'école en milieu rural (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6071",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6072",
+          "legislature": 17,
+          "numero": 6072,
+          "date": "2026-04-09",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 10 de M. Raux à l'article premier de la proposition de loi visant à encadrer les regroupements pédagogiques intercommunaux afin de garantir l'égalité d'accès à l'école en milieu rural (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6072",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6074",
+          "legislature": 17,
+          "numero": 6074,
+          "date": "2026-04-09",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 2 de M. Arenas après l'article premier ter de la proposition de loi visant à encadrer les regroupements pédagogiques intercommunaux afin de garantir l'égalité d'accès à l'école en milieu rural (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6074",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6075",
+          "legislature": 17,
+          "numero": 6075,
+          "date": "2026-04-09",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 12 de M. Raux après l'article premier ter de la proposition de loi visant à encadrer les regroupements pédagogiques intercommunaux afin de garantir l'égalité d'accès à l'école en milieu rural (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6075",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à renforcer l'enseignement de la défense nationale dans le cadre du parcours de citoyenneté",
+      "legislature": 17,
+      "motsCles": [
+        "enseignement"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V5845",
+          "legislature": 17,
+          "numero": 5845,
+          "date": "2026-03-26",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à renforcer l'enseignement de la défense nationale dans le cadre du parcours de citoyenneté (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5845",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi d'expérimentation pour l'instauration d'un enseignement d'éducation à l'alimentation obligatoire à l'école",
+      "legislature": 17,
+      "motsCles": [
+        "ecole",
+        "education",
+        "enseignement"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V5435",
+          "legislature": 17,
+          "numero": 5435,
+          "date": "2026-02-16",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi d'expérimentation pour l'instauration d'un enseignement d'éducation à l'alimentation obligatoire à l'école (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5435",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V5433",
+          "legislature": 17,
+          "numero": 5433,
+          "date": "2026-02-16",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi d'expérimentation pour l'instauration d'un enseignement d'éducation à l'alimentation obligatoire à l'école (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5433",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V5434",
+          "legislature": 17,
+          "numero": 5434,
+          "date": "2026-02-16",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 3 de la proposition de loi d'expérimentation pour l'instauration d'un enseignement d'éducation à l'alimentation obligatoire à l'école (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5434",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi relative à la lutte contre l'antisémitisme dans l'enseignement supérieur",
+      "legislature": 17,
+      "motsCles": [
+        "enseignement"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V2880",
+          "legislature": 17,
+          "numero": 2880,
+          "date": "2025-07-02",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi relative à la lutte contre l'antisémitisme dans l'enseignement supérieur (texte de la commission mixte paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2880",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V2879",
+          "legislature": 17,
+          "numero": 2879,
+          "date": "2025-07-02",
+          "type": "motion",
+          "resultat": "rejeté",
+          "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, de la proposition de loi relative à la lutte contre l'antisémitisme dans l'enseignement supérieur (texte de la commission mixte paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2879",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "projet de loi relatif au transfert à l’Etat des personnels enseignants de l’enseignement du premier degré dans les îles Wallis et Futuna",
+      "legislature": 17,
+      "motsCles": [
+        "enseignant",
+        "enseignement"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V2104",
+          "legislature": 17,
+          "numero": 2104,
+          "date": "2025-05-26",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l’ensemble du projet de loi relatif au transfert à l’Etat des personnels enseignants de l’enseignement du premier degré dans les îles Wallis et Futuna (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2104",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur",
+      "legislature": 17,
+      "motsCles": [
+        "enseignement"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V1601",
+          "legislature": 17,
+          "numero": 1601,
+          "date": "2025-05-07",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1601",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1573",
+          "legislature": 17,
+          "numero": 1573,
+          "date": "2025-05-06",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1573",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1585",
+          "legislature": 17,
+          "numero": 1585,
+          "date": "2025-05-07",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1585",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1596",
+          "legislature": 17,
+          "numero": 1596,
+          "date": "2025-05-07",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 4 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1596",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1571",
+          "legislature": 17,
+          "numero": 1571,
+          "date": "2025-05-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 33 de M. Gustave à l'article premier de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1571",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1572",
+          "legislature": 17,
+          "numero": 1572,
+          "date": "2025-05-06",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 53 de Mme Yadan à l'article premier de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1572",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1574",
+          "legislature": 17,
+          "numero": 1574,
+          "date": "2025-05-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 7 de Mme Mesmeur à l'article 2 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1574",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1575",
+          "legislature": 17,
+          "numero": 1575,
+          "date": "2025-05-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 6 de Mme Mesmeur à l'article 2 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1575",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1576",
+          "legislature": 17,
+          "numero": 1576,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 12 de M. Chudeau à l'article 2 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1576",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1577",
+          "legislature": 17,
+          "numero": 1577,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 11 de M. Chudeau à l'article 2 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1577",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1578",
+          "legislature": 17,
+          "numero": 1578,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 35 de M. Gustave à l'article 2 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1578",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1579",
+          "legislature": 17,
+          "numero": 1579,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 36 de M. Gustave à l'article 2 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1579",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1580",
+          "legislature": 17,
+          "numero": 1580,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 5 de Mme Mesmeur à l'article 2 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1580",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1581",
+          "legislature": 17,
+          "numero": 1581,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 48 de Mme Le Grip à l'article 2 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1581",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1582",
+          "legislature": 17,
+          "numero": 1582,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 56 de Mme Yadan à l'article 2 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1582",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1583",
+          "legislature": 17,
+          "numero": 1583,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 57 de Mme Yadan à l'article 2 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1583",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1584",
+          "legislature": 17,
+          "numero": 1584,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 58 de Mme Yadan à l'article 2 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1584",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1593",
+          "legislature": 17,
+          "numero": 1593,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 46 de M. Henriet à l'article 3 (supprimé) de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1593",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1594",
+          "legislature": 17,
+          "numero": 1594,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 67 de Mme Yadan après l'article 3 bis de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1594",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1595",
+          "legislature": 17,
+          "numero": 1595,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 69 de Mme Yadan après l'article 3 bis de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1595",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1597",
+          "legislature": 17,
+          "numero": 1597,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 61 de Mme Yadan après l'article 4 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1597",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1598",
+          "legislature": 17,
+          "numero": 1598,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 41 de Henriet de suppression de l'article 5 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1598",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1599",
+          "legislature": 17,
+          "numero": 1599,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 42 de Henriet de suppression de l'article 6 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1599",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1600",
+          "legislature": 17,
+          "numero": 1600,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 43 de Henriet de suppression de l'article 7 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1600",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1586",
+          "legislature": 17,
+          "numero": 1586,
+          "date": "2025-05-07",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 70 de M. Boyard à l'amendement n° 46 de M. Henriet à l'article 3 (supprimé) de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1586",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1587",
+          "legislature": 17,
+          "numero": 1587,
+          "date": "2025-05-07",
+          "type": "sous-amendement",
+          "resultat": "adopté",
+          "titre": "le sous-amendement n° 92 de M. Portier à l'amendement n° 46 de M. Henriet à l'article 3 (supprimé) de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1587",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1588",
+          "legislature": 17,
+          "numero": 1588,
+          "date": "2025-05-07",
+          "type": "sous-amendement",
+          "resultat": "adopté",
+          "titre": "le sous-amendement n° 96 du Gouvernement et le sous-amendement identique suivant à l'amendement n° 46 de M. Henriet à l'article 3 (supprimé) de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1588",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1589",
+          "legislature": 17,
+          "numero": 1589,
+          "date": "2025-05-07",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 85 rectifié de Mme Yadan à l'amendement n° 46 de M. Henriet à l'article 3 (supprimé) de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1589",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1590",
+          "legislature": 17,
+          "numero": 1590,
+          "date": "2025-05-07",
+          "type": "sous-amendement",
+          "resultat": "adopté",
+          "titre": "le sous-amendement n° 42 de M. Boyard et les sous-amendements identiques suivants à l'amendement n° 46 de M. Henriet à l'article 3 (supprimé) de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1590",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1591",
+          "legislature": 17,
+          "numero": 1591,
+          "date": "2025-05-07",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 77 de M. Boyard à l'amendement n° 46 de M. Henriet à l'article 3 (supprimé) de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1591",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1592",
+          "legislature": 17,
+          "numero": 1592,
+          "date": "2025-05-07",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 74 de M. Boyard à l'amendement n° 46 de M. Henriet à l'article 3 (supprimé) de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1592",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de résolution tendant à créer un Institut Océan de l'université des Nations unies en France",
+      "legislature": 17,
+      "motsCles": [
+        "universite"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V1204",
+          "legislature": 17,
+          "numero": 1204,
+          "date": "2025-04-02",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "la proposition de résolution tendant à créer un Institut Océan de l'université des Nations unies en France (article 34-1 de la Constitution).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1204",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à proroger le dispositif d'expérimentation favorisant l'égalité des chances pour l'accès à certaines écoles de service public",
+      "legislature": 17,
+      "motsCles": [
+        "ecole"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V840",
+          "legislature": 17,
+          "numero": 840,
+          "date": "2025-02-18",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à proroger le dispositif d'expérimentation favorisant l'égalité des chances pour l'accès à certaines écoles de service public (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/840",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V838",
+          "legislature": 17,
+          "numero": 838,
+          "date": "2025-02-18",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi visant à proroger le dispositif d'expérimentation favorisant l'égalité des chances pour l'accès à certaines écoles de service public (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/838",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V839",
+          "legislature": 17,
+          "numero": 839,
+          "date": "2025-02-18",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 8 du Gouvernement de suppression de l'article 2 ter de la proposition de loi visant à proroger le dispositif d'expérimentation favorisant l'égalité des chances pour l'accès à certaines écoles de service public (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/839",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à rendre accessible à tous les étudiants le repas à 1 euro",
+      "legislature": 17,
+      "motsCles": [
+        "etudiant"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V606",
+          "legislature": 17,
+          "numero": 606,
+          "date": "2025-01-23",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à rendre accessible à tous les étudiants le repas à 1 euro (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/606",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V603",
+          "legislature": 17,
+          "numero": 603,
+          "date": "2025-01-23",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi visant à rendre accessible à tous les étudiants le repas à 1 euro (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/603",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V601",
+          "legislature": 17,
+          "numero": 601,
+          "date": "2025-01-23",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 18 de M. Croizier à l'article premier de la proposition de loi visant à rendre accessible à tous les étudiants le repas à 1 euro (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/601",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V602",
+          "legislature": 17,
+          "numero": 602,
+          "date": "2025-01-23",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 14 de Mme Joncour à l'article premier de la proposition de loi visant à rendre accessible à tous les étudiants le repas à 1 euro (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/602",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V604",
+          "legislature": 17,
+          "numero": 604,
+          "date": "2025-01-23",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 19 de M. Clavet après l'article premier de la proposition de loi visant à rendre accessible à tous les étudiants le repas à 1 euro (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/604",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V605",
+          "legislature": 17,
+          "numero": 605,
+          "date": "2025-01-23",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 20 de M. Clavet après l'article premier de la proposition de loi visant à rendre accessible à tous les étudiants le repas à 1 euro (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/605",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi pour une meilleure réussite scolaire des jeunes ultramarins grâce à l'apprentissage des langues régionales",
+      "legislature": 16,
+      "motsCles": [
+        "scolaire"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3996",
+          "legislature": 16,
+          "numero": 3996,
+          "date": "2024-05-30",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi pour une meilleure réussite scolaire des jeunes ultramarins grâce à l'apprentissage des langues régionales (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3996",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3995",
+          "legislature": 16,
+          "numero": 3995,
+          "date": "2024-05-30",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi pour une meilleure réussite scolaire des jeunes ultramarins grâce à l'apprentissage des langues régionales (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3995",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à la prise en charge par l'État de l'accompagnement humain des élèves en situation de handicap durant le temps de pause méridienne",
+      "legislature": 16,
+      "motsCles": [
+        "eleve"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3660",
+          "legislature": 16,
+          "numero": 3660,
+          "date": "2024-04-08",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à la prise en charge par l'État de l'accompagnement humain des élèves en situation de handicap durant le temps de pause méridienne (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3660",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi tendant à tenir compte de la capacité contributive des collectivités territoriales dans l'attribution des subventions et dotations destinées aux investissements relatifs à la transition écologique des bâtiments scolaires",
+      "legislature": 16,
+      "motsCles": [
+        "scolaire"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3566",
+          "legislature": 16,
+          "numero": 3566,
+          "date": "2024-03-20",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi tendant à tenir compte de la capacité contributive des collectivités territoriales dans l'attribution des subventions et dotations destinées aux investissements relatifs à la transition écologique des bâtiments scolaires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3566",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3565",
+          "legislature": 16,
+          "numero": 3565,
+          "date": "2024-03-20",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article unique de la proposition de loi tendant à tenir compte de la capacité contributive des collectivités territoriales dans l'attribution des subventions et dotations destinées aux investissements relatifs à la transition écologique des bâtiments scolaires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3565",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3563",
+          "legislature": 16,
+          "numero": 3563,
+          "date": "2024-03-20",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 8 de M. Dessigny à l'article unique de la proposition de loi tendant à tenir compte de la capacité contributive des collectivités territoriales dans l'attribution des subventions et dotations destinées aux investissements relatifs à la transition écologique des bâtiments scolaires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3563",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3564",
+          "legislature": 16,
+          "numero": 3564,
+          "date": "2024-03-20",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 7 de M. Sala à l'article unique de la proposition de loi tendant à tenir compte de la capacité contributive des collectivités territoriales dans l'attribution des subventions et dotations destinées aux investissements relatifs à la transition écologique des bâtiments scolaires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3564",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à professionnaliser l'enseignement de la danse en tenant compte de la diversité des pratiques",
+      "legislature": 16,
+      "motsCles": [
+        "enseignement"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3456",
+          "legislature": 16,
+          "numero": 3456,
+          "date": "2024-03-07",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à professionnaliser l'enseignement de la danse en tenant compte de la diversité des pratiques (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3456",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3449",
+          "legislature": 16,
+          "numero": 3449,
+          "date": "2024-03-07",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi visant à professionnaliser l'enseignement de la danse en tenant compte de la diversité des pratiques (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3449",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3450",
+          "legislature": 16,
+          "numero": 3450,
+          "date": "2024-03-07",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 4 de la proposition de loi visant à professionnaliser l'enseignement de la danse en tenant compte de la diversité des pratiques (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3450",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3451",
+          "legislature": 16,
+          "numero": 3451,
+          "date": "2024-03-07",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 5 de la proposition de loi visant à professionnaliser l'enseignement de la danse en tenant compte de la diversité des pratiques (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3451",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3452",
+          "legislature": 16,
+          "numero": 3452,
+          "date": "2024-03-07",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 6 de la proposition de loi visant à professionnaliser l'enseignement de la danse en tenant compte de la diversité des pratiques (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3452",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3453",
+          "legislature": 16,
+          "numero": 3453,
+          "date": "2024-03-07",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 7 de la proposition de loi visant à professionnaliser l'enseignement de la danse en tenant compte de la diversité des pratiques (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3453",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3454",
+          "legislature": 16,
+          "numero": 3454,
+          "date": "2024-03-07",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 8 de la proposition de loi visant à professionnaliser l'enseignement de la danse en tenant compte de la diversité des pratiques (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3454",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3446",
+          "legislature": 16,
+          "numero": 3446,
+          "date": "2024-03-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 5 de M. Davi et les amendements identiques suivants à l'article premier de la proposition de loi visant à professionnaliser l'enseignement de la danse en tenant compte de la diversité des pratiques (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3446",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3447",
+          "legislature": 16,
+          "numero": 3447,
+          "date": "2024-03-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 33 de M. Mathiasin à l'article premier de la proposition de loi visant à professionnaliser l'enseignement de la danse en tenant compte de la diversité des pratiques (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3447",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3448",
+          "legislature": 16,
+          "numero": 3448,
+          "date": "2024-03-07",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 44 de Mme Colboc à l'article premier de la proposition de loi visant à professionnaliser l'enseignement de la danse en tenant compte de la diversité des pratiques (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3448",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3455",
+          "legislature": 16,
+          "numero": 3455,
+          "date": "2024-03-07",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 39 de Mme Colboc et les amendements identiques suivants après l'article 9 de la proposition de loi visant à professionnaliser l'enseignement de la danse en tenant compte de la diversité des pratiques (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3455",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de résolution relative aux écoles nationales d’architecture",
+      "legislature": 16,
+      "motsCles": [
+        "ecole"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V1779",
+          "legislature": 16,
+          "numero": 1779,
+          "date": "2023-06-07",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "la proposition de résolution relative aux écoles nationales d’architecture (art. 34-1 de la Constitution).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1779",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi portant abrogation de l'obligation vaccinale contre la covid-19 dans les secteurs médicaux, paramédicaux et d'aide à la personne et visant à la réintégration des professionnels et étudiants suspendus",
+      "legislature": 16,
+      "motsCles": [
+        "etudiant"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V1462",
+          "legislature": 16,
+          "numero": 1462,
+          "date": "2023-05-04",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi portant abrogation de l'obligation vaccinale contre la covid-19 dans les secteurs médicaux, paramédicaux et d'aide à la personne et visant à la réintégration des professionnels et étudiants suspendus (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1462",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1459",
+          "legislature": 16,
+          "numero": 1459,
+          "date": "2023-05-04",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi portant abrogation de l'obligation vaccinale contre la covid-19 dans les secteurs médicaux, paramédicaux et d'aide à la personne et visant à la réintégration des professionnels et étudiants suspendus (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1459",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1460",
+          "legislature": 16,
+          "numero": 1460,
+          "date": "2023-05-04",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 de la proposition de loi portant abrogation de l'obligation vaccinale contre la covid-19 dans les secteurs médicaux, paramédicaux et d'aide à la personne et visant à la réintégration des professionnels et étudiants suspendus (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1460",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1461",
+          "legislature": 16,
+          "numero": 1461,
+          "date": "2023-05-04",
+          "type": "article",
+          "resultat": "rejeté",
+          "titre": "l'article 3 de la proposition de loi portant abrogation de l'obligation vaccinale contre la covid-19 dans les secteurs médicaux, paramédicaux et d'aide à la personne et visant à la réintégration des professionnels et étudiants suspendus (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1461",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1457",
+          "legislature": 16,
+          "numero": 1457,
+          "date": "2023-05-04",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 8 de M. Rousset à l'article premier de la proposition de loi portant abrogation de l'obligation vaccinale contre la covid-19 dans les secteurs médicaux, paramédicaux et d'aide à la personne et visant à la réintégration des professionnels et étudiants suspendus (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1457",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1458",
+          "legislature": 16,
+          "numero": 1458,
+          "date": "2023-05-04",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 9 de Mme Paris à l'article premier de la proposition de loi portant abrogation de l'obligation vaccinale contre la covid-19 dans les secteurs médicaux, paramédicaux et d'aide à la personne et visant à la réintégration des professionnels et étudiants suspendus (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1458",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à assurer un repas à un euro pour tous les étudiants",
+      "legislature": 16,
+      "motsCles": [
+        "etudiant"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V931",
+          "legislature": 16,
+          "numero": 931,
+          "date": "2023-02-09",
+          "type": "ensemble",
+          "resultat": "rejeté",
+          "titre": "l'ensemble de la proposition de loi visant à assurer un repas à un euro pour tous les étudiants (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/931",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi appelant à élever Alfred Dreyfus au grade de général de brigade",
+      "legislature": 17,
+      "motsCles": [
+        "eleve"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V2207",
+          "legislature": 17,
+          "numero": 2207,
+          "date": "2025-06-02",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article unique de la proposition de loi appelant à élever Alfred Dreyfus au grade de général de brigade (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2207",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à la prise en charge par l'État de l'accompagnement humain des élèves en situation de handicap pendant le temps de pause méridienne",
+      "legislature": 16,
+      "motsCles": [
+        "eleve"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3658",
+          "legislature": 16,
+          "numero": 3658,
+          "date": "2024-04-08",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 7 de Mme Lepvraud à l'article 2 de la proposition de loi visant à la prise en charge par l'État de l'accompagnement humain des élèves en situation de handicap pendant le temps de pause méridienne (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3658",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3659",
+          "legislature": 16,
+          "numero": 3659,
+          "date": "2024-04-08",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 15 de Mme Bourouaha à l'article 2 de la proposition de loi visant à la prise en charge par l'État de l'accompagnement humain des élèves en situation de handicap pendant le temps de pause méridienne (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3659",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "projet de loi de finances pour 2024",
+      "legislature": 16,
+      "motsCles": [
+        "scolaire",
+        "enseignement"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V2866",
+          "legislature": 16,
+          "numero": 2866,
+          "date": "2023-11-03",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1104 de M. Vannier à l'article 35 et État B de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Enseignement scolaire.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2866",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2867",
+          "legislature": 16,
+          "numero": 2867,
+          "date": "2023-11-03",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1708 de M. Vannier à l'article 35 et État B de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Enseignement scolaire.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2867",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2868",
+          "legislature": 16,
+          "numero": 2868,
+          "date": "2023-11-03",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 182 de M. Chudeau à l'article 35 et État B de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Enseignement scolaire.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2868",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2869",
+          "legislature": 16,
+          "numero": 2869,
+          "date": "2023-11-03",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1102 de M. Vannier à l'article 35 et État B de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Enseignement scolaire.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2869",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2870",
+          "legislature": 16,
+          "numero": 2870,
+          "date": "2023-11-03",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1146 de M. Boumertit à l'article 35 et État B de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Enseignement scolaire.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2870",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2871",
+          "legislature": 16,
+          "numero": 2871,
+          "date": "2023-11-03",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1728 de M. Vannier à l'article 35 et État B de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Enseignement scolaire.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2871",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2872",
+          "legislature": 16,
+          "numero": 2872,
+          "date": "2023-11-03",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 944 de Mme Rilhac à l'article 35 et État B de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Enseignement scolaire.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2872",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2873",
+          "legislature": 16,
+          "numero": 2873,
+          "date": "2023-11-03",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 129 de Mme Descamps et les amendements identiques suivants à l'article 35 et État B de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Enseignement scolaire.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2873",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2874",
+          "legislature": 16,
+          "numero": 2874,
+          "date": "2023-11-03",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 130 de Mme Descamps et les amendements identiques suivants à l'article 35 et État B de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Enseignement scolaire.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2874",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2875",
+          "legislature": 16,
+          "numero": 2875,
+          "date": "2023-11-03",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1097 de M. Vannier à l'article 35 et État B de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Enseignement scolaire.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2875",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2876",
+          "legislature": 16,
+          "numero": 2876,
+          "date": "2023-11-03",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1133 de M. Vannier à l'article 35 et État B de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Enseignement scolaire.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2876",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2877",
+          "legislature": 16,
+          "numero": 2877,
+          "date": "2023-11-03",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1120 de M. Vannier à l'article 35 et État B de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Enseignement scolaire.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2877",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2878",
+          "legislature": 16,
+          "numero": 2878,
+          "date": "2023-11-03",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1761 de Mme Maximi à l'article 35 et État B de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Enseignement scolaire.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2878",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2879",
+          "legislature": 16,
+          "numero": 2879,
+          "date": "2023-11-03",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 1237 de Mme Keloua Hachi et l'amendement identique suivant à l'article 35 et État B de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Enseignement scolaire.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2879",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2880",
+          "legislature": 16,
+          "numero": 2880,
+          "date": "2023-11-03",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1126 de M. Vannier à l'article 35 et État B de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Enseignement scolaire.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2880",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2881",
+          "legislature": 16,
+          "numero": 2881,
+          "date": "2023-11-03",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1599 de Mme Descamps et l'amendement identique suivant à l'article 35 et État B de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Enseignement scolaire.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2881",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2882",
+          "legislature": 16,
+          "numero": 2882,
+          "date": "2023-11-03",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1724 de M. Vannier à l'article 35 et État B de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Enseignement scolaire.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2882",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2883",
+          "legislature": 16,
+          "numero": 2883,
+          "date": "2023-11-03",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 1235 de Mme Keloua Hachi et les amendements identiques suivants à l'article 35 et État B de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Enseignement scolaire.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2883",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2884",
+          "legislature": 16,
+          "numero": 2884,
+          "date": "2023-11-03",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 2187 de M. Portier à l'article 35 et État B de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Enseignement scolaire.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2884",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2885",
+          "legislature": 16,
+          "numero": 2885,
+          "date": "2023-11-03",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1634 de Mme Descamps à l'article 35 et État B de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Enseignement scolaire.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2885",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2886",
+          "legislature": 16,
+          "numero": 2886,
+          "date": "2023-11-03",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 1863 de M. Balanant à l'article 35 et État B de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Enseignement scolaire.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2886",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi portant interdiction de l'écriture dite « inclusive » dans les éditions, productions et publications scolaires et universitaires ainsi que dans les actes civils, administratifs et commerciaux",
+      "legislature": 16,
+      "motsCles": [
+        "scolaire"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V2758",
+          "legislature": 16,
+          "numero": 2758,
+          "date": "2023-10-12",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement de suppression n° 5 de M. Echaniz et les amendements identiques suivants à l'article unique de la proposition de loi portant interdiction de l'écriture dite « inclusive » dans les éditions, productions et publications scolaires et universitaires ainsi que dans les actes civils, administratifs et commerciaux (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2758",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à garantir un tarif réduit aux étudiants boursiers et précaires dans les sites de restauration gérés par les centres régionaux des oeuvres universitaires",
+      "legislature": 16,
+      "motsCles": [
+        "etudiant"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V927",
+          "legislature": 16,
+          "numero": 927,
+          "date": "2023-02-09",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi visant à garantir un tarif réduit aux étudiants boursiers et précaires dans les sites de restauration gérés par les centres régionaux des oeuvres universitaires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/927",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V929",
+          "legislature": 16,
+          "numero": 929,
+          "date": "2023-02-09",
+          "type": "article",
+          "resultat": "rejeté",
+          "titre": "l'article 2 de la proposition de loi visant à garantir un tarif réduit aux étudiants boursiers et précaires dans les sites de restauration gérés par les centres régionaux des oeuvres universitaires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/929",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V925",
+          "legislature": 16,
+          "numero": 925,
+          "date": "2023-02-09",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 11 de Mme Keloua Hachi à l'article premier de la proposition de loi visant à garantir un tarif réduit aux étudiants boursiers et précaires dans les sites de restauration gérés par les centres régionaux des oeuvres universitaires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/925",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V926",
+          "legislature": 16,
+          "numero": 926,
+          "date": "2023-02-09",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 19 de Mme Calvez et les amendements identiques suivants à l'article premier de la proposition de loi visant à garantir un tarif réduit aux étudiants boursiers et précaires dans les sites de restauration gérés par les centres régionaux des oeuvres universitaires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/926",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V928",
+          "legislature": 16,
+          "numero": 928,
+          "date": "2023-02-09",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 9 de M. Bilde après l'article premier de la proposition de loi visant à garantir un tarif réduit aux étudiants boursiers et précaires dans les sites de restauration gérés par les centres régionaux des oeuvres universitaires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/928",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V930",
+          "legislature": 16,
+          "numero": 930,
+          "date": "2023-02-09",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 12 de Mme Keloua Hachi au titre de la proposition de loi visant à garantir un tarif réduit aux étudiants boursiers et précaires dans les sites de restauration gérés par les centres régionaux des oeuvres universitaires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/930",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à instituer dans les écoles et collèges publics le port d'une tenue uniforme aux couleurs de l'établissement scolaire",
+      "legislature": 16,
+      "motsCles": [
+        "ecole",
+        "scolaire",
+        "college"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V830",
+          "legislature": 16,
+          "numero": 830,
+          "date": "2023-01-12",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement de suppression n° 1 de M. Echaniz et les amendements identiques suivants à l'article unique de la proposition de loi visant à instituer dans les écoles et collèges publics le port d'une tenue uniforme aux couleurs de l'établissement scolaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/830",
+          "dejaRetenu": false
+        }
+      ]
+    }
+  ]
+}

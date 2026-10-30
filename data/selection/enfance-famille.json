@@ -1,0 +1,702 @@
+{
+  "sujet": "enfance-famille",
+  "auto": true,
+  "note": "Pré-sélection automatique (scripts/brouillon.mjs). Passer « statut » à « valide » après relecture : l’entrée ne sera plus modifiée.",
+  "scrutins": [
+    {
+      "id": "VTANR5L17V8705",
+      "resume": "Proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "EcoS": {
+          "ancre": "4184149",
+          "citations": [
+            "Cette loi est un premier pas, c'est pourquoi nous la voterons, mais le combat ne fait que commencer."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4184157",
+          "citations": [
+            "Voilà pourquoi la question des moyens est décisive. Le groupe Les Démocrates votera avec fierté en faveur du texte, pour les avancées qu'il a défendues en son sein."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "4183848",
+          "citations": [
+            "Le groupe Horizons & indépendants votera en faveur du texte, avec la conviction que la protection des victimes ne peut être ni un combat partisan ni un combat solitaire ; qu'elle est l'affaire de la société tout entière et de tous nos bancs."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4184402",
+          "citations": [
+            "Il n'y a pas de hasard. C'est donc avec fierté que le groupe LIOT votera ce texte."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "4184163",
+          "citations": [
+            "Mon groupe votera en faveur de ce texte, non pas – vous l'aurez compris – en confiance béate à l'égard du gouvernement, mais bien en lutte aux côtés des victimes et aux côtés de celles et ceux qui se sont battus pour que ce texte advienne."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4184180",
+          "citations": [
+            "Ce n'est pas notre conception du travail parlementaire. Néanmoins, notre groupe votera en faveur de ce texte, parce qu'il contient des avancées et que les victimes ne peuvent plus attendre."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "4184205",
+          "citations": [
+            "Au Rassemblement national, nous ne pratiquons jamais la politique du pire. Le groupe Rassemblement national votera donc en faveur du texte."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "4184232",
+          "citations": [
+            "Mes chers collègues, en ce jour de vote solennel, nous devons être à la hauteur du mandat qui nous a été confié. Le groupe Ensemble pour la République votera en faveur de la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "4184243",
+          "citations": [
+            "Cette loi n'a d'intégral que le nom et nous sommes loin du grand soir. Toutefois, par respect pour le travail colossal et essentiel de l'ensemble des associations féministes et enfantistes, nous nous abstiendrons."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4184383",
+          "citations": [
+            "Vous l'aurez compris, c'est avec une immense fierté que les députés du groupe Socialistes et apparentés voteront cette proposition de loi et passeront le relais au Sénat, chère Laurence Rossignol."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4183866",
+          "citations": [
+            "Eu égard à ces objectifs, aux avancées obtenues et aux corrections apportées au texte, le groupe Droite républicaine votera en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V8430",
+      "resume": "Projet de loi relatif à la protection des enfants",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "LFI-NFP": {
+          "ancre": "4166877",
+          "citations": [
+            "Notre groupe ne soutiendra donc pas ce texte. Il s'abstiendra pour marquer son opposition à une partie des mesures."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4166890",
+          "citations": [
+            "Ceux qui se battent depuis longtemps en faveur de la protection de l'enfance ne peuvent nier, il est vrai, les avancées réelles contenues dans ce texte. Cependant, il reste insuffisant et c'est pourquoi le groupe Socialistes et apparentés s'abstiendra."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4167111",
+          "citations": [
+            "Mais nous ne pouvons faire l'économie d'une loi pénale qui soit le puissant porte-voix des enfants, eux qui ne peuvent pas s'exprimer. Vous l'aurez compris, les députés de la Droite républicaine, avec Laurent Wauquiez, voteront en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4167127",
+          "citations": [
+            "C'est pourquoi nous saluons l'enrichissement de ce projet de loi par plusieurs mesures que nous défendons et qui sont autant d'avancées substantielles. Malgré cela – je le dis avec une grande tristesse –, nous nous abstiendrons."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4166469",
+          "citations": [
+            "Pour toutes ces raisons, parce qu'il constitue une étape importante, parce qu'il apporte des améliorations concrètes et parce qu'il traduit une volonté d'agir plutôt que d'attendre une réforme parfaite, le groupe Les Démocrates votera en faveur de ce projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "4166481",
+          "citations": [
+            "Ce texte est le fruit d'amendements venant de tous les groupes – y compris de ceux de la gauche, qui ont pourtant voté contre le projet de loi en commission. Chacun votera en conscience ; mais je crois pouvoir dire que le texte qui nous est soumis a été écrit et enrichi par toutes les sensibilités de cet hémicycle."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4166497",
+          "citations": [
+            "C'est pourquoi la parole de l'enfant doit devenir le cœur de la politique publique : écouter plus tôt, détecter plus vite, accompagner mieux et former davantage. Nous voterons ce texte parce qu'il contient des avancées."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "4167192",
+          "citations": [
+            "Parce que je ne veux pas laisser les familles, les professionnels du secteur et les associations dans l'illusion d'un acte législatif accompli se souciant réellement de protéger les enfants, je voterai, avec plusieurs députés de mon groupe, résolument contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4167209",
+          "citations": [
+            "Nous voterons ce texte parce qu'il contient des mesures utiles et attendues, mais notre vote favorable ne saurait valoir absolution."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "4167234",
+          "citations": [
+            "Le groupe Rassemblement national votera donc en faveur de ce texte, mais avec la conviction que la défense des plus vulnérables, qui sera l'un des axes de la campagne de Marine Le Pen en 2027, nécessite bien plus."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "4167341",
+          "citations": [
+            "Il propose de mieux accompagner les enfants suivis par l'aide sociale à l'enfance tout en protégeant plus largement l'ensemble des enfants grâce au contrôle de l'honorabilité des personnes qui les encadrent. Pour toutes ces raisons, le groupe Ensemble pour la République votera en faveur de ce projet de loi."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V8431",
+      "resume": "Proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "LIOT": {
+          "ancre": "4167762",
+          "citations": [
+            "Comment nous assurer que l'attrait de l'interdit ne conduira pas certains jeunes à le contourner par des comptes empruntés ou l'utilisation de VPN ? Cela dit, et compte tenu de l'utilité de tous ses articles, nous voterons en faveur du texte."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4167779",
+          "citations": [
+            "La plupart d'entre nous, mais pas tous, voteront l'article 1er instaurant une interdiction d'accès aux réseaux sociaux avant 15 ans et la suspension des comptes déjà existants de mineurs de moins de 15 ans."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "4167794",
+          "citations": [
+            "Dans la mesure où il n'est pas équilibré, nous vous invitons, madame la ministre, à le retirer de l'ordre du jour et à revoir votre copie, sans quoi nous refuserons de le voter et nous nous abstiendrons."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4167925",
+          "citations": [
+            "Il s'agit de les protéger, de leur offrir un peu de répit et de leur permettre de se dédier pleinement à leurs études. Pour protéger la jeunesse contre le principal fléau de notre époque, le groupe Droite républicaine votera en faveur de la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4167933",
+          "citations": [
+            "Parce que l'interdiction prévue est une demande des parents et peut servir d'aide éducative, je voterai en faveur du texte, avec une partie des membres de mon groupe."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4167960",
+          "citations": [
+            "Parce qu'il nous faut avancer, parce qu'elle va dans le bon sens et parce qu'il est urgent de protéger nos enfants, le groupe Démocrate votera en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "4167972",
+          "citations": [
+            "Le groupe Horizons & indépendants votera donc ce texte avec fierté, avec la conviction que nous ouvrons un chemin dont nous ne voyons pas encore le terme, mais au bout duquel nous aurons reconquis le bien le plus précieux que ces plateformes nous dérobent chaque jour : notre attention, c'est-à-dire notre liberté de choisir à quoi et à qui nous consacrons le temps si court de nos existences."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V7904",
+      "resume": "Proposition de loi visant à assurer le droit de chaque enfant à être assisté d'un avocat dans le cadre d'une mesure d'assistance éducative et de protection de l'enfance",
+      "lecture": "deuxième lecture",
+      "statut": "auto",
+      "explications": {
+        "UDR": {
+          "ancre": "4145459",
+          "citations": [
+            "C'est pourquoi le groupe UDR soutiendra cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "4144976",
+          "citations": [
+            "Pour l'enfant, nous voulons un défenseur, pas un figurant. Nous voterons ce texte par conviction, par responsabilité, parce que c'est une mesure que nous soutenons de longue date."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4145135",
+          "citations": [
+            "Le groupe Socialistes et apparentés votera bien évidemment en faveur de cette proposition de loi, afin de garantir sa promulgation rapide et de permettre à l'ensemble des acteurs de se préparer à son entrée en vigueur en janvier 2027."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4145155",
+          "citations": [
+            "Les enfants seront enfin accompagnés tout au long d'une procédure qui conditionnera toute leur vie et qui, même pour un adulte, est excessivement difficile. Nous voterons contre les amendements pour que soit adoptée une version conforme à celle du Sénat."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4145707",
+          "citations": [
+            "Nous voterons en faveur de ce texte, dont l'ambition s'inscrit dans la continuité de notre engagement en faveur d'un meilleur accès à la justice pour nos enfants et, surtout, pour ceux qui en ont le plus besoin : les enfants déjà fragilisés, les enfants protégés."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "4145726",
+          "citations": [
+            "Parce que derrière chaque dossier qui s'accumule sur le bureau d'un juge des enfants débordé, il y a un enfant qui attend, parce que la protection de l'enfance est une mission dans laquelle la République ne peut se permettre de faillir, notre groupe votera bien évidemment, et avec une grande conviction, en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4145736",
+          "citations": [
+            "Le groupe LIOT espère que le Parlement pourra enfin débattre de la proposition de loi visant à lutter de manière intégrale contre les violences sexistes et sexuelles faites aux femmes et aux enfants. Dans l'attente, notre groupe votera une nouvelle fois pour cette proposition de loi."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V7270",
+      "resume": "Proposition de loi visant à améliorer la protection et l'accompagnement des parents d'enfants atteints d'un cancer, d'une maladie grave ou d'un handicap",
+      "lecture": "deuxième lecture",
+      "statut": "auto",
+      "explications": {
+        "SOC": {
+          "ancre": "4113489",
+          "citations": [
+            "Nous voterons pour ce texte parce qu'il permet, à sa mesure, de soulager la charge des familles."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4112837",
+          "citations": [
+            "Il est des moments où le Parlement doit simplement voter, et voter utile. Aussi le groupe de la Droite républicaine votera-t-il ce texte conforme."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4113497",
+          "citations": [
+            "Vouloir agir sur les conséquences est louable et c'est pourquoi, je le répète, le groupe Écologiste et social votera pour ce texte."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4113505",
+          "citations": [
+            "Je confirme que le groupe Démocrates votera cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4112889",
+          "citations": [
+            "Les dispositifs actuels ne répondent que partiellement à ces contraintes spécifiques qui méritent pourtant une attention renforcée. Sous ces réserves, et pour l'ensemble des raisons que je viens d'exposer, notre groupe votera en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "4113613",
+          "citations": [
+            "Par esprit de responsabilité envers toutes les familles touchées et tous les enfants malades, auxquels nous pensons, nous voterons en faveur du texte dans sa version actuelle, même si nos amendements n'ont pas été adoptés."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4113380",
+          "citations": [
+            "L'Assemblée nationale s'étant déjà prononcée favorablement sur ce texte il y a plus d'un an, il est important qu'il soit adopté. Pour toutes ces raisons, le groupe UDR votera en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "4113618",
+          "citations": [
+            "Toutefois, nous avons su travailler pour faire avancer plusieurs dispositions, conformément à ce que nos concitoyens attendent de nous : dépasser les clivages lorsque les intérêts des enfants et des parents sont en jeu. C'est donc avec lucidité, mais dans un esprit de responsabilité que nous voterons en faveur du texte, tout en restant mobilisés lors des prochaines étapes."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "4113624",
+          "citations": [
+            "Nous avons déjà adopté au moins trois textes comportant des avancées sur le sujet. La proposition de loi qui nous est soumise les complétant, le groupe EPR votera en sa faveur."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "4113632",
+          "citations": [
+            "Face au chantage des parlementaires LR, qui menacent de ne pas examiner à nouveau le texte avant l'année prochaine si l'Assemblée le modifiait, le groupe Insoumis, en force responsable, a décidé de retirer ses amendements. Nous voterons donc en faveur du texte, mais en gardant en tête des questions."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V4714",
+      "resume": "Proposition de loi visant à assurer le droit de chaque enfant à être assisté d'un avocat dans le cadre d'une mesure d'assistance éducative et de protection de l'enfance",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "DR": {
+          "ancre": "3969241",
+          "citations": [
+            "C'est pourquoi nous proposons une expérimentation nationale préalable, ouverte aux départements volontaires, encadrée par un cahier des charges commun, assortie d'une évaluation indépendante et d'un bilan objectif après deux ans, avant toute généralisation. Nous nous abstiendrons sur ce texte et laissons la liberté de vote aux députés de notre groupe."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "3969807",
+          "citations": [
+            "Nous le soutiendrons car c'est l'engagement d'une République qui protège les siens – tous les siens – et qui ne laisse plus jamais un enfant affronter seul la justice."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3969008",
+          "citations": [
+            "Les enfants deviendront en effet des justiciables comme les autres et bénéficieront des mêmes droits que les adultes. Nous voterons donc pour l'adoption de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3969249",
+          "citations": [
+            "Cette mesure contribuera à faire de la protection de l'intérêt supérieur de l'enfant une réalité plutôt qu'un simple slogan. Le groupe Libertés, indépendants, outre-mer et territoires votera en faveur du texte."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3970010",
+          "citations": [
+            "Elle contribue à sécuriser leur place dans la procédure, à renforcer leurs droits et à harmoniser notre législation autour de principes partagés par les professionnels du secteur. C'est pourquoi le groupe UDR votera en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3970185",
+          "citations": [
+            "Malgré toutes ces approximations, le Rassemblement national, fidèle à sa volonté de protéger les plus faibles, votera pour la présence systématique d'un avocat aux côtés du mineur dans le cadre de la procédure d'assistance éducative, garantie essentielle du procès équitable."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3969261",
+          "citations": [
+            "Elle est indispensable car, en protégeant la fragilité de ceux qui ne peuvent se protéger eux-mêmes, nous affirmons quelque chose de fondamental : la valeur que nous accordons à la dignité humaine la plus simple, la plus nue, la plus essentielle. Oui, nous voterons ce texte avec conviction, avec détermination, à l'unanimité, parce qu'il touche à ce que nous avons de plus profondément humain."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "3970213",
+          "citations": [
+            "De nombreux députés macronistes sur ces bancs voteront probablement en faveur de ce texte – vous montez à la tribune pour vous féliciter de cette avancée – et la ministre saluera la création de ce nouveau droit ; mais il faudra aller beaucoup plus loin – vous le savez."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V4723",
+      "resume": "Proposition de loi visant à protéger les mineurs isolés et à lutter contre le sans-abrisme",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "DR": {
+          "ancre": "3969600",
+          "citations": [
+            "Nous souhaitons plutôt une réduction de la dépense publique entraînée par ces comités Théodule et autres opérateurs ; en l'occurrence, mieux vaudrait rediriger vers des plans de lutte contre le sans-abrisme la dépense prévue à l'article 2. Pour l'ensemble de ces raisons, les députés de la Droite républicaine voteront contre l'article et contre l'ensemble de la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "3969757",
+          "citations": [
+            "C'est ainsi que la France pourra enfin tenir ses engagements internationaux et garantir à ces enfants la protection, la sécurité et la reconnaissance auxquelles ils ont droit. Encore une fois, monsieur le rapporteur, merci pour cette avancée importante : notre groupe soutiendra fortement votre texte !"
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3969312",
+          "citations": [
+            "Je vous le répète, je suis très ennuyée face à ce texte et c'est bien pour cette raison que chaque député de mon groupe votera en son âme et conscience."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3969779",
+          "citations": [
+            "Si votre proposition était adoptée, des majeurs prendraient la place de mineurs et des majeurs cohabiteraient avec de vrais mineurs, dans les mêmes structures. Nous voterons contre cette proposition de loi et nous vous invitons à confirmer le rejet dont elle a fait l'objet en commission."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3969321",
+          "citations": [
+            "Notre groupe votera bien sûr contre cette proposition de loi, déjà invraisemblable au départ, mais qui est devenue absolument terrifiante à présent qu'ont été votés les amendements de l'extrême gauche qui nous privent, si cela était encore possible, des derniers moyens qui restaient à notre disposition pour attester de l'âge d'un étranger isolé, lorsque la question se pose, le test osseux, le test dentaire et le test de puberté étant désormais interdits."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3970858",
+          "citations": [
+            "» La vérité, c'est que la France prend déjà largement sa part et que Mayotte en assume beaucoup plus que tout le reste du pays. Le Rassemblement national votera contre ce texte, par responsabilité, par loyauté envers les Mahorais et tous les Français."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V2220",
+      "resume": "Proposition de loi portant reconnaissance de la Nation envers les rapatriés d'Indochine et réparation des préjudices subis par ceux-ci et leurs familles du fait de l'indignité de leurs conditions d'accueil et de vie dans certaines structures sur le territoire français",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "DR": {
+          "ancre": "3777791",
+          "citations": [
+            "En tout cas, le groupe de la Droite républicaine votera sans réserve pour cette proposition de loi juste et nécessaire qui rend leur honneur tant aux rapatriés d'Indochine qu'à la France."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "3777436",
+          "citations": [
+            "Le groupe Écologiste et social votera en faveur de cette proposition de loi portant reconnaissance de la nation envers les rapatriés d'Indochine et réparation des préjudices subis par ceux-ci, leurs familles et leurs descendants."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3777449",
+          "citations": [
+            "Notre groupe soutiendra l'amendement du gouvernement tendant à retenir cette borne temporelle : il y va de la réalité historique, de l'équité et de la sécurité juridique. Notre groupe votera bien sûr cette proposition de loi, grande, courageuse et, surtout, juste."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3777793",
+          "citations": [
+            "C'est tout à l'honneur de notre assemblée que de réussir à se mettre d'accord sur des thématiques aussi importantes. Le groupe Horizons & indépendants votera en faveur de cette proposition de loi en séance, comme il l'a fait en commission."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3777494",
+          "citations": [
+            "Le groupe UDR votera en faveur de cette proposition de loi importante, qui illustre les vertus d'une juste mémoire : non pas une mémoire honteuse, mais une mémoire consciente, qui sait combien il est important de reconnaître les erreurs commises pour mieux célébrer les gloires acquises au fil d'une histoire qui n'en a jamais manqué."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3777506",
+          "citations": [
+            "Malgré votre sectarisme, monsieur le rapporteur, malgré la signature des communistes, nous voterons en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "3777533",
+          "citations": [
+            "J'en profite donc pour inviter le gouvernement à revoir sa copie concernant les harkis, en espérant que nous n'ayons pas à le faire s'agissant des rapatriés d'Indochine. Nous voterons en faveur de ce texte s'il permet de réparer vraiment un oubli."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V1624",
+      "resume": "Proposition de loi visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto"
+    },
+    {
+      "id": "VTANR5L16V3048",
+      "resume": "Proposition de résolution tendant à la création d'une commission d'enquête sur le modèle économique des entreprises de crèches et la qualité de l’accueil des jeunes enfants au sein de leurs établissements",
+      "statut": "auto",
+      "explications": {
+        "Dem": {
+          "ancre": "3306724",
+          "citations": [
+            "construisons ensemble un texte contenant les avancées dont tout le secteur a besoin, parce que là est l'urgence ! Vous l'avez compris : le groupe Démocrate votera contre cette proposition de création d'une commission d'enquête qui ne servirait à rien !"
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3307175",
+          "citations": [
+            "Nous voterons donc pour cette proposition de résolution visant à créer une commission d'enquête parlementaire sur le modèle économique des crèches et sur la maltraitance institutionnelle dans certains établissements."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3307182",
+          "citations": [
+            "Et nous veillerons à ce que le travail d'enquête parlementaire soit fait avec rigueur et impartialité, et mette ainsi sur le même pied l'ensemble des acteurs de la petite enfance. C'est pourquoi nous voterons la proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3307187",
+          "citations": [
+            "Fidèle à la lancée constructive impulsée en commission, le groupe Écologiste votera évidemment pour la création de cette commission d'enquête."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3307213",
+          "citations": [
+            "Le groupe LIOT soutiendra la création de la commission d'enquête."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3307436",
+          "citations": [
+            "Une commission d'enquête est plus que nécessaire ; nous voterons donc en faveur de cette proposition de résolution."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V2255",
+      "resume": "Proposition de loi visant à renforcer la protection des familles d'enfants atteints d'une maladie ou d'un handicap ou victimes d'un accident d'une particulière gravité",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "HOR": {
+          "ancre": "3197647",
+          "citations": [
+            "Nous voterons évidemment cette proposition de loi déposée par notre collègue Paul Christophe, que nous remercions pour son travail et pour l'engagement dont il fait preuve depuis de nombreuses années sur le sujet."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3197579",
+          "citations": [
+            "Le groupe Écologiste soutiendra le texte issu de la commission mixte paritaire et continuera son combat pour remettre le soin au cœur des préoccupations de l'État."
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "3197594",
+          "citations": [
+            "Je me réjouis de voir, à travers ce texte, la solidarité nationale prendre enfin sa part dans l'accompagnement des aidants et se substituer à la solidarité familiale, sur laquelle nous nous sommes trop longtemps reposés. Pour toutes ces raisons, le groupe GDR votera pour cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3197607",
+          "citations": [
+            "Plus largement, il faudra enfin s'interroger sur l'octroi aux familles concernées d'un statut véritablement protecteur. D'ici là, notre groupe soutiendra bien évidemment cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "3197891",
+          "citations": [
+            "Ce texte permettra de soutenir des parents qui, au-delà du choc de l'annonce de la maladie et de la réorganisation complète de leur vie familiale, doivent faire face à des problèmes de maintien dans l'emploi et, souvent, à un manque crucial de compréhension et de bienveillance de la part de leur employeur. Pour toutes ces raisons, le groupe Renaissance votera logiquement et sans hésitation en faveur de la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3197896",
+          "citations": [
+            "Nous continuerons de le faire et j'espère que vous le ferez aussi, chers collègues. Vous l'avez compris : dans l'ensemble favorable aux dispositions de ce texte, notre groupe votera en sa faveur."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "3197903",
+          "citations": [
+            "En définitive, cette proposition de loi ne supprime pas toutes les difficultés qui surviennent dans la vie des familles d'enfants touchés par une affection de longue durée, mais elle leur garantit une protection accrue et lève un certain nombre d'obstacles lourds et contraignants. Le groupe LFI-NUPES soutiendra évidemment cette proposition de loi qui a su faire consensus et surmonter les clivages."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3197942",
+          "citations": [
+            "Il faut notamment organiser, au bénéfice des familles, des connexions directes entre les organismes et les travailleurs sociaux. Le groupe Démocrate votera en faveur de ce texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V937",
+      "resume": "Proposition de loi visant à mieux protéger et accompagner les enfants victimes et co-victimes de violences intrafamiliales",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "HOR": {
+          "ancre": "3008541",
+          "citations": [
+            "Le groupe Horizons et apparentés sera toujours déterminé à accompagner les évolutions favorables à l'intérêt de l'enfant et à sa protection. C'est pourquoi nous voterons ce texte avec conviction."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3008549",
+          "citations": [
+            "Afin que les débats puissent aller à leur terme et que l'avancée proposée par notre collègue devienne rapidement effective, le groupe Écologiste-NUPES a décidé de retirer tous ses amendements. Nous voterons sans hésitation en faveur du texte…"
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "3008561",
+          "citations": [
+            "Ce sont eux que la proposition de loi de notre collègue Isabelle Santiago vise à défendre, et c'est pour eux que le groupe GDR-NUPES soutiendra ce texte qui s'inscrit pleinement dans la lignée des combats qu'il mène."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3008659",
+          "citations": [
+            "Je conclurai en répétant ce qui a déjà été dit : non, un conjoint violent n'est pas un parent digne de ce nom ; oui, l'intérêt supérieur de l'enfant doit marquer le nord sur notre boussole à tous. Par conséquent, le groupe LIOT soutiendra bien sûr votre texte."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3008799",
+          "citations": [
+            "Il doit être la considération déterminante de nos réflexions et de nos choix. Soyez assurés que si l'équilibre est maintenu, le groupe Démocrate votera avec enthousiasme en faveur de ce texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    }
+  ]
+}

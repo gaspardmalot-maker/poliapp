@@ -1,0 +1,753 @@
+{
+  "sujet": "logement",
+  "auto": true,
+  "note": "Pré-sélection automatique (scripts/brouillon.mjs). Passer « statut » à « valide » après relecture : l’entrée ne sera plus modifiée.",
+  "scrutins": [
+    {
+      "id": "VTANR5L17V7408",
+      "resume": "Proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "EPR": {
+          "ancre": "4124895",
+          "citations": [
+            "Pour les infirmières, les enseignants, les policiers, les agents de propreté, les douaniers, les agents pénitentiaires, et pour l'ensemble des travailleurs de première ligne des services publics, le groupe Ensemble pour la République votera avec conviction en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "4124920",
+          "citations": [
+            "Vous l'aurez compris, La France insoumise votera contre cette proposition de loi, qui s'inscrit dans la logique macroniste que l'on connaît depuis des années en matière de logement et qui a démontré jusqu'ici son inefficacité, avec un bilan pour le moins calamiteux, alarmant et catastrophique."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4124931",
+          "citations": [
+            "Pour toutes ces raisons, le groupe Socialiste et apparentés votera contre cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4124941",
+          "citations": [
+            "Une société équilibrée est une société où chacun peut vivre dignement du fruit de son travail, où l'effort est reconnu et où l'accès au logement n'est pas un obstacle, mais une opportunité. C'est dans cet esprit que le groupe de la Droite républicaine soutiendra les avancées contenues dans cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4124205",
+          "citations": [
+            "Généraliser la précarisation de l'accès au logement avec le risque de perdre son logement dès que l'on change de poste, ça suffit ! Le groupe Écologiste et social votera contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4124218",
+          "citations": [
+            "Ce texte met fin à cette anomalie. Le compromis de la CMP est solide, équilibré, et le groupe Les Démocrates le votera, tout en soulignant des points d'attention."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "4124234",
+          "citations": [
+            "C'est un besoin essentiel, un pilier de notre pacte républicain, une condition de l'équilibre de nos territoires et de notre cohésion nationale. Pour toutes ces raisons, le groupe Horizons & indépendants votera en faveur des conclusions de la commission mixte paritaire."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4124248",
+          "citations": [
+            "Monsieur le ministre, je connais votre sensibilité à ce sujet et vos attentes, mais attention à ces écueils, à ces risques. Pour toutes ces raisons, tout en en comprenant l'objectif, la plupart des députés du groupe LIOT ne voteront pas en faveur du texte."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "4124340",
+          "citations": [
+            "La présente proposition de loi n'échappe pas à cette logique de pénurie organisée, toujours au détriment des plus fragiles, au risque cette fois de précariser les agents publics et leur famille dans le cas d'une mutation ou d'un changement professionnel. Nous voterons bien évidemment contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4124348",
+          "citations": [
+            "Nous voterons en faveur du texte, bien qu'il soit imparfait et voué à ne rien changer à la crise du logement provoquée par la politique macroniste que vous soutenez depuis bientôt dix ans."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V7027",
+      "resume": "Proposition de loi pour la mobilisation de l'habitat existant en réponse à la crise du logement",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "LIOT": {
+          "ancre": "4106272",
+          "citations": [
+            "Mais puisque nos collègues l'ont quand même abordé, je vous incite tous à lire l'évaluation que l'Institut des politiques publiques vient de publier à ce sujet – c'est très intéressant, assez nuancé, et ça en décoiffera certains ! Je remercie en tout cas tous les collègues qui voteront pour la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4106283",
+          "citations": [
+            "De notre côté, nous avons une certitude : la justice sociale ne passe pas par la confiscation, mais par la prospérité. Ce texte allant plutôt dans cette direction, nous voterons pour."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "4105594",
+          "citations": [
+            "Malgré tous ces freins et insuffisances, nous voterons ce texte visant à améliorer le statut du bailleur privé."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "4105600",
+          "citations": [
+            "C'est pourquoi nous n'avons pas déposé beaucoup d'amendements : nous ne souhaitions pas rouvrir des débats qui avaient déjà porté leurs fruits s'agissant de la plupart des dispositifs, du statut du bailleur aux dispositifs préalables, notamment bancaires. Sans surprise, nous voterons donc pour ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "4105603",
+          "citations": [
+            "Sans surprise, nous voterons contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4106288",
+          "citations": [
+            "En effet, en matière de logement, on procède à des changements tous les ans, ce qui gêne la visibilité des investisseurs, les empêchant souvent de se projeter. Le groupe Droite républicaine votera bien entendu pour ce texte."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4106293",
+          "citations": [
+            "Madame la rapporteure, je vous remercie d'avoir mis le logement à l'ordre du jour car c'est un sujet dont nous débattons trop peu alors qu'il s'agit d'une préoccupation majeure des Français. Nous nous abstiendrons sur ce texte."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4104905",
+          "citations": [
+            "Le groupe Les Démocrates votera en faveur de cette proposition de loi, parce qu'elle incarne une méthode que nous défendons : encourager plutôt que contraindre, simplifier plutôt qu'alourdir, rechercher l'efficacité concrète plutôt que l'affichage."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "4104914",
+          "citations": [
+            "Notre groupe soutiendra également l'article 2, qui donne suite à des demandes exprimées depuis longtemps par les représentants des professionnels, ainsi que l'article 3."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V5240",
+      "resume": "Proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "DR": {
+          "ancre": "4002982",
+          "citations": [
+            "Cette foncière a beau être un outil juridique essentiel, nos politiques publiques auront à s'en saisir pleinement. Pour les raisons que je viens d'avancer, les députés du groupe Droite républicaine voteront en faveur du texte."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4002992",
+          "citations": [
+            "Pour toutes ces raisons, nous voterons contre le texte et nous appelons à une remise à plat complète de la politique immobilière de l'État qui soit fondée sur l'intérêt général, la transition écologique et le respect des agents publics."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4003006",
+          "citations": [
+            "Le choix qui a été fait de transformer la société Agile déjà existante en établissement public industriel et commercial me semble pertinent pour garantir une bonne gestion. C'est pourquoi le groupe Les Démocrates soutiendra ce texte, dont j'ai été, avec Thomas Cazenave et François Jolivet, l'un des premiers signataires."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4003480",
+          "citations": [
+            "Dans un contexte budgétaire contraint, où chaque euro doit être utilisé avec rigueur, il est de notre responsabilité collective de doter l'État des outils dont il a besoin pour mieux gérer, mieux investir et mieux préparer l'avenir. C'est pourquoi nous voterons en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "4003500",
+          "citations": [
+            "Cela ne marche pas à tous les coups et sans doute pas en l'espèce. C'est pourquoi notre groupe ne votera pas cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4003514",
+          "citations": [
+            "Mais chaque chose en son temps : le temps administratif a parfois ses raisons que l'impératif politique ne connaît point…Vous l'aurez compris, le groupe UDR votera en faveur de ce texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V3056",
+      "resume": "Proposition de loi de simplification du droit de l'urbanisme et du logement",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "UDR": {
+          "ancre": "3849518",
+          "citations": [
+            "Pour ces raisons, le groupe UDR s'abstiendra sur ce texte."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3849750",
+          "citations": [
+            "Fidèles à notre esprit constructif, nous voterons pour cette proposition de loi qui contient des mesures de bon sens, utiles à nos territoires."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "3849777",
+          "citations": [
+            "Nous vous alertons : c'est une atteinte grave et inconsidérée au droit de recours. Nous voterons aujourd'hui contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3849797",
+          "citations": [
+            "Dans l'attente de cette grande loi qui permettra que le droit au logement devienne effectif – que ce soit pour les gens modestes ou ceux issus de toutes les classes de la société –, le groupe Socialistes votera en faveur du texte."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3850370",
+          "citations": [
+            "L'amendement de mon collègue l'a démontré, tout comme, en février dernier, la proposition de loi à l'ordre du jour de notre journée d'initiative parlementaire : le logement à vocation sociale doit répondre aux besoins des travailleurs. Les députés de la Droite républicaine voteront donc en faveur du texte, mais il faudra aller plus loin pour résoudre la crise du logement."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3850383",
+          "citations": [
+            "C'est pourquoi nous attendons et soutenons des mesures d'envergure. Le groupe Les Démocrates, en accord avec l'objectif de simplification fixé par le gouvernement, votera en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3850534",
+          "citations": [
+            "En simplifiant les procédures, en apportant de la clarté et de la sécurité juridique, cette proposition de loi leur permettra de mieux répondre aux attentes de nos concitoyens : produire du logement, accompagner les dynamiques locales, revitaliser les centres-villes et préparer l'avenir des territoires. Pour l'ensemble de ces raisons, le groupe Horizons & indépendants votera en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V2262",
+      "resume": "Proposition de loi expérimentant l'encadrement des loyers et améliorant l'habitat dans les outre-mer",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "UDR": {
+          "ancre": "3781708",
+          "citations": [
+            "L'expérimentation, plutôt que la mise en place sèche d'un dispositif rigide, est toutefois une bonne chose – cela permettra de constater les corrections à adopter, voire de reconnaître la nécessité de trouver une alternative. C'est la raison pour laquelle le groupe UDR s'abstiendra sur cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3782104",
+          "citations": [
+            "Nous voterons pour, bien évidemment, et nous vous encourageons à apporter votre contribution au travail de la mission flash sur l'évaluation de l'expérimentation de l'encadrement des loyers, dont je suis rapporteure."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "3780817",
+          "citations": [
+            "Cette proposition de loi est donc une proposition de justice. Nous la voterons."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3780837",
+          "citations": [
+            "Enfin, le logement constitue un vecteur d'attractivité économique. Dans cet esprit, le groupe Droite républicaine salue l'équilibre obtenu au sein de cette proposition de loi, à laquelle il apportera son soutien."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "3780844",
+          "citations": [
+            "Nous voterons pour ce texte en espérant son adoption conforme et surtout que d'autres textes, très vite, permettront durablement aux habitants de tous les territoires de la République de se loger de manière digne sans y consacrer des sommes indécentes."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3782106",
+          "citations": [
+            "Avec cette proposition de loi qui permet plus de justice sociale, nous sommes totalement à l'écoute des territoires. Le groupe Horizons & indépendants votera pour le texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V2215",
+      "resume": "Proposition de loi visant à faciliter la transformation des bureaux et autres bâtiments en logements",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "EcoS": {
+          "ancre": "3776759",
+          "citations": [
+            "Nous voterons cette loi, mais nous appelons surtout de nos vœux une politique globale qui, au lieu de viser les locataires et de favoriser la spéculation, s'attaque de manière radicale au problème du logement, en faisant passer le droit au logement avant le droit de faire du profit sur le dos des millions de victimes de la crise."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3776770",
+          "citations": [
+            "Pour toutes ces raisons, parce que ce texte frappé au coin du bon sens apporte des solutions concrètes et équilibrées, parce qu'il est le fruit d'un travail parlementaire rigoureux, et, surtout, parce qu'il répond à un besoin fondamental de nos concitoyens, le groupe Les Démocrates lui apportera son soutien plein et entier."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3776786",
+          "citations": [
+            "Il incarne enfin une logique que nous défendons au sein du groupe Horizons & indépendants : faire confiance aux territoires, redonner des marges de manœuvre aux maires pour leur permettre d'agir avec souplesse et cohérence, là où les besoins sont les plus urgents. Nous voterons donc naturellement cette proposition de loi, dont nous saluons à la fois la philosophie générale et l'ambition pragmatique."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3776861",
+          "citations": [
+            "On me pardonnera cette légère digression qui n'est pas tout à fait hors sujet. J'en reviens plus directement au texte pour confirmer que le groupe LIOT le votera."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3776871",
+          "citations": [
+            "En dépit de ces lacunes, nous voterons le présent texte, en regrettant néanmoins, une fois de plus, que la question du logement soit abordée systématiquement de biais, dans des textes fragmentaires, alors que nous avons impérativement besoin d'une loi de programmation ambitieuse, structurée et assortie des moyens budgétaires propres à soutenir un programme de relance de la construction de logements qui soit enfin à la hauteur des besoins."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3776879",
+          "citations": [
+            "C'est pourquoi le groupe UDR votera en faveur de la proposition de loi ; lorsqu'un texte donne plus de liberté à ceux qui connaissent leur territoire, favorise l'initiative locale et sert l'intérêt de nos compatriotes, il mérite notre soutien."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3776899",
+          "citations": [
+            "Elle contient des outils qui seront donnés aux élus, des leviers opérationnels pour relancer la production de logements et une ambition claire : adapter notre droit aux réalités de notre époque. Vous l'aurez compris, le groupe Ensemble pour la République votera en faveur du texte."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "3776907",
+          "citations": [
+            "La France insoumise votera ce texte, mais nous ne nous faisons pas d'illusions et nous demandons des assurances pour que les logements produits respectent les normes environnementales."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3777619",
+          "citations": [
+            "Les socialistes continueront à défendre des mesures en ce sens avec, je l'espère, un soutien plus affirmé des députés conscients des difficultés que traversent les habitants de notre pays et des carences de la politique macroniste. Mon groupe votera pour cette proposition de loi et continuera d'appeler à une grande loi de programmation pour un logement digne et durable."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3777630",
+          "citations": [
+            "Grâce à elles, nous faisons un premier pas vers une solution concrète. Le groupe Droite républicaine votera donc naturellement en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V1717",
+      "resume": "Proposition de loi de simplification du droit de l'urbanisme et du logement",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "GDR": {
+          "ancre": "3742217",
+          "citations": [
+            "Néanmoins, la multiplication des régimes dérogatoires concernant notamment les entreprises de logistique et de transport ainsi que l'exploitation de carrières adoptée par amendement déséquilibre profondément le texte. Aussi, nous nous abstiendrons."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3739727",
+          "citations": [
+            "Conscient de la gravité de la situation, et fidèle à sa vocation républicaine de répondre aux besoins avec pragmatisme, le groupe UDR votera pour cette proposition de loi, qui est un pas dans la bonne direction."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3742252",
+          "citations": [
+            "Le groupe Ensemble pour la République l'en remercie et votera pour cette proposition de loi, qui répond, en tenant compte de la complexité des différents sujets, aux aspirations de simplification dans un domaine, le logement, qui en a grandement besoin et dans lequel nous devons, ensemble, nous impliquer encore davantage."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "3742226",
+          "citations": [
+            "Nous vous demandons donc de mettre en cohérence vos discours et vos actes, et de dégager les moyens nécessaires pour financer la transition écologique dans l'ensemble du territoire. Vous l'aurez compris, La France insoumise est opposée à cette proposition de loi, et nous voterons contre."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3742236",
+          "citations": [
+            "pour refonder enfin le code de l'urbanisme vers un aménagement durable de notre espace, vers un urbanisme de projets qui se substitue à un urbanisme de normes et où la démocratie participative trouve enfin sa place, afin de fixer des objectifs discutés et concertés avec la population. Le groupe Socialistes et apparentés, qui n'oublie pas l'outre-mer, fait le pari de l'intelligence : nous voterons pour la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3742240",
+          "citations": [
+            "Ce texte met fin à une logique de blocage mortifère et nous espérons qu'il contribuera à relancer la construction de logements dans notre pays. Nous voterons évidemment pour."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3742250",
+          "citations": [
+            "Le groupe Modem se prononcera en faveur de cette évolution du droit de l'urbanisme, qui entend répondre à la crise du logement exceptionnelle que nous traversons."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3740301",
+          "citations": [
+            "Le groupe Horizons & indépendants votera donc en faveur de ce texte, parce qu'il offre des solutions concrètes aux besoins des territoires, parce qu'il répond aux attentes du terrain et à l'urgence de bâtir et, enfin, parce qu'il envoie le signal fort d'un État qui fait confiance."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V3548",
+      "resume": "Projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement (texte de la commission paritaire)",
+      "statut": "auto",
+      "explications": {
+        "GDR-NUPES": {
+          "ancre": "3409391",
+          "citations": [
+            "Nous voterons le texte issu de la commission mixte paritaire, dans la mesure où il s'appuie sur les retours d'expérience des opérateurs et des élus."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3409732",
+          "citations": [
+            "Nous comprenons les contraintes imposées par la loi du 22 août 2021 portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets – loi « climat et résilience » –, qui a défini l'objectif de zéro artificialisation nette, mais nous devrons être aidés à aller plus loin. Considérant que le projet de loi va dans le bon sens, les députés du groupe LIOT le voteront."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3409761",
+          "citations": [
+            "Parce que, depuis 2017, nous attendons toujours un ministère de l'aménagement du territoire, ce grand oublié du macronisme ; dans la crainte des dérives que je viens d'évoquer ; parce que nous nous opposons à l'offensive menée par Emmanuel Macron contre la propriété immobilière, et parce que nous soutenons les petits propriétaires, confrontés à cette entreprise de dépossession dissimulée derrière des intentions louables, nous nous abstiendrons sur ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3409495",
+          "citations": [
+            "Telles sont les raisons pour lesquelles le groupe Les Républicains votera pour ce projet de loi, dans la rédaction finale issue de la CMP, même s'il est bien conscient que ce texte demeure insuffisant pour vraiment relancer les opérations de rénovation sur l'ensemble du territoire."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3409519",
+          "citations": [
+            "Nous continuerons à répondre présents pour bâtir, pierre après pierre, un logement digne pour tous les âges et toutes les bourses. Eu égard aux avancées que j'ai soulignées, le groupe Démocrate votera en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3409685",
+          "citations": [
+            "Bien que nous aurions souhaité aller plus loin sur certaines mesures – notamment en matière de lutte contre les marchands de sommeil –, nous ne minorons pas les progrès apportés par ce texte. Sans surprise, nous voterons donc à nouveau en faveur de ce projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3409702",
+          "citations": [
+            "Ce texte de protection des copropriétés les plus vulnérables et de leurs habitants constitue un levier nécessaire de notre politique du logement. Pour toutes les raisons évoquées, le groupe Horizons et apparentés votera en faveur du texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V3247",
+      "resume": "Projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "GDR-NUPES": {
+          "ancre": "3345122",
+          "citations": [
+            "Pour garantir à chacun la protection de sa santé, la sécurité et le repos dans un logement digne, comme le veut notre Constitution, il faut concevoir des dispositifs beaucoup plus coercitifs que ceux qui existent aujourd'hui. Nous voterons en faveur de ce texte, tout en espérant que nos débats nous permettront de l'améliorer encore."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3348141",
+          "citations": [
+            "Les collectivités ont besoin d'être accompagnées dans leur ingénierie de projet. Pour conclure, nous voterons ce texte, en souhaitant que l'esprit constructif qui a présidé à son adoption puisse perdurer."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "3348146",
+          "citations": [
+            "Pour conclure, permettez-moi de saluer les apports de l'ensemble des groupes sur ce texte, en espérant que le travail se poursuive de la même manière bienveillante, depuis la commission jusqu'au retour du Sénat. Le groupe Renaissance votera bien évidemment pour le projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3348257",
+          "citations": [
+            "C'est pourquoi nous nous abstiendrons de voter sur ce texte, dans l'espoir qu'une future proposition répondra de manière plus appropriée aux défis de l'habitat dégradé en France."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3348273",
+          "citations": [
+            "Cela étant rappelé, le groupe Les Républicains votera en faveur de ce texte qui comporte des mesures de nature à accélérer la rénovation de l'habitat dégradé et les grandes opérations d'urbanisme, tout en espérant, je le répète, que le travail des sénateurs lors de la navette parlementaire permettra de combler les lacunes persistantes."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3348286",
+          "citations": [
+            "Le groupe Démocrate votera bien entendu en faveur du texte et vous pourrez également compter sur sa mobilisation dans tous les autres domaines qui porteront sur le logement, élément essentiel du quotidien des Françaises et des Français."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3346026",
+          "citations": [
+            "À cet égard, l'article 25-1 de la loi du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis apporte un équilibre satisfaisant. Le groupe Socialistes et apparentés soutiendra à nouveau ce texte et tentera d'œuvrer avec vous à son amélioration."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3348298",
+          "citations": [
+            "Elle donne des outils aux collectivités territoriales, facilite les travaux de rénovation énergétique et renforce l'arsenal juridique et pénal visant à lutter contre les marchands de sommeil. Le groupe Horizons et apparentés la votera donc avec enthousiasme."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3348520",
+          "citations": [
+            "Plutôt que de rappeler mon incompréhension quant à l'absence de priorité donnée au logement par le Gouvernement – c'est pourtant une priorité des Français –, le caractère technique mais bienvenu du texte, et le fait qu'en dépit du travail des rapporteurs, il ne constitue pas une politique du logement – le groupe Écologiste-NUPES votera ce projet de loi d'abord pour soutenir l'action des maires qui se battent au quotidien contre les copropriétés dégradées –, je vous parlerai des Dreal – directions régionales de l'environnement, de l'aménagement et du logement, à Carcassonne et partout en France."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V1402",
+      "resume": "Proposition de loi visant à mieux indemniser les dégâts sur les biens immobiliers causés par le retrait-gonflement de l'argile",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "GDR-NUPES": {
+          "ancre": "3083708",
+          "citations": [
+            "En tout état de cause, nous renouvelons nos remerciements aux initiateurs de ce texte que notre groupe votera sans réserve, afin d'envoyer un message fort aux millions de nos citoyens qui sont concernés et qui nous regardent."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3083715",
+          "citations": [
+            "C'est un sujet d'intérêt commun et nous autre, membres du groupe LIOT, travaillerons sur celui-ci avec tous ceux qui voudront l'aborder. Nous voterons donc pour ce texte."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "3083724",
+          "citations": [
+            "Mais nous ne soutiendrons pas les autres dispositions de cet article, qui ne sont pas pertinentes en l'état et génèrent des charges pour le budget de l'État, dont vous n'avez pas évalué le montant."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3086050",
+          "citations": [
+            "Par conséquent, les députés du groupe Les Républicains voteront cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "3083914",
+          "citations": [
+            "Le groupe LFI-NUPES, qui sera particulièrement vigilant pour obtenir un texte ambitieux, vous met en garde contre la tentation de dénaturer cette proposition de loi, essentielle pour améliorer la vie de millions de nos concitoyens. C'est dans cet état d'esprit d'ouverture et d'exigence que notre groupe proposera des amendements et votera le texte."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3086042",
+          "citations": [
+            "Pour des raisons de compréhension d'un sujet complexe, de lisibilité, mais également de simplification administrative, il n'est pas satisfaisant que plusieurs textes traitent exactement des mêmes questions. Par conséquent, le groupe Démocrate s'abstiendra."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V1361",
+      "resume": "Proposition de loi visant à protéger les logements contre l'occupation illicite",
+      "lecture": "deuxième lecture",
+      "statut": "auto",
+      "explications": {
+        "GDR-NUPES": {
+          "ancre": "3079510",
+          "citations": [
+            "Cette loi est une honte du point de vue de notre pacte républicain et de sa promesse d'égalité. C'est pourquoi nous voterons évidemment contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3079521",
+          "citations": [
+            "Une majorité d'entre nous votera donc en faveur de la proposition de loi, même si d'autres membres du groupe, s'inquiétant que certaines dispositions accroissent les difficultés de locataires paupérisés, choisiront de s'abstenir."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3079561",
+          "citations": [
+            "Ainsi, comme toujours, lorsqu'il s'agit de défendre les libertés et les droits fondamentaux, les élus du Rassemblement national répondront présents, et voteront donc en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3079755",
+          "citations": [
+            "Cela étant, nous avons obtenu des avancées indéniables : ce texte porte désormais notre marque, particulièrement en matière de répression du squat. C'est pourquoi le groupe Les Républicains le votera."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3079841",
+          "citations": [
+            "Il y avait mille choses à faire avant de proposer cette loi, monsieur le rapporteur. Voilà pourquoi le groupe Socialistes et apparentés votera contre."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3079861",
+          "citations": [
+            "En conclusion, le groupe Horizons et apparentés salue une nouvelle fois le travail du rapporteur Guillaume Kasbarian et votera en faveur de la proposition de loi."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V1255",
+      "resume": "Proposition de loi visant à ouvrir le tiers financement à l'État, à ses établissements publics et aux collectivités territoriales pour favoriser les travaux de la rénovation énergétique",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "GDR-NUPES": {
+          "ancre": "3059726",
+          "citations": [
+            "Pour autant, face à l'urgence et à la situation particulièrement délicate des collectivités, nous ne souhaitons pas entraver la mise en place de cette expérimentation. Nous nous abstiendrons et serons particulièrement attentifs aux conclusions des premières évaluations."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3059736",
+          "citations": [
+            "En dépit de ces réserves, en grande partie déjà levées, le groupe LIOT salue le choix d'introduire une expérimentation raisonnable de cinq ans, avec la remise d'un rapport à mi-parcours. Nous voterons donc le texte."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "3059130",
+          "citations": [
+            "Ainsi, au regard des travaux menés, des objectifs poursuivis et des outils que la proposition de loi met à disposition de l'État et des collectivités territoriales, le groupe Renaissance votera le texte issu des travaux de la CMP, afin qu'il soit opérationnel dès que possible."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3059138",
+          "citations": [
+            "Il n'en demeure pas moins que, dans le cadre juridique existant, ce texte est le bienvenu pour les acteurs publics comme pour les entreprises : il concourt à faciliter et à accélérer les actions de rénovation énergétique. C'est la raison pour laquelle le groupe Rassemblement national votera en sa faveur."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "3059150",
+          "citations": [
+            "Néanmoins, le groupe La France insoumise s'abstiendra, en attendant un gouvernement et une assemblée renouvelés, qui ne trembleront pas pour renforcer l'État et les collectivités territoriales en prélevant sur les superprofits les budgets utiles à cette cause environnementale majeure."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3059206",
+          "citations": [
+            "À l'issue de la commission mixte paritaire, dont je me réjouis qu'elle ait été conclusive, le groupe Démocrate se prononcera en faveur de la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3059212",
+          "citations": [
+            "Merci, monsieur le rapporteur, de nous permettre de souligner que les choses vont parfois dans le bon sens, comme c'est le cas aujourd'hui. Nous avons voté pour ce texte en commission et en commission mixte paritaire, nous voterons donc en sa faveur aujourd'hui encore."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3059222",
+          "citations": [
+            "Simplifier et fluidifier pour verdir la commande publique, voici l'objectif louable que cette proposition de loi s'est fixé et que le groupe Horizons et apparentés soutiendra. Nous voterons donc en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3059168",
+          "citations": [
+            "En responsabilité et nonobstant la procédure choisie et l'absence d'engagements du Gouvernement sur le fond, mais compte tenu du renforcement des exigences relatives à la soutenabilité financière des projets, du suivi et de l'évaluation de l'expérimentation, nous voterons pour ce texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    }
+  ]
+}

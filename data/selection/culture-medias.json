@@ -1,0 +1,745 @@
+{
+  "sujet": "culture-medias",
+  "auto": true,
+  "note": "Pré-sélection automatique (scripts/brouillon.mjs). Passer « statut » à « valide » après relecture : l’entrée ne sera plus modifiée.",
+  "scrutins": [
+    {
+      "id": "VTANR5L17V8418",
+      "resume": "Proposition de loi relative à l'organisation, à la gestion et au financement du sport professionnel",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "LIOT": {
+          "ancre": "4143643",
+          "citations": [
+            "Sans réserve – même si tout, je le répète, reste perfectible –, le groupe LIOT votera en sa faveur : nous avons fait ce qu'il fallait pour terminer le match et, j'espère, le faire gagner au sport de France."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "4165042",
+          "citations": [
+            "En définitive, ce texte ne marque ni une aggravation franche, ni une remise en cause des logiques néolibérales qui gouvernent le football professionnel. C'est la raison pour laquelle notre groupe s'abstiendra."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "4140792",
+          "citations": [
+            "Parce qu'il renforce la transparence, responsabilise les acteurs et constitue un premier pas dans la bonne direction, le groupe Rassemblement national votera en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "4165109",
+          "citations": [
+            "Investir dans le sport, c'est investir dans la santé, dans l'éducation, dans la cohésion de nos territoires, dans l'attractivité de notre pays et, finalement, dans ce qui nous rassemble. C'est dans cet esprit que le groupe Ensemble pour la République votera ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "4143635",
+          "citations": [
+            "S'agissant des articles 7 et 8, de la fin de la multipropriété qui menace le sport professionnel, de l'accroissement des pouvoirs de la DNCG, de ce que nous avons adopté ensemble en accord avec le rapporteur, que je tiens une fois de plus à féliciter, le positif l'emporte ; c'est pourquoi nous voterons pour ce texte, souhaitant donner à notre version le maximum de dynamisme, afin que celui-ci soit conservé par la CMP et que nous revenions sur les défauts que j'ai signalés."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4165127",
+          "citations": [
+            "Il est par définition imparfait, mais nous nous en satisferons. Nous voterons en sa faveur."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4143081",
+          "citations": [
+            "Il aura fallu plus d'un an pour que nous puissions l'examiner et aboutir à son adoption ce soir. Le groupe Droite républicaine, qui soutient l'économie générale de ce texte, le votera."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4165238",
+          "citations": [
+            "En somme, ce texte conviendra aux acteurs du monde du football professionnel, mais il ne règle pas toutes ses dérives. Le groupe Écologiste et social le votera, sans plus d'enthousiasme que lorsqu'on regarde la petite finale."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4143086",
+          "citations": [
+            "Bien sûr, tout n'est pas parfait, mais l'essentiel est là et nous faisons aujourd'hui un premier pas vers un sport professionnel plus solide, plus responsable et plus durable, au service des clubs professionnels, de nos supporters, mais aussi de toutes les associations de sport amateur qui irriguent nos territoires. Pour toutes ces raisons, le groupe Les Démocrates votera en faveur du texte."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "4165264",
+          "citations": [
+            "Parce que ce texte y contribue, et parce qu'il ouvre enfin au sport professionnel féminin la place qui aurait dû être la sienne depuis longtemps, le groupe Horizons & indépendants votera les conclusions de la commission mixte paritaire."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4165050",
+          "citations": [
+            "Nous aurions souhaité aussi qu'au lieu d'être le petit télégraphiste de la Commission de Bruxelles comme il l'est depuis neuf ans, le président de la République reprenne à son compte l'idée platinienne d'exception sportive européenne. Pour toutes ces raisons, nous nous abstiendrons."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V6346",
+      "resume": "Projet de loi relatif à la restitution de biens culturels ayant fait l'objet d'une appropriation illicite",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "RN": {
+          "ancre": "4077206",
+          "citations": [
+            "Nous soutiendrons cette loi non seulement en raison des apports démocratiques et diplomatiques qu'elle permet, mais surtout en raison de notre attachement au patrimoine, à l'histoire et à l'identité de chaque peuple."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "4077229",
+          "citations": [
+            "Si une large part des objets exposés au musée du quai Branly n'ont absolument rien à faire à Paris, la place des chefs-d'œuvre de l'impressionnisme, du symbolisme ou du cubisme n'est pas non plus à Abou Dabi. En attendant, le groupe de La France insoumise votera en faveur de ce texte, qui grandit notre Assemblée nationale."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4077240",
+          "citations": [
+            "J'espère que notre loi donnera des ailes aux frises du Parthénon et à d'autres œuvres afin qu'elles rejoignent leur berceau. C'est donc dans un esprit constructif que le groupe Socialistes et apparentés votera en faveur de ce projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4077358",
+          "citations": [
+            "Mais pour être réellement à la hauteur de cette ambition, il devra s'accompagner d'une volonté budgétaire sans faille et d'une transparence absolue, seule à même de protéger la loi des tentations révisionnistes. Nous voterons donc ce texte, tout en restant d'une vigilance totale."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4077373",
+          "citations": [
+            "Ces travaux ont permis d'aboutir à une rédaction équilibrée, conciliant le respect dû aux États demandeurs avec notre volonté affirmée de favoriser des restitutions justes, responsables et légitimes. Nous voterons donc avec enthousiasme en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "4077420",
+          "citations": [
+            "Il est rigoureux, parce qu'il n'instaure aucun automatisme et confie l'examen de chaque dossier à une instance scientifique et indépendante. Le groupe Horizons & indépendants votera donc sans hésitation en faveur des conclusions de la commission mixte paritaire."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4077427",
+          "citations": [
+            "Le projet de loi traduit précisément cette ambition : il s'agit d'assumer notre histoire tout en construisant un rapport plus juste aux autres nations. C'est pourquoi nous voterons en faveur du texte."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "4077434",
+          "citations": [
+            "L'Histoire elle-même attend sa propre reconnaissance. Le groupe GDR votera ce texte, conscient de son utilité mais lucide sur ses limites."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V6180",
+      "resume": "Projet de loi relatif à la restitution de biens culturels provenant d’États qui, du fait d’une appropriation illicite, en ont été privés",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "RN": {
+          "ancre": "4061420",
+          "citations": [
+            "Il aurait fallu définir des marges historiques plus précises, limiter l'intervention du législateur dans le cadre des restitutions, comme dans le dossier du tambour atchan. Pourtant, nous voterons en faveur de ce projet de loi, car nous sommes conscients d'une attente."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "4061313",
+          "citations": [
+            "Nous pensons, de surcroît, que la commission de restitution de biens culturels créée par ce texte saura construire une doctrine susceptible d'améliorer les procédures. En conclusion, le groupe EPR votera en faveur de ce projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "4061428",
+          "citations": [
+            "C'est pourquoi, fidèles à notre engagement en faveur d'une mémoire lucide, d'une coopération internationale respectueuse et d'une réparation des héritages coloniaux, nous voterons pour ce projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4061635",
+          "citations": [
+            "La frontière entre bien militaire et bien culturel est donc ténue. C'est dans cet esprit que le groupe Socialistes et apparentés votera en faveur de ce projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4061680",
+          "citations": [
+            "Nous voterons ce texte avec satisfaction : après l'histoire tragique des colonisations, il marque un moment important pour notre assemblée dans la voie d'un processus de réparation."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4061665",
+          "citations": [
+            "Pour toutes ces raisons, au nom du groupe Démocrates, je tiens vivement à remercier le rapporteur pour l'ensemble de ses travaux. Nous voterons évidemment en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "4061723",
+          "citations": [
+            "C'est précisément parce qu'il est cela, et rien que cela, que nous le soutenons pleinement. Le groupe Horizons & indépendants votera donc ce texte avec conviction et fierté."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4061735",
+          "citations": [
+            "Ce texte ne fragilise pas notre conception du patrimoine : il la grandit. C'est pourquoi le groupe LIOT le soutiendra."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "4061701",
+          "citations": [
+            "Le groupe GDR votera naturellement ce texte, mais je veux vous interpeller en tant que parlementaires : mettez-vous à la place des communautés et des groupes sociaux dont nous parlons, imaginez que la France perde la majorité de ses objets et de ses restes humains au profit, par exemple, des musées américains."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4061688",
+          "citations": [
+            "Nous finissons ce débat plutôt heureux après l'adoption de l'excellent amendement de notre collègue Mazaury, qui introduit dans le texte de solides garanties en matière de conservation et d'accessibilité des biens. Pour toutes ces raisons, le groupe de l'Union des droites pour la République votera en faveur du projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4061694",
+          "citations": [
+            "Au-delà des divergences qui se sont fait jour entre les groupes, le principe de restitution des biens spoliés aux États qui en font la demande sincère est aujourd'hui unanimement acté, ce dont le groupe de la Droite républicaine se réjouit. Nous voterons bien évidemment cette loi équilibrée, qui ne cède ni à l'écueil de la repentance ni à celui de l'amnésie collective."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V5831",
+      "resume": "Proposition de loi visant à renforcer l'effectivité des droits voisins des éditeurs et des agences de presse",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "GDR": {
+          "ancre": "4045952",
+          "citations": [
+            "Il y va de la qualité de notre démocratie et de notre exception culturelle. C'est la raison pour laquelle notre groupe votera évidemment en faveur du texte."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4045966",
+          "citations": [
+            "Néanmoins, la vigilance ne nous empêche pas de soutenir nos titres de presse. Conscients de l'enjeu, les membres de mon groupe voteront donc en faveur de la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "4045141",
+          "citations": [
+            "Surtout, elle protège la valeur de l'information et notre droit à celle-ci, essentiel à notre démocratie. C'est pourquoi les députés du groupe Ensemble pour la République voteront en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4045160",
+          "citations": [
+            "Nous devrons y répondre ultérieurement. Pour toutes ces raisons, le groupe Socialistes et apparentés votera cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4044688",
+          "citations": [
+            "Il est urgent de mettre ces travaux à profit pour construire une réforme d'ampleur qui préserve le modèle économique, la pérennité et l'indépendance de notre presse, de nos médias et de notre audiovisuel au service d'une démocratie que nous savons fragilisée. Le groupe LIOT votera en faveur de ce texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V5296",
+      "resume": "Projet de loi relatif à l'organisation des jeux Olympiques et Paralympiques de 2030",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "SOC": {
+          "ancre": "3986701",
+          "citations": [
+            "Trente-huit ans après Albertville et six ans après le succès des JO de Paris 2024, l'accueil des JO de 2030 va représenter pour la France une formidable chance à saisir. C'est dans cet esprit de responsabilité, de clarté et d'exigence que mon groupe votera pour ce projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "3986720",
+          "citations": [
+            "Une fois la flamme partie, cela laissera des traces que subiront des générations, ignorées là encore. Parce que croiser les doigts n'est pas une manière digne de faire de la politique, nous voterons contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4008141",
+          "citations": [
+            "Des Jeux olympiques, joyeux et épiques sont la flamme immémoriale qui réchauffe encore quand le monde vacille. Le groupe démocrate votera ce texte."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3986957",
+          "citations": [
+            "Je rappelle que 95 % des sites de compétition existent déjà et seront valorisés, tandis qu'une évaluation environnementale complète sera obligatoire. Mon groupe votera donc en faveur de ce projet de loi, en réaffirmant une vision ambitieuse et responsable : celle de Jeux sobres,…"
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3986969",
+          "citations": [
+            "Il offre désormais toutes les garanties nécessaires pour préparer sereinement les Jeux de 2030 et donner à la France les moyens de tenir cet engagement avec sérieux, ambition et responsabilité. C'est pourquoi le groupe LIOT votera pour ce projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3987039",
+          "citations": [
+            "Pour toutes ces raisons, nous émettons les plus grandes réserves à l'égard de ce projet de loi. La majorité des députés du groupe GDR s'abstiendront sur ce texte et, pour ma part, je voterai contre."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3987050",
+          "citations": [
+            "Non à un aménagement des Alpes à deux vitesses ! Nous voterons pour ce texte par esprit de responsabilité,…"
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3987064",
+          "citations": [
+            "C'est pour cette montagne vivante, pour cette France qui assume ses grands événements et pour ceux qui travaillent, qui innovent et qui transmettent que le groupe Rassemblement national votera ce texte."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3987154",
+          "citations": [
+            "Nous sommes nombreux, sur ces bancs, à être convaincus que ces jeux sont une chance pour notre pays. Le groupe Ensemble pour la République votera donc pour."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V4963",
+      "resume": "Projet de loi relative à l'organisation des jeux Olympiques et Paralympiques de 2030",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "SOC": {
+          "ancre": "3986701",
+          "citations": [
+            "Trente-huit ans après Albertville et six ans après le succès des JO de Paris 2024, l'accueil des JO de 2030 va représenter pour la France une formidable chance à saisir. C'est dans cet esprit de responsabilité, de clarté et d'exigence que mon groupe votera pour ce projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "3986720",
+          "citations": [
+            "Une fois la flamme partie, cela laissera des traces que subiront des générations, ignorées là encore. Parce que croiser les doigts n'est pas une manière digne de faire de la politique, nous voterons contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3986957",
+          "citations": [
+            "Je rappelle que 95 % des sites de compétition existent déjà et seront valorisés, tandis qu'une évaluation environnementale complète sera obligatoire. Mon groupe votera donc en faveur de ce projet de loi, en réaffirmant une vision ambitieuse et responsable : celle de Jeux sobres,…"
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3986969",
+          "citations": [
+            "Il offre désormais toutes les garanties nécessaires pour préparer sereinement les Jeux de 2030 et donner à la France les moyens de tenir cet engagement avec sérieux, ambition et responsabilité. C'est pourquoi le groupe LIOT votera pour ce projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3987039",
+          "citations": [
+            "Pour toutes ces raisons, nous émettons les plus grandes réserves à l'égard de ce projet de loi. La majorité des députés du groupe GDR s'abstiendront sur ce texte et, pour ma part, je voterai contre."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3987050",
+          "citations": [
+            "Non à un aménagement des Alpes à deux vitesses ! Nous voterons pour ce texte par esprit de responsabilité,…"
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3987064",
+          "citations": [
+            "C'est pour cette montagne vivante, pour cette France qui assume ses grands événements et pour ceux qui travaillent, qui innovent et qui transmettent que le groupe Rassemblement national votera ce texte."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3987154",
+          "citations": [
+            "Nous sommes nombreux, sur ces bancs, à être convaincus que ces jeux sont une chance pour notre pays. Le groupe Ensemble pour la République votera donc pour."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V2873",
+      "resume": "Motion de rejet préalable, déposée par Mme Cyrielle Chatelain, de la proposition de loi relative à la réforme de l'audiovisuel public et à la souveraineté audiovisuelle",
+      "lecture": "première lecture",
+      "statut": "auto"
+    },
+    {
+      "id": "VTANR5L17V617",
+      "resume": "Proposition de loi visant à améliorer le traitement des maladies affectant les cultures végétales à l'aide d'aéronefs télépilotés",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "EPR": {
+          "ancre": "3607978",
+          "citations": [
+            "J'espère que non. En tout cas, à la demande générale des agriculteurs, le groupe Ensemble pour la République votera pour l'utilisation des drones."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3608014",
+          "citations": [
+            "Ce texte alimentera l'évolution vers une agriculture à deux vitesses, partagée entre le technosolutionnisme et les solutions fondées sur la nature, donc entre de très grandes exploitations et un modèle familial agroécologique – que nous défendons. Pour toutes ces raisons, les députés de mon groupe voteront majoritairement contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3608723",
+          "citations": [
+            "Le groupe Droite républicaine votera avec conviction en faveur de ce texte, véritable loi de progrès et d'équilibre qui offre à notre agriculture les moyens d'affronter les défis de demain."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "3608729",
+          "citations": [
+            "N'ajoutons pas à cette dystopie le survol de nos campagnes par des drones ! Le groupe Écologiste et social votera bien sûr contre ce texte !"
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V451",
+      "resume": "Proposition de loi organique portant réforme du financement de l'audiovisuel public",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "Dem": {
+          "ancre": "3572295",
+          "citations": [
+            "d'informer les citoyens ou encore de créer des programmes pédagogiques pour les enfants. C'est pourquoi le groupe Les Démocrates votera ce texte et nous ne pouvons que nous féliciter d'un tel vote conforme."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3570214",
+          "citations": [
+            "En effet, la télévision se regarde désormais sur tous les écrans et la possession ou non d'un téléviseur n'est plus un critère de service public. Par esprit de responsabilité à l'égard du service public audiovisuel et de ses travailleurs, nous voterons en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3572205",
+          "citations": [
+            "Sans suspense, le groupe UDR votera contre ce texte : nous refusons de pérenniser le financement de l'audiovisuel public, en allouant une fraction de la TVA ou au moyen de tout autre impôt."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3572214",
+          "citations": [
+            "Le Rassemblement national s'abstiendra de voter la proposition de loi organique, car nous refusons de soutenir une demi-mesure qui ne traite pas le fond du problème."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3572264",
+          "citations": [
+            "C'est pourquoi les membres du groupe EPR – et j'espère bien d'autres sur ces bancs –, voteront la proposition de loi organique qui, certes, modifie le droit organique mais renforce considérablement l'audiovisuel public."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "3572272",
+          "citations": [
+            "Sachant que le présent texte doit être adopté, puisque le gouvernement n'est pas dans de bonnes dispositions à l'égard de l'audiovisuel public, nous nous abstiendrons, afin de permettre son adoption."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3572281",
+          "citations": [
+            "Tout d'abord, nous voterons la proposition de loi organique dans une version conforme à celle du Sénat – il nous est demandé une forme de vote impérieux –, puisqu'en raison de l'impéritie et de l'impréparation du gouvernement, c'est le seul moyen d'éviter une budgétisation qui ferait peser une grande menace non seulement financière mais aussi juridique sur la poursuite des activités de plusieurs acteurs de l'audiovisuel public."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3570528",
+          "citations": [
+            "C'est sans réserve que les députés du groupe Droite républicaine voteront pour un texte issu en grande partie des travaux de leur formation politique, et qui apporte une réponse concrète, équilibrée et indispensable à un problème qu'il devenait urgent de traiter."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "3572293",
+          "citations": [
+            "Comme nous l'avons indiqué au cours de la discussion générale, nous voterons la proposition de loi organique, afin de préserver l'indépendance des médias publics."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3572201",
+          "citations": [
+            "Nous voterons la proposition de loi organique car il faut donner de la visibilité aux acteurs de l'audiovisuel public, assurer un financement pérenne, réaffirmer notre attachement à ce garant d'une information fiable, plurielle, indépendante, de proximité."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V3374",
+      "resume": "Proposition de loi visant à renforcer le protection des mineurs et l'honorabilité dans le sport",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "HOR": {
+          "ancre": "3381626",
+          "citations": [
+            "Nous avons en commun l'ambition d'œuvrer pour que le sport reste un plaisir et une chance pour les sportifs ainsi que pour tous les acteurs du domaine, et pour que les pratiquants, les encadrants et les bénévoles se sentent protégés et en sécurité. Le groupe Horizons et apparentés votera donc en faveur de la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3381630",
+          "citations": [
+            "Je remercie les sénateurs Sébastien Pla et Jean-Jacques Lozach, respectivement auteur et rapporteur du texte au Sénat. Parce que nous sommes pour le sport et pour l'émancipation formidable qu'il permet, nous voterons pour la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "3381637",
+          "citations": [
+            "Malgré tout, la présente proposition de loi apporte des réponses concrètes à des enjeux cruciaux. Le groupe GDR-NUPES votera donc en sa faveur."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3381823",
+          "citations": [
+            "Tout cela exige de renforcer les moyens, notamment ceux des ressources humaines des services départementaux à la jeunesse, à l'engagement et aux sports. En attendant ces mesures, le groupe LIOT votera pour la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3381842",
+          "citations": [
+            "Chers collègues, à l'évidence, cette proposition de loi n'est pas parfaite ; pourtant, elle est nécessaire et bienvenue. Afin de protéger les mineurs et le sport français, le groupe Rassemblement national votera en sa faveur."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3382116",
+          "citations": [
+            "Vous l'aurez compris, le groupe Les Républicains votera sans réserve cette proposition de loi, qui marque une étape supplémentaire majeure dans la reconnaissance et la prise en compte des violences sur mineurs dans le cadre sportif."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3382123",
+          "citations": [
+            "En attendant, le groupe Démocrate votera en faveur de la proposition de loi, dans sa version conforme au texte du Sénat, qui constitue une belle première avancée."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V1409",
+      "resume": "Projet de loi relatif aux jeux Olympiques et Paralympiques de 2024 et portant diverses autres dispositions",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "HOR": {
+          "ancre": "3069780",
+          "citations": [
+            "Si les JOP 2024 sont la fête des athlètes, s'ils suscitent l'engouement chez nos compatriotes, s'ils sont un moment unique, vécu en toute sécurité, s'ils permettent le rayonnement du pays, alors la France aura réussi. Les députés du groupe Horizons le souhaitent ardemment et voteront le texte."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3069791",
+          "citations": [
+            "Ce texte exprime la vision du Gouvernement, une vision contraire à la nôtre, nous qui pensons à l'avenir et aux personnes. Nous voterons contre, et dès demain."
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "3088174",
+          "citations": [
+            "Aussi voulons-nous nous donner tous les moyens pour les réussir. Nous aurions aimé voter ce texte mais, la teneur de plusieurs articles nous en empêchant, nous nous abstiendrons."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3069915",
+          "citations": [
+            "Le texte qui nous est présenté aujourd'hui va dans le bon sens : celui d'un encadrement des mesures sécuritaires et d'une recherche de proportionnalité. C'est pourquoi notre groupe votera majoritairement en sa faveur."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "3069927",
+          "citations": [
+            "Ces valeurs, nous les partageons en France, pays ouvert au monde, attaché aux droits de l'homme, à la culture et au sport. En cohérence, le groupe Renaissance votera bien évidemment le projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3069941",
+          "citations": [
+            "Vous faites comme si votre gouvernement n'avait pas failli être censuré à neuf voix près, mais les Français, eux, l'ont bien vu. Nous voterons ce texte sans grande pertinence, et nous le voterons avec une grande méfiance."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "3070088",
+          "citations": [
+            "» Croyez-moi, le peuple vous le rend bien. Nous voterons contre le projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3070107",
+          "citations": [
+            "Le pays en a plus que jamais besoin ; à nous d'être à la hauteur. Nous voterons le projet de loi, pour, enfin, ouvrir grand les Jeux."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3070128",
+          "citations": [
+            "Reste que nous nous réjouissons de l'adoption future de ce texte ambitieux et protecteur et que, pour l'ensemble de ces raisons, nous le voterons sans aucune réserve."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V1305",
+      "resume": "Projet de loi relatif aux jeux Olympiques et Paralympiques de 2024 et portant diverses autres dispositions",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "HOR": {
+          "ancre": "3069780",
+          "citations": [
+            "Si les JOP 2024 sont la fête des athlètes, s'ils suscitent l'engouement chez nos compatriotes, s'ils sont un moment unique, vécu en toute sécurité, s'ils permettent le rayonnement du pays, alors la France aura réussi. Les députés du groupe Horizons le souhaitent ardemment et voteront le texte."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3069791",
+          "citations": [
+            "Ce texte exprime la vision du Gouvernement, une vision contraire à la nôtre, nous qui pensons à l'avenir et aux personnes. Nous voterons contre, et dès demain."
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "3056051",
+          "citations": [
+            "Plusieurs articles ne posent pas de difficulté majeure et recoupent un ensemble d'obligations pour l'organisation des Jeux. Nous les soutiendrons."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3069915",
+          "citations": [
+            "Le texte qui nous est présenté aujourd'hui va dans le bon sens : celui d'un encadrement des mesures sécuritaires et d'une recherche de proportionnalité. C'est pourquoi notre groupe votera majoritairement en sa faveur."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "3069927",
+          "citations": [
+            "Ces valeurs, nous les partageons en France, pays ouvert au monde, attaché aux droits de l'homme, à la culture et au sport. En cohérence, le groupe Renaissance votera bien évidemment le projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3069941",
+          "citations": [
+            "Vous faites comme si votre gouvernement n'avait pas failli être censuré à neuf voix près, mais les Français, eux, l'ont bien vu. Nous voterons ce texte sans grande pertinence, et nous le voterons avec une grande méfiance."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "3070088",
+          "citations": [
+            "» Croyez-moi, le peuple vous le rend bien. Nous voterons contre le projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3070107",
+          "citations": [
+            "Le pays en a plus que jamais besoin ; à nous d'être à la hauteur. Nous voterons le projet de loi, pour, enfin, ouvrir grand les Jeux."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3070128",
+          "citations": [
+            "Reste que nous nous réjouissons de l'adoption future de ce texte ambitieux et protecteur et que, pour l'ensemble de ces raisons, nous le voterons sans aucune réserve."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3056398",
+          "citations": [
+            "Cette liste n'est pas exhaustive. Pour toutes ces raisons, en l'état, nous voterons contre le texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    }
+  ]
+}

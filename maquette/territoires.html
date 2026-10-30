@@ -1,0 +1,488 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Territoires et services publics — Poliapp</title>
+<style>
+:root {
+  --fond: #f6f7f9; --carte: #ffffff; --texte: #1b1f24; --discret: #667085; --bord: #e6e8ec; --survol: #f1f4f8;
+  --accent: #2f6fde; --pour: #2f6fde; --contre: #ee8434; --abstention: #a6acb8; --partage: #8b6fd6; --absent: #e4e7ec;
+  --adopte: #1f8a5b; --rejete: #c2410c; --citation: #f4f6fa;
+  color-scheme: light;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: 72px; }
+body { margin: 0; background: var(--fond); color: var(--texte); font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothing: antialiased; }
+a { color: var(--accent); }
+button { font: inherit; }
+[hidden] { display: none !important; }
+.contenu { max-width: 1160px; margin: 0 auto; padding: 0 20px; }
+.discret { color: var(--discret); font-size: 13px; }
+.brouillon { background: #fff4db; color: #8a5a00; border-radius: 999px; padding: 1px 8px; font-weight: 500; font-size: 12px; white-space: nowrap; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+header.site { position: sticky; top: 0; z-index: 20; background: rgba(255,255,255,.94); backdrop-filter: blur(8px); border-bottom: 1px solid var(--bord); }
+header.site .contenu { display: flex; align-items: center; gap: 20px; height: 60px; }
+.marque { display: flex; align-items: center; gap: 10px; font-weight: 700; font-size: 18px; text-decoration: none; color: var(--texte); flex-shrink: 0; }
+.marque svg { width: 30px; }
+.recherche-entete { margin-left: auto; width: min(340px, 100%); }
+.champ { width: 100%; padding: 9px 14px; border: 1px solid var(--bord); border-radius: 999px; background: var(--fond); font: inherit; font-size: 15px; color: var(--texte); }
+.champ:focus { outline: 2px solid var(--accent); outline-offset: 0; border-color: transparent; background: #fff; }
+
+.cadre-logo { display: inline-grid; place-items: center; width: 56px; height: 34px; border-radius: 8px; background: #fff; border: 1px solid var(--bord); overflow: hidden; flex-shrink: 0; }
+.cadre-logo img { width: 100%; height: 100%; object-fit: contain; padding: 4px; }
+.sigle-logo { font-size: 11px; font-weight: 700; color: #3b4452; letter-spacing: -0.02em; }
+.cadre-logo.petit { width: 44px; height: 26px; border-radius: 6px; }
+.cadre-logo.petit img { padding: 3px; }
+.cadre-logo.petit .sigle-logo { font-size: 9.5px; }
+
+.badge { font-size: 12px; font-weight: 600; text-align: center; border-radius: 999px; padding: 3px 10px; color: #fff; white-space: nowrap; }
+.b-pour { background: var(--pour); } .b-contre { background: var(--contre); } .b-abstention { background: var(--abstention); }
+.b-partage { background: var(--partage); } .b-null { background: var(--absent); color: var(--discret); }
+.res { font-size: 12px; font-weight: 600; border-radius: 999px; padding: 2px 10px; white-space: nowrap; }
+.res-adopté { color: var(--adopte); background: #e7f5ee; }
+.res-rejeté { color: var(--rejete); background: #fdeee4; }
+
+footer { margin: 64px 0 0; padding: 24px 0 48px; border-top: 1px solid var(--bord); font-size: 13px; color: var(--discret); background: var(--carte); }
+.liens-pied { display: flex; flex-wrap: wrap; gap: 6px 18px; margin-bottom: 10px; font-weight: 500; }
+.liens-pied a { color: var(--texte); text-decoration: none; }
+.liens-pied a:hover { color: var(--accent); }
+.bandeau-test { background: #fff4db; color: #6b4a00; font-size: 13px; text-align: center; padding: 7px 16px; }
+.bandeau-test a { color: inherit; font-weight: 600; }
+.page-texte { max-width: 760px; padding-top: 32px; }
+.page-texte h1 { font-size: clamp(28px, 4.5vw, 40px); letter-spacing: -0.02em; margin: 0 0 16px; }
+.page-texte h2 { font-size: 19px; margin: 32px 0 8px; }
+.page-texte p, .page-texte li { font-size: 15.5px; line-height: 1.65; color: #2b3138; }
+.page-texte .chapeau { font-size: 18px; color: var(--texte); }
+.page-texte ul { padding-left: 20px; }
+@media (max-width: 560px) {
+  .contenu { padding: 0 16px; }
+  .marque span { display: none; }
+}
+
+.entete-sujet { background: var(--carte); border-bottom: 1px solid var(--bord); padding: 32px 0 0; }
+.fil { color: var(--discret); font-size: 14px; margin: 0 0 6px; }
+.fil a { color: inherit; text-decoration: none; }
+.fil a:hover { color: var(--accent); }
+h1 { font-size: clamp(30px, 5vw, 44px); line-height: 1.1; letter-spacing: -0.025em; margin: 0 0 12px; }
+.contexte { font-size: 17px; max-width: 760px; margin: 0; color: #3b4452; }
+.onglets { display: flex; gap: 24px; margin-top: 24px; }
+.onglets a { padding: 0 0 12px; text-decoration: none; color: var(--discret); font-weight: 600; border-bottom: 2px solid transparent; }
+.onglets a:hover { color: var(--texte); }
+.onglets a.actif { color: var(--texte); border-color: var(--texte); }
+.onglets span { font-weight: 500; color: var(--discret); margin-left: 4px; }
+
+section { padding-top: 32px; }
+h2 { font-size: 24px; letter-spacing: -0.015em; margin: 0 0 16px; }
+
+.disposition { display: grid; grid-template-columns: 320px minmax(0, 1fr); gap: 24px; align-items: start; }
+.colonne-liste { position: sticky; top: 76px; max-height: calc(100vh - 92px); display: flex; flex-direction: column; gap: 10px; min-width: 0; }
+#liste-votes { overflow-y: auto; display: grid; gap: 8px; padding: 2px 4px 8px 2px; }
+.choix-vote { all: unset; box-sizing: border-box; cursor: pointer; display: grid; gap: 6px; background: var(--carte); border: 1px solid var(--bord); border-radius: 12px; padding: 12px 14px; transition: border-color .15s, box-shadow .15s; }
+.choix-vote:hover { border-color: #c9d3e3; }
+.choix-vote:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.choix-vote[aria-current="true"] { border-color: var(--accent); box-shadow: 0 0 0 3px #2f6fde1f; }
+.choix-vote .meta { font-size: 12px; color: var(--discret); }
+.leg { background: var(--survol); border-radius: 999px; padding: 0 6px; }
+.choix-vote .resume { font-size: 14.5px; font-weight: 500; line-height: 1.4; }
+.apercu { display: inline-flex; gap: 2px; }
+.mini { display: block; width: 9px; height: 9px; border-radius: 50%; }
+.mini.b-absent { background: transparent; border: 1px dashed var(--bord); }
+#aucun-resultat { font-size: 14px; color: var(--discret); margin: 0; }
+
+.panneau { background: var(--carte); border: 1px solid var(--bord); border-radius: 16px; padding: 24px; scroll-margin-top: 72px; }
+.navigation-vote { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 12px; }
+.btn { all: unset; cursor: pointer; padding: 6px 12px; border: 1px solid var(--bord); border-radius: 999px; font-size: 13px; font-weight: 500; background: var(--carte); }
+.btn:hover:not(:disabled) { background: var(--survol); }
+.btn:disabled { opacity: .35; cursor: default; }
+.btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+#position-vote { font-size: 13px; color: var(--discret); }
+.panneau .meta { font-size: 13px; color: var(--discret); margin: 0; }
+.aide-motion { margin: 8px 0 0; font-size: 13.5px; background: #fff4db; color: #6b4a00; border-radius: 8px; padding: 6px 10px; display: inline-block; }
+.panneau h3 { font-size: 22px; line-height: 1.3; letter-spacing: -0.01em; margin: 8px 0 0; }
+#hemicycle { margin: 4px auto 0; max-width: 540px; }
+#hemicycle svg { display: block; width: 100%; height: auto; }
+.siege, .etiquette { transition: opacity .15s; }
+.estompe { opacity: 0.15; }
+.etiquette { font: 600 0.05px system-ui, sans-serif; fill: var(--discret); }
+.s-pour { fill: var(--pour); background: var(--pour); } .s-contre { fill: var(--contre); background: var(--contre); }
+.s-abstention { fill: var(--abstention); background: var(--abstention); } .s-null { fill: var(--absent); background: var(--absent); }
+.centre { font: 700 0.15px system-ui, sans-serif; text-anchor: middle; }
+.centre.res-adopté { fill: var(--adopte); } .centre.res-rejeté { fill: var(--rejete); }
+.centre-detail { font: 500 0.065px system-ui, sans-serif; fill: var(--discret); text-anchor: middle; }
+.totaux { display: flex; flex-wrap: wrap; justify-content: center; gap: 6px 18px; font-size: 14px; margin: 6px 0 20px; }
+.totaux span { display: inline-flex; align-items: center; gap: 6px; }
+.pastille { display: inline-block; width: 11px; height: 11px; border-radius: 50%; }
+
+.titre-groupes { font-size: 15px; margin: 0; padding-bottom: 10px; border-bottom: 1px solid var(--bord); }
+ul.groupes { list-style: none; margin: 0; padding: 0; }
+.ligne-groupe { padding: 14px 6px; border-bottom: 1px solid var(--bord); display: grid; gap: 10px; border-radius: 8px; }
+.ligne-groupe.actif { background: var(--survol); }
+.ligne-haut { display: grid; grid-template-columns: 56px minmax(0, 1fr) auto; align-items: center; gap: 12px; }
+.nom-groupe { display: grid; min-width: 0; line-height: 1.35; }
+.nom-groupe strong { font-size: 15px; }
+.nom-groupe small { font-size: 12.5px; color: var(--discret); }
+.explication { margin-left: 68px; background: var(--citation); border-radius: 10px; padding: 12px 14px; }
+.explication blockquote { margin: 0; font-size: 15px; line-height: 1.6; }
+.explication[data-ouvert="false"] blockquote { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.explication .coupe { color: var(--discret); }
+.actions { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 14px; margin-top: 8px; font-size: 13px; }
+.action { all: unset; cursor: pointer; color: var(--accent); font-weight: 500; }
+.action:hover { text-decoration: underline; }
+.action:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.action.video { background: var(--texte); color: #fff; border-radius: 999px; padding: 4px 12px; }
+.action.video:hover { text-decoration: none; opacity: .9; }
+.qui { color: var(--discret); margin-left: auto; }
+.pas-explication { margin: 0 0 0 68px; font-size: 13px; color: var(--discret); font-style: italic; }
+.note-lecture { font-size: 12.5px; color: var(--discret); margin: 16px 0 0; }
+
+.programmes { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 16px; }
+.programme { background: var(--carte); border: 1px solid var(--bord); border-radius: 16px; padding: 20px; display: flex; flex-direction: column; gap: 12px; }
+.entete-prog { display: flex; align-items: center; gap: 12px; }
+.logos-prog { display: flex; gap: 4px; flex-wrap: wrap; max-width: 96px; }
+.entete-prog h3 { margin: 0; font-size: 17px; line-height: 1.3; }
+.entete-prog p { margin: 2px 0 0; font-size: 12.5px; color: var(--discret); }
+.propositions { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.propositions li { background: var(--citation); border-radius: 10px; padding: 10px 12px; font-size: 15px; line-height: 1.5; }
+.propositions q { quotes: "« " " »"; }
+.propositions a { font-size: 12px; white-space: nowrap; margin-left: 4px; }
+.programme .ref { margin: auto 0 0; font-size: 12.5px; color: var(--discret); }
+.avertissement { font-size: 14px; color: #3b4452; background: var(--carte); border: 1px solid var(--bord); border-left: 4px solid var(--partage); border-radius: 12px; padding: 12px 16px; margin: 0 0 16px; }
+.manquants { margin-top: 16px; font-size: 14px; color: var(--discret); display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+
+dialog#lecteur { width: min(860px, 94vw); padding: 0; border: none; border-radius: 16px; background: #000; color: #fff; }
+dialog#lecteur::backdrop { background: rgba(10, 14, 20, .75); }
+.lecteur-entete { display: flex; align-items: center; gap: 12px; padding: 12px 16px; background: #14171c; font-size: 14px; }
+.lecteur-entete strong { flex: 1; font-weight: 600; }
+.lecteur-entete a { color: #9fc0ff; font-size: 13px; }
+#lecteur-fermer { all: unset; cursor: pointer; font-size: 22px; line-height: 1; padding: 0 4px; }
+dialog#lecteur video { display: block; width: 100%; aspect-ratio: 16 / 9; background: #000; }
+#lecteur-erreur { padding: 10px 16px; margin: 0; background: #14171c; font-size: 13px; }
+#lecteur-erreur a { color: #9fc0ff; }
+
+@media (max-width: 900px) {
+  .disposition { grid-template-columns: minmax(0, 1fr); }
+  .colonne-liste { position: static; max-height: none; }
+  #liste-votes { grid-auto-flow: column; grid-auto-columns: 78%; overflow-x: auto; overflow-y: hidden; scroll-snap-type: x mandatory; padding-bottom: 10px; }
+  .choix-vote { scroll-snap-align: start; }
+  .panneau { padding: 18px; }
+}
+@media (max-width: 560px) {
+  .entete-sujet { padding-top: 22px; }
+  .contexte { font-size: 16px; }
+  .recherche-entete { width: auto; flex: 1; }
+  .ligne-haut { grid-template-columns: 48px minmax(0, 1fr) auto; gap: 10px; }
+  .ligne-haut .cadre-logo { width: 48px; height: 30px; }
+  .explication, .pas-explication { margin-left: 0; }
+  .qui { margin-left: 0; width: 100%; }
+  .programmes { grid-template-columns: 1fr; }
+  .panneau h3 { font-size: 19px; }
+}
+</style>
+</head>
+<body>
+<div class="bandeau-test">Version de test : une partie des sélections et des citations est automatique et en cours de relecture. <a href="methodologie.html">En savoir plus</a></div>
+
+<header class="site"><div class="contenu">
+  <a class="marque" href="index.html">
+  <svg viewBox="0 0 32 18" aria-hidden="true"><path d="M2 17a14 14 0 0 1 28 0" fill="none" stroke="var(--pour)" stroke-width="3" stroke-linecap="round"/><path d="M9 17a7 7 0 0 1 14 0" fill="none" stroke="var(--contre)" stroke-width="3" stroke-linecap="round"/></svg>
+  <span>Poliapp</span>
+</a>
+  <form class="recherche-entete" action="index.html" role="search"><input class="champ" type="search" name="q" placeholder="Rechercher un sujet, un vote…" aria-label="Rechercher"></form>
+</div></header>
+<div class="entete-sujet"><div class="contenu">
+  <p class="fil"><a href="index.html">Tous les sujets</a> › Territoires et services publics</p>
+  <h1>Territoires et services publics</h1>
+  <p class="contexte">Ruralité, communes, collectivités, services publics de proximité.</p>
+  <nav class="onglets" aria-label="Sections">
+    <a href="#votes" class="actif">Ce qu'ils ont voté<span>12</span></a>
+    <a href="#programmes">Ce qu'ils proposent<span>0</span></a>
+  </nav>
+</div></div>
+
+<main class="contenu">
+  <section id="votes">
+    <div class="disposition">
+      <div class="colonne-liste">
+        <input type="search" id="filtre" class="champ" placeholder="Filtrer les votes…" aria-label="Filtrer les votes">
+        <div id="liste-votes"></div>
+        <p id="aucun-resultat" hidden>Aucun vote ne correspond.</p>
+      </div>
+      <div class="panneau" id="panneau">
+        <div class="navigation-vote">
+          <button class="btn" id="precedent">← Plus récent</button>
+          <span id="position-vote"></span>
+          <button class="btn" id="suivant">Plus ancien →</button>
+        </div>
+        <div id="panneau-entete"></div>
+        <div id="hemicycle"></div>
+        <div class="totaux" id="totaux"></div>
+        <h4 class="titre-groupes">Pourquoi chaque groupe a voté ainsi</h4>
+        <ul class="groupes" id="liste-groupes"></ul>
+        <p class="note-lecture">Seuls les scrutins publics sont enregistrés. La position d'un groupe est celle de la majorité de ses votants. Explications citées mot pour mot depuis les débats. · <a id="lien-officiel" target="_blank" rel="noopener">Scrutin officiel ↗</a></p>
+      </div>
+    </div>
+  </section>
+
+  <section id="programmes">
+    <h2>Ce qu'ils proposent</h2>
+    <p class="avertissement"><strong>Programmes 2027 pas encore publiés.</strong> En attendant, voici les derniers programmes officiels complets (législatives 2024) et les déclarations publiques des partis, toujours sourcées.</p>
+    <p class="discret">Aucune proposition relevée pour l’instant sur ce sujet.</p>
+  </section>
+</main>
+
+<dialog id="lecteur" aria-labelledby="lecteur-titre">
+  <div class="lecteur-entete"><strong id="lecteur-titre"></strong><a id="lecteur-source" target="_blank" rel="noopener">Compte rendu ↗</a><button id="lecteur-fermer" aria-label="Fermer">×</button></div>
+  <video controls playsinline></video>
+  <p id="lecteur-erreur" hidden>La vidéo n'a pas pu être chargée. Elle reste disponible sur le <a href="https://videos.assemblee-nationale.fr" target="_blank" rel="noopener">portail vidéo de l'Assemblée</a>.</p>
+</dialog>
+<footer><div class="contenu">
+  <nav class="liens-pied"><a href="methodologie.html">Méthodologie</a><a href="sources.html">Sources et licences</a><a href="mentions-legales.html">Mentions légales</a><a href="confidentialite.html">Données personnelles</a><a href="https://github.com/gaspardmalot-maker/poliapp/issues/new" target="_blank" rel="noopener">Signaler une erreur</a></nav>
+  <p>Données : Assemblée nationale, open data (Licence Ouverte / Etalab 2.0), récupérées le 30 octobre 2026. Programmes : documents officiels des partis. Toutes les citations sont reprises mot pour mot. Site indépendant, sans publicité, sans lien avec un parti.</p>
+</div></footer>
+<script>function dispositionHemicycle(n) {
+  const cache = (dispositionHemicycle.cache ??= new Map());
+  if (cache.has(n)) return cache.get(n);
+  const rangees = n > 400 ? 12 : n > 200 ? 9 : 6;
+  const r0 = 0.38;
+  const rayons = Array.from({ length: rangees }, (_, i) => r0 + ((1 - r0) * i) / (rangees - 1));
+  const somme = rayons.reduce((a, b) => a + b, 0);
+  const parRangee = rayons.map((r) => Math.floor((n * r) / somme));
+  for (let i = rangees - 1, reste = n - parRangee.reduce((a, b) => a + b, 0); reste > 0; reste--, i = (i - 1 + rangees) % rangees) parRangee[i]++;
+  const sieges = [];
+  rayons.forEach((r, i) => {
+    const k = parRangee[i];
+    for (let j = 0; j < k; j++) {
+      const angle = Math.PI * (1 - (k === 1 ? 0.5 : j / (k - 1)));
+      sieges.push({ angle, r, x: r * Math.cos(angle), y: -r * Math.sin(angle) });
+    }
+  });
+  sieges.sort((a, b) => b.angle - a.angle || a.r - b.r);
+  const resultat = { sieges, rayon: (((1 - r0) / (rangees - 1)) * 0.4).toFixed(4) };
+  cache.set(n, resultat);
+  return resultat;
+}
+(function appSujet(DATA) {
+  const POSITIONS = { pour: 'Pour', contre: 'Contre', abstention: 'Abstention', partage: 'Partagé', null: "N'a pas voté" };
+  const SVG = 'http://www.w3.org/2000/svg';
+  const $ = (sel, racine = document) => racine.querySelector(sel);
+  const $$ = (sel, racine = document) => [...racine.querySelectorAll(sel)];
+  const esc = (t) => String(t ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
+  const dateFr = (d) => new Date(d).toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' });
+  const dateCourte = (d) => new Date(d).toLocaleDateString('fr-FR', { day: 'numeric', month: 'short', year: 'numeric' });
+  const normaliser = (t) => t.toLowerCase().normalize('NFD').replace(/\p{Diacritic}/gu, '');
+  const groupe = (sigle) => DATA.groupes.find((g) => g.sigle === sigle);
+  const logoHtml = (g, taille = '') =>
+    `<span class="cadre-logo ${taille}" aria-hidden="true">${g.logo ? `<img src="${g.logo}" alt="">` : `<span class="sigle-logo">${esc(g.sigle)}</span>`}</span>`;
+
+  const disposition = dispositionHemicycle;
+  const element = (tag, attrs = {}, texte) => {
+    const e = document.createElementNS(SVG, tag);
+    for (const [k, v] of Object.entries(attrs)) e.setAttribute(k, v);
+    if (texte) e.textContent = texte;
+    return e;
+  };
+  function hemicycle(vote) {
+    const presents = DATA.groupes.filter((g) => vote.groupes[g.sigle]);
+    const total = presents.reduce((n, g) => n + vote.groupes[g.sigle].membres, 0);
+    const { sieges, rayon } = disposition(total);
+    const svg = element('svg', { viewBox: '-1.3 -1.2 2.6 1.26', role: 'img', 'aria-label': `Hémicycle : ${vote.decompte.pour} pour, ${vote.decompte.contre} contre, ${vote.decompte.abstention} abstentions` });
+    let i = 0;
+    for (const g of presents) {
+      const r = vote.groupes[g.sigle];
+      const portion = sieges.slice(i, i + r.membres);
+      if (portion.length) {
+        const milieu = (portion[0].angle + portion.at(-1).angle) / 2;
+        const deg = (milieu * 180) / Math.PI;
+        const gauche = deg > 90;
+        const [x, y] = [(1.05 * Math.cos(milieu)).toFixed(4), (-1.05 * Math.sin(milieu)).toFixed(4)];
+        const t = element('text', { x, y, transform: `rotate(${gauche ? 180 - deg : -deg} ${x} ${y})`, 'text-anchor': gauche ? 'end' : 'start', 'dominant-baseline': 'central', class: 'etiquette' }, g.sigle);
+        t.dataset.groupe = g.sigle;
+        svg.appendChild(t);
+      }
+      const nonVotants = Math.max(r.membres - r.pour - r.contre - r.abstention, 0);
+      for (const [pos, nb] of [['pour', r.pour], ['contre', r.contre], ['abstention', r.abstention], ['null', nonVotants]]) {
+        for (let k = 0; k < nb && i < sieges.length; k++, i++) {
+          const c = element('circle', { cx: sieges[i].x.toFixed(4), cy: sieges[i].y.toFixed(4), r: rayon, class: `siege s-${pos}` });
+          c.dataset.groupe = g.sigle;
+          svg.appendChild(c);
+        }
+      }
+    }
+    svg.appendChild(element('text', { x: 0, y: -0.1, class: `centre res-${vote.resultat}` }, vote.resultat === 'adopté' ? 'Adopté' : 'Rejeté'));
+    svg.appendChild(element('text', { x: 0, y: 0, class: 'centre-detail' }, `${vote.decompte.votants} votants`));
+    svg.addEventListener('mouseover', (e) => e.target.dataset?.groupe && surligner(e.target.dataset.groupe));
+    svg.addEventListener('mouseleave', () => surligner(null));
+    return svg;
+  }
+  function surligner(sigle) {
+    $$('#panneau .siege, #panneau .etiquette').forEach((c) => c.classList.toggle('estompe', !!sigle && c.dataset.groupe !== sigle));
+    $$('#panneau .ligne-groupe').forEach((l) => l.classList.toggle('actif', l.dataset.groupe === sigle));
+  }
+
+  // --- Lecteur vidéo : flux HLS officiel de la séance, ouvert au moment de l'intervention.
+  let hls = null;
+  let chargementHls = null;
+  const chargerHls = () =>
+    (chargementHls ??= new Promise((ok, ko) => {
+      const s = document.createElement('script');
+      s.src = 'https://cdnjs.cloudflare.com/ajax/libs/hls.js/1.5.13/hls.min.js';
+      s.onload = () => ok(window.Hls);
+      s.onerror = ko;
+      document.head.appendChild(s);
+    }));
+  async function lireVideo({ flux, debut, titre, source }) {
+    const dialogue = $('#lecteur');
+    const video = $('#lecteur video');
+    $('#lecteur-titre').textContent = titre;
+    $('#lecteur-source').href = source;
+    $('#lecteur-erreur').hidden = true;
+    dialogue.showModal();
+    const erreur = () => ($('#lecteur-erreur').hidden = false);
+    if (video.canPlayType('application/vnd.apple.mpegurl')) {
+      video.src = flux;
+      video.addEventListener('loadedmetadata', () => { video.currentTime = debut; video.play().catch(() => {}); }, { once: true });
+      video.addEventListener('error', erreur, { once: true });
+      return;
+    }
+    try {
+      const Hls = await chargerHls();
+      hls = new Hls({ startPosition: debut });
+      hls.on(Hls.Events.ERROR, (_, d) => d.fatal && erreur());
+      hls.loadSource(flux);
+      hls.attachMedia(video);
+      hls.on(Hls.Events.MANIFEST_PARSED, () => video.play().catch(() => {}));
+    } catch {
+      erreur();
+    }
+  }
+  $('#lecteur').addEventListener('close', () => {
+    const video = $('#lecteur video');
+    video.pause();
+    hls?.destroy();
+    hls = null;
+    video.removeAttribute('src');
+    video.load();
+  });
+  $('#lecteur-fermer').addEventListener('click', () => $('#lecteur').close());
+  $('#lecteur').addEventListener('click', (e) => e.target === e.currentTarget && $('#lecteur').close());
+
+  // --- Panneau d'un vote.
+  function explicationHtml(ex, sigle) {
+    if (!ex) return sigle === 'NI' ? '' : `<p class="pas-explication">Pas d'explication de vote relevée dans les débats.</p>`;
+    if (!ex.citations.length) return `<p class="pas-explication">${esc(ex.remarque)} <a href="${ex.url}" target="_blank" rel="noopener">Voir l'intervention</a></p>`;
+    return `
+      <div class="explication" data-ouvert="false">
+        <blockquote>${ex.citations.map((c) => `« ${esc(c)} »`).join(' <span class="coupe">[…]</span> ')}</blockquote>
+        <div class="actions">
+          ${
+            ex.video
+              ? DATA.videoIntegree
+                ? `<button class="action video" data-groupe="${esc(sigle)}"><span aria-hidden="true">▶</span> Voir en vidéo</button>`
+                : `<a class="action video" href="${ex.url}" target="_blank" rel="noopener" title="Ouvre le compte rendu officiel à ce passage, avec la vidéo de la séance"><span aria-hidden="true">▶</span> Voir la vidéo</a>`
+              : ''
+          }
+          <button class="action lire">Lire tout</button>
+          <a class="action" href="${ex.url}" target="_blank" rel="noopener">Source ↗</a>
+          <span class="qui">${esc(ex.orateur ?? '')}${ex.statut === 'auto' ? ' · <span class="brouillon">extrait automatique</span>' : ex.statut === 'brouillon' ? ' · <span class="brouillon">à valider</span>' : ''}</span>
+        </div>
+      </div>`;
+  }
+  function ligneGroupe(vote, g) {
+    const r = vote.groupes[g.sigle];
+    if (!r) return '';
+    const votants = r.pour + r.contre + r.abstention;
+    const detail = [r.pour && `${r.pour} pour`, r.contre && `${r.contre} contre`, r.abstention && `${r.abstention} abst.`].filter(Boolean).join(' · ') || 'aucun votant';
+    return `
+      <li class="ligne-groupe" data-groupe="${esc(g.sigle)}">
+        <div class="ligne-haut">
+          ${logoHtml(g)}
+          <span class="nom-groupe"><strong>${esc(g.sigle)}</strong><small>${detail} — ${votants} votants sur ${r.membres}</small></span>
+          <span class="badge b-${r.position}">${POSITIONS[r.position]}</span>
+        </div>
+        ${explicationHtml(vote.explications[g.sigle], g.sigle)}
+      </li>`;
+  }
+
+  let courant = null;
+  function afficher(cle, { defiler = false } = {}) {
+    const index = Math.max(DATA.votes.findIndex((v) => v.cle === cle), 0);
+    const vote = DATA.votes[index];
+    courant = vote;
+    $$('.choix-vote').forEach((b) => b.setAttribute('aria-current', String(b.dataset.cle === vote.cle)));
+    $('.choix-vote[aria-current="true"]')?.scrollIntoView({ block: 'nearest', inline: 'center' });
+    $('#panneau-entete').innerHTML = `
+      <p class="meta">${dateFr(vote.date)} · ${vote.congres ? 'Congrès du Parlement' : vote.motion ? 'Motion' : vote.resolution ? 'Résolution' : 'Loi'}${vote.lecture ? ` · ${esc(vote.lecture)}` : ''} · <span class="res res-${vote.resultat}">${vote.resultat === 'adopté' ? 'Adopté' : 'Rejeté'}</span>${vote.statut === 'auto' ? ' · <span class="brouillon">sélection automatique</span>' : vote.statut === 'brouillon' ? ' · <span class="brouillon">à valider</span>' : ''}</p>
+      <h3>${esc(vote.resume)}</h3>
+      ${vote.motion ? `<p class="aide-motion">${vote.motion === 'censure' ? 'Voter <b>pour</b> cette motion, c’est vouloir renverser le gouvernement. Seuls les votes pour sont comptés : il faut la majorité absolue des membres de l’Assemblée (289 si tous les sièges sont pourvus).' : 'Voter <b>pour</b> cette motion, c’est rejeter le texte sans l’examiner.'}</p>` : ''}`;
+    $('#hemicycle').replaceChildren(hemicycle(vote));
+    $('#totaux').innerHTML = `
+      <span><i class="pastille s-pour"></i><strong>${vote.decompte.pour}</strong> pour</span>
+      <span><i class="pastille s-contre"></i><strong>${vote.decompte.contre}</strong> contre</span>
+      <span><i class="pastille s-abstention"></i><strong>${vote.decompte.abstention}</strong> abstention${vote.decompte.abstention > 1 ? 's' : ''}</span>
+      <span><i class="pastille s-null"></i>absents</span>`;
+    $('#liste-groupes').innerHTML = DATA.groupes.map((g) => ligneGroupe(vote, g)).join('');
+    $('#lien-officiel').href = vote.url;
+    $('#precedent').disabled = index === 0;
+    $('#suivant').disabled = index === DATA.votes.length - 1;
+    $('#position-vote').textContent = `${index + 1} / ${DATA.votes.length}`;
+    $$('.ligne-groupe').forEach((l) => {
+      l.addEventListener('mouseenter', () => surligner(l.dataset.groupe));
+      l.addEventListener('mouseleave', () => surligner(null));
+    });
+    $$('#liste-groupes .lire').forEach((b) =>
+      b.addEventListener('click', () => {
+        const bloc = b.closest('.explication');
+        const ouvert = bloc.dataset.ouvert !== 'true';
+        bloc.dataset.ouvert = String(ouvert);
+        b.textContent = ouvert ? 'Réduire' : 'Lire tout';
+      }),
+    );
+    $$('#liste-groupes .video').forEach((b) =>
+      b.addEventListener('click', () => {
+        const ex = courant.explications[b.dataset.groupe];
+        lireVideo({ ...ex.video, titre: `${ex.orateur} (${b.dataset.groupe}) — ${dateFr(ex.date)}`, source: ex.url });
+      }),
+    );
+    history.replaceState(null, '', `#vote-${vote.cle}`);
+    if (defiler) $('#panneau').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+
+  // --- Liste des votes.
+  $('#liste-votes').innerHTML = DATA.votes
+    .map(
+      (v) => `
+      <button class="choix-vote" data-cle="${v.cle}" data-texte="${esc(normaliser(v.resume + ' ' + v.titre))}" aria-current="false">
+        <span class="meta">${dateCourte(v.date)}${v.legislature === 16 ? ' · <span class="leg">2022-2024</span>' : ''}</span>
+        <span class="resume">${esc(v.resume)}</span>
+        <span class="apercu">${DATA.groupes
+          .filter((g) => v.groupes[g.sigle])
+          .map((g) => `<i class="mini b-${v.groupes[g.sigle] ? v.groupes[g.sigle].position : 'absent'}" title="${esc(g.sigle)} : ${v.groupes[g.sigle] ? POSITIONS[v.groupes[g.sigle].position] : '—'}"></i>`)
+          .join('')}</span>
+      </button>`,
+    )
+    .join('');
+  $$('.choix-vote').forEach((b) => b.addEventListener('click', () => afficher(b.dataset.cle, { defiler: window.matchMedia('(max-width: 900px)').matches })));
+  $('#filtre').addEventListener('input', (e) => {
+    const q = normaliser(e.target.value.trim());
+    let visibles = 0;
+    $$('.choix-vote').forEach((b) => {
+      b.hidden = !!q && !b.dataset.texte.includes(q);
+      visibles += !b.hidden;
+    });
+    $('#aucun-resultat').hidden = visibles > 0;
+  });
+  $('#precedent').addEventListener('click', () => afficher(DATA.votes[DATA.votes.indexOf(courant) - 1].cle));
+  $('#suivant').addEventListener('click', () => afficher(DATA.votes[DATA.votes.indexOf(courant) + 1].cle));
+  $$('[data-logo]').forEach((el) => {
+    const g = groupe(el.dataset.logo);
+    if (g) el.outerHTML = logoHtml(g, 'petit');
+  });
+
+  // Anciens liens « #vote-3061 » : numéro seul = XVIIe législature.
+  const ancre = (location.hash.match(/vote-(\w+)/) ?? [])[1];
+  afficher(/^\d+$/.test(ancre ?? '') ? `VTANR5L17V${ancre}` : ancre ?? DATA.votes[0].cle);
+})({"groupes":[{"sigle":"LFI-NFP","nom":"La France insoumise - Nouveau Front Populaire","logo":"logos/LFI-NFP.svg"},{"sigle":"LFI-NUPES","nom":"La France insoumise - Nouvelle Union Populaire écologique et sociale","logo":"logos/LFI-NFP.svg"},{"sigle":"GDR","nom":"Gauche Démocrate et Républicaine","logo":"logos/GDR.svg"},{"sigle":"GDR-NUPES","nom":"Gauche démocrate et républicaine - NUPES","logo":"logos/GDR.svg"},{"sigle":"EcoS","nom":"Écologiste et Social","logo":"logos/EcoS.png"},{"sigle":"Ecolo-NUPES","nom":"Écologiste - NUPES","logo":"logos/EcoS.png"},{"sigle":"SOC","nom":"Socialistes et apparentés","logo":"logos/SOC.svg"},{"sigle":"LIOT","nom":"Libertés, Indépendants, Outre-mer et Territoires","logo":null},{"sigle":"Dem","nom":"Les Démocrates","logo":"logos/Dem.svg"},{"sigle":"EPR","nom":"Ensemble pour la République","logo":"logos/EPR.svg"},{"sigle":"RE","nom":"Renaissance","logo":"logos/EPR.svg"},{"sigle":"HOR","nom":"Horizons & Indépendants","logo":"logos/HOR.svg"},{"sigle":"DR","nom":"Droite Républicaine","logo":"logos/DR.svg"},{"sigle":"LR","nom":"Les Républicains","logo":"logos/DR.svg"},{"sigle":"UDR","nom":"Union des droites pour la République","logo":"logos/UDR.svg"},{"sigle":"RN","nom":"Rassemblement National","logo":"logos/RN.svg"},{"sigle":"NI","nom":"Non inscrit","logo":null}],"votes":[{"cle":"VTANR5L17V7408","numero":7408,"legislature":17,"congres":false,"motion":null,"lecture":"texte de la commission mixte paritaire","resume":"Proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics","statut":"auto","date":"2026-06-17","titre":"l'ensemble de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (texte de la commission mixte paritaire).","resolution":false,"resultat":"adopté","decompte":{"votants":466,"pour":292,"contre":160,"abstention":14},"url":"https://www.assemblee-nationale.fr/dyn/17/scrutins/7408","groupes":{"RN":{"position":"pour","membres":122,"pour":89,"contre":0,"abstention":0,"nonVotants":0},"EPR":{"position":"pour","membres":91,"pour":80,"contre":0,"abstention":0,"nonVotants":1},"LFI-NFP":{"position":"contre","membres":71,"pour":0,"contre":63,"abstention":0,"nonVotants":0},"SOC":{"position":"contre","membres":68,"pour":0,"contre":51,"abstention":0,"nonVotants":0},"DR":{"position":"pour","membres":48,"pour":42,"contre":0,"abstention":0,"nonVotants":0},"EcoS":{"position":"contre","membres":38,"pour":0,"contre":31,"abstention":0,"nonVotants":0},"Dem":{"position":"pour","membres":37,"pour":24,"contre":0,"abstention":2,"nonVotants":0},"HOR":{"position":"pour","membres":35,"pour":33,"contre":0,"abstention":0,"nonVotants":0},"LIOT":{"position":"abstention","positionSource":"pour","membres":23,"pour":2,"contre":2,"abstention":12,"nonVotants":0},"UDR":{"position":"pour","membres":17,"pour":17,"contre":0,"abstention":0,"nonVotants":0},"GDR":{"position":"contre","membres":17,"pour":0,"contre":13,"abstention":0,"nonVotants":0},"NI":{"position":"pour","membres":10,"pour":5,"contre":0,"abstention":0,"nonVotants":0}},"explications":{"EPR":{"citations":["Pour les infirmières, les enseignants, les policiers, les agents de propreté, les douaniers, les agents pénitentiaires, et pour l'ensemble des travailleurs de première ligne des services publics, le groupe Ensemble pour la République votera avec conviction en faveur de ce texte."],"statut":"auto","orateur":"Mme Catherine Ibled","date":"2026-06-17","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N274#4124895","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/06/hemi_20260617134545.smil/master.m3u8","debut":5094}},"LFI-NFP":{"citations":["Vous l'aurez compris, La France insoumise votera contre cette proposition de loi, qui s'inscrit dans la logique macroniste que l'on connaît depuis des années en matière de logement et qui a démontré jusqu'ici son inefficacité, avec un bilan pour le moins calamiteux, alarmant et catastrophique."],"statut":"auto","orateur":"M. François Piquemal","date":"2026-06-17","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N274#4124920","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/06/hemi_20260617134545.smil/master.m3u8","debut":5384}},"SOC":{"citations":["Pour toutes ces raisons, le groupe Socialiste et apparentés votera contre cette proposition de loi."],"statut":"auto","orateur":"M. Iñaki Echaniz","date":"2026-06-17","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N274#4124931","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/06/hemi_20260617134545.smil/master.m3u8","debut":5629}},"DR":{"citations":["Une société équilibrée est une société où chacun peut vivre dignement du fruit de son travail, où l'effort est reconnu et où l'accès au logement n'est pas un obstacle, mais une opportunité. C'est dans cet esprit que le groupe de la Droite républicaine soutiendra les avancées contenues dans cette proposition de loi."],"statut":"auto","orateur":"M. Thibault Bazin","date":"2026-06-17","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N274#4124941","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/06/hemi_20260617134545.smil/master.m3u8","debut":5926}},"EcoS":{"citations":["Généraliser la précarisation de l'accès au logement avec le risque de perdre son logement dès que l'on change de poste, ça suffit ! Le groupe Écologiste et social votera contre ce texte."],"statut":"auto","orateur":"Mme Danielle Simonnet","date":"2026-06-17","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N274#4124205","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/06/hemi_20260617134545.smil/master.m3u8","debut":6199}},"Dem":{"citations":["Ce texte met fin à cette anomalie. Le compromis de la CMP est solide, équilibré, et le groupe Les Démocrates le votera, tout en soulignant des points d'attention."],"statut":"auto","orateur":"M. Mickaël Cosson","date":"2026-06-17","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N274#4124218","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/06/hemi_20260617134545.smil/master.m3u8","debut":6511}},"HOR":{"citations":["C'est un besoin essentiel, un pilier de notre pacte républicain, une condition de l'équilibre de nos territoires et de notre cohésion nationale. Pour toutes ces raisons, le groupe Horizons & indépendants votera en faveur des conclusions de la commission mixte paritaire."],"statut":"auto","orateur":"Mme Béatrice Piron","date":"2026-06-17","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N274#4124234","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/06/hemi_20260617134545.smil/master.m3u8","debut":6781}},"LIOT":{"citations":["Monsieur le ministre, je connais votre sensibilité à ce sujet et vos attentes, mais attention à ces écueils, à ces risques. Pour toutes ces raisons, tout en en comprenant l'objectif, la plupart des députés du groupe LIOT ne voteront pas en faveur du texte."],"statut":"auto","orateur":"Mme Valérie Létard","date":"2026-06-17","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N274#4124248","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/06/hemi_20260617134545.smil/master.m3u8","debut":7100}},"GDR":{"citations":["La présente proposition de loi n'échappe pas à cette logique de pénurie organisée, toujours au détriment des plus fragiles, au risque cette fois de précariser les agents publics et leur famille dans le cas d'une mutation ou d'un changement professionnel. Nous voterons bien évidemment contre ce texte."],"statut":"auto","orateur":"M. Stéphane Peu","date":"2026-06-17","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N274#4124340","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/06/hemi_20260617134545.smil/master.m3u8","debut":7434}},"UDR":{"citations":["Nous voterons en faveur du texte, bien qu'il soit imparfait et voué à ne rien changer à la crise du logement provoquée par la politique macroniste que vous soutenez depuis bientôt dix ans."],"statut":"auto","orateur":"M. Antoine Valentin","date":"2026-06-17","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N274#4124348","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/06/hemi_20260617134545.smil/master.m3u8","debut":7691}}}},{"cle":"VTANR5L17V6076","numero":6076,"legislature":17,"congres":false,"motion":null,"lecture":"première lecture","resume":"Proposition de loi visant à encadrer les regroupements pédagogiques intercommunaux afin de garantir l'égalité d'accès à l'école en milieu rural","statut":"auto","date":"2026-04-09","titre":"l'ensemble de la proposition de loi visant à encadrer les regroupements pédagogiques intercommunaux afin de garantir l'égalité d'accès à l'école en milieu rural (première lecture).","resolution":false,"resultat":"adopté","decompte":{"votants":157,"pour":132,"contre":0,"abstention":25},"url":"https://www.assemblee-nationale.fr/dyn/17/scrutins/6076","groupes":{"RN":{"position":"pour","membres":122,"pour":35,"contre":0,"abstention":0,"nonVotants":0},"EPR":{"position":"pour","membres":91,"pour":13,"contre":0,"abstention":0,"nonVotants":1},"LFI-NFP":{"position":"abstention","membres":71,"pour":0,"contre":0,"abstention":22,"nonVotants":0},"SOC":{"position":"pour","membres":69,"pour":17,"contre":0,"abstention":0,"nonVotants":0},"DR":{"position":"pour","membres":48,"pour":11,"contre":0,"abstention":0,"nonVotants":0},"EcoS":{"position":"pour","membres":38,"pour":10,"contre":0,"abstention":0,"nonVotants":0},"Dem":{"position":"pour","membres":37,"pour":10,"contre":0,"abstention":0,"nonVotants":0},"HOR":{"position":"pour","membres":35,"pour":28,"contre":0,"abstention":0,"nonVotants":1},"LIOT":{"position":"pour","membres":22,"pour":2,"contre":0,"abstention":0,"nonVotants":0},"GDR":{"position":"abstention","membres":17,"pour":0,"contre":0,"abstention":3,"nonVotants":0},"UDR":{"position":"pour","membres":17,"pour":5,"contre":0,"abstention":0,"nonVotants":0},"NI":{"position":"pour","membres":10,"pour":1,"contre":0,"abstention":0,"nonVotants":0}},"explications":{"LIOT":{"citations":["Cela posé, la proposition de loi n'en est pas moins utile et réaliste dans ses ambitions. Nous la soutiendrons pour ce qu'elle est, à savoir une première étape de mise en ordre, sans être une réponse complète à la question de l'école rurale."],"statut":"auto","orateur":"Mme Audrey Abadie-Amiel","date":"2026-04-09","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N197#4057108","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/04/hemi_20260409084508.smil/master.m3u8","debut":2073}},"UDR":{"citations":["Outil indispensable pour la coopération territoriale en matière scolaire, il n'en souffrait pas moins d'imprécisions juridiques que votre proposition de loi, monsieur le rapporteur, vient très utilement combler. Le groupe de l'Union des droites pour la République soutiendra donc sans réserve cette proposition de loi."],"statut":"auto","orateur":"M. Maxime Michelet","date":"2026-04-09","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N197#4057117","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/04/hemi_20260409084508.smil/master.m3u8","debut":2360}},"RN":{"citations":["Le groupe Rassemblement national votera pour cette proposition de loi, sans enthousiasme, parce que vous encadrez les désastres que vous avez causés pendant des années."],"statut":"auto","orateur":"M. Julien Odoul","date":"2026-04-09","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N197#4058099","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/04/hemi_20260409084508.smil/master.m3u8","debut":7040}},"EPR":{"citations":["Donner un cadre à ces regroupements revient à leur donner une chance de durer. Pour toutes ces raisons, le groupe Ensemble pour la République votera en faveur de la proposition de loi."],"statut":"auto","orateur":"Mme Julie Delpech","date":"2026-04-09","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N197#4057646","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/04/hemi_20260409084508.smil/master.m3u8","debut":3011}},"LFI-NFP":{"citations":["Nous nous abstiendrons sur ce texte."],"statut":"auto","orateur":"M. Rodrigo Arenas","date":"2026-04-09","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N197#4058138","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/04/hemi_20260409084508.smil/master.m3u8","debut":7295}},"EcoS":{"citations":["Le groupe Écologiste et social ne votera pas contre le texte, mais n'en reste pas moins persuadé que les années à venir seront douloureuses si nous n'imaginons pas, dès maintenant, une autre vision de l'école publique rurale."],"statut":"auto","orateur":"M. Jean-Claude Raux","date":"2026-04-09","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N197#4057282","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/04/hemi_20260409084508.smil/master.m3u8","debut":3822}},"Dem":{"citations":["C'est pourquoi le groupe Démocrates votera en faveur du dispositif dont nous débattons, qui constitue une réponse utile et attendue aux difficultés rencontrées par les élus et les habitants de nos territoires."],"statut":"auto","orateur":"Mme Géraldine Bannier","date":"2026-04-09","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N197#4057293","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/04/hemi_20260409084508.smil/master.m3u8","debut":4149}},"DR":{"citations":["Dans le temps dont nous disposons pour relancer la démographie et trouver de nouveaux modèles éducatifs pour nos enfants, nous devrons parfois surseoir à la fermeture de classes pour donner aux maires et aux élus locaux la possibilité de trouver des solutions. C'est pourquoi le groupe de la Droite républicaine votera cette proposition du groupe Horizons."],"statut":"auto","orateur":"M. Antoine Vermorel","date":"2026-04-09","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N197#4058134","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/04/hemi_20260409084508.smil/master.m3u8","debut":7186}}}},{"cle":"VTANR5L17V6045","numero":6045,"legislature":17,"congres":false,"motion":null,"lecture":"première lecture","resume":"Proposition de loi visant à simplifier le millefeuille territorial par la collectivité unique","statut":"auto","date":"2026-04-08","titre":"l'ensemble de la proposition de loi visant à simplifier le millefeuille territorial par la collectivité unique (première lecture).","resolution":false,"resultat":"adopté","decompte":{"votants":243,"pour":131,"contre":100,"abstention":12},"url":"https://www.assemblee-nationale.fr/dyn/17/scrutins/6045","groupes":{"RN":{"position":"pour","membres":122,"pour":64,"contre":0,"abstention":0,"nonVotants":0},"EPR":{"position":"pour","membres":91,"pour":35,"contre":3,"abstention":1,"nonVotants":1},"LFI-NFP":{"position":"contre","membres":71,"pour":0,"contre":28,"abstention":0,"nonVotants":0},"SOC":{"position":"contre","membres":69,"pour":1,"contre":32,"abstention":0,"nonVotants":0},"DR":{"position":"pour","membres":48,"pour":9,"contre":4,"abstention":1,"nonVotants":0},"EcoS":{"position":"contre","membres":38,"pour":0,"contre":13,"abstention":0,"nonVotants":0},"Dem":{"position":"abstention","membres":37,"pour":6,"contre":4,"abstention":8,"nonVotants":0},"HOR":{"position":"contre","membres":35,"pour":5,"contre":8,"abstention":1,"nonVotants":1},"LIOT":{"position":"partage","positionSource":"pour","membres":22,"pour":4,"contre":4,"abstention":0,"nonVotants":0},"UDR":{"position":"pour","membres":17,"pour":4,"contre":0,"abstention":0,"nonVotants":0},"GDR":{"position":"contre","membres":17,"pour":0,"contre":2,"abstention":0,"nonVotants":0},"NI":{"position":"pour","membres":10,"pour":3,"contre":2,"abstention":1,"nonVotants":0}},"explications":{"EcoS":{"citations":["Nous pouvons en discuter, mais pas de cette manière, ni en invoquant de faux arguments. Pour une question de principe, nous voterons donc contre ce texte."],"statut":"auto","orateur":"M. Jérémie Iordanoff","date":"2026-04-08","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N195#4056406","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/04/hemi_20260408134518.smil/master.m3u8","debut":11142}},"Dem":{"citations":["Nous avions d'ailleurs formulé une proposition dans ce sens, qui conditionnait notre vote final, mais elle n'a pas été retenue. C'est pourquoi, même si nous entendons les aspirations des Alsaciens, notre groupe ne votera pas en faveur de ce texte."],"statut":"auto","orateur":"M. Éric Martineau","date":"2026-04-08","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N195#4056416","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/04/hemi_20260408134518.smil/master.m3u8","debut":11280}},"HOR":{"citations":["Jusqu'au titre même du texte, qui a suscité des interrogations, il règne donc dans ce débat une grande confusion, d'autant plus que l'affect, malheureusement, a trop souvent pris le pas sur le droit et sur la raison. Dans ces conditions, et conformément à ce que nous avions annoncé, chacun votera selon ses convictions et, parfois, selon ses ancrages territoriaux."],"statut":"auto","orateur":"M. Xavier Albertini","date":"2026-04-08","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N195#4056424","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/04/hemi_20260408134518.smil/master.m3u8","debut":11416}},"LIOT":{"citations":["Certains d'entre nous voteront en faveur de ce texte, d'autres non."],"statut":"auto","orateur":"M. Paul Molac","date":"2026-04-08","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N195#4056428","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/04/hemi_20260408134518.smil/master.m3u8","debut":11494}},"GDR":{"citations":["Au sein du groupe GDR, nous ne nous satisfaisons pas de l'organisation actuelle, mais pas davantage de cette proposition de réforme. C'est pourquoi nous voterons contre."],"statut":"auto","orateur":"Mme Émeline K/Bidi","date":"2026-04-07","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N193#4054520","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/04/hemi_20260407144503.smil/master.m3u8","debut":15354}},"UDR":{"citations":["Ces propos sont méprisants envers l'ancienne région Champagne-Ardenne qui, de 1982 à 2015, n'est pas restée immobile et impuissante, à regarder les autres régions dans le blanc des yeux. Pour toutes ces raisons, le groupe UDR soutiendra le texte."],"statut":"auto","orateur":"M. Maxime Michelet","date":"2026-04-08","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N195#4056602","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/04/hemi_20260408134518.smil/master.m3u8","debut":11628}},"RN":{"citations":["Le Rassemblement national votera bien évidemment pour ce texte."],"statut":"auto","orateur":"M. Théo Bernhardt","date":"2026-04-08","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N195#4056615","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/04/hemi_20260408134518.smil/master.m3u8","debut":11837}}}},{"cle":"VTANR5L17V4287","numero":4287,"legislature":17,"congres":false,"motion":null,"lecture":"première lecture","resume":"Proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer","statut":"auto","date":"2025-11-27","titre":"l'ensemble de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).","resolution":false,"resultat":"adopté","decompte":{"votants":246,"pour":195,"contre":0,"abstention":51},"url":"https://www.assemblee-nationale.fr/dyn/17/scrutins/4287","groupes":{"RN":{"position":"pour","membres":123,"pour":66,"contre":0,"abstention":0,"nonVotants":0},"EPR":{"position":"abstention","membres":91,"pour":0,"contre":0,"abstention":17,"nonVotants":1},"LFI-NFP":{"position":"pour","membres":71,"pour":69,"contre":0,"abstention":0,"nonVotants":0},"SOC":{"position":"pour","membres":69,"pour":25,"contre":0,"abstention":0,"nonVotants":0},"DR":{"position":"abstention","membres":49,"pour":0,"contre":0,"abstention":9,"nonVotants":0},"EcoS":{"position":"pour","membres":38,"pour":23,"contre":0,"abstention":0,"nonVotants":0},"Dem":{"position":"abstention","membres":36,"pour":1,"contre":0,"abstention":6,"nonVotants":0},"HOR":{"position":"abstention","membres":34,"pour":0,"contre":0,"abstention":10,"nonVotants":0},"LIOT":{"position":null,"membres":22,"pour":0,"contre":0,"abstention":0,"nonVotants":0},"GDR":{"position":"pour","membres":17,"pour":11,"contre":0,"abstention":0,"nonVotants":0},"UDR":{"position":"abstention","membres":16,"pour":0,"contre":0,"abstention":7,"nonVotants":0},"NI":{"position":"abstention","membres":9,"pour":0,"contre":0,"abstention":2,"nonVotants":0}},"explications":{"SOC":{"citations":[", faire des ultramarins des citoyens entièrement à part, ce que nous vivons pourtant. Le groupe Socialistes et apparentés soutiendra bien évidemment cette proposition de loi."],"statut":"auto","orateur":"M. Elie Califer","date":"2025-11-27","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N072#3944233","video":null},"DR":{"citations":["Parce que celui-ci demeure un pilier de la cohésion sociale et territoriale, nous ne pouvons soutenir une mesure dont les conditions de mise en œuvre ne sont pas réunies. Nous nous abstiendrons donc sur ce texte, tout en reconnaissant la sincérité des intentions de M."],"statut":"auto","orateur":"M. Ian Boucard","date":"2025-11-27","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N072#3946997","video":null},"EcoS":{"citations":["Le groupe Écologiste et social votera pour ce texte, parce que celui-ci prévoit une mesure concrète, une correction indispensable, un acte politique clair face à des écarts discriminants."],"statut":"auto","orateur":"M. Steevy Gustave","date":"2025-11-27","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N072#3944247","video":null},"Dem":{"citations":["Le groupe Les Démocrates s'abstiendra sur ce texte, en prévision de ces débats que nos compatriotes ultramarins ont déjà trop attendus."],"statut":"auto","orateur":"Mme Maud Petit","date":"2025-11-27","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N072#3944257","video":null},"HOR":{"citations":["Notre groupe s'abstiendra donc, non par refus d'agir mais par sens des responsabilités et pour permettre un travail sérieux et durable en faveur de la réduction des inégalités."],"statut":"auto","orateur":"Mme Béatrice Piron","date":"2025-11-27","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N072#3944503","video":null},"LIOT":{"citations":["C'est à l'État, par l'exercice de la solidarité nationale, de compenser, d'accompagner et d'investir pour que le service public postal soit réellement universel et égalitaire. Pour que soit tenue cette promesse d'égalité, le groupe LIOT votera le texte."],"statut":"auto","orateur":"M. Paul Molac","date":"2025-11-27","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N072#3944519","video":null},"GDR":{"citations":["Quant à nous, nous voterons pour l'égalité, en attendant la liberté…"],"statut":"auto","orateur":"M. Marcellin Nadeau","date":"2025-11-27","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N072#3944531","video":null},"UDR":{"citations":["Tel n'a pas été le cas. Nous nous abstiendrons donc sur ce texte que nous aurions aimé soutenir."],"statut":"auto","orateur":"M. Gérault Verny","date":"2025-11-27","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N072#3947001","video":null},"RN":{"citations":["Quand le RN vote pour défendre le pouvoir d'achat en supprimant l'octroi de mer, le groupe LFI-NFP vote contre ; quand nous défendons la souveraineté des peuples d'outre-mer, LFI vote contre ; lorsque nous défendons la sécurité des territoires d'outre-mer, le groupe LFI-NFP vote contre. Alors même que le groupe LFI-NFP a refusé nos amendements, nous voterons ce texte car nous sommes toujours du côté du pouvoir d'achat des ultramarins !"],"statut":"auto","orateur":"M. Joseph Rivière","date":"2025-11-27","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N072#3947004","video":null},"EPR":{"citations":["Toutefois, parce que l'intention de cette proposition de loi est bonne, que le sujet est important et que le dispositif proposé est, reconnaissons-le, beaucoup moins extravagant que ce à quoi La France insoumise nous a habitués, notre groupe EPR s'abstiendra."],"statut":"auto","orateur":"Mme Annaïg Le Meur","date":"2025-11-27","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N072#3944864","video":null}}},{"cle":"VTANR5L17V931","numero":931,"legislature":17,"congres":false,"motion":null,"lecture":"première lecture","resume":"Proposition de loi simplifiant l'ouverture des débits de boissons en zone rurale","statut":"auto","date":"2025-03-10","titre":"l'ensemble de la proposition de loi simplifiant l'ouverture des débits de boissons en zone rurale (première lecture).","resolution":false,"resultat":"adopté","decompte":{"votants":176,"pour":174,"contre":2,"abstention":0},"url":"https://www.assemblee-nationale.fr/dyn/17/scrutins/931","groupes":{"RN":{"position":"pour","membres":123,"pour":51,"contre":0,"abstention":0,"nonVotants":0},"EPR":{"position":"pour","membres":94,"pour":51,"contre":0,"abstention":0,"nonVotants":1},"LFI-NFP":{"position":"pour","membres":71,"pour":18,"contre":0,"abstention":0,"nonVotants":0},"SOC":{"position":"pour","membres":66,"pour":11,"contre":0,"abstention":0,"nonVotants":0},"DR":{"position":"pour","membres":47,"pour":7,"contre":0,"abstention":0,"nonVotants":0},"EcoS":{"position":"pour","membres":38,"pour":6,"contre":2,"abstention":0,"nonVotants":0},"Dem":{"position":"pour","membres":36,"pour":5,"contre":0,"abstention":0,"nonVotants":0},"HOR":{"position":"pour","membres":33,"pour":13,"contre":0,"abstention":0,"nonVotants":0},"LIOT":{"position":"pour","membres":23,"pour":4,"contre":0,"abstention":0,"nonVotants":0},"GDR":{"position":"pour","membres":17,"pour":3,"contre":0,"abstention":0,"nonVotants":0},"UDR":{"position":"pour","membres":16,"pour":3,"contre":0,"abstention":0,"nonVotants":0},"NI":{"position":"pour","membres":11,"pour":2,"contre":0,"abstention":0,"nonVotants":0}},"explications":{"RN":{"citations":["Non seulement nous voterons en faveur de la proposition de loi, mais nous souhaitons aussi l'enrichir, afin d'encourager les ouvertures de débits de boissons dans les zones rurales, de manière à favoriser le bien-être de la population et à assurer le succès et la pérennité de ces établissements."],"statut":"auto","orateur":"M. René Lioret","date":"2025-03-10","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N122#3653605","video":null},"EPR":{"citations":["Parce que la proposition de loi dont nous débattons est une réponse concrète aux défis des territoires ruraux, parce qu'elle a l'ambition de recréer de la convivialité et du dynamisme dans les petites communes, le groupe Ensemble pour la République la soutiendra avec conviction."],"statut":"auto","orateur":"Mme Christine Le Nabour","date":"2025-03-10","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N122#3653615","video":null},"SOC":{"citations":["Pour toutes ces raisons, nous voterons ce texte, en rappelant néanmoins l'importance qu'ont pour nous les enjeux de santé publique."],"statut":"auto","orateur":"Mme Chantal Jourdan","date":"2025-03-10","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N122#3654282","video":null},"DR":{"citations":["Il existe donc des garde-fous pour éviter la financiarisation des licences IV dénoncée par certains groupes. Pour toutes ces raisons, notre groupe votera pour cette proposition de loi."],"statut":"auto","orateur":"Mme Sylvie Bonnet","date":"2025-03-10","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N122#3653935","video":null},"EcoS":{"citations":["Cette proposition de loi, nous la soutiendrons, mais seulement si l'on prévoit l'encadrement nécessaire ; sinon, elle ne sera qu'un manège de plus pour faire semblant de se préoccuper des habitants de nos villages."],"statut":"auto","orateur":"Mme Marie Pochon","date":"2025-03-10","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N122#3653950","video":null},"LIOT":{"citations":["Certes, ce n'est qu'un commencement de réponse à nos territoires ruraux, qui ont besoin de bien davantage, mais le groupe LIOT votera ce texte, tel qu'il a été amélioré par nos débats."],"statut":"auto","orateur":"M. Stéphane Viry","date":"2025-03-10","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N122#3654286","video":null},"HOR":{"citations":["Nous avons aujourd'hui l'occasion de poser un acte de soutien aux petites communes rurales. C'est pourquoi le groupe Horizons & indépendants soutiendra pleinement la proposition de loi."],"statut":"auto","orateur":"M. François Gernigon","date":"2025-03-10","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N122#3653976","video":null},"GDR":{"citations":["Très attachés à tout ce qui favorisera le développement des territoires ruraux, les députés communistes et ultramarins voteront en faveur de la proposition de loi."],"statut":"auto","orateur":"M. Yannick Monnet","date":"2025-03-10","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N122#3653998","video":null},"UDR":{"citations":["C'est une partie de la France qui est délibérément oubliée, méprisée, abandonnée. La présente proposition de loi va dans le bon sens ; c'est pourquoi le groupe UDR votera en sa faveur."],"statut":"auto","orateur":"M. Éric Michoux","date":"2025-03-10","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N122#3654900","video":null},"Dem":{"citations":["Parce qu'un village sans café, c'est un village qui perd un peu de son âme, et parce qu'une ruralité dynamique, c'est avant tout une ruralité où l'on peut se retrouver, échanger et partager, nous voterons pour la proposition de loi."],"statut":"auto","orateur":"M. Erwan Balanant","date":"2025-03-10","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N122#3654924","video":null}}},{"cle":"VTANR5L17V840","numero":840,"legislature":17,"congres":false,"motion":null,"lecture":"première lecture","resume":"Proposition de loi visant à proroger le dispositif d'expérimentation favorisant l'égalité des chances pour l'accès à certaines écoles de service public","statut":"auto","date":"2025-02-18","titre":"l'ensemble de la proposition de loi visant à proroger le dispositif d'expérimentation favorisant l'égalité des chances pour l'accès à certaines écoles de service public (première lecture).","resolution":false,"resultat":"adopté","decompte":{"votants":184,"pour":112,"contre":48,"abstention":24},"url":"https://www.assemblee-nationale.fr/dyn/17/scrutins/840","groupes":{"RN":{"position":"contre","membres":124,"pour":0,"contre":44,"abstention":0,"nonVotants":0},"EPR":{"position":"pour","membres":94,"pour":25,"contre":0,"abstention":0,"nonVotants":1},"LFI-NFP":{"position":"abstention","membres":71,"pour":0,"contre":0,"abstention":23,"nonVotants":1},"SOC":{"position":"pour","membres":66,"pour":37,"contre":0,"abstention":0,"nonVotants":0},"DR":{"position":"pour","membres":47,"pour":9,"contre":1,"abstention":1,"nonVotants":0},"EcoS":{"position":"pour","membres":38,"pour":6,"contre":0,"abstention":0,"nonVotants":0},"Dem":{"position":"pour","membres":36,"pour":12,"contre":0,"abstention":0,"nonVotants":0},"HOR":{"position":"pour","membres":33,"pour":19,"contre":0,"abstention":0,"nonVotants":0},"LIOT":{"position":"pour","membres":23,"pour":1,"contre":0,"abstention":0,"nonVotants":0},"GDR":{"position":"pour","membres":17,"pour":2,"contre":0,"abstention":0,"nonVotants":0},"UDR":{"position":"contre","membres":16,"pour":0,"contre":3,"abstention":0,"nonVotants":0},"NI":{"position":"pour","membres":11,"pour":1,"contre":0,"abstention":0,"nonVotants":0}},"explications":{"SOC":{"citations":["Le chemin qu'il reste à faire est encore long, mais chaque avancée est bonne à prendre et ce texte marque une avancée. Sans réserve, le groupe socialiste votera pour la proposition de loi et nous appelons tous les députés à en faire autant."],"statut":"auto","orateur":"Mme Claudia Rouaux","date":"2025-02-18","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N106#3636825","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2025/02/hemi_20250218144517.smil/master.m3u8","debut":8165}},"DR":{"citations":["Nous formulons la même exigence : permettre à des jeunes méritants, motivés et compétents issus de milieux modestes de modifier le visage de la haute fonction publique et d'y insuffler de l'égalité réelle, au bénéfice de la nation. La Droite républicaine votera pour la prorogation de l'expérimentation."],"statut":"auto","orateur":"Mme Émilie Bonnivard","date":"2025-02-18","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N106#3636834","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2025/02/hemi_20250218144517.smil/master.m3u8","debut":8394}},"EcoS":{"citations":["Le dispositif « talents » est certes imparfait, mais nous soutiendrons sa prorogation et défendrons des amendements pour en améliorer l'ampleur – ainsi, le plancher de 15 % d'admis issus des prépas « talents » nous paraît insuffisant."],"statut":"auto","orateur":"M. Emmanuel Duplessy","date":"2025-02-18","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N106#3636846","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2025/02/hemi_20250218144517.smil/master.m3u8","debut":8707}},"Dem":{"citations":["Partant du constat que ce texte œuvre en faveur de l'égalité des chances et de l'attractivité de la fonction publique, notre groupe votera en faveur de son adoption."],"statut":"auto","orateur":"Mme Anne Bergantz","date":"2025-02-18","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N106#3636105","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2025/02/hemi_20250218144517.smil/master.m3u8","debut":9048}},"HOR":{"citations":["Le groupe Horizons & indépendants votera donc en faveur de cette proposition de loi, qui vise à faire vivre davantage la méritocratie au sein de la fonction publique."],"statut":"auto","orateur":"M. Jean Moulliere","date":"2025-02-18","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N106#3636114","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2025/02/hemi_20250218144517.smil/master.m3u8","debut":9333}},"GDR":{"citations":["Il y aurait bien davantage à dire, mais le temps m'est compté. Le groupe de la Gauche démocrate et républicaine votera le texte qui, s'il n'est pas suffisant, est attendu et a le mérite d'exister."],"statut":"auto","orateur":"Mme Émeline K/Bidi","date":"2025-02-18","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N106#3636124","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2025/02/hemi_20250218144517.smil/master.m3u8","debut":9633}}}},{"cle":"VTANR5L16V3350","numero":3350,"legislature":16,"congres":false,"motion":null,"lecture":"première lecture","resume":"Proposition de loi renforçant la sécurité et la protection des maires et des élus locaux","statut":"auto","date":"2024-02-07","titre":"l'ensemble de la proposition de loi renforçant la sécurité et la protection des maires et des élus locaux (première lecture).","resolution":false,"resultat":"adopté","decompte":{"votants":229,"pour":205,"contre":24,"abstention":0},"url":"https://www.assemblee-nationale.fr/dyn/16/scrutins/3350","groupes":{"RE":{"position":"pour","membres":170,"pour":77,"contre":0,"abstention":0,"nonVotants":0},"RN":{"position":"pour","membres":88,"pour":33,"contre":0,"abstention":0,"nonVotants":0},"LFI-NUPES":{"position":"contre","membres":75,"pour":2,"contre":24,"abstention":0,"nonVotants":0},"LR":{"position":"pour","membres":62,"pour":21,"contre":0,"abstention":0,"nonVotants":0},"Dem":{"position":"pour","membres":51,"pour":24,"contre":0,"abstention":0,"nonVotants":0},"SOC":{"position":"pour","membres":31,"pour":12,"contre":0,"abstention":0,"nonVotants":0},"HOR":{"position":"pour","membres":28,"pour":12,"contre":0,"abstention":0,"nonVotants":1},"Ecolo-NUPES":{"position":"pour","membres":23,"pour":6,"contre":0,"abstention":0,"nonVotants":0},"GDR-NUPES":{"position":"pour","membres":22,"pour":3,"contre":0,"abstention":0,"nonVotants":0},"LIOT":{"position":"pour","membres":22,"pour":14,"contre":0,"abstention":0,"nonVotants":0},"NI":{"position":"pour","membres":5,"pour":1,"contre":0,"abstention":0,"nonVotants":0}},"explications":{"LIOT":{"citations":["Le groupe Libertés, indépendants, outre-mer et territoires votera pour cette proposition de loi."],"statut":"auto","orateur":"M. Paul Molac","date":"2024-02-07","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N119#3369619","video":null},"RE":{"citations":["Le groupe Renaissance votera également pour cette proposition de loi, soutenue par le Sénat, notamment par François-Noël Buffet et Catherine Di Folco, Rhodaniens comme moi."],"statut":"auto","orateur":"M. Thomas Rudigoz","date":"2024-02-07","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N119#3369621","video":null},"LR":{"citations":["Nous voterons donc en faveur de ces mesures, qui constituent de vraies avancées."],"statut":"auto","orateur":"M. Maxime Minot","date":"2024-02-07","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N119#3369664","video":null},"Dem":{"citations":["Les élus locaux sont attachés à l'apaisement au quotidien, et il serait bon que nous y participions aussi. Le groupe Démocrate votera bien évidemment pour ce texte ; il attend le suivant sur le statut de l'élu."],"statut":"auto","orateur":"Mme Élodie Jacquier-Laforge","date":"2024-02-07","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N119#3369669","video":null},"SOC":{"citations":["Néanmoins, devant le nombre croissant de démissions d'élus locaux, écrasés par le manque de reconnaissance, la montée des violences, la complexification de l'action publique et une forme d'abandon de l'État, nous considérons que le texte va dans le bon sens et constitue une première étape salutaire. Avec mes collègues du groupe Socialistes, nous voterons donc pour la proposition de loi."],"statut":"auto","orateur":"M. Alain David","date":"2024-02-07","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N119#3369675","video":null},"HOR":{"citations":["Le groupe Horizons et apparentés votera en faveur de ce texte qui contient des dispositions importantes pour défendre ceux qui assurent le dernier kilomètre de la République, les élus locaux."],"statut":"auto","orateur":"M. Philippe Pradal","date":"2024-02-07","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N119#3369678","video":null},"Ecolo-NUPES":{"citations":["Nous voterons pour le texte en attendant des mesures qui, au-delà de la protection, donneront d'autres raisons de s'engager."],"statut":"auto","orateur":"M. Jean-Claude Raux","date":"2024-02-07","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N119#3369684","video":null},"GDR-NUPES":{"citations":["Nous voterons ce texte sans sourciller, convaincus qu'il faudra des étapes supplémentaires."],"statut":"auto","orateur":"M. Sébastien Jumel","date":"2024-02-07","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N119#3369688","video":null}}},{"cle":"VTANR5L16V3206","numero":3206,"legislature":16,"congres":false,"motion":null,"lecture":"texte de la commission mixte paritaire","resume":"Proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels","statut":"auto","date":"2023-12-12","titre":"l'ensemble de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (texte de la commission mixte paritaire).","resolution":false,"resultat":"adopté","decompte":{"votants":215,"pour":165,"contre":24,"abstention":26},"url":"https://www.assemblee-nationale.fr/dyn/16/scrutins/3206","groupes":{"RE":{"position":"pour","membres":170,"pour":70,"contre":0,"abstention":0,"nonVotants":0},"RN":{"position":"pour","membres":88,"pour":40,"contre":0,"abstention":0,"nonVotants":0},"LFI-NUPES":{"position":"contre","membres":75,"pour":0,"contre":21,"abstention":0,"nonVotants":0},"LR":{"position":"pour","membres":62,"pour":13,"contre":0,"abstention":0,"nonVotants":0},"Dem":{"position":"pour","membres":51,"pour":19,"contre":0,"abstention":0,"nonVotants":1},"SOC":{"position":"abstention","membres":31,"pour":0,"contre":0,"abstention":8,"nonVotants":0},"HOR":{"position":"pour","membres":30,"pour":17,"contre":0,"abstention":2,"nonVotants":0},"Ecolo-NUPES":{"position":"abstention","membres":23,"pour":0,"contre":0,"abstention":13,"nonVotants":0},"GDR-NUPES":{"position":"contre","membres":22,"pour":0,"contre":3,"abstention":0,"nonVotants":0},"LIOT":{"position":"pour","membres":21,"pour":5,"contre":0,"abstention":3,"nonVotants":0},"NI":{"position":"pour","membres":4,"pour":1,"contre":0,"abstention":0,"nonVotants":0}},"explications":{"RE":{"citations":["Il concilie le droit à l'accès aux soins, dont doivent jouir les patients, et l'aspiration légitime des professionnels de santé à bénéficier de meilleures conditions de travail. En conséquence, le groupe Renaissance votera la proposition de loi."],"statut":"auto","orateur":"M. Jean-François Rousset","date":"2023-12-12","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N083#3329678","video":null},"RN":{"citations":["Bien qu'imparfait, ce texte permettra d'améliorer l'offre de soins et l'accès aux soins de nos compatriotes. Le Rassemblement national votera en sa faveur."],"statut":"auto","orateur":"M. Thierry Frappé","date":"2023-12-12","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N083#3329685","video":null},"LFI-NUPES":{"citations":["Sans pour autant renier les avancées construites ensemble dans l'exercice parlementaire, il nous faut tenir compte de l'équilibre général du texte, en net recul à l'issue de son examen au Sénat. C'est pourquoi notre groupe votera contre ce texte."],"statut":"auto","orateur":"Mme Mathilde Hignet","date":"2023-12-12","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N083#3329722","video":null},"LR":{"citations":["Grâce au travail de la commission mixte paritaire, ce texte va dans le bon sens. Les députés Les Républicains, qui en approuvent le contenu, le voteront."],"statut":"auto","orateur":"M. Yannick Neuder","date":"2023-12-12","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N083#3329747","video":null},"Dem":{"citations":["C'est toute l'ambition de la loi de financement de la sécurité sociale pour 2024. En complément de ces mesures, le groupe Démocrate votera en faveur des conclusions de la commission mixte paritaire."],"statut":"auto","orateur":"M. Nicolas Turquois","date":"2023-12-12","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N083#3329759","video":null},"Ecolo-NUPES":{"citations":["Nous ne pouvons y souscrire. Le groupe Écologiste s'abstiendra."],"statut":"auto","orateur":"M. Sébastien Peytavie","date":"2023-12-12","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N083#3329832","video":null}}},{"cle":"VTANR5L16V3115","numero":3115,"legislature":16,"congres":false,"motion":null,"lecture":"première lecture","resume":"Proposition de loi tendant à la réouverture des accueils physiques dans les services publics","statut":"auto","date":"2023-11-30","titre":"l'ensemble de la proposition de loi tendant à la réouverture des accueils physiques dans les services publics (première lecture).","resolution":false,"resultat":"adopté","decompte":{"votants":188,"pour":122,"contre":29,"abstention":37},"url":"https://www.assemblee-nationale.fr/dyn/16/scrutins/3115","groupes":{"RE":{"position":"abstention","membres":170,"pour":1,"contre":2,"abstention":35,"nonVotants":0},"RN":{"position":"pour","membres":88,"pour":21,"contre":0,"abstention":0,"nonVotants":0},"LFI-NUPES":{"position":"pour","membres":75,"pour":72,"contre":0,"abstention":0,"nonVotants":0},"LR":{"position":"pour","membres":62,"pour":2,"contre":0,"abstention":1,"nonVotants":0},"Dem":{"position":"contre","membres":51,"pour":0,"contre":24,"abstention":0,"nonVotants":0},"SOC":{"position":"pour","membres":31,"pour":11,"contre":0,"abstention":0,"nonVotants":0},"HOR":{"position":"contre","membres":30,"pour":0,"contre":3,"abstention":0,"nonVotants":1},"Ecolo-NUPES":{"position":"pour","membres":23,"pour":7,"contre":0,"abstention":0,"nonVotants":0},"GDR-NUPES":{"position":"pour","membres":22,"pour":6,"contre":0,"abstention":0,"nonVotants":0},"LIOT":{"position":"pour","membres":21,"pour":2,"contre":0,"abstention":0,"nonVotants":0},"NI":{"position":"abstention","membres":4,"pour":0,"contre":0,"abstention":1,"nonVotants":0}},"explications":{"LR":{"citations":["Nous sommes attachés à nos services publics et je pensais que la Macronie l'était tout autant. Je salue cette initiative de La France insoumise, que le groupe Les Républicains soutiendra, mais j'avoue avoir entendu avec stupéfaction M."],"statut":"auto","orateur":"Mme Anne-Laure Blin","date":"2023-11-30","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N070#3312641","video":null},"Dem":{"citations":["Plutôt qu'un retour en arrière, privilégions plutôt une vision généreuse, ambitieuse et optimiste pour nos concitoyens. Pour toutes les raisons que je viens d'évoquer, le groupe Démocrate ne votera pas ce texte."],"statut":"auto","orateur":"Mme Mathilde Desjonquères","date":"2023-11-30","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N069#3314105","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2023/11/hemi_20231130144504.smil/master.m3u8","debut":18603}},"SOC":{"citations":["La situation dans les préfectures est alarmante, si on se réfère au dernier rapport de la Cour des comptes. Nous voterons pour ce texte."],"statut":"auto","orateur":"M. Mickaël Bouloux","date":"2023-11-30","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N069#3314118","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2023/11/hemi_20231130144504.smil/master.m3u8","debut":18820}},"HOR":{"citations":["Nous regrettons donc que le groupe La France insoumise-NUPES propose un traitement indifférencié de toutes les situations. Le groupe Horizons et apparentés ne votera donc pas en faveur de cette proposition de loi."],"statut":"auto","orateur":"Mme Félicie Gérard","date":"2023-11-30","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N070#3312529","video":null},"Ecolo-NUPES":{"citations":["Ce doit être notre exigence. Aussi le groupe Écologiste-NUPES votera-t-il pour cette proposition de loi."],"statut":"auto","orateur":"Mme Marie Pochon","date":"2023-11-30","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N070#3312542","video":null},"GDR-NUPES":{"citations":["Nous voterons bien sûr pour cette proposition de loi et réaffirmons notre souhait de voir les langues majoritaires dans les territoires ultramarins davantage prises en considération dans l'accès aux services publics."],"statut":"auto","orateur":"M. Davy Rimane","date":"2023-11-30","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N070#3312553","video":null},"RE":{"citations":["Nous nous abstiendrons, ce qui ne signifie pas que nous reniions la politique que nous menons pour maintenir une présence dans les territoires, un accueil physique, sans négliger de développer le numérique ou d'autres outils qui facilitent l'accès aux services publics et garantissent les droits – je pense en particulier à la solidarité à la source."],"statut":"auto","orateur":"M. Guillaume Gouffier Valente","date":"2023-11-30","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N070#3312631","video":null},"RN":{"citations":["Je rendrai également hommage à tous les agents des maisons France Services, véritables couteaux suisses à qui l'on demande tout et toujours plus, alors qu'ils ont toujours aussi peu de moyens. C'est pourquoi le groupe Rassemblement national votera cette proposition de loi qui vise à réouvrir de véritables accueils physiques dans les services publics."],"statut":"auto","orateur":"Mme Géraldine Grangier","date":"2023-11-30","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N070#3312637","video":null}}},{"cle":"VTANR5L16V2983","numero":2983,"legislature":16,"congres":false,"motion":null,"lecture":"texte de la commission mixte paritaire","resume":"Proposition de loi relative aux services express régionaux métropolitains","statut":"auto","date":"2023-11-15","titre":"l'ensemble de la proposition de loi relative aux services express régionaux métropolitains (texte de la commission mixte paritaire).","resolution":false,"resultat":"adopté","decompte":{"votants":203,"pour":133,"contre":2,"abstention":68},"url":"https://www.assemblee-nationale.fr/dyn/16/scrutins/2983","groupes":{"RE":{"position":"pour","membres":170,"pour":71,"contre":0,"abstention":0,"nonVotants":0},"RN":{"position":"abstention","membres":88,"pour":0,"contre":1,"abstention":30,"nonVotants":0},"LFI-NUPES":{"position":"abstention","membres":75,"pour":0,"contre":0,"abstention":38,"nonVotants":0},"LR":{"position":"pour","membres":62,"pour":16,"contre":1,"abstention":0,"nonVotants":0},"Dem":{"position":"pour","membres":51,"pour":9,"contre":0,"abstention":0,"nonVotants":0},"SOC":{"position":"pour","membres":31,"pour":9,"contre":0,"abstention":0,"nonVotants":0},"HOR":{"position":"pour","membres":30,"pour":11,"contre":0,"abstention":0,"nonVotants":1},"Ecolo-NUPES":{"position":"pour","membres":23,"pour":7,"contre":0,"abstention":0,"nonVotants":0},"GDR-NUPES":{"position":"pour","membres":22,"pour":5,"contre":0,"abstention":0,"nonVotants":0},"LIOT":{"position":"pour","membres":21,"pour":5,"contre":0,"abstention":0,"nonVotants":0},"NI":{"position":null,"membres":4,"pour":0,"contre":0,"abstention":0,"nonVotants":0}},"explications":{"LIOT":{"citations":["Les députés du groupe LIOT voteront ce texte qui apporte de nouvelles garanties en matière de décentralisation et de désenclavement des territoires ruraux ; ils appellent toutefois à la création d'une conférence nationale des Serm avant le 30 juin prochain, afin que l'État revoie sa contribution et que de nouvelles pistes de financement soient envisagées."],"statut":"auto","orateur":"M. Guy Bricout","date":"2023-11-15","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N052#3292604","video":null},"LFI-NUPES":{"citations":["Le transport collectif, quant à lui, représente non seulement des économies pour nos concitoyens mais aussi des moyens pour nos investissements. Comme en première lecture, notre groupe s'abstiendra car des points de désaccord subsistent malgré les améliorations apportées par le Sénat."],"statut":"auto","orateur":"M. Sébastien Rome","date":"2023-11-15","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N052#3292435","video":null},"Dem":{"citations":["Vous l'aurez compris, le groupe Démocrate soutient la nécessité de faire entrer le train dans le quotidien des Français qui n'y ont actuellement pas accès. C'est pourquoi nous voterons en faveur de ce texte."],"statut":"auto","orateur":"Mme Aude Luquet","date":"2023-11-15","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N052#3292465","video":null},"SOC":{"citations":["C'est pourquoi, malgré plusieurs réserves, notamment sur les modalités de financement et la répartition des crédits engagés, les députés du groupe Socialistes et apparentés voteront en faveur de ce texte."],"statut":"auto","orateur":"M. Gérard Leseul","date":"2023-11-15","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N052#3292546","video":null},"HOR":{"citations":["Je sais que j'ai de nombreux alliés sur cette question. Nous soutiendrons donc la présente proposition de loi et la voterons."],"statut":"auto","orateur":"M. Vincent Thiébaut","date":"2023-11-15","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N052#3292563","video":null},"Ecolo-NUPES":{"citations":["Nous avons voté en faveur du texte en première lecture, malgré des insuffisances. Cette version améliorée du texte trouve donc un écho favorable au sein de notre groupe, qui la soutiendra."],"statut":"auto","orateur":"Mme Christine Arrighi","date":"2023-11-15","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N052#3292590","video":null},"GDR-NUPES":{"citations":["En somme, monsieur le ministre délégué, monsieur le rapporteur, peut-être notre groupe bloquera-t-il demain la route à d'autres de vos mesures, mais vous l'avez rencontré aujourd'hui sur le chemin de la construction. Nous voterons le texte."],"statut":"auto","orateur":"M. Hubert Wulfranc","date":"2023-11-15","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N052#3292688","video":null}}},{"cle":"VTANR5L16V1797","numero":1797,"legislature":16,"congres":false,"motion":null,"lecture":"première lecture","resume":"Proposition de loi visant à renforcer la continuité territoriale en Outre-Mer","statut":"auto","date":"2023-06-08","titre":"l'ensemble de la proposition de loi visant à renforcer la continuité territoriale en Outre-Mer (première lecture).","resolution":false,"resultat":"adopté","decompte":{"votants":178,"pour":178,"contre":0,"abstention":0},"url":"https://www.assemblee-nationale.fr/dyn/16/scrutins/1797","groupes":{"RE":{"position":"pour","membres":171,"pour":64,"contre":0,"abstention":0,"nonVotants":0},"RN":{"position":"pour","membres":88,"pour":15,"contre":0,"abstention":0,"nonVotants":0},"LFI-NUPES":{"position":"pour","membres":75,"pour":16,"contre":0,"abstention":0,"nonVotants":0},"LR":{"position":"pour","membres":62,"pour":5,"contre":0,"abstention":0,"nonVotants":0},"Dem":{"position":"pour","membres":51,"pour":20,"contre":0,"abstention":0,"nonVotants":0},"SOC":{"position":"pour","membres":31,"pour":11,"contre":0,"abstention":0,"nonVotants":0},"HOR":{"position":"pour","membres":29,"pour":13,"contre":0,"abstention":0,"nonVotants":1},"Ecolo-NUPES":{"position":"pour","membres":23,"pour":5,"contre":0,"abstention":0,"nonVotants":0},"GDR-NUPES":{"position":"pour","membres":22,"pour":8,"contre":0,"abstention":0,"nonVotants":0},"LIOT":{"position":"pour","membres":21,"pour":20,"contre":0,"abstention":0,"nonVotants":0},"NI":{"position":"pour","membres":4,"pour":1,"contre":0,"abstention":0,"nonVotants":0}},"explications":{"LIOT":{"citations":["Nous attendons avec beaucoup d'intérêt les amendements de nos collègues qui viendront enrichir la proposition de loi. Le groupe LIOT votera évidemment ce texte, qui constitue une avancée tangible pour nos territoires."],"statut":"auto","orateur":"M. Max Mathiasin","date":"2023-06-08","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N262#3147289","video":null},"RE":{"citations":["Soutenir le transport aérien, c'est d'abord faire en sorte qu'il y en ait un : le Gouvernement a débloqué 300 millions pour sauver deux compagnies aériennes – French Bee et Air Caraïbes. En conclusion, le groupe Renaissance votera ce texte, s'il n'est pas dénaturé, dans un geste fort de soutien à nos compatriotes d'outre-mer."],"statut":"auto","orateur":"M. David Valence","date":"2023-06-08","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N262#3148039","video":null},"Dem":{"citations":["Je veux espérer que, d'un côté à l'autre de l'Hémicycle, nous saurons faire preuve de l'écoute nécessaire pour comprendre que la France lointaine n'est pas moins importante que celle qui est proche de la tour Eiffel. Le groupe Démocrates, vous l'aurez compris, soutiendra la proposition de loi telle qu'issue des délibérations de la commission."],"statut":"auto","orateur":"M. Frantz Gumbs","date":"2023-06-08","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N262#3148193","video":null},"HOR":{"citations":["Par ailleurs, le groupe Horizons a fait adopter en commission un amendement tendant à renforcer la cohérence de la politique de continuité territoriale avec les outre-mer, ce dont nous nous félicitons. Compte tenu de ces avancées, notre groupe votera en faveur de la proposition de loi."],"statut":"auto","orateur":"M. Vincent Thiébaut","date":"2023-06-08","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N262#3148459","video":null},"Ecolo-NUPES":{"citations":["Il soutiendra également le cumul entre l'allocation journalière de présence parentale et la majoration de l'allocation d'éducation de l'enfant handicapé pour les parents résidant dans un territoire d'outre-mer."],"statut":"auto","orateur":"M. Hubert Julien-Laferrière","date":"2023-06-08","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N262#3148471","video":null},"GDR-NUPES":{"citations":["Ce texte va dans le bon sens, disais-je, puisqu'il vise à renforcer le principe de la continuité territoriale. Nous le voterons, en pensant à nos concitoyens des territoires ultramarins, qui l'attendent et l'appellent de leurs vœux."],"statut":"auto","orateur":"M. Marcellin Nadeau","date":"2023-06-08","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N262#3147251","video":null}}},{"cle":"VTANR5L16V924","numero":924,"legislature":16,"congres":false,"motion":null,"lecture":null,"resume":"Proposition de résolution tendant à la création d'une commission d'enquête sur le coût de la vie dans les collectivités territoriales régies par les articles 73 et 74 de la Constitution","statut":"auto","date":"2023-02-09","titre":"l'ensemble de la proposition de résolution tendant à la création d'une commission d'enquête sur le coût de la vie dans les collectivités territoriales régies par les articles 73 et 74 de la Constitution.","resolution":true,"resultat":"adopté","decompte":{"votants":263,"pour":263,"contre":0,"abstention":0},"url":"https://www.assemblee-nationale.fr/dyn/16/scrutins/924","groupes":{"RE":{"position":"pour","membres":170,"pour":71,"contre":0,"abstention":0,"nonVotants":0},"RN":{"position":"pour","membres":88,"pour":41,"contre":0,"abstention":0,"nonVotants":0},"LFI-NUPES":{"position":"pour","membres":74,"pour":43,"contre":0,"abstention":0,"nonVotants":0},"LR":{"position":"pour","membres":61,"pour":13,"contre":0,"abstention":0,"nonVotants":0},"Dem":{"position":"pour","membres":51,"pour":23,"contre":0,"abstention":0,"nonVotants":0},"SOC":{"position":"pour","membres":31,"pour":26,"contre":0,"abstention":0,"nonVotants":1},"HOR":{"position":"pour","membres":29,"pour":15,"contre":0,"abstention":0,"nonVotants":0},"GDR-NUPES":{"position":"pour","membres":22,"pour":14,"contre":0,"abstention":0,"nonVotants":0},"Ecolo-NUPES":{"position":"pour","membres":22,"pour":12,"contre":0,"abstention":0,"nonVotants":0},"LIOT":{"position":"pour","membres":20,"pour":4,"contre":0,"abstention":0,"nonVotants":0},"NI":{"position":"pour","membres":5,"pour":1,"contre":0,"abstention":0,"nonVotants":0}},"explications":{"SOC":{"citations":["Sa pertinence et son sérieux contribueront à libérer ces milliers de consommateurs qui, dans tous les territoires d'outre-mer, ne sont ni plus ni moins que les otages de groupes oligopolistiques qui pressurent leur pouvoir d'achat et plongent l'ensemble des outre-mer dans la grande précarité. C'est la raison pour laquelle le groupe Socialistes et apparentés, au grand complet et avec motivation, votera cette proposition de résolution."],"statut":"auto","orateur":"M. Elie Califer","date":"2023-02-09","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N138#3005242","video":null},"GDR-NUPES":{"citations":["La création d'une commission d'enquête chargée d'étudier et d'évaluer l'ensemble des mécanismes qui concourent au coût de la vie dans les départements et régions d'outre-mer est une nécessité. Nous voterons en faveur de ce texte."],"statut":"auto","orateur":"Mme Karine Lebon","date":"2023-02-09","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N138#3006491","video":null},"LIOT":{"citations":["Une telle initiative ne viserait nullement à supplanter le BQP, mais à lutter contre la vie chère en permettant aux petits commerçants de se concentrer sur des produits aux prix très compétitifs. Nous voterons bien évidemment des deux mains en faveur de cette proposition de résolution."],"statut":"auto","orateur":"Mme Nathalie Bassire","date":"2023-02-09","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N138#3006496","video":null},"RE":{"citations":["Sans surprise, le groupe Renaissance votera en faveur de cette proposition de résolution."],"statut":"auto","orateur":"M. Guillaume Vuilletet","date":"2023-02-09","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N138#3006501","video":null},"RN":{"citations":["Ainsi, dans l'espoir d'un débat fructueux sur la revalorisation des collectivités ultramarines, le groupe Rassemblement national votera cette proposition de résolution."],"statut":"auto","orateur":"Mme Hélène Laporte","date":"2023-02-09","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N138#3006130","video":null},"LFI-NUPES":{"citations":["Alors je vous le demande très simplement : votez pour cette proposition de résolution et aidez-nous dans notre combat quotidien contre la vie chère dans ces territoires. Le groupe La France insoumise-NUPES votera en faveur de ce texte."],"statut":"auto","orateur":"M. Perceval Gaillard","date":"2023-02-09","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N138#3006503","video":null},"LR":{"citations":["Nous voterons donc sans réserve en faveur de cette proposition de résolution, avec l'espoir, d'une part, que la commission d'enquête ira jusqu'au bout de ses investigations, afin de formuler ensuite des propositions, et, d'autre part, que nous nous retrouverons tous pour apporter des solutions efficaces et pérennes aux difficultés de nos concitoyens ultramarins."],"statut":"auto","orateur":"M. Mansour Kamardine","date":"2023-02-09","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N138#3006233","video":null},"Dem":{"citations":["Notre groupe, à l'instar de la majorité dans son ensemble, votera en faveur de cette proposition de résolution, comme le lui dicte sa conscience et dans un esprit de responsabilité."],"statut":"auto","orateur":"Mme Maud Petit","date":"2023-02-09","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N138#3006507","video":null}}}],"videoIntegree":false});</script>
+</body>
+</html>

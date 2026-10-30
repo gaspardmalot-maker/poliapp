@@ -1,0 +1,622 @@
+{
+  "sujet": "ecologie-energie",
+  "auto": true,
+  "note": "Pré-sélection automatique (scripts/brouillon.mjs). Passer « statut » à « valide » après relecture : l’entrée ne sera plus modifiée.",
+  "scrutins": [
+    {
+      "id": "VTANR5L17V7494",
+      "resume": "Proposition de loi visant à réduire l’impact environnemental de l’industrie textile",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "LFI-NFP": {
+          "ancre": "4130092",
+          "citations": [
+            "Je n'essaie même pas de vous convaincre et nous avons tous hâte de tourner la page. Comme d'habitude, vous êtes décevants et nous nous abstiendrons sur ce texte !"
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4130117",
+          "citations": [
+            "Nous déplorons une nouvelle occasion manquée d'avancer de manière concrète et efficace vers une industrie textile vertueuse, socialement et environnementalement responsable. C'est la raison pour laquelle le groupe Socialistes et apparentés s'abstiendra sur ce texte."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4130127",
+          "citations": [
+            "Mon groupe le votera pour dire à toutes les Simone de France : Oui, nous croyons en vous, et pour que Roanne et la France redeviennent ce qu'elles ont toujours été, une cathédrale du travail, où les cheminées crachent à nouveau la fierté ouvrière."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4130141",
+          "citations": [
+            "Considérant les timides avancées d'un texte qui bénéficie d'un soutien transpartisan, la volonté de ne cibler que l' ultrafast fashion et la déception, en fin de compte, de celles et ceux qui ont travaillé sur le sujet, le groupe Écologiste et social s'abstiendra."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4130360",
+          "citations": [
+            "Pour toutes ces raisons, nous voterons en faveur de l'amendement proposé par le gouvernement et pour l'ensemble de cette proposition de loi, conforme au droit européen."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "4130367",
+          "citations": [
+            "Je sais qu'Anne-Cécile Violland, avec sa ténacité et sa pugnacité, continuera de mener ce combat. Pour toutes ces raisons, le groupe Horizons & indépendants soutiendra ce texte et appelle l'ensemble des groupes à faire de même."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4130375",
+          "citations": [
+            "Face à Shein, qui propose plus de 7 200 nouveaux modèles par jour, 900 fois plus qu'une enseigne française traditionnelle, et dont le chiffre d'affaires a progressé de 900 % en trois ans, nous devons réagir. Le groupe LIOT votera résolument pour ce texte."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4130395",
+          "citations": [
+            "Ne perdons pas de vue non plus que plusieurs dispositions restent fragiles, comme l'interdiction de publicité – la rapporteure du Sénat a d'ailleurs exprimé publiquement des réserves sur l'article 3. Néanmoins, le groupe UDR votera ce texte pour protéger notre industrie, nos emplois et notre environnement."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "4130402",
+          "citations": [
+            "Parce qu'il cible les dérives de l' ultrafast fashion sans pénaliser les acteurs économiques présents sur le territoire, le groupe Rassemblement national votera ce texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V7409",
+      "resume": "Proposition de loi visant à relancer les investissements dans le secteur de l'hydroélectricité pour contribuer à la transition énergétique",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "RN": {
+          "ancre": "4124502",
+          "citations": [
+            "Parce que la souveraineté énergétique n'est pas négociable, parce que nos capacités hydroélectriques doivent rester pleinement sous maîtrise nationale, parce que l'article 12 franchit une ligne rouge que nous refusons de cautionner, le groupe Rassemblement national s'abstiendra sur ce texte."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "4124512",
+          "citations": [
+            "Pour toutes ces raisons, le groupe Ensemble pour la République votera avec conviction en faveur de cette proposition de loi si attendue dans nos territoires."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4124686",
+          "citations": [
+            "Le statu quo ou la mise en concurrence ne sont pas des options possibles. Les députés Socialistes et apparentés voteront donc en faveur de la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4124694",
+          "citations": [
+            "Parce que ce texte est nécessaire, parce qu'il est solide juridiquement, la Droite républicaine votera en faveur des conclusions de la commission mixte paritaire."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "4125166",
+          "citations": [
+            "En sécurisant juridiquement l'exploitation des ouvrages, ce texte redonne de la visibilité à la filière et crée les conditions pour relancer les investissements, au bénéfice de la transition énergétique, de l'emploi et de nos territoires. Pour toutes ces raisons, le groupe Horizons & indépendants votera résolument en faveur du texte."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4124431",
+          "citations": [
+            "C'est un enjeu crucial, en particulier pour les territoires ultramarins, où le potentiel de production d'énergies renouvelables est élevé et où la sécurité du système électrique suppose des capacités de stockage adaptées. Pour toutes ces raisons, je le redis, nous voterons en faveur du texte."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "4124437",
+          "citations": [
+            "La seule véritable avancée est bien le maintien de la propriété publique des installations. C'est déjà beaucoup, me direz-vous, et c'est pourquoi nous voterons en faveur du texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V2653",
+      "resume": "Proposition de loi portant programmation nationale pour l'énergie et le climat pour les années 2025 à 2035",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "GDR": {
+          "ancre": "3809476",
+          "citations": [
+            "L'urgence climatique nous presse pourtant d'agir avec détermination et cohérence, sans nous réfugier dans des postures ni croire que l'on pourra régler les problèmes au fil de l'eau, dans l'improvisation permanente et sans moyens à la hauteur. Pour toutes ces raisons, les députés du groupe GDR ne voteront pas le texte."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3809487",
+          "citations": [
+            "que nous avons voté pour le maintien d'une capacité production d'énergie nucléaire de 63 gigawatts, pour une capacité supplémentaire de 27 gigawatts, pour la reconnaissance de la dimension stratégique du nucléaire pour le pays, pour l'arrêt des constructions d'éoliennes. Pour l'ensemble de ces raisons, le groupe UDR votera la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3809601",
+          "citations": [
+            "La gauche votera donc, par idéologie, contre le tarif régulé et populaire du gaz, contre le service public d'EDF et surtout contre la sortie des règles européennes libérales de l'énergie."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3794607",
+          "citations": [
+            "Nous soutiendrons aussi certaines propositions en faveur du froid renouvelable ou de la production de chaleur issue de combustibles solides de récupération ; ce sont peut-être là des sujets techniques, mais non de petits sujets !"
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3809673",
+          "citations": [
+            "Nous avions besoin d'un texte ambitieux, écologique et sérieux, et d'une stratégie claire pour répondre aux défis qui sont devant nous. Ce texte est une occasion ratée ; les députés socialistes et apparentés voteront donc résolument contre."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3809690",
+          "citations": [
+            "En responsabilité, notre groupe se prononcera à l'issue de la navette parlementaire afin de doter le pays d'une loi de programmation ambitieuse, respectueuse du pouvoir d'achat de nos concitoyens et résolument tournée vers une France souveraine et bas-carbone."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3810241",
+          "citations": [
+            "Aller jusqu'au bout de ce chemin législatif est une question de cohérence et de respect de la démocratie. Vous l'avez compris : les députés du groupe Les Démocrates ne voteront pas ce texte."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3810254",
+          "citations": [
+            "Pour toutes ces raisons, le groupe Horizons & indépendants votera contre cette proposition de loi, dans sa version actuelle ; non par posture, mais au nom d'une exigence scientifique et économique – une exigence de crédibilité, aussi, face aux enjeux qui nous attendent."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3810268",
+          "citations": [
+            "Sans cibler personne, comment ne pas s'étonner, enfin, que nous attachions plus d'importance à la longueur des prises de parole qu'à la loi du nombre, qui prévaut pourtant dans toutes les assemblées délibérantes ? Les députés du groupe LIOT voteront contre ce texte, en l'état."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V2460",
+      "resume": "Projet de loi autorisant la ratification de la résolution LP.3(4) portant amendement de l’article 6 du Protocole de Londres de 1996 à la Convention de 1972 sur la prévention de la pollution des mers résultant de l’immersion de déchets et autres matières",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "LFI-NFP": {
+          "ancre": "3799307",
+          "citations": [
+            "Le meilleur moyen d'atteindre nos objectifs climatiques n'est pas de séquestrer le carbone, mais de ne plus en produire. Le groupe La France insoumise votera donc contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3799459",
+          "citations": [
+            "Douze pays ont ratifié l'amendement de 2009, pays que la France souhaite rejoindre pour renforcer sa position dans la lutte contre le réchauffement climatique : c'est pourquoi le groupe Droite républicaine votera pour ce projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "3799471",
+          "citations": [
+            "Si nous sommes encore ici en cette fin de journée, c'est parce qu'un gouvernement obstiné veut nous forcer la main sur un texte que cette assemblée a rejeté à juste titre. Permettez-moi, au nom du groupe Écologiste et social, de redire avec fermeté que nous voterons contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3798586",
+          "citations": [
+            "Des secteurs entiers – chimie, ciment, chaux, aluminium – seraient fragilisés ; sans alternative technologique, ils seraient incapables de se décarboner. Pour toutes ces raisons, je le répète, le groupe Les Démocrates votera pour ce projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3798610",
+          "citations": [
+            "À l'évocation de toutes ces restrictions, vous comprendrez que ce qui nous est proposé ici ne suscite pas un enthousiasme particulier au sein du groupe LIOT. La majorité de ses membres votera contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3798731",
+          "citations": [
+            "Nous voterons donc évidemment en faveur de ce projet de loi, mais nous espérons que les choses n'en resteront pas là et que d'autres solutions très différentes de celles proposées aujourd'hui seront développées à l'avenir."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V3990",
+      "resume": "Proposition de résolution visant à adapter et mutualiser nos politiques publiques au changement climatique, notamment à destination des villes côtières et insulaires (art. 34-1 de la Constitution)",
+      "statut": "auto",
+      "explications": {
+        "LIOT": {
+          "ancre": "3485400",
+          "citations": [
+            "À plus long terme, nous considérons qu'il est légitime de préparer une stratégie nationale pour les déplacements de populations victimes des effets des changements climatiques, dont la montée des eaux et la perte de biodiversité. Le groupe Libertés, indépendants, outre-mer et territoires soutiendra la proposition de résolution, car mieux vaut prévenir que guérir."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3485761",
+          "citations": [
+            "Parce qu'après cinquante ans, nous ne nous y résignons toujours pas, le groupe Écologiste votera bien évidemment en faveur de cette résolution, et nous invitons le gouvernement à s'en saisir dans les plus brefs délais."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "3485775",
+          "citations": [
+            "Parce que votre proposition de résolution est utile aux travaux que nous menons, et nous encourage à poursuivre ceux que nous avons engagés, nous la soutiendrons."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3485786",
+          "citations": [
+            "Ce n'est pas une sobriété de façade qui nous condamne à la régression, mais bien l'inaction. Pour toutes ces raisons, le groupe Rassemblement national votera en faveur de la proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "3485825",
+          "citations": [
+            "C'est avec force, fierté, conviction et détermination que le groupe LFI-NUPES votera ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3485912",
+          "citations": [
+            "Pour toutes ces raisons, chers collègues, notamment du groupe GDR, nous voterons la proposition de résolution, en espérant que le Gouvernement l'appliquera rapidement."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3486175",
+          "citations": [
+            "Nous soutenons le travail engagé par le ministère et nous partageons le souhait d'intégrer encore mieux l'adaptation au changement climatique dans nos politiques publiques. Le groupe Horizons et apparentés votera donc en faveur de la présente proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3486184",
+          "citations": [
+            "Par conséquent, le groupe Socialistes et apparentés votera pour cette proposition de résolution, afin d'affirmer son engagement à agir face à l'urgence climatique."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V3662",
+      "resume": "Projet de loi relatif à l’organisation de la gouvernance de la sûreté nucléaire et de la radioprotection pour répondre au défi de la relance de la filière nucléaire (texte de la commission paritaire)",
+      "statut": "auto"
+    },
+    {
+      "id": "VTANR5L16V3546",
+      "resume": "Projet de loi relatif à l'organisation de la gouvernance de la sûreté nucléaire et de la radioprotection pour répondre au défi de la relance de la filière nucléaire",
+      "lecture": "première lecture",
+      "statut": "auto"
+    },
+    {
+      "id": "VTANR5L16V1533",
+      "resume": "Projet de loi relatif à l'accélération des procédures liées à la construction de nouvelles installations nucléaires à proximité de sites nucléaires existants et au fonctionnement des installations existantes",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "Ecolo-NUPES": {
+          "ancre": "3114735",
+          "citations": [
+            "Les Écologistes voteront donc avec force cette motion de rejet."
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "3114747",
+          "citations": [
+            "Nous voterons contre la motion de rejet car nous considérons que ce texte nous donne les moyens de recouvrer de la souveraineté sur les plans industriel et énergétique."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "3114857",
+          "citations": [
+            "Nous voterons contre car nous devons accélérer les procédures de construction de nouveaux réacteurs qui permettront l'électrification des usages et la décarbonation de notre mix énergétique."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3114864",
+          "citations": [
+            "Sachez que nous aurons une attitude responsable et ambitieuse concernant ce projet de loi : nous le voterons car il doit garantir l'approvisionnement en électricité des Français, de nos entreprises et de nos services publics, réaffirmer l'excellence industrielle française, relancer la recherche et le développement. Le groupe Rassemblement national votera donc contre cette motion de rejet outrancière."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3114440",
+          "citations": [
+            "Le groupe Les Républicains votera les conclusions de cette CMP, en se réjouissant que la plupart de nos apports, à l'Assemblée nationale et au Sénat, aient été maintenus."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3115062",
+          "citations": [
+            "Avec la loi relative à l'accélération de la production d'énergies renouvelables, le présent texte nous permet de nous diriger vers un modèle de mix énergétique français pérenne et d'atteindre nos objectifs de neutralité carbone en 2050. Pour ces multiples raisons, le groupe Démocrate votera, bien entendu, en sa faveur – et je vous invite, mes chers collègues, à en faire autant."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3114903",
+          "citations": [
+            "Soucieux de ne renoncer à aucune option et de conserver toutes les marges de manœuvre nécessaires à l'élaboration du prochain projet de loi sur l'énergie et le climat, le groupe Socialistes et apparentés s'abstiendra sur ce texte."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3114373",
+          "citations": [
+            "Ce pack législatif permet de mobiliser l'ensemble des sources d'énergies bas-carbone afin d'atteindre l'objectif de neutralité que nous nous sommes collectivement fixé. Le groupe Horizons et apparentés votera donc ce texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V1243",
+      "resume": "Projet de loi relatif à l’accélération des procédures liées à la construction de nouvelles installations nucléaires à proximité de sites nucléaires existants et au fonctionnement des installations existantes",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "SOC": {
+          "ancre": "3058129",
+          "citations": [
+            "Notre groupe votera donc contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3058142",
+          "citations": [
+            "Ce paquet législatif permet de mobiliser l'ensemble des différentes sources d'énergie bas-carbone afin d'atteindre l'objectif de neutralité que nous nous sommes collectivement fixé. Le groupe Horizons et apparentés votera donc ce texte."
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "3058285",
+          "citations": [
+            "Voilà l'état d'esprit qui nous a conduits à considérer que ce projet de loi technique pouvait, au bout du compte, être appréhendé positivement par le groupe GDR, sans chèque en blanc, en conservant un haut niveau d'exigence et la volonté ardente que le texte ne soit pas dénaturé lors de sa seconde lecture au Sénat. Sous ces conditions et avec ces garanties, le groupe GDR, dans une large majorité, votera le projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3058294",
+          "citations": [
+            "Notre groupe votera très largement en faveur de ce texte technique même si, en pointillé, la disparition des objectifs globaux nous laisse à penser que dans le flou, il y a peut-être un loup."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "3058429",
+          "citations": [
+            "Après plusieurs jours en séance, nous parvenons au terme de la première lecture du projet de loi relatif à l'accélération des procédures liées à la construction de nouvelles centrales nucléaires à proximité de sites nucléaires existants et au fonctionnement des installations existantes. D'ores et déjà, je vous annonce que le groupe Renaissance votera ce projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3058448",
+          "citations": [
+            "Même le Giec, que vous aimez tant citer, a affirmé, dès 2018, que, pour atteindre l'objectif de 1,5 degré maximum de réchauffement climatique, il fallait une amplification notable de la production d'énergie d'origine nucléaire, de 100 % à 500 % d'ici à 2050. Dans ce contexte, le groupe Rassemblement national votera le projet de loi…"
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "3044719",
+          "citations": [
+            "Nous affirmons au contraire qu'il est urgent de planifier démocratiquement une sortie raisonnée et maîtrisée du nucléaire, pensée avec les salariés. Pour l'ensemble de ces raisons, nous voterons contre le projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3058679",
+          "citations": [
+            "Mais nous revenons de si loin que nous ne raterons pas ce rendez-vous : nous voterons pour le projet de loi relatif à l'accélération des procédures liées à la construction de nouvelles installations nucléaires."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3058697",
+          "citations": [
+            "Il s'agit de lancer le chantier industriel de ce siècle ; pour cela, il est nécessaire d'avoir un cap, une vision et une détermination clairs. Le groupe Démocrate, qui s'y est engagé, votera bien entendu pour le projet de loi."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V1156",
+      "resume": "Motion de rejet préalable, déposée par M. Boris Vallaud, du projet de loi relatif à l'accélération des procédures lièes à la construction de nouvelles installations nucléaires à proximité de sites nucléaires existants et au fonctionnement des installations existantes",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "LIOT": {
+          "ancre": "3044631",
+          "citations": [
+            "Comme d'autres députés, nous soutiendrons des amendements de suppression de cette mesure."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "3044719",
+          "citations": [
+            "Nous affirmons au contraire qu'il est urgent de planifier démocratiquement une sortie raisonnée et maîtrisée du nucléaire, pensée avec les salariés. Pour l'ensemble de ces raisons, nous voterons contre le projet de loi."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V897",
+      "resume": "Projet de loi relatif à l'accélération de la production d'énergies renouvelables",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "GDR-NUPES": {
+          "ancre": "2975915",
+          "citations": [
+            "Toutes ces raisons – et bien d'autres, que j'aurais pu développer si le temps me l'avait permis – conduiront le groupe GDR-NUPES à refuser de vous donner un blanc-seing, en ce mardi 10 janvier où, après deux crises majeures, vous déclarez la guerre sociale aux Français avec votre réforme des retraites. Nous voterons donc contre votre mauvais projet."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "2975933",
+          "citations": [
+            "Une planification, telle qu'elle est prévue par ce texte, est préférable à la loi de la jungle qui prévaut aujourd'hui dans certains territoires. Aussi une partie des députés du groupe LIOT s'abstiendra-t-elle tandis qu'une majorité votera en faveur du projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "2976148",
+          "citations": [
+            "Fier de ce texte et du travail accompli par notre assemblée, fier de défendre le développement des énergies renouvelables, le groupe Renaissance votera donc pour ce projet de loi qui permettra à la France de se doter d'un outil supplémentaire pour assurer sa souveraineté énergétique."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "2996313",
+          "citations": [
+            "C'est pourquoi, chers collègues, nous voterons contre ce texte et appelons une dernière fois les députés courageux de cet hémicycle, s'il y en a, à faire de même."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "2976178",
+          "citations": [
+            "Nous espérons sincèrement que le projet de loi évoluera dans le bon sens lors de son examen en commission mixte paritaire mais, en l'état, le groupe LFI-NUPES votera contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "2996344",
+          "citations": [
+            "Face à la hausse des factures, ils attendent bien autre chose que des ministres adeptes du brassage de vent. C'est pourquoi le groupe Les Républicains votera contre le projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "2976119",
+          "citations": [
+            "Et c'est avec beaucoup de fierté que le groupe Démocrate le votera, madame la ministre. Si Les Républicains et le Rassemblement national voteront contre par dogmatisme anti-éolien"
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "2976136",
+          "citations": [
+            "Enfin, nous avons obtenu la reconnaissance d'une méthanisation à 100 % d'effluents agricoles, dont le régime tarifaire et fiscal sera fixé par une loi de finances. Notre groupe votera donc pour ce projet de loi,…"
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "2975413",
+          "citations": [
+            "Nous devons prévoir l'avenir dès maintenant ! Pour l'ensemble de ces raisons, le groupe Horizons et apparentés votera largement en faveur de ce projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "2996706",
+          "citations": [
+            "Encore une fois, nous ne voulons pas voter contre : introduire une planification, une définition de l'agrivoltaïsme et des mesures concernant la solarisation – quelle qu'en soit la teneur – vaut mieux que rien du tout. Parce que la CMP n'a pas permis de revenir sur nos points de désaccord, nous maintenons notre vote initial : nous nous abstiendrons."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V823",
+      "resume": "Projet de loi relatif à l'accélération de la production d'énergies renouvelables",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "GDR-NUPES": {
+          "ancre": "2975915",
+          "citations": [
+            "Toutes ces raisons – et bien d'autres, que j'aurais pu développer si le temps me l'avait permis – conduiront le groupe GDR-NUPES à refuser de vous donner un blanc-seing, en ce mardi 10 janvier où, après deux crises majeures, vous déclarez la guerre sociale aux Français avec votre réforme des retraites. Nous voterons donc contre votre mauvais projet."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "2975933",
+          "citations": [
+            "Une planification, telle qu'elle est prévue par ce texte, est préférable à la loi de la jungle qui prévaut aujourd'hui dans certains territoires. Aussi une partie des députés du groupe LIOT s'abstiendra-t-elle tandis qu'une majorité votera en faveur du projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "2976148",
+          "citations": [
+            "Fier de ce texte et du travail accompli par notre assemblée, fier de défendre le développement des énergies renouvelables, le groupe Renaissance votera donc pour ce projet de loi qui permettra à la France de se doter d'un outil supplémentaire pour assurer sa souveraineté énergétique."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "2976178",
+          "citations": [
+            "Nous espérons sincèrement que le projet de loi évoluera dans le bon sens lors de son examen en commission mixte paritaire mais, en l'état, le groupe LFI-NUPES votera contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "2976119",
+          "citations": [
+            "Et c'est avec beaucoup de fierté que le groupe Démocrate le votera, madame la ministre. Si Les Républicains et le Rassemblement national voteront contre par dogmatisme anti-éolien"
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "2976136",
+          "citations": [
+            "Enfin, nous avons obtenu la reconnaissance d'une méthanisation à 100 % d'effluents agricoles, dont le régime tarifaire et fiscal sera fixé par une loi de finances. Notre groupe votera donc pour ce projet de loi,…"
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "2975413",
+          "citations": [
+            "Nous devons prévoir l'avenir dès maintenant ! Pour l'ensemble de ces raisons, le groupe Horizons et apparentés votera largement en faveur de ce projet de loi."
+          ],
+          "statut": "auto"
+        }
+      }
+    }
+  ]
+}

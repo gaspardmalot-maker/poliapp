@@ -1,0 +1,31 @@
+{
+  "_note": "Ajustements manuels de la pré-sélection automatique (scripts/brouillon.mjs). « ajouter » force un scrutin que les mots-clés ne trouvent pas (ex. motions de censure) ; « exclure » écarte un scrutin (id) ou tout intitulé contenant le texte donné (au moins 13 caractères).",
+  "pouvoir-achat": { "exclure": ["VTANR5L17V959"] },
+  "retraites": {
+    "ajouter": ["VTANR5L16V1240", "VTANR5L16V1241", "VTANR5L16V908"],
+    "exclure": ["VTANR5L16V3490"]
+  },
+  "sante": { "exclure": ["VTANR5L16V1098", "VTANR5L16V225"] },
+  "logement": { "exclure": ["VTANR5L17V8434"] },
+  "immigration": {
+    "ajouter": ["VTANR5L16V3203", "VTANR5L16V3212", "VTANR5L16V3213"],
+    "exclure": ["VTANR5L17V6753"]
+  },
+  "securite-justice": { "exclure": ["sécurité sociale", "VTANR5L16V908"] },
+  "education": { "exclure": ["VTANR5L16V1462"] },
+  "travail-emploi": { "exclure": ["VTANR5L17V7408", "VTANR5L16V654"] },
+  "budget-fiscalite": { "ajouter": ["VTANR5L17V519"] },
+  "institutions": {
+    "ajouter": ["VTANR5L17V519", "VTANR5L16V1240"],
+    "exclure": ["VTANR5L17V3260", "VTANR5L16V652", "VTANR5L16V3663", "VTANR5L16V3547", "interruption volontaire de grossesse"]
+  },
+  "europe-international": { "exclure": ["VTANR5L17V2460", "VTANR5L17V2459"] },
+  "defense": { "exclure": ["VTANR5L17V7987", "VTANR5L17V1724", "VTANR5L17V1234"] },
+  "numerique": { "exclure": ["VTANR5L16V182"] },
+  "handicap-autonomie": { "exclure": ["VTANR5L17V4706", "VTANR5L17V4699"] },
+  "enfance-famille": { "exclure": ["VTANR5L17V4244"] },
+  "transports": { "exclure": ["adaptation au droit de l'union"] },
+  "culture-medias": { "exclure": ["VTANR5L17V8434", "VTANR5L17V881"] },
+  "discriminations": { "exclure": ["VTANR5L16V2075", "VTANR5L16V1108"] },
+  "territoires": { "exclure": ["VTANR5L17V2976", "VTANR5L17V2875", "VTANR5L16V188"] }
+}

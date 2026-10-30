@@ -1,0 +1,17 @@
+{
+  "name": "poliapp",
+  "private": true,
+  "type": "module",
+  "description": "Comparer votes à l'Assemblée et programmes des partis, sujet par sujet, toujours sourcé.",
+  "scripts": {
+    "votes": "node scripts/fetch-an.mjs && node scripts/pretri.mjs",
+    "maquette": "node scripts/maquette.mjs",
+    "programmes:extraire": "node scripts/programmes.mjs extraire",
+    "programmes:pretri": "node scripts/programmes.mjs pretri",
+    "programmes:verifier": "node scripts/programmes.mjs verifier"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.11.2",
+    "unpdf": "^1.9.1"
+  }
+}

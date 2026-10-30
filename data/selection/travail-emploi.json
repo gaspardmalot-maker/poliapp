@@ -1,0 +1,551 @@
+{
+  "sujet": "travail-emploi",
+  "auto": true,
+  "note": "Pré-sélection automatique (scripts/brouillon.mjs). Passer « statut » à « valide » après relecture : l’entrée ne sera plus modifiée.",
+  "scrutins": [
+    {
+      "id": "VTANR5L17V8610",
+      "resume": "Proposition de résolution visant à mobiliser la commande publique au service de l'emploi, de la production et de l'innovation en France (article 34-1 de la Constitution)",
+      "statut": "auto",
+      "explications": {
+        "EPR": {
+          "ancre": "4178158",
+          "citations": [
+            "Nos entreprises méritent mieux qu'une opération de communication. C'est pourquoi nous voterons contre cette proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "4177990",
+          "citations": [
+            "Vous y trouverez une mesure de refonte contraignante de la commande publique, intégrant des critères de localisation et de nationalité, mais également des critères sociaux et des critères écologiques. En attendant, nous ne participerons pas à votre grande duperie et nous voterons contre ce texte en carton."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4178162",
+          "citations": [
+            "Ce travail est en cours : un projet de réforme des règles européennes a été présenté pas plus tard que le mois dernier. Pour toutes ces raisons, nous voterons contre cette résolution."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4177333",
+          "citations": [
+            "Mais en l'absence de moyens pour l'atteindre, c'est, comme le disait un collègue, comme chanter « le feu, ça brûle et l'eau, ça mouille » ! Nous la voterons néanmoins – pas simplement sur la forme, mais parce que nous partageons son objectif."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4177373",
+          "citations": [
+            "Ne désarmons pas notre pays par un repli illusoire et dangereux. Pour défendre nos entreprises, nos collectivités et notre industrie au bon échelon, le groupe Les Démocrates votera contre cette proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "4178305",
+          "citations": [
+            "Comme l'a dit Thomas Lam, nous ne voterons pas ce texte."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "4178153",
+          "citations": [
+            "Ce n'est pas surprenant de votre part. Par conséquent, nous ne vous surprendrons pas non plus : nous voterons contre votre proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4177787",
+          "citations": [
+            "De même que la commande publique doit en priorité alimenter les entreprises françaises, les subventions de l'État doivent en priorité alimenter les industries françaises. En conséquence, nous voterons pour cette disposition."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V7260",
+      "resume": "Projet de loi portant transposition de l'avenant n° 3 du 25 février 2026 au protocole d'accord du 10 novembre 2023 relatif à l'assurance chômage",
+      "lecture": "deuxième lecture",
+      "statut": "auto",
+      "explications": {
+        "SOC": {
+          "ancre": "4113128",
+          "citations": [
+            "Il n'y a pas d'ambiguïté sur ce point : nous continuons de contester une logique qui fragilise celles et ceux qui subissent déjà la précarité et qui, trop souvent, considère les demandeurs d'emploi comme un coût. Nous nous abstiendrons car nous respectons la démocratie sociale, ce qui est sûrement une différence fondamentale entre nous."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4113271",
+          "citations": [
+            "Ce projet de loi apporte une réponse équilibrée, responsable et pragmatique : il respecte le dialogue social, préserve un outil utile aux entreprises comme aux salariés et participe au redressement de nos finances sociales. Pour toutes ces raisons, le groupe Droite républicaine votera en sa faveur."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4100247",
+          "citations": [
+            "Une autre politique est possible. C'est pourquoi le groupe Écologiste et social votera contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4113305",
+          "citations": [
+            "Le groupe Les Démocrates votera pour ce texte, parce qu'il est le fruit du dialogue social, qu'il est économiquement nécessaire et qu'il faut assumer de mener des réformes utiles même si elles sont difficiles."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "4113315",
+          "citations": [
+            "Nous partageons pleinement l'ambition de ce texte d'assurer la soutenabilité financière du régime d'assurance chômage, l'équité entre les assurés et l'efficacité en matière de retour à l'emploi. Le groupe Horizons & indépendants votera donc en sa faveur."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4113538",
+          "citations": [
+            "Parce qu'il recherche un juste équilibre entre responsabilité budgétaire, incitation au retour à l'emploi et respect du dialogue social, le groupe LIOT votera très largement en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4113558",
+          "citations": [
+            "Ce consensus justifie que le Parlement ne l'ait pas fragilisé par des modifications qui auraient remis en cause l'équilibre global de l'accord. Le groupe UDR votera en faveur du projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "4113562",
+          "citations": [
+            "Parce qu'ils sont attachés à la démocratie sociale et à la négociation entre organisations patronales et organisations syndicales, les députés du groupe Rassemblement national – le plus important de l'Assemblée nationale – voteront en faveur de cette réforme."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "4112700",
+          "citations": [
+            "Vous l'aurez compris, nous sommes largement favorables au dialogue social et à l'accord qui en a résulté. En conséquence, nous voterons en faveur du projet de loi."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V6133",
+      "resume": "Motion de rejet préalable, déposée par Mme Dubré-Chirat, de la proposition de loi visant à permettre aux salariés de certains établissements et services de travailler le 1er mai",
+      "lecture": "première lecture",
+      "statut": "auto"
+    },
+    {
+      "id": "VTANR5L17V3055",
+      "resume": "Projet de loi portant transposition des accords nationaux interprofessionnels en faveur de l'emploi des salariés expérimentés et relatif à l'évolution du dialogue social",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "DR": {
+          "ancre": "3848950",
+          "citations": [
+            "Les députés du groupe Droite républicaine continueront à œuvrer en ce sens, car c'est ce que les Français attendent de leurs représentants. Nous voterons bien entendu en faveur du projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3848960",
+          "citations": [
+            "Ce changement culturel n'aura pas lieu sans un recours massif à la formation professionnelle continue pour les salariés en poste, en particulier les managers. En conclusion, le groupe Socialistes et apparentés votera pour les conclusions de la commission mixte paritaire."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3849382",
+          "citations": [
+            "Vous l'aurez compris, le groupe Les Démocrates, fidèle à sa vision d'un progrès juste et d'une société fondée sur la responsabilité, soutiendra avec conviction ce projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3849391",
+          "citations": [
+            "J'ai une pensée pour elle alors que nous concluons ces travaux ; vous avez compris qu'un bout du chemin reste à parcourir et que nous comptons sur vous. C'est donc avec conviction que le groupe Horizons & indépendants votera la rédaction issue des travaux de la commission mixte paritaire."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "3849399",
+          "citations": [
+            "Plus largement, c'est un plan d'investissement dans la prévention dont nous avons besoin. La marche qui reste à franchir est haute ; c'est pourquoi nous nous abstiendrons."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3849633",
+          "citations": [
+            "Nous soutiendrons donc les conclusions de la commission mixte paritaire, parce qu'elles respectent le dialogue social et qu'elles préservent l'équilibre des accords signés."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3849644",
+          "citations": [
+            "Le Rassemblement national votera pour ce texte mais nous n'oublions pas, et les Français non plus, qui les a trahis aujourd'hui et qui les trahira demain lors du vote de la motion de censure."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3849670",
+          "citations": [
+            "Le groupe Ensemble pour la République votera en faveur de ce texte qui incarne notre conception du progrès, celle du dialogue, de la responsabilité et du respect du travail, celle d'une France où on ne parle pas d'âges qui séparent mais d'expériences qui rassemblent."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V2214",
+      "resume": "Proposition de loi visant à garantir un cadre fiscal stable, juste et lisible pour nos micro-entrepreneurs et nos petites entreprises",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "RN": {
+          "ancre": "3775512",
+          "citations": [
+            "Bien sûr, je le répète, le groupe Rassemblement national votera en faveur de cette proposition de loi, dont nous espérons que le Sénat se saisira rapidement afin qu'elle soit adoptée dans les plus brefs délais."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "3775177",
+          "citations": [
+            "Nous voterons évidemment en faveur de ce texte, en espérant que vous continuerez à vous inspirer de nos propositions de loi issues des mouvements sociaux ; car nous en avons beaucoup !"
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3775547",
+          "citations": [
+            "Les députés du groupe Socialistes et apparentés voteront bien sûr en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3775553",
+          "citations": [
+            "Le groupe Droite républicaine votera évidemment en faveur du texte qui nous rassemble aujourd'hui et que je remercie le rapporteur Paul Midy d'avoir déposé."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "3775641",
+          "citations": [
+            "Nous avons donc besoin de savoir : si la proposition de loi est utile, cela signifie que l'annonce du gouvernement n'était pas fiable ; à l'inverse, si la suspension est effective, la proposition de loi ne sert à rien ! Malgré tout, vous l'avez bien compris, nous voterons ce texte."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3775658",
+          "citations": [
+            "Le groupe Les Démocrates votera cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3775056",
+          "citations": [
+            "Nous évoquons aujourd'hui un sujet qui me tient particulièrement à cœur, puisque je suis entrepreneur dans la vie civile : les microentrepreneurs, les autoentrepreneurs et, plus largement, les travailleurs indépendants. J'irai droit au but car le groupe Horizons & indépendants soutiendra évidemment cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3775665",
+          "citations": [
+            ", je ne voudrais pas qu'après avoir soulagé les autoentrepreneurs pour quelques mois, nous nous retrouvions face aux mêmes difficultés l'année prochaine ! Soyons collectivement vigilants ; en attendant, nous voterons ce texte."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3775083",
+          "citations": [
+            "Cet immense abîme, entre des ministres qui, même déchus, seront toujours bien lotis et des Français qui, eux, jouent un peu leur vie chaque jour. À l'UDR, nous voterons pour cette proposition de loi, mais seulement parce qu'elle corrige vos erreurs."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3775662",
+          "citations": [
+            "Cela dit, le groupe LIOT ne dérogera bien évidemment pas à cette belle unanimité : il votera le texte proposé par Paul Midy pour régler le problème relatif au seuil de franchise de la TVA."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V3048",
+      "resume": "Proposition de résolution tendant à la création d'une commission d'enquête sur le modèle économique des entreprises de crèches et la qualité de l’accueil des jeunes enfants au sein de leurs établissements",
+      "statut": "auto",
+      "explications": {
+        "Dem": {
+          "ancre": "3306724",
+          "citations": [
+            "construisons ensemble un texte contenant les avancées dont tout le secteur a besoin, parce que là est l'urgence ! Vous l'avez compris : le groupe Démocrate votera contre cette proposition de création d'une commission d'enquête qui ne servirait à rien !"
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3307175",
+          "citations": [
+            "Nous voterons donc pour cette proposition de résolution visant à créer une commission d'enquête parlementaire sur le modèle économique des crèches et sur la maltraitance institutionnelle dans certains établissements."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3307182",
+          "citations": [
+            "Et nous veillerons à ce que le travail d'enquête parlementaire soit fait avec rigueur et impartialité, et mette ainsi sur le même pied l'ensemble des acteurs de la petite enfance. C'est pourquoi nous voterons la proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3307187",
+          "citations": [
+            "Fidèle à la lancée constructive impulsée en commission, le groupe Écologiste votera évidemment pour la création de cette commission d'enquête."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3307213",
+          "citations": [
+            "Le groupe LIOT soutiendra la création de la commission d'enquête."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3307436",
+          "citations": [
+            "Une commission d'enquête est plus que nécessaire ; nous voterons donc en faveur de cette proposition de résolution."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V3009",
+      "resume": "Projet de loi portant transposition de l'accord national interprofessionnel relatif au partage de la valeur au sein de l'entreprise (texte de la commission paritaire)",
+      "statut": "auto",
+      "explications": {
+        "RE": {
+          "ancre": "3299081",
+          "citations": [
+            "soutiendra le texte issu de la commission mixte paritaire."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3299117",
+          "citations": [
+            "Ainsi, même si ce texte comporte des manques – et je précise que nous suivrons attentivement la suite du processus, le Gouvernement s'étant engagé à procéder par voie réglementaire pour certains articles adoptés par l'Assemblée nationale –, nous voterons ce projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3299159",
+          "citations": [
+            "Oui à la démocratie sociale, oui au paritarisme à l'évidence, oui au dialogue social, et nous nous en réjouissons, mais à la condition que ce ne soit pas une façon pour le Gouvernement d'échapper à ses propres responsabilités. Au vu des débats de cette année, les députés du groupe LR voteront ce texte sans état d'âme."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3299263",
+          "citations": [
+            "Néanmoins, et vous le savez, nous voterons ce texte par respect pour les partenaires sociaux et pour le dialogue social, mais en vous demandant à l'avenir d'y ajouter la nécessaire démocratie parlementaire !"
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V2965",
+      "resume": "Projet de loi pour le plein emploi",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "RN": {
+          "ancre": "3290250",
+          "citations": [
+            "Vous êtes pourtant resté sourd au bon sens et au pragmatisme, leur préférant une vision technocratique et hors sol. C'est donc sans surprise que nous ne voterons pas votre projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "3290282",
+          "citations": [
+            "Ensuite, nous nous tournerons vers le Conseil constitutionnel car, en prévoyant la suppression totale du RSA en cas de violation des engagements des allocataires, vous punissez les enfants pour les erreurs et les fautes de leurs parents, rétablissant le principe du châtiment collectif. Vous l'avez compris, collègues, nous voterons contre ce projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3290804",
+          "citations": [
+            "À vous écouter, l'immobilisme serait la seule réponse : nous pensons au contraire que des solutions peuvent – et doivent – être apportées aux personnes qui rencontrent des difficultés d'insertion professionnelle, raison pour laquelle nous renforçons de manière inédite l'accompagnement des demandeurs d'emploi. Pour toutes les personnes que la collectivité se doit de mieux accompagner vers l'emploi et l'insertion, le groupe Démocrate votera en faveur du projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3290835",
+          "citations": [
+            "Le renforcement des droits et devoirs de tous, ainsi qu'une ample réforme de la chaîne de prise en charge des demandeurs d'emploi, en font un texte équilibré, qui permettra de tendre vers le plein emploi. Au regard des enjeux et de l'ambition dont il est porteur, le groupe Horizons et apparentés le soutiendra."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3290844",
+          "citations": [
+            "Vous l'aurez compris, ce texte issu du Sénat est encore pire que celui que nous avions déjà critiqué à l'Assemblée – produit déséquilibré d'une vision du travail dépassée, passéiste, à contretemps de l'urgence du moment. Pour toutes ces raisons, le groupe Écologiste votera contre le projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3290875",
+          "citations": [
+            "Puisque nous sommes dans un exercice d'honnêteté intellectuelle, nous relevons avec intérêt la création d'un service public de la petite enfance, mais ce point est très loin de nous permettre de vous suivre sur l'ensemble du texte. Déçus sur le fond, sur la forme et par la méthode adoptée, les députés du groupe LIOT ne le voteront pas."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V2717",
+      "resume": "Projet de loi pour le plein emploi",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "HOR": {
+          "ancre": "3221009",
+          "citations": [
+            "Le groupe Horizons et apparentés soutiendra évidement ce texte."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3245715",
+          "citations": [
+            "» « — Je vous remercie, monsieur le ministre, pour votre sincérité confondante. Je vous indique, au nom du groupe Socialistes et apparentés, que nous voterons contre ce terrible texte."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "3245692",
+          "citations": [
+            "En effet, 150 000 personnes, essentiellement des femmes, renoncent aujourd'hui à un emploi faute d'accueil : ce n'est pas satisfaisant. Notre groupe votera avec beaucoup de conviction en faveur de ce projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3246732",
+          "citations": [
+            "En conséquence, ceux d'entre nous qui partageaient la philosophie initiale du texte s'abstiendront, considérant que la méthode choisie ne correspond pas à leurs attentes. Dans leur très grande majorité, les membres de notre groupe voteront contre le texte, n'étant en accord ni avec sa philosophie ni avec la méthode employée."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V1098",
+      "resume": "Projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne dans les domaines de l'économie, de la santé, du travail, des transports et de l'agriculture",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "Dem": {
+          "ancre": "3031942",
+          "citations": [
+            "C'est pourquoi notre groupe votera en faveur du projet de loi, émettant néanmoins le souhait que l'application des dispositions qu'il contient ait lieu dans les délais fixés, afin d'assurer une meilleure égalité et une meilleure sécurité pour tous nos concitoyens."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3031964",
+          "citations": [
+            "Il nous rappelle également le rôle essentiel que joue l'Europe au quotidien dans la protection des citoyens, des patients, des travailleurs, ainsi que des consommateurs. Notre groupe votera donc en sa faveur."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3032102",
+          "citations": [
+            "Vous l'aurez compris, malgré quelques errements, la version finale du texte nous semble positive et le groupe Libertés, indépendants, outre-mer et territoires votera en sa faveur."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "3032155",
+          "citations": [
+            "Agissons pour une Europe qui incarne le progrès, une Europe qui incarne notre avenir ! Le groupe Renaissance votera en faveur de ce texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V567",
+      "resume": "Projet de loi portant mesures d'urgence relatives au fonctionnement du marché du travail en vue du plein emploi",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "LR": {
+          "ancre": "2908694",
+          "citations": [
+            "Nous devons également envisager avec la plus grande prudence le déplafonnement de la durée des missions effectuées dans le cadre d'un CDI intérimaire. Oui, nous voterons pour le texte adopté en commission mixte paritaire car nous considérons qu'il constitue une solution pour le marché du travail."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "2908781",
+          "citations": [
+            "Les personnes privées d'emploi, elles, continueront de se heurter au mur que vous avez érigé derrière le paravent de votre discours illusoire. Pour toutes ces raisons, le groupe Socialistes et apparentés votera contre ce texte et saisira le Conseil constitutionnel."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "2908799",
+          "citations": [
+            "Comme le bruit et la volonté de chaos qui les caractérisent, cela nous distingue de ceux qui s'opposeront au texte, dans une forme de collusion des extrêmes, dont les arguments sont proches. Les membres du groupe Horizons et apparentés voteront ce texte issu de la CMP avec fierté, et sont tout aussi fiers d'avoir participé à son élaboration."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "2908838",
+          "citations": [
+            "Le chômage, c'est un droit ; les Français et les Françaises cotisent pour en bénéficier. Pour toutes ces raisons, le groupe Écologiste-NUPES votera contre ce texte économiquement absurde et socialement injuste."
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "2908857",
+          "citations": [
+            "Le groupe GDR-NUPES votera donc contre ce texte, emblème d'un projet de société qui ne dit pas son nom mais qui promeut une exploitation renforcée dans le monde du travail, bien loin d'une vraie politique de l'emploi."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "2908873",
+          "citations": [
+            "C'est la preuve que les réalités territoriales dictent aussi la réalité économique et que réformer la seule assurance chômage n'est pas pertinent, surtout pour les plus vulnérables. En dépit de cette garantie, notre groupe ne soutiendra pas ce projet de loi."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V236",
+      "resume": "Projet de loi portant mesures d'urgence relatives au fonctionnement du marché de travail en vue du plein emploi",
+      "lecture": "première lecture",
+      "statut": "auto"
+    }
+  ]
+}

@@ -1,0 +1,483 @@
+{
+  "sujet": "numerique",
+  "auto": true,
+  "note": "Pré-sélection automatique (scripts/brouillon.mjs). Passer « statut » à « valide » après relecture : l’entrée ne sera plus modifiée.",
+  "scrutins": [
+    {
+      "id": "VTANR5L17V8431",
+      "resume": "Proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "LIOT": {
+          "ancre": "4167762",
+          "citations": [
+            "Comment nous assurer que l'attrait de l'interdit ne conduira pas certains jeunes à le contourner par des comptes empruntés ou l'utilisation de VPN ? Cela dit, et compte tenu de l'utilité de tous ses articles, nous voterons en faveur du texte."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4167779",
+          "citations": [
+            "La plupart d'entre nous, mais pas tous, voteront l'article 1er instaurant une interdiction d'accès aux réseaux sociaux avant 15 ans et la suspension des comptes déjà existants de mineurs de moins de 15 ans."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "4167794",
+          "citations": [
+            "Dans la mesure où il n'est pas équilibré, nous vous invitons, madame la ministre, à le retirer de l'ordre du jour et à revoir votre copie, sans quoi nous refuserons de le voter et nous nous abstiendrons."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4167925",
+          "citations": [
+            "Il s'agit de les protéger, de leur offrir un peu de répit et de leur permettre de se dédier pleinement à leurs études. Pour protéger la jeunesse contre le principal fléau de notre époque, le groupe Droite républicaine votera en faveur de la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4167933",
+          "citations": [
+            "Parce que l'interdiction prévue est une demande des parents et peut servir d'aide éducative, je voterai en faveur du texte, avec une partie des membres de mon groupe."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4167960",
+          "citations": [
+            "Parce qu'il nous faut avancer, parce qu'elle va dans le bon sens et parce qu'il est urgent de protéger nos enfants, le groupe Démocrate votera en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "4167972",
+          "citations": [
+            "Le groupe Horizons & indépendants votera donc ce texte avec fierté, avec la conviction que nous ouvrons un chemin dont nous ne voyons pas encore le terme, mais au bout duquel nous aurons reconquis le bien le plus précieux que ces plateformes nous dérobent chaque jour : notre attention, c'est-à-dire notre liberté de choisir à quoi et à qui nous consacrons le temps si court de nos existences."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V5427",
+      "resume": "Proposition de loi visant à améliorer la protection des commerçants grâce à l'usage d'outils numériques",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "HOR": {
+          "ancre": "4006591",
+          "citations": [
+            "Nous saluons à ce titre les travaux de la commission des lois, qui ont permis de reprendre à l'identique le cadre d'autorisation de la VSA tel qu'adopté à l'occasion des JOP de Paris 2024, garantissant ainsi la constitutionnalité de ce texte. Le groupe Horizons & indépendants soutiendra tout amendement allant dans ce sens."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4006694",
+          "citations": [
+            "Cela étant, s'il est vrai que ce texte ne fera pas de bien, il ne fera vraisemblablement pas de mal non plus. Nous voterons donc probablement en sa faveur, si les amendements de la gauche ne le transforment pas en véritable blague."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "4018727",
+          "citations": [
+            "C'est pourquoi, fidèle à notre défense de la sécurité du quotidien, de ceux qui travaillent et qui font vivre nos territoires, nous voterons en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4006902",
+          "citations": [
+            "Nous proposons notamment un usage autorisé dans le temps et strictement encadré, une information claire et visible du public, une interdiction explicite de toute donnée biométrique ou de reconnaissance faciale, et un contrôle humain systématique. Le groupe Droite républicaine votera, sous réserve de ces modifications, cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4006913",
+          "citations": [
+            "Il s'agit peut-être de petits arrangements, qui ne sont à la hauteur ni du moment ni de notre fonction de législateur. Le groupe Écologiste et social votera contre ce texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V5192",
+      "resume": "Proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "UDR": {
+          "ancre": "3999629",
+          "citations": [
+            "Poser des limites là où la vulnérabilité est objectivement établie relève du devoir du législateur. Tel est l'objet de cette proposition de loi, raison pour laquelle le groupe UDR la soutiendra."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3999637",
+          "citations": [
+            "Néanmoins, nous le soutiendrons parce que toute avancée, même partielle, qui va dans le sens de l'intérêt général de la nation et de la jeunesse française, mérite d'être votée, d'où qu'elle vienne."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "4000292",
+          "citations": [
+            "Nous refusons votre vision infantilisante et inefficace ; nous lui préférons l'émancipation et la confiance dans la jeunesse. C'est la raison pour laquelle nous voterons contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4000311",
+          "citations": [
+            "Le groupe socialiste s'abstiendra majoritairement, afin de permettre à la navette de corriger le texte sur ce point mais aussi de supprimer certaines dispositions contraires au droit européen, qui risqueraient de rendre le texte inapplicable."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "4001125",
+          "citations": [
+            "Cet aspect, lui aussi, a été absent de nos débats : nous devrions tous nous en inspirer. Nous voterons naturellement en faveur de ce texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V1018",
+      "resume": "Proposition de résolution tendant à la création d'une commission d'enquête sur les effets psychologiques de TikTok sur les mineurs",
+      "statut": "auto"
+    },
+    {
+      "id": "VTANR5L16V3668",
+      "resume": "Projet de loi visant à sécuriser et réguler l'espace numérique",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "Ecolo-NUPES": {
+          "ancre": "3435528",
+          "citations": [
+            "ni pour protéger les données sensibles qui pourront toujours être hébergées à l'étranger ni pour permettre l'interopérabilité des réseaux sociaux dont nous restons prisonniers, les Écologistes voteront contre ce texte, que notre assemblée doit rejeter."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3435856",
+          "citations": [
+            "Le Rassemblement national sera toujours aux côtés des défenseurs de la liberté d'expression et du débat – il n'y a que dans le dialogue que s'élève l'âme humaine. Alors, bien sûr, nous voterons contre ce texte à la fois inutile et régressif."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3436533",
+          "citations": [
+            "S'il a réussi à maintenir un équilibre s'agissant de la défense de notre souveraineté numérique, il se montre plus chancelant concernant la protection des internautes. Une majorité de notre groupe votera néanmoins en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3436548",
+          "citations": [
+            "Pour toutes ces raisons, l'article 5 bis m'apparaît comme une erreur mais sa rédaction peut nous servir de base pour opérer des améliorations. Le groupe Démocrate votera toutefois en faveur du projet de loi, car il comporte à ses yeux des avancées."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3436564",
+          "citations": [
+            "La France et l'Union européenne doivent prendre leurs responsabilités et protéger les Français, les Françaises, nos entreprises, nos collectivités, notre démocratie, nos institutions. Nous voterons donc pour ce texte de loi, même si nous regrettons que certaines mesures n'aient pas été retenues."
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "3435177",
+          "citations": [
+            "Plus encore, vous avez fait le choix de privilégier les intérêts des acteurs du marché de la data à ceux de nos concitoyens. C'est la raison pour laquelle nous voterons contre le texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V2796",
+      "resume": "Projet de loi visant à sécuriser et réguler l'espace numérique",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "GDR-NUPES": {
+          "ancre": "3257822",
+          "citations": [
+            "Nous avons émis de nombreux signaux d'alerte. Aussi le groupe GDR-NUPES s'abstiendra-t-il."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3258020",
+          "citations": [
+            "Dans ces conditions, le groupe Rassemblement national s'abstiendra sur ce texte, qui n'est malheureusement pas à la hauteur des enjeux et suscite des inquiétudes légitimes quant à la sécurité des données de nos compatriotes."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "3258042",
+          "citations": [
+            "Malheureusement, ce n'est pas le cas. Nous voterons donc contre le projet de loi, et je vais vous expliquer pourquoi."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3239039",
+          "citations": [
+            "Avec ce texte – enrichi, nous l'espérons, de nos propositions –, nous ferons un pas de plus vers une France numérique plus forte, plus souveraine et plus protectrice. Pour ces raisons – et si, après les sénateurs, les députés Les Républicains sont entendus –, nous voterons en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3256832",
+          "citations": [
+            "En tout état de cause, le groupe Démocrate votera ce texte indispensable pour sécuriser et réguler notre espace numérique et assurer la souveraineté de la France dans ce domaine."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3256850",
+          "citations": [
+            "En l'état, parce que cette brique supplémentaire apporte une protection, même imparfaite, sur des sujets parfois graves, nous voterons en faveur de ce projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3256873",
+          "citations": [
+            "Vous l'aurez compris, le groupe Horizons et apparentés, profondément convaincu de la nécessité de construire ce nouvel ordre public numérique, votera en faveur de ce projet de loi."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V2075",
+      "resume": "Proposition de loi visant à instaurer une majorité numérique et à lutter contre la haine en ligne",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "HOR": {
+          "ancre": "3177962",
+          "citations": [
+            "Le groupe Horizons et apparentés se félicite que l'initiative de son président ait trouvé un écho unanime auprès de notre assemblée et de nos collègues du Sénat. Bien évidemment, il votera ce texte, qui replace l'enfant et sa protection au cœur de nos préoccupations."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3178016",
+          "citations": [
+            "La version adoptée en commission mixte paritaire est à l'image de ce travail : équilibrée et satisfaisante. Puisque l'issue du vote fait peu de doute, je coupe court au suspense en vous indiquant dès à présent que le groupe Écologiste-NUPES votera ce texte."
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "3178026",
+          "citations": [
+            "Les députés GDR voteront une nouvelle fois en sa faveur, en espérant que son adoption s'accompagnera d'un mouvement plus large visant à mieux protéger nos enfants."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3178044",
+          "citations": [
+            "Si l'univers dont nous parlons est merveilleux, il est aussi un poison pour nos jeunes. C'est pourquoi le groupe LIOT votera majoritairement en faveur du texte."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "3178264",
+          "citations": [
+            "Il s'agissait de définir un âge, 13 ans en l'occurrence, en dessous duquel l'utilisation des réseaux sociaux serait interdite, comme c'est actuellement le cas dans de nombreux pays, à l'instar des États-Unis ou de la Chine. Comme il est primordial de protéger efficacement nos enfants, le groupe Renaissance votera en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3178275",
+          "citations": [
+            "Nous le voterons, en espérant qu'il soit le premier d'un nouveau volet de la politique de protection de l'enfance et en nous souvenant que les parents, dans ce domaine, sont les principaux concernés : face aux dangers de la haine en ligne, ce sont eux qui doivent continuellement sensibiliser et protéger les enfants."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "3178284",
+          "citations": [
+            "Enfin, un dernier amendement a permis d'intégrer un dispositif servant à contrôler et à notifier le temps d'utilisation des plateformes. Au vu de ces petites avancées, qui étaient nécessaires, nous voterons pour le texte,…"
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3178404",
+          "citations": [
+            "Toutefois, une avancée reste une avancée, et celle-là amènera notamment l'État et l'Union européenne à intervenir sur le sujet. C'est pourquoi le groupe Les Républicains votera en faveur du texte."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3178416",
+          "citations": [
+            "Cette disposition permettra aux jeunes de savoir immédiatement que des personnes sont prêtes à les écouter et à les aider. Pour toutes ces raisons, le groupe Démocrate votera résolument et avec enthousiasme pour ce texte très attendu."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3178430",
+          "citations": [
+            "Le groupe Socialistes et apparentés votera en sa faveur et continuera à légiférer dans tous les domaines pour combattre la haine en ligne et protéger nos enfants."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V1742",
+      "resume": "Proposition de loi visant à encadrer l'influence commerciale et à lutter contre les dérives des influenceurs sur les réseaux sociaux",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "RN": {
+          "ancre": "3136633",
+          "citations": [
+            "Pour les raisons que je viens d'évoquer, nous n'irons pas jusqu'à clamer haut et fort que ce texte révolutionnera le monde de l'influence. Néanmoins, il aura le mérite de participer à l'amélioration du climat général, et à ce titre, nous le voterons."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3136901",
+          "citations": [
+            "Il ne s'agit pas de lutter contre les influenceurs, mais pour faire de l'influence une filière économique à part entière. C'est pourquoi le groupe Démocrate votera en faveur du texte."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3137142",
+          "citations": [
+            "Partageant l'objectif de mieux réguler le marché de l'influence en ligne, dans l'intérêt des professionnels comme des utilisateurs et consommateurs des plateformes, notre groupe votera en faveur de la présente proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3137149",
+          "citations": [
+            "Je voudrais saluer enfin le travail mené en CMP, notamment l'amendement de ma collègue Lisa Belluco, qui a été retenu, visant à interdire aux influenceurs de mettre en scène des animaux. Saluons ce travail collectif et transpartisan ; le groupe Écologiste votera bien sûr cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "3137156",
+          "citations": [
+            "Le groupe GDR considère néanmoins que la présente proposition de loi constitue une première pierre indispensable pour lutter contre les dérives des influenceurs et pour la protection des droits des consommateurs – ce dont je tiens d'ailleurs à remercier une nouvelle fois les rapporteurs. Notre groupe votera donc ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3137510",
+          "citations": [
+            "Nous voterons en faveur de cette proposition de loi ; elle constitue une avancée pour imposer un cadre légal strict à une activité qui s'est développée de façon exponentielle."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V1360",
+      "resume": "Proposition de loi visant à lutter contre les arnaques et les dérives des influenceurs sur les réseaux sociaux",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "HOR": {
+          "ancre": "3073655",
+          "citations": [
+            "Enfin, le texte prévoit toujours une obligation d'information du public sur le caractère commercial de la promotion d'actes ou de prestations par les influenceurs, mais aussi sur l'éventuel recours à une pratique dite de dropshipping c'est-à-dire la livraison directe par un fournisseur tiers. Partageant la volonté de mieux réguler le marché de l'influence, le groupe Horizons et apparentés votera donc en faveur de la présente proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3073737",
+          "citations": [
+            "L'ensemble des contributions ont abouti à un résultat que nous pouvons qualifier de satisfaisant. Satisfaisant. Le présent texte contient de nombreuses mesures intéressantes, que nous soutiendrons."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V1108",
+      "resume": "Proposition de loi visant à instaurer une majorité numérique et à lutter contre la haine en ligne",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "HOR": {
+          "ancre": "3035672",
+          "citations": [
+            "Pour toutes ces raisons, c'est avec fierté que les députés du groupe Horizons et apparentés voteront cette proposition de loi du président Marcangeli qui, comme celle de notre collègue Naïma Moutchou, assume de regarder avec lucidité l'état de notre société et d'affronter les vertiges de notre temps."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3035258",
+          "citations": [
+            "Une telle mesure est nécessaire, mais elle ne doit pas constituer une charge supplémentaire pour les enseignants ; elle doit être appliquée de manière uniforme sur tout le territoire, sans disparité. En définitive, nous soutiendrons cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3035363",
+          "citations": [
+            "En attendant, le groupe Libertés, indépendants, outre-mer et territoires votera la proposition de loi et se mobilisera pour défendre les différentes mesures que je viens d'aborder, car on ne saurait sous-estimer les dangers que présente internet pour les jeunes."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "3035374",
+          "citations": [
+            "En conclusion, la proposition de loi défendue par le groupe Horizons vise à réguler les réseaux sociaux afin de protéger le public fragile que constituent nos enfants. Le groupe Renaissance votera donc ce texte."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3035946",
+          "citations": [
+            "Néanmoins, cette proposition de loi constitue une avancée indéniable pour la protection des mineurs qui doit tous nous rassembler. C'est pourquoi les députés du Rassemblement national la voteront."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "3035955",
+          "citations": [
+            "Nous la voterons mais nous gardons à l'esprit qu'il ne peut s'agir que d'un début d'éducation aux contenus numériques et de protection contre leurs effets néfastes."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3035974",
+          "citations": [
+            "Nous espérons que la représentation nationale en fera autant afin de concourir à la lutte contre la diffusion des infractions. Le groupe Les Républicains votera donc en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3036063",
+          "citations": [
+            "Monsieur le ministre délégué, monsieur le rapporteur, nous serons à vos côtés pour continuer à renforcer ce cadre, dans la droite ligne de ce texte. Nous soutiendrons pleinement cette proposition de loi et espérons que nos débats permettront d'avancer plus loin encore dans la protection de nos enfants."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3036074",
+          "citations": [
+            "Alors que le harcèlement sur les réseaux sociaux est de plus en plus présent et violent, notamment chez les jeunes publics, cette responsabilisation des plateformes dans la lutte contre la haine en ligne est la bienvenue. Nous soutiendrons donc, monsieur le rapporteur, votre proposition de loi."
+          ],
+          "statut": "auto"
+        }
+      }
+    }
+  ]
+}

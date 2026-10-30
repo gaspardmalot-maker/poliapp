@@ -1,0 +1,555 @@
+{
+  "sujet": "discriminations",
+  "auto": true,
+  "note": "Pré-sélection automatique (scripts/brouillon.mjs). Passer « statut » à « valide » après relecture : l’entrée ne sera plus modifiée.",
+  "scrutins": [
+    {
+      "id": "VTANR5L17V7002",
+      "resume": "Proposition de loi portant abrogation du « code noir »",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "LIOT": {
+          "ancre": "4102906",
+          "citations": [
+            "L'un a nommé, l'autre efface l'instrument. Nous voterons au 25e anniversaire de la loi Taubira."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4103466",
+          "citations": [
+            "Non pas de l'émotion ou des postures, mais de la rigueur et la vérité historique. Notre groupe votera ce texte et il entend dire, en toute clarté, les raisons qui fondent sa décision."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "4104342",
+          "citations": [
+            "Le groupe Rassemblement national votera pour l'abrogation du Code noir."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "4104056",
+          "citations": [
+            "Parce que la République ne s'affaiblit jamais lorsqu'elle reconnaît ses fautes, parce que la mémoire n'est pas une division, mais une exigence de justice, parce que la dignité humaine ne se transige pas, nous voterons pour l'abrogation du Code noir, dont nous espérons qu'elle sera votée à l'unanimité."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "4104346",
+          "citations": [
+            "Alors oui, nous voterons pour ce texte, qui répond à une exigence de justice mémorielle, mais nous affirmons aussi qu'il n'est qu'un point de départ."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4104360",
+          "citations": [
+            "Le groupe Socialistes et apparentés votera avec fierté et responsabilité en faveur de cette proposition de loi de M."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "4103976",
+          "citations": [
+            "L'abrogation du Code noir n'est pas une question partisane mais une question de dignité républicaine, qui doit éclairer les générations futures. Pour cette raison, le groupe Horizons & indépendants votera avec détermination et sans réserve cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4104648",
+          "citations": [
+            "Je voterai, ainsi que mon groupe, pour cette proposition de loi – avec conviction, et avec la fierté de représenter une île dont les enfants ont contribué à écrire l'histoire de la liberté."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V4836",
+      "resume": "Proposition de loi portant réparation des personnes condamnées pour homosexualité entre 1945 et 1982",
+      "lecture": "deuxième lecture",
+      "statut": "auto",
+      "explications": {
+        "EcoS": {
+          "ancre": "3978178",
+          "citations": [
+            "Avec cette proposition de loi, nous vous disons : soyez vous-mêmes, que la France soit fière de vous. Vous l'aurez compris, les Écologistes voteront pour la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3978189",
+          "citations": [
+            "La République doit reconnaître sans ambages sa responsabilité pour avoir maintenu en vigueur, entre 1945 et 1982, des infractions à caractère discriminatoire spécifiques pour les personnes homosexuelles. Nous voterons pour ce texte."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3978706",
+          "citations": [
+            "La négation de la déportation entre de ce fait dans le cadre de l'article 24 bis de la loi du 29 juillet 1881 sur la liberté de la presse. Le groupe Horizons & indépendants votera en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3978717",
+          "citations": [
+            "Dans ce contexte, voter en faveur de cette proposition de loi, c'est dire que la France choisit encore et toujours le camp de la dignité humaine. Le groupe Libertés, indépendants, outre-mer et territoires soutiendra naturellement ce texte."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3978732",
+          "citations": [
+            "Soyons nous-mêmes ! Nous voterons bien évidemment en faveur de ce texte – et merci à Elsa Faucillon."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3978903",
+          "citations": [
+            "Si l'Assemblée, je le répète, a la sagesse de s'en tenir à la rédaction des sénateurs, en écartant toute réparation pécuniaire inopportune, nous soutiendrons ce texte."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3978205",
+          "citations": [
+            "Ces Français sont des Français comme les autres. Voilà ce qu'affirme ce texte, universaliste, en faveur duquel nous voterons évidemment."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "3978196",
+          "citations": [
+            "La lutte n'est pas finie ! Nous voterons en faveur de ce texte, mais en nous rappelant que les persécutions contre les personnes LGBTI n'ont pas disparu."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3979131",
+          "citations": [
+            "Malgré ces réserves importantes, le groupe Droite républicaine soutiendra ce texte, parce que nous croyons qu'une République forte n'est pas une République qui efface ou qui travestit son histoire, mais une République capable de reconnaître ses erreurs sans renoncer à ses principes juridiques fondamentaux."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V2880",
+      "resume": "Proposition de loi relative à la lutte contre l'antisémitisme dans l'enseignement supérieur",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "DR": {
+          "ancre": "3829414",
+          "citations": [
+            "Dans le combat de longue haleine contre cette haine archaïque qu'est l'antisémitisme, ce texte constitue une nouvelle pierre à l'édifice juridique et offre des solutions concrètes pour mettre fin à l'impunité de ceux qui intimident et parfois même violentent les étudiants de confession juive. Pour toutes ces raisons, les députés de la Droite républicaine voteront pour cette loi avec conviction, détermination et honneur."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3830389",
+          "citations": [
+            "Les compétences de ce dernier permettront aux sections disciplinaires de traiter les situations d'antisémitisme avec plus de sérénité. Vous aurez compris que le groupe Les Démocrates salue le texte, en faveur duquel il votera."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3830396",
+          "citations": [
+            "Le groupe Horizons & indépendants, fidèle à ses valeurs et à son engagement sur le sujet, votera bien sûr en faveur du texte parce que l'université doit rester un sanctuaire où nul ne doit craindre pour sa sécurité ou sa dignité en raison de ses origines, de sa foi ou de ses convictions et parce que la République ne tolère aucune forme de haine ou de discrimination."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3830403",
+          "citations": [
+            "En même temps, elles ne doivent pas rester aveugles aux dérives et aux atteintes aux droits des personnes. La proposition de loi est un outil utile pour ces établissements et nous la soutiendrons."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3830414",
+          "citations": [
+            "Chers collègues, la lutte contre l'antisémitisme, défi majeur de notre temps, mérite bien mieux qu'une proposition de loi dont les principales dispositions risquent de porter atteinte au droit et à la liberté de manifestation des étudiants. C'est pourquoi notre groupe ne votera pas ce texte."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3830430",
+          "citations": [
+            "Il s'agit de sauvegarder l'honneur de l'université française, de défendre la République et de tenir parole, puisque notre Constitution protège sans distinction, en particulier dans la transmission du savoir. C'est pourquoi le groupe UDR votera en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3830451",
+          "citations": [
+            "Elle est toutefois un premier pas vers une prise de conscience et une réaction contre l'emprise de l'islamo-gauchisme sur nos universités. Nous voterons donc en faveur de son adoption."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3830475",
+          "citations": [
+            "Nous voterons donc pour cette proposition de loi visant à lutter non seulement contre l'antisémitisme mais aussi contre le racisme et toutes les formes de haine dans les universités, qui doivent rester des sanctuaires d'inclusion, de tolérance, de débat libre et d'émancipation intellectuelle pour toutes et tous."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "3829342",
+          "citations": [
+            "Comme vous le savez, nous voterons contre ce texte et je vais être claire dès le départ : non, nous ne prenons pas à la légère la lutte contre l'antisémitisme, car oui, l'antisémitisme existe et oui, il doit être combattu fermement, dans les universités comme partout ailleurs dans la société !"
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3829379",
+          "citations": [
+            "Il nous revient maintenant de recoudre les liens distendus de notre société ; ce texte y participe pleinement. Aussi les députés du groupe Ensemble pour la République voteront-ils avec conviction en faveur de la proposition de loi."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V1601",
+      "resume": "Proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "DR": {
+          "ancre": "3730546",
+          "citations": [
+            "Voter pour ce texte, c'est dire aux étudiants juifs qu'ils ne sont pas seuls et qu'ils peuvent compter sur nous ; c'est dire aussi à ceux qui les menacent que la loi les attend et que leurs intimidations sont terminées. C'est pourquoi nous voterons cette proposition de loi avec clarté, fermeté et honneur."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3728907",
+          "citations": [
+            "Religieux à l'époque de l'Inquisition, nationaliste du temps de l'affaire Dreyfus, racial au XXe siècle ou antisioniste au XXIe, l'antisémitisme reste un cri de haine, une lèpre qui mérite d'être combattue sans trêve par tous ceux qui sont attachés aux valeurs de la République. C'est pourquoi nous voterons résolument en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3730563",
+          "citations": [
+            "Je terminerai de manière assez solennelle : il y a des votes qui disent beaucoup du positionnement politique et du clientélisme électoral de certains groupes de cette assemblée. Les Français nous regardent ; le groupe Horizons votera cette loi avec la détermination et la fermeté qu'appelle la lutte contre l'antisémitisme."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3728936",
+          "citations": [
+            "Le groupe LIOT soutiendra bien évidemment cette proposition de loi relative à la lutte contre l'antisémitisme dans l'enseignement supérieur."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3729217",
+          "citations": [
+            "Il ne s'agit pas seulement de protéger les étudiants juifs ; il s'agit de sauvegarder l'honneur de l'université française, de défendre la République, de tenir la parole de notre Constitution qui protège sans distinction, en particulier s'agissant de la transmission du savoir. C'est pourquoi le groupe UDR votera pour le texte."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3730606",
+          "citations": [
+            "Nous voterons pour cette proposition de loi, même si elle est insuffisante et qu'à part des mots et des incantations, elle n'offre rien et ne permettra malheureusement pas de résoudre le problème. Nous voterons pour…"
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3730629",
+          "citations": [
+            "Notre groupe votera évidemment pour cette proposition de loi qui répond à l'augmentation constatée des propos et actes racistes ou antisémites au sein des établissements d'enseignement supérieur."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3730659",
+          "citations": [
+            "Je sais que vous honorerez cet engagement moral. Le groupe Socialistes et apparentés votera en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V1553",
+      "resume": "Proposition de loi visant à protéger les personnes engagées dans un projet parental des discriminations au travail",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "DR": {
+          "ancre": "3726033",
+          "citations": [
+            "1132-1 du code du travail précise déjà que les discriminations sont interdites en fonction de la situation familiale ou de la grossesse, le dispositif proposé apporte une sécurité supplémentaire aux personnes engagées dans un parcours de PMA ou d'adoption, en particulier les hommes. Par conséquent, les députés du groupe de la Droite républicaine voteront en faveur de la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "3726043",
+          "citations": [
+            "Nous voterons ce texte, parce qu'il est juste, mais nous le disons clairement : la cohérence impose aussi de combattre dès demain la proposition de loi Duplomb, qui ne ferait qu'accélérer l'exposition massive aux substances toxiques et aggraver encore l'infertilité."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3726181",
+          "citations": [
+            "À la fois pragmatiques et ambitieux, ces ajustements renforcent la cohérence de notre droit et le rendent plus juste ; ils signifient à tous ceux qui aspirent à devenir parents, quelle que soit leur situation personnelle ou médicale, que la République les soutient et les protège. Pour toutes ces raisons, le groupe Horizons & indépendants votera en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3726186",
+          "citations": [
+            "Soutenir les familles dans leur diversité, c'est investir dans la cohésion de demain. Naturellement, le groupe LIOT votera en faveur de ce texte, qui s'inscrit pleinement dans notre vision d'une République protectrice et universelle."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3726191",
+          "citations": [
+            "Or, les attaques successives menées contre les droits des travailleurs au seul profit d'une intensification du travail ont œuvré à rebours de la nécessaire évolution progressive et protectrice des conditions de travail. Dans ce contexte, cette proposition de loi amorce un pas important ; nous la soutiendrons."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3726252",
+          "citations": [
+            "Encore faut-il qu'elle s'inscrive dans une politique plus cohérente, plus ambitieuse, qui assume pleinement de soutenir la famille, d'encourager la parentalité et de défendre la conciliation entre vie professionnelle et vie personnelle. Pour toutes ces raisons, nous soutiendrons cette proposition de loi tout en appelant à son application rigoureuse et équilibrée."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3726261",
+          "citations": [
+            "En bref, il constitue un geste de solidarité envers ces futures familles. C'est pourquoi le Rassemblement national votera en sa faveur."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3726274",
+          "citations": [
+            "C'est une culture qui émerge où la parentalité est reconnue et protégée sans distinction. Pour toutes ces raisons, le groupe Ensemble pour la République soutiendra ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "3726361",
+          "citations": [
+            "Le groupe La France insoumise votera ce texte, mais votre vision ultralibérale du travail a réduit en miettes les protections que l'État garantissait aux salariés."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V840",
+      "resume": "Proposition de loi visant à proroger le dispositif d'expérimentation favorisant l'égalité des chances pour l'accès à certaines écoles de service public",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "SOC": {
+          "ancre": "3636825",
+          "citations": [
+            "Le chemin qu'il reste à faire est encore long, mais chaque avancée est bonne à prendre et ce texte marque une avancée. Sans réserve, le groupe socialiste votera pour la proposition de loi et nous appelons tous les députés à en faire autant."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3636834",
+          "citations": [
+            "Nous formulons la même exigence : permettre à des jeunes méritants, motivés et compétents issus de milieux modestes de modifier le visage de la haute fonction publique et d'y insuffler de l'égalité réelle, au bénéfice de la nation. La Droite républicaine votera pour la prorogation de l'expérimentation."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "3636846",
+          "citations": [
+            "Le dispositif « talents » est certes imparfait, mais nous soutiendrons sa prorogation et défendrons des amendements pour en améliorer l'ampleur – ainsi, le plancher de 15 % d'admis issus des prépas « talents » nous paraît insuffisant."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3636105",
+          "citations": [
+            "Partant du constat que ce texte œuvre en faveur de l'égalité des chances et de l'attractivité de la fonction publique, notre groupe votera en faveur de son adoption."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3636114",
+          "citations": [
+            "Le groupe Horizons & indépendants votera donc en faveur de cette proposition de loi, qui vise à faire vivre davantage la méritocratie au sein de la fonction publique."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3636124",
+          "citations": [
+            "Il y aurait bien davantage à dire, mais le temps m'est compté. Le groupe de la Gauche démocrate et républicaine votera le texte qui, s'il n'est pas suffisant, est attendu et a le mérite d'exister."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V3624",
+      "resume": "Proposition de loi visant à reconnaître et à sanctionner la discrimination capillaire",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "SOC": {
+          "ancre": "3420028",
+          "citations": [
+            "que soit un jour créé un ministère dédié à la lutte réelle contre les discriminations, en plus du ministère dédié à l'égalité entre les femmes et les hommes, afin que nous nous donnions les moyens nécessaires. Le groupe Socialistes et apparentés votera bien évidemment ce texte."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3420181",
+          "citations": [
+            "Le vote cette proposition de loi honorerait la France, qui serait le premier pays à légiférer sur la question. Nous soutiendrons bien évidemment ce texte, et je remercie le député Serva pour son travail essentiel."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3419833",
+          "citations": [
+            "C'est aussi ce qui doit nous animer et, dans le cadre de ce grand combat que nous avons à livrer contre les discriminations, nous accomplissons ce matin, pour bon nombre de nos concitoyens, un pas qui n'est pas négligeable. Le groupe Libertés, indépendants, outre-mer et territoires soutiendra le texte."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "3419532",
+          "citations": [
+            "Vous l'aurez compris : nous voterons ce texte."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3419618",
+          "citations": [
+            "Celle-ci constituerait pour ces derniers un mauvais signal ; comment affirmer que nous les comprenons, étant donné ce décalage ? Encore une fois, nous ne voterons pas contre le texte, mais peut-être serait-il bon de passer à autre chose."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "3420040",
+          "citations": [
+            "Nous voterons donc ce texte, qui dit quelque chose d'essentiel pour notre système républicain : la norme d'appartenance à la République, ce ne peut être les cheveux."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3419645",
+          "citations": [
+            "Du point de vue juridique, ce texte suscite des inquiétudes ; si l'on considère son contexte, il s'inscrit, pour certains, dans une démarche militante ; c'est pourquoi nous ne voterons pas en sa faveur."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V3436",
+      "resume": "Proposition de loi portant reconnaissance de la Nation et réparation des préjudices subis par les personnes condamnées pour homosexualité entre 1942 et 1982",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "Dem": {
+          "ancre": "3389801",
+          "citations": [
+            "Nous nous abstiendrons donc sur ce point."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3390627",
+          "citations": [
+            "Le groupe Écologiste-NUPES votera bien évidemment ce texte, et rappelle à toute la communauté gay, lesbienne, bi, trans, queer, que non seulement nous reconnaissons les erreurs du passé, mais que nous sommes de surcroît heureux et fiers de leurs amours."
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "3391104",
+          "citations": [
+            "Nous pensons qu'il s'agit d'un pas très important, bien qu'il appelle des suites. Nous tenterons d'améliorer le texte, conscients qu'il faut poursuivre la lutte, mais nous le voterons évidemment avec conviction."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3391115",
+          "citations": [
+            "La création d'une commission chargée de faire respecter ce droit, dédiée au traitement des dossiers et à l'accompagnement des victimes, constitue le second volet, à nos yeux indispensable, de la proposition de loi. Vous l'aurez compris, notre groupe votera ce texte sans réserve."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3389215",
+          "citations": [
+            "Ce soir, nous allons réparer ce que notre nation a commis, sans chercher à instrumentaliser la douleur des intéressés, en regardant la société d'hier – et ce n'est pas simple – avec nos yeux d'aujourd'hui et en nous disant que nous allons tous ensemble unir, réunir, réconcilier, peut-être même réconforter. Le Rassemblement national apportera son soutien à ce travail de concorde."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3389249",
+          "citations": [
+            "C'est donc avec beaucoup de conviction que le groupe Les Républicains soutiendra ce texte, car nous croyons que la République n'est jamais aussi grande que lorsqu'elle sait reconnaître ses erreurs et se réconcilier avec son histoire."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V3144",
+      "resume": "Proposition de loi visant à lutter contre les discriminations par la pratique de tests individuels et statistiques",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "LIOT": {
+          "ancre": "3320217",
+          "citations": [
+            "Une telle fermeté est nécessaire, car les pratiques discriminantes violent le pacte républicain, créent des fractures entre les citoyens et ont, de surcroît, un impact néfaste sur l'économie. Dans l'attente du renforcement du volet répression, notre groupe votera bien évidemment pour la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3320241",
+          "citations": [
+            "Le concept du « nommer et faire honte » risque de masquer d'un écran de fumée le code de procédure pénale, qui vise pourtant à protéger les libertés individuelles en garantissant la sincérité des preuves. Je sais que certains ont déposé des amendements visant à empêcher cela ; nous les soutiendrons."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3319827",
+          "citations": [
+            "Ces amendements visaient à ouvrir le débat, et j'espère, monsieur le rapporteur, madame la ministre déléguée, que nous pourrons faire évoluer le texte dans un second temps. Quoi qu'il en soit, le groupe Démocrate votera évidemment en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3319844",
+          "citations": [
+            "Parce qu'on ne construit pas une société sûre, pacifique, solidaire sur la haine de l'autre, le groupe Horizons et apparentés votera, vous l'aurez compris, en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "3320032",
+          "citations": [
+            "En guise de conclusion, je souhaite partager avec vous ces mots essentiels de l'abbé Pierre : « La misère ne se gère pas, elle se combat. » Le groupe GDR votera contre ce texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    }
+  ]
+}

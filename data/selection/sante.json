@@ -1,0 +1,669 @@
+{
+  "sujet": "sante",
+  "auto": true,
+  "note": "Pré-sélection automatique (scripts/brouillon.mjs). Passer « statut » à « valide » après relecture : l’entrée ne sera plus modifiée.",
+  "scrutins": [
+    {
+      "id": "VTANR5L17V9241",
+      "resume": "Proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "EcoS": {
+          "ancre": "4208592",
+          "citations": [
+            "Je remercie sa rapporteure, Gabrielle Cathala, de nous permettre de poursuivre le combat contre les violences sexistes et sexuelles. Le groupe Écologiste et social le soutiendra évidemment."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4208599",
+          "citations": [
+            "Pour toutes ces raisons, malgré l'objectif commun, et sans remettre en cause la nécessité d'améliorer encore l'accompagnement des victimes, le groupe Les Démocrates ne soutiendra pas la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4208625",
+          "citations": [
+            "Or le groupe UDR ne votera pas en faveur d'une mélenchonnerie."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "4208672",
+          "citations": [
+            "Les victimes méritent des moyens durables, à la hauteur des engagements que l'on prend devant elles. Nous nous abstiendrons sur votre texte."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4208681",
+          "citations": [
+            "Nous sommes donc satisfaits de la nouvelle rédaction de l'article, qui prévoit quatre entretiens au cours de la scolarité jusqu'en 2032, puis un entretien annuel. Pour conclure, nous approuvons cette proposition de loi dans son intégralité et nous la voterons."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V5728",
+      "resume": "Proposition de loi visant à garantir l'égal accès de tous à l'accompagnement et aux soins palliatifs",
+      "lecture": "deuxième lecture",
+      "statut": "auto",
+      "explications": {
+        "HOR": {
+          "ancre": "4035077",
+          "citations": [
+            "Mourir parce que vivre n'est plus qu'une agonie, ce n'est pas la même chose que mourir parce qu'on n'a pas reçu l'accompagnement qu'on méritait. Pour toutes ces raisons, je voterai contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4035091",
+          "citations": [
+            "Sans cela, ce texte, aussi important soit-il, fait office de trompe-l'œil, de leurre, de volonté virtuelle. Nous voterons toutefois pour ce texte, mais nous ne pouvons pas nous en satisfaire."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "4034947",
+          "citations": [
+            "À titre personnel, je voterai ces deux textes, parce qu'ils affirment une ambition – que nous aurions pu encore élever – pour les soins palliatifs, encadrent strictement un droit attendu par une partie de nos concitoyens et souhaité par la société, et répondent à des situations de grande souffrance, que nous ne pouvons ignorer."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4035302",
+          "citations": [
+            "Pour toutes ces raisons, au nom des malades, des soignants, des personnes âgées, des enfants, de notre conscience collective, je m'opposerai avec force à ce texte. L'ensemble du groupe UDR votera contre."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4035214",
+          "citations": [
+            "Comme pour beaucoup ici, ma réflexion a évolué, au contact des réalités humaines, des témoignages et des débats que nous avons eus ensemble. C'est pourquoi chaque membre du groupe Les Démocrates votera en toute indépendance, en son âme et conscience."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "4034967",
+          "citations": [
+            "Nous soutenons le droit de choisir la fin de vie librement et nous savons combien les Françaises et Français attendent cette nouvelle liberté. Nous voterons pour le texte sur l'aide à mourir et nous espérons que vous ferez de même."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4034928",
+          "citations": [
+            "Pour la dignité, pour la liberté d'être et d'agir, une large majorité du groupe Socialistes et apparentés – car nous respectons, bien sûr, la liberté de vote de chacun – se prononcera en faveur de la proposition de loi relative aux soins palliatifs et de celle visant à autoriser le recours à l'aide à mourir en France."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4035128",
+          "citations": [
+            "Aucun pays n'est allé d'emblée aussi loin dans l'ouverture des critères, la brièveté des délais, la faiblesse du contrôle et la pression qui pèsera sur les plus vulnérables. Les députés de la Droite républicaine voteront en conscience."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4034894",
+          "citations": [
+            "Vous l'aurez compris, le groupe Écologiste et social votera majoritairement pour ces deux textes – avec sérieux, avec humilité, en sachant que nous touchons à l'intime de chacune et chacun, mais en assumant notre responsabilité d'offrir à toutes et tous cette promesse républicaine : être accompagné, être respecté et, lorsque toute autre réponse a échoué, pouvoir choisir en conscience la manière dont notre vie s'achève."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V2685",
+      "resume": "Proposition de loi visant à renforcer la sécurité des professionnels de santé",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "Dem": {
+          "ancre": "3812327",
+          "citations": [
+            "Madame la rapporteure, le groupe Démocrates vous remercie pour votre engagement sur ce sujet. Nous voterons sans réserve en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3812335",
+          "citations": [
+            "Nous formons le souhait qu'un large consensus se dégage pour permettre l'adoption définitive de ce texte. Quoi qu'il en soit, nous voterons en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3812344",
+          "citations": [
+            "Pour sécuriser le cadre de travail des soignants, il faut avant tout reconstruire la confiance dans le service public de santé. Au-delà de ces réserves, notre groupe votera pour cette proposition de loi, qui contient tout de même des avancées."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3813072",
+          "citations": [
+            "Cette mesure est particulièrement bienvenue, notamment pour alléger la charge émotionnelle que peuvent faire peser des procédures judiciaires sur ceux qui sont déjà quotidiennement confrontés à des situations humaines et techniques extrêmement délicates. Pour toutes ces raisons, le groupe UDR votera en faveur de ce texte : un petit pas vaut mieux qu'un gros déni."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3813087",
+          "citations": [
+            "Il rappelle que, dans une salle d'attente, dans une chambre d'hôpital ou dans un cabinet libéral, ceux qui soignent et ceux qui les accompagnent avec courage et dévouement ne doivent jamais avoir peur. C'est pourquoi nous, députés du groupe Rassemblement national, voterons en faveur de la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3813113",
+          "citations": [
+            "Il faut notamment mieux écouter les victimes, mieux soutenir nos établissements dans la sécurisation de leurs services et, de manière plus globale, mieux prévenir les agressions. Engagé aux côtés des professionnels de santé, notre groupe votera en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "3813151",
+          "citations": [
+            "Nous regrettons néanmoins le manque d'ambition du texte et de sa version issue de la CMP, car la seule réponse pénale qu'elle propose est insuffisante et inefficace pour prévenir les actes de violence. C'est pourquoi le groupe Écologiste et social s'abstiendra."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3812078",
+          "citations": [
+            "Une protection réelle, un message clair : la République défend ceux qui soignent et elle le fait dans tous les territoires, y compris dans nos campagnes. C'est pourquoi nous voterons pour cette proposition de loi."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V2106",
+      "resume": "Proposition de loi visant à garantir l'égal accès de tous à l’accompagnement et aux soins palliatifs",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "Dem": {
+          "ancre": "3769235",
+          "citations": [
+            "Je tiens d'emblée à le dire : tous mes collègues voteront en faveur de la proposition de loi qui permettra de pourvoir tout le territoire français en soins palliatifs et d'accompagnement, madame la ministre ; une grande majorité d'entre eux votera pour la proposition de loi relative au droit à l'aide à mourir, quelques-uns voteront contre, d'autres ont choisi de s'abstenir."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3769540",
+          "citations": [
+            "Pour ma part, je voterai en sa faveur. Je le voterai car il ne sacralise pas une idéologie, n'ouvre pas une liberté sans garde-fous, mais propose un chemin balisé, exigeant, réfléchi."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3769567",
+          "citations": [
+            "Pour ma part, je voterai en faveur de chacun de ces deux textes, convaincu que la direction empruntée est la bonne, convaincu aussi qu'il faut ce vote aujourd'hui pour que se poursuive une construction éclairée de ces deux nouveaux droits."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3770286",
+          "citations": [
+            "Une jeunesse qui ne se résigne pas à accepter un monde qui ne croit plus, une société défaitiste. Le groupe UDR votera à l'unanimité contre ce renoncement."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3770318",
+          "citations": [
+            "Elle n'affaiblit pas les valeurs de la vie, mais reconnaît la liberté de chacun face à l'extrême douleur. Parce qu'il conjugue liberté et dignité, plusieurs députés du groupe Rassemblement national, dont je fais partie, voteront pour ce texte."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3770340",
+          "citations": [
+            "Par ailleurs, le gouvernement devra présenter au Parlement des rapports sur plusieurs réformes attendues. Notre groupe, Ensemble pour la République, laisse à chacun de ses membres la liberté de vote, mais j'espère que nous soutiendrons unanimement ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "3769673",
+          "citations": [
+            "Rien ne révèle mieux l'âme d'un pays que la façon dont il accompagne ses membres les plus fragiles. Pour toutes ces raisons, le groupe La France insoumise votera en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3770065",
+          "citations": [
+            "La très grande majorité du groupe Socialistes et apparentés votera donc avec humilité et conviction en faveur de ces deux textes."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3770078",
+          "citations": [
+            "Pour ma part, j'ai choisi : je ne veux pas d'une société qui aide à mourir, je veux d'une société qui aide à vivre et qui soigne. Je ne voterai pas pour la proposition de loi relative à l'aide à mourir !"
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V1203",
+      "resume": "Projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne en matière économique, financière, environnementale, énergétique, de transport, de santé et de circulation des personnes",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "EcoS": {
+          "ancre": "3693416",
+          "citations": [
+            "Nous ne validerons pas ces reculs sous couvert de droit européen : nous sommes là pour protéger l'intérêt général, pour préparer l'avenir. Le groupe Écologiste et social votera contre le texte."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3693443",
+          "citations": [
+            "Le groupe Horizons & indépendants votera pour ce texte qui tend à renforcer les droits des citoyens face aux manquements collectifs, à favoriser une justice plus accessible, plus équitable et mieux adaptée aux enjeux de notre temps et à permettre de faire vivre pleinement le droit là où la réponse individuelle ne suffit pas."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3693462",
+          "citations": [
+            "Pour toutes ces raisons, le groupe de la Gauche démocrate et républicaine ne saura voter favorablement pour le texte que vous nous soumettez – nous voterons contre."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3694300",
+          "citations": [
+            "Au vu de l'amoncellement des mesures contenues dans ce texte et de l'inadaptation totale du véhicule législatif qui nous est imposé, des contradictions entre mesures négatives qui annulent les mesures positives, et du fait surtout que nous sommes les détenteurs de la souveraineté nationale et non les transcripteurs obéissants du droit européen, l'Union des droites pour la République s'abstiendra."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3694306",
+          "citations": [
+            "C'est pourquoi nous nous abstiendrons plutôt que de rejeter ce texte au risque de voir revenir en nouvelle lecture des éléments dont nous nous réjouissons de la modification."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "3694384",
+          "citations": [
+            "Le groupe La France insoumise-Nouveau Front populaire votera contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3694396",
+          "citations": [
+            "Vous l'aurez compris, le groupe Démocrates votera en faveur de ce texte, tout en appelant à un travail approfondi, avec l'aide et l'accompagnement du secrétariat général des affaires européennes, sur la coordination au quotidien entre les législations française et européenne."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3694410",
+          "citations": [
+            "Pour le groupe de la Droite républicaine, le projet de loi Ddadue, en faveur duquel il votera, est l'occasion de rappeler son engagement pour une Europe forte et respectueuse des peuples qui la composent."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V944",
+      "resume": "Proposition de loi sur la profession d'infirmier",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "LFI-NFP": {
+          "ancre": "3655634",
+          "citations": [
+            "Enfin, nous appelons à engager un chantier sur la formation, avec la création d'un indicateur en matière de besoins et d'offre de soins et de professionnels, afin de fixer un objectif national de formation. Nous soutiendrons également l'allongement à quatre ans du temps de formation dans les Ifsi."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3654035",
+          "citations": [
+            "Le groupe Démocrates soutiendra cette proposition de loi, qui reconnaît la place des infirmiers dans notre système de santé et contribue à faire évoluer notre organisation des soins vers plus de coopération et d'efficacité, soit un progrès pour les professionnels de santé et pour les patients."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3654044",
+          "citations": [
+            "Il est temps de reconnaître leur engagement comme leur expertise et de leur donner des perspectives à la hauteur de leur rôle dans notre système de santé. C'est pourquoi le groupe Horizons & indépendants votera résolument en faveur de la proposition de loi, comme il l'a fait en commission."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3654242",
+          "citations": [
+            "Nous espérons que les dispositions de cette proposition de loi permettront d'améliorer un tant soit peu cette situation catastrophique. C'est pourquoi le groupe UDR votera pour ce texte."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3654427",
+          "citations": [
+            "En conclusion, je préfère voir le verre à moitié plein plutôt qu'à moitié vide : considérant qu'il s'agit d'une première marche importante attendue par la profession, le groupe Droite républicaine votera en faveur du texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V912",
+      "resume": "Proposition de loi relative à l'organisation et aux missions des professionnels de santé, vétérinaires, psychothérapeutes et psychologues professionnels et volontaires des services d'incendie et de secours",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "LIOT": {
+          "ancre": "3650543",
+          "citations": [
+            "Je connais bien le sens du devoir des personnels des deux Sdis de Corse, auxquels j'adresse mes remerciements, mon soutien sans faille et mes sentiments amicaux. Le groupe LIOT votera donc pour la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3650453",
+          "citations": [
+            "Il nous paraît indispensable de voter l'amendement no 32, qui propose une rédaction plus claire et plus précise – j'y reviendrai à l'occasion de sa discussion. Le groupe UDR se prononcera donc avec enthousiasme pour cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3650465",
+          "citations": [
+            "Sous réserve de plusieurs modifications et améliorations, le groupe Rassemblement national votera en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3650477",
+          "citations": [
+            "D'où le risque de créer une confusion dans la répartition des rôles et des missions sur le terrain, entre les médecins de sapeurs-pompiers et les professionnels de santé. Le groupe Ensemble pour la République soutiendra donc les amendements visant à supprimer cette notion."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3651759",
+          "citations": [
+            "Il faudra notamment conforter les moyens de la sécurité civile, renforcer la flotte aérienne et travailler sur la résilience et les questions de santé. Le groupe Socialistes et apparentés votera pour la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "3650585",
+          "citations": [
+            "Non seulement les casernes portent secours à nos concitoyens au quotidien, mais ce sont aussi des écoles de l'engagement, de l'attention à l'autre et de la République. Les écologistes voteront donc cette proposition de loi, sans toutefois se faire d'illusion sur sa portée réelle."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V516",
+      "resume": "Proposition de loi sur le remboursement intégral des fauteuils roulants par l'Assurance maladie",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "DR": {
+          "ancre": "3586296",
+          "citations": [
+            "C'est pour l'ensemble de ces raisons, et en saluant le formidable engagement de Sébastien Peytavie, que le groupe Droite républicaine votera cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "3586305",
+          "citations": [
+            "Chers collègues, c'est avec fierté et gratitude que le groupe Écologiste et social votera pour ce texte, car celui-ci répond à un besoin concret et immédiat, et qu'il incarne un projet de société que nous pouvons tous défendre, celui de l'inclusion et de la dignité pour tous et toutes."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3586671",
+          "citations": [
+            "Nous voterons en faveur de la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3586683",
+          "citations": [
+            "Pour toutes ces raisons, nous soutiendrons sans aucune réserve cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3586956",
+          "citations": [
+            "Après un accident de la route ou un accident cérébral, la vie de chacun peut basculer en un instant. Le Rassemblement national soutiendra donc la proposition de loi de notre collègue Sébastien Peytavie, dont je salue le courage et la persévérance."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3586974",
+          "citations": [
+            "En dépit de ces quelques réserves, le groupe Ensemble pour la République soutient bien entendu la proposition de loi, qui constitue une étape cruciale vers la réalisation de l'engagement pris par le président de la République. Nous voterons en sa faveur parce qu'elle répond aux attentes des personnes handicapées, même si elle mettra du temps à être appliquée."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "3586998",
+          "citations": [
+            "Nous voterons avec enthousiasme cette proposition de loi qui représente un progrès considérable pour 1 million de nos concitoyens, victimes au quotidien de ségrégations spatiales que nous ne devons plus tolérer."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3587518",
+          "citations": [
+            "Pour toutes ces raisons, notre groupe, avec ardeur, humilité et dignité, soutiendra cette proposition de loi dans cet hémicycle qui, ce soir, respire humanisme et humanité."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V3206",
+      "resume": "Proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "RE": {
+          "ancre": "3329678",
+          "citations": [
+            "Il concilie le droit à l'accès aux soins, dont doivent jouir les patients, et l'aspiration légitime des professionnels de santé à bénéficier de meilleures conditions de travail. En conséquence, le groupe Renaissance votera la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3329685",
+          "citations": [
+            "Bien qu'imparfait, ce texte permettra d'améliorer l'offre de soins et l'accès aux soins de nos compatriotes. Le Rassemblement national votera en sa faveur."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "3329722",
+          "citations": [
+            "Sans pour autant renier les avancées construites ensemble dans l'exercice parlementaire, il nous faut tenir compte de l'équilibre général du texte, en net recul à l'issue de son examen au Sénat. C'est pourquoi notre groupe votera contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3329747",
+          "citations": [
+            "Grâce au travail de la commission mixte paritaire, ce texte va dans le bon sens. Les députés Les Républicains, qui en approuvent le contenu, le voteront."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3329759",
+          "citations": [
+            "C'est toute l'ambition de la loi de financement de la sécurité sociale pour 2024. En complément de ces mesures, le groupe Démocrate votera en faveur des conclusions de la commission mixte paritaire."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3329832",
+          "citations": [
+            "Nous ne pouvons y souscrire. Le groupe Écologiste s'abstiendra."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V1780",
+      "resume": "Proposition de résolution relative au dérapage du coût pour l’État de la couverture santé des étrangers en situation irrégulière et des demandeurs d’asile provenant de pays d’origine sûrs et au nombre d’étrangers en situation irrégulière (art. 34-1 de la Constitution)",
+      "statut": "auto",
+      "explications": {
+        "Dem": {
+          "ancre": "3145258",
+          "citations": [
+            "Elle a été dévoyée de son sens premier. Nous voterons contre cette proposition de résolution, même si nous pensons, madame Louwagie, qu'il y a là un vrai débat."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3145026",
+          "citations": [
+            "La République, c'est tout simplement cela. Le groupe Socialistes votera fièrement contre cette proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3144305",
+          "citations": [
+            "Nous pourrons donc avoir cette discussion dans le cadre de l'examen du projet de loi dédié qui nous permettra de crever les non-dits sur lesquels nous ne devons pas nous tromper et sur lesquels les Français nous attendent. Pour toutes ces raisons, le groupe Horizons et apparentés votera contre cette proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3144836",
+          "citations": [
+            "Parce que nous, nous avons du cœur – et peut-être, en cet instant, son monopole –, une boussole républicaine et que nous sommes fidèles à ce que disait le président Chirac en 2002, ne vous en déplaise, nous voterons contre votre proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3145234",
+          "citations": [
+            "Parce que nous sommes cohérents, sincères et que nous ne sommes pas sectaires,… …nous voterons en faveur de cette proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "3144626",
+          "citations": [
+            "Visiblement, la seule priorité de la minorité présidentielle – qui voterait contre la proposition de résolution, mais trouve le temps de l'inscrire à l'ordre du jour plutôt que, par exemple, ma proposition de loi établissant un ratio minimal d'encadrement au chevet des résidents des Ehpad"
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V1488",
+      "resume": "Proposition de loi portant amélioration de l'accès aux soins par la confiance aux personnels de santé",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "LIOT": {
+          "ancre": "3108214",
+          "citations": [
+            "Le groupe LIOT note cependant la manière dont sa rédaction a évolué lors de la CMP, qui l'a amendé de façon positive sur de nombreux points ; par conséquent, une majorité de mes collègues le soutiendra."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "3109010",
+          "citations": [
+            "De même, les perspectives de carrière des IDE ne peuvent ni ne doivent être occultées. Nous voterons pour ce texte car il constitue un petit pas – héritiers d'Aimé Césaire, nous savons saisir les occasions de faire ensemble un petit pas."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3109195",
+          "citations": [
+            "Le groupe Démocrate votera en faveur des conclusions de la commission mixte paritaire."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3109208",
+          "citations": [
+            "Lorsque les Français ont besoin de nous pour améliorer leur quotidien, nous répondons toujours favorablement. C'est pour cette raison que nous voterons en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3109588",
+          "citations": [
+            "Nous porterons donc leur voix. Le groupe Écologiste-NUPES votera pour ce texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V651",
+      "resume": "Proposition de loi visant à améliorer l'encadrement des centres de santé",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "RN": {
+          "ancre": "2936359",
+          "citations": [
+            "Il est urgent que nous légiférions pour faire cesser les abus de certains centres médicaux ; nous soutiendrons donc le texte, mais nous espérons aussi avoir prochainement, sur ces bancs, un débat pour trouver des solutions aux maux des professionnels de santé."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "2936368",
+          "citations": [
+            "Nous avons affaire à un texte légitime et qui répond à une urgence, pour toutes les raisons qui ont été évoquées précédemment, mais nous le jugeons assez inopérant, en l'absence de moyens donnés aux ARS. C'est pour cette raison que notre groupe s'abstiendra, bien que nous soutenions l'objectif de fond de la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "2936456",
+          "citations": [
+            "Nous soutiendrons pourtant cette proposition de loi ainsi amendée parce que la régulation de l'installation des centres de santé – trop souvent synonymes d'entorses aux règles déontologiques, de fraudes à la sécurité sociale, de soins non pertinents – est un combat que Les Républicains mènent de longue date."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "2937024",
+          "citations": [
+            "Ne nous privons pas de cet outil. En tout état de cause, notre groupe soutiendra cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "2936992",
+          "citations": [
+            "Il n'est pas nécessaire de s'étendre davantage : nous avons travaillé pour améliorer le texte, que le Sénat enrichira encore probablement. Le groupe Horizons soutiendra de façon unanime cette très belle proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "2937003",
+          "citations": [
+            "Ce texte est donc un premier pas vers l'encadrement de dérives trop souvent constatées. Le groupe Écologiste le soutiendra, comme il l'a fait en commission des affaires sociales."
+          ],
+          "statut": "auto"
+        }
+      }
+    }
+  ]
+}

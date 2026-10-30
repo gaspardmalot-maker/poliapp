@@ -1,0 +1,488 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Défense et armées — Poliapp</title>
+<style>
+:root {
+  --fond: #f6f7f9; --carte: #ffffff; --texte: #1b1f24; --discret: #667085; --bord: #e6e8ec; --survol: #f1f4f8;
+  --accent: #2f6fde; --pour: #2f6fde; --contre: #ee8434; --abstention: #a6acb8; --partage: #8b6fd6; --absent: #e4e7ec;
+  --adopte: #1f8a5b; --rejete: #c2410c; --citation: #f4f6fa;
+  color-scheme: light;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: 72px; }
+body { margin: 0; background: var(--fond); color: var(--texte); font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothing: antialiased; }
+a { color: var(--accent); }
+button { font: inherit; }
+[hidden] { display: none !important; }
+.contenu { max-width: 1160px; margin: 0 auto; padding: 0 20px; }
+.discret { color: var(--discret); font-size: 13px; }
+.brouillon { background: #fff4db; color: #8a5a00; border-radius: 999px; padding: 1px 8px; font-weight: 500; font-size: 12px; white-space: nowrap; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+header.site { position: sticky; top: 0; z-index: 20; background: rgba(255,255,255,.94); backdrop-filter: blur(8px); border-bottom: 1px solid var(--bord); }
+header.site .contenu { display: flex; align-items: center; gap: 20px; height: 60px; }
+.marque { display: flex; align-items: center; gap: 10px; font-weight: 700; font-size: 18px; text-decoration: none; color: var(--texte); flex-shrink: 0; }
+.marque svg { width: 30px; }
+.recherche-entete { margin-left: auto; width: min(340px, 100%); }
+.champ { width: 100%; padding: 9px 14px; border: 1px solid var(--bord); border-radius: 999px; background: var(--fond); font: inherit; font-size: 15px; color: var(--texte); }
+.champ:focus { outline: 2px solid var(--accent); outline-offset: 0; border-color: transparent; background: #fff; }
+
+.cadre-logo { display: inline-grid; place-items: center; width: 56px; height: 34px; border-radius: 8px; background: #fff; border: 1px solid var(--bord); overflow: hidden; flex-shrink: 0; }
+.cadre-logo img { width: 100%; height: 100%; object-fit: contain; padding: 4px; }
+.sigle-logo { font-size: 11px; font-weight: 700; color: #3b4452; letter-spacing: -0.02em; }
+.cadre-logo.petit { width: 44px; height: 26px; border-radius: 6px; }
+.cadre-logo.petit img { padding: 3px; }
+.cadre-logo.petit .sigle-logo { font-size: 9.5px; }
+
+.badge { font-size: 12px; font-weight: 600; text-align: center; border-radius: 999px; padding: 3px 10px; color: #fff; white-space: nowrap; }
+.b-pour { background: var(--pour); } .b-contre { background: var(--contre); } .b-abstention { background: var(--abstention); }
+.b-partage { background: var(--partage); } .b-null { background: var(--absent); color: var(--discret); }
+.res { font-size: 12px; font-weight: 600; border-radius: 999px; padding: 2px 10px; white-space: nowrap; }
+.res-adopté { color: var(--adopte); background: #e7f5ee; }
+.res-rejeté { color: var(--rejete); background: #fdeee4; }
+
+footer { margin: 64px 0 0; padding: 24px 0 48px; border-top: 1px solid var(--bord); font-size: 13px; color: var(--discret); background: var(--carte); }
+.liens-pied { display: flex; flex-wrap: wrap; gap: 6px 18px; margin-bottom: 10px; font-weight: 500; }
+.liens-pied a { color: var(--texte); text-decoration: none; }
+.liens-pied a:hover { color: var(--accent); }
+.bandeau-test { background: #fff4db; color: #6b4a00; font-size: 13px; text-align: center; padding: 7px 16px; }
+.bandeau-test a { color: inherit; font-weight: 600; }
+.page-texte { max-width: 760px; padding-top: 32px; }
+.page-texte h1 { font-size: clamp(28px, 4.5vw, 40px); letter-spacing: -0.02em; margin: 0 0 16px; }
+.page-texte h2 { font-size: 19px; margin: 32px 0 8px; }
+.page-texte p, .page-texte li { font-size: 15.5px; line-height: 1.65; color: #2b3138; }
+.page-texte .chapeau { font-size: 18px; color: var(--texte); }
+.page-texte ul { padding-left: 20px; }
+@media (max-width: 560px) {
+  .contenu { padding: 0 16px; }
+  .marque span { display: none; }
+}
+
+.entete-sujet { background: var(--carte); border-bottom: 1px solid var(--bord); padding: 32px 0 0; }
+.fil { color: var(--discret); font-size: 14px; margin: 0 0 6px; }
+.fil a { color: inherit; text-decoration: none; }
+.fil a:hover { color: var(--accent); }
+h1 { font-size: clamp(30px, 5vw, 44px); line-height: 1.1; letter-spacing: -0.025em; margin: 0 0 12px; }
+.contexte { font-size: 17px; max-width: 760px; margin: 0; color: #3b4452; }
+.onglets { display: flex; gap: 24px; margin-top: 24px; }
+.onglets a { padding: 0 0 12px; text-decoration: none; color: var(--discret); font-weight: 600; border-bottom: 2px solid transparent; }
+.onglets a:hover { color: var(--texte); }
+.onglets a.actif { color: var(--texte); border-color: var(--texte); }
+.onglets span { font-weight: 500; color: var(--discret); margin-left: 4px; }
+
+section { padding-top: 32px; }
+h2 { font-size: 24px; letter-spacing: -0.015em; margin: 0 0 16px; }
+
+.disposition { display: grid; grid-template-columns: 320px minmax(0, 1fr); gap: 24px; align-items: start; }
+.colonne-liste { position: sticky; top: 76px; max-height: calc(100vh - 92px); display: flex; flex-direction: column; gap: 10px; min-width: 0; }
+#liste-votes { overflow-y: auto; display: grid; gap: 8px; padding: 2px 4px 8px 2px; }
+.choix-vote { all: unset; box-sizing: border-box; cursor: pointer; display: grid; gap: 6px; background: var(--carte); border: 1px solid var(--bord); border-radius: 12px; padding: 12px 14px; transition: border-color .15s, box-shadow .15s; }
+.choix-vote:hover { border-color: #c9d3e3; }
+.choix-vote:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.choix-vote[aria-current="true"] { border-color: var(--accent); box-shadow: 0 0 0 3px #2f6fde1f; }
+.choix-vote .meta { font-size: 12px; color: var(--discret); }
+.leg { background: var(--survol); border-radius: 999px; padding: 0 6px; }
+.choix-vote .resume { font-size: 14.5px; font-weight: 500; line-height: 1.4; }
+.apercu { display: inline-flex; gap: 2px; }
+.mini { display: block; width: 9px; height: 9px; border-radius: 50%; }
+.mini.b-absent { background: transparent; border: 1px dashed var(--bord); }
+#aucun-resultat { font-size: 14px; color: var(--discret); margin: 0; }
+
+.panneau { background: var(--carte); border: 1px solid var(--bord); border-radius: 16px; padding: 24px; scroll-margin-top: 72px; }
+.navigation-vote { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 12px; }
+.btn { all: unset; cursor: pointer; padding: 6px 12px; border: 1px solid var(--bord); border-radius: 999px; font-size: 13px; font-weight: 500; background: var(--carte); }
+.btn:hover:not(:disabled) { background: var(--survol); }
+.btn:disabled { opacity: .35; cursor: default; }
+.btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+#position-vote { font-size: 13px; color: var(--discret); }
+.panneau .meta { font-size: 13px; color: var(--discret); margin: 0; }
+.aide-motion { margin: 8px 0 0; font-size: 13.5px; background: #fff4db; color: #6b4a00; border-radius: 8px; padding: 6px 10px; display: inline-block; }
+.panneau h3 { font-size: 22px; line-height: 1.3; letter-spacing: -0.01em; margin: 8px 0 0; }
+#hemicycle { margin: 4px auto 0; max-width: 540px; }
+#hemicycle svg { display: block; width: 100%; height: auto; }
+.siege, .etiquette { transition: opacity .15s; }
+.estompe { opacity: 0.15; }
+.etiquette { font: 600 0.05px system-ui, sans-serif; fill: var(--discret); }
+.s-pour { fill: var(--pour); background: var(--pour); } .s-contre { fill: var(--contre); background: var(--contre); }
+.s-abstention { fill: var(--abstention); background: var(--abstention); } .s-null { fill: var(--absent); background: var(--absent); }
+.centre { font: 700 0.15px system-ui, sans-serif; text-anchor: middle; }
+.centre.res-adopté { fill: var(--adopte); } .centre.res-rejeté { fill: var(--rejete); }
+.centre-detail { font: 500 0.065px system-ui, sans-serif; fill: var(--discret); text-anchor: middle; }
+.totaux { display: flex; flex-wrap: wrap; justify-content: center; gap: 6px 18px; font-size: 14px; margin: 6px 0 20px; }
+.totaux span { display: inline-flex; align-items: center; gap: 6px; }
+.pastille { display: inline-block; width: 11px; height: 11px; border-radius: 50%; }
+
+.titre-groupes { font-size: 15px; margin: 0; padding-bottom: 10px; border-bottom: 1px solid var(--bord); }
+ul.groupes { list-style: none; margin: 0; padding: 0; }
+.ligne-groupe { padding: 14px 6px; border-bottom: 1px solid var(--bord); display: grid; gap: 10px; border-radius: 8px; }
+.ligne-groupe.actif { background: var(--survol); }
+.ligne-haut { display: grid; grid-template-columns: 56px minmax(0, 1fr) auto; align-items: center; gap: 12px; }
+.nom-groupe { display: grid; min-width: 0; line-height: 1.35; }
+.nom-groupe strong { font-size: 15px; }
+.nom-groupe small { font-size: 12.5px; color: var(--discret); }
+.explication { margin-left: 68px; background: var(--citation); border-radius: 10px; padding: 12px 14px; }
+.explication blockquote { margin: 0; font-size: 15px; line-height: 1.6; }
+.explication[data-ouvert="false"] blockquote { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.explication .coupe { color: var(--discret); }
+.actions { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 14px; margin-top: 8px; font-size: 13px; }
+.action { all: unset; cursor: pointer; color: var(--accent); font-weight: 500; }
+.action:hover { text-decoration: underline; }
+.action:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.action.video { background: var(--texte); color: #fff; border-radius: 999px; padding: 4px 12px; }
+.action.video:hover { text-decoration: none; opacity: .9; }
+.qui { color: var(--discret); margin-left: auto; }
+.pas-explication { margin: 0 0 0 68px; font-size: 13px; color: var(--discret); font-style: italic; }
+.note-lecture { font-size: 12.5px; color: var(--discret); margin: 16px 0 0; }
+
+.programmes { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 16px; }
+.programme { background: var(--carte); border: 1px solid var(--bord); border-radius: 16px; padding: 20px; display: flex; flex-direction: column; gap: 12px; }
+.entete-prog { display: flex; align-items: center; gap: 12px; }
+.logos-prog { display: flex; gap: 4px; flex-wrap: wrap; max-width: 96px; }
+.entete-prog h3 { margin: 0; font-size: 17px; line-height: 1.3; }
+.entete-prog p { margin: 2px 0 0; font-size: 12.5px; color: var(--discret); }
+.propositions { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.propositions li { background: var(--citation); border-radius: 10px; padding: 10px 12px; font-size: 15px; line-height: 1.5; }
+.propositions q { quotes: "« " " »"; }
+.propositions a { font-size: 12px; white-space: nowrap; margin-left: 4px; }
+.programme .ref { margin: auto 0 0; font-size: 12.5px; color: var(--discret); }
+.avertissement { font-size: 14px; color: #3b4452; background: var(--carte); border: 1px solid var(--bord); border-left: 4px solid var(--partage); border-radius: 12px; padding: 12px 16px; margin: 0 0 16px; }
+.manquants { margin-top: 16px; font-size: 14px; color: var(--discret); display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+
+dialog#lecteur { width: min(860px, 94vw); padding: 0; border: none; border-radius: 16px; background: #000; color: #fff; }
+dialog#lecteur::backdrop { background: rgba(10, 14, 20, .75); }
+.lecteur-entete { display: flex; align-items: center; gap: 12px; padding: 12px 16px; background: #14171c; font-size: 14px; }
+.lecteur-entete strong { flex: 1; font-weight: 600; }
+.lecteur-entete a { color: #9fc0ff; font-size: 13px; }
+#lecteur-fermer { all: unset; cursor: pointer; font-size: 22px; line-height: 1; padding: 0 4px; }
+dialog#lecteur video { display: block; width: 100%; aspect-ratio: 16 / 9; background: #000; }
+#lecteur-erreur { padding: 10px 16px; margin: 0; background: #14171c; font-size: 13px; }
+#lecteur-erreur a { color: #9fc0ff; }
+
+@media (max-width: 900px) {
+  .disposition { grid-template-columns: minmax(0, 1fr); }
+  .colonne-liste { position: static; max-height: none; }
+  #liste-votes { grid-auto-flow: column; grid-auto-columns: 78%; overflow-x: auto; overflow-y: hidden; scroll-snap-type: x mandatory; padding-bottom: 10px; }
+  .choix-vote { scroll-snap-align: start; }
+  .panneau { padding: 18px; }
+}
+@media (max-width: 560px) {
+  .entete-sujet { padding-top: 22px; }
+  .contexte { font-size: 16px; }
+  .recherche-entete { width: auto; flex: 1; }
+  .ligne-haut { grid-template-columns: 48px minmax(0, 1fr) auto; gap: 10px; }
+  .ligne-haut .cadre-logo { width: 48px; height: 30px; }
+  .explication, .pas-explication { margin-left: 0; }
+  .qui { margin-left: 0; width: 100%; }
+  .programmes { grid-template-columns: 1fr; }
+  .panneau h3 { font-size: 19px; }
+}
+</style>
+</head>
+<body>
+<div class="bandeau-test">Version de test : une partie des sélections et des citations est automatique et en cours de relecture. <a href="methodologie.html">En savoir plus</a></div>
+
+<header class="site"><div class="contenu">
+  <a class="marque" href="index.html">
+  <svg viewBox="0 0 32 18" aria-hidden="true"><path d="M2 17a14 14 0 0 1 28 0" fill="none" stroke="var(--pour)" stroke-width="3" stroke-linecap="round"/><path d="M9 17a7 7 0 0 1 14 0" fill="none" stroke="var(--contre)" stroke-width="3" stroke-linecap="round"/></svg>
+  <span>Poliapp</span>
+</a>
+  <form class="recherche-entete" action="index.html" role="search"><input class="champ" type="search" name="q" placeholder="Rechercher un sujet, un vote…" aria-label="Rechercher"></form>
+</div></header>
+<div class="entete-sujet"><div class="contenu">
+  <p class="fil"><a href="index.html">Tous les sujets</a> › Défense et armées</p>
+  <h1>Défense et armées</h1>
+  <p class="contexte">Armées, programmation militaire, réservistes, industrie de défense.</p>
+  <nav class="onglets" aria-label="Sections">
+    <a href="#votes" class="actif">Ce qu'ils ont voté<span>7</span></a>
+    <a href="#programmes">Ce qu'ils proposent<span>0</span></a>
+  </nav>
+</div></div>
+
+<main class="contenu">
+  <section id="votes">
+    <div class="disposition">
+      <div class="colonne-liste">
+        <input type="search" id="filtre" class="champ" placeholder="Filtrer les votes…" aria-label="Filtrer les votes">
+        <div id="liste-votes"></div>
+        <p id="aucun-resultat" hidden>Aucun vote ne correspond.</p>
+      </div>
+      <div class="panneau" id="panneau">
+        <div class="navigation-vote">
+          <button class="btn" id="precedent">← Plus récent</button>
+          <span id="position-vote"></span>
+          <button class="btn" id="suivant">Plus ancien →</button>
+        </div>
+        <div id="panneau-entete"></div>
+        <div id="hemicycle"></div>
+        <div class="totaux" id="totaux"></div>
+        <h4 class="titre-groupes">Pourquoi chaque groupe a voté ainsi</h4>
+        <ul class="groupes" id="liste-groupes"></ul>
+        <p class="note-lecture">Seuls les scrutins publics sont enregistrés. La position d'un groupe est celle de la majorité de ses votants. Explications citées mot pour mot depuis les débats. · <a id="lien-officiel" target="_blank" rel="noopener">Scrutin officiel ↗</a></p>
+      </div>
+    </div>
+  </section>
+
+  <section id="programmes">
+    <h2>Ce qu'ils proposent</h2>
+    <p class="avertissement"><strong>Programmes 2027 pas encore publiés.</strong> En attendant, voici les derniers programmes officiels complets (législatives 2024) et les déclarations publiques des partis, toujours sourcées.</p>
+    <p class="discret">Aucune proposition relevée pour l’instant sur ce sujet.</p>
+  </section>
+</main>
+
+<dialog id="lecteur" aria-labelledby="lecteur-titre">
+  <div class="lecteur-entete"><strong id="lecteur-titre"></strong><a id="lecteur-source" target="_blank" rel="noopener">Compte rendu ↗</a><button id="lecteur-fermer" aria-label="Fermer">×</button></div>
+  <video controls playsinline></video>
+  <p id="lecteur-erreur" hidden>La vidéo n'a pas pu être chargée. Elle reste disponible sur le <a href="https://videos.assemblee-nationale.fr" target="_blank" rel="noopener">portail vidéo de l'Assemblée</a>.</p>
+</dialog>
+<footer><div class="contenu">
+  <nav class="liens-pied"><a href="methodologie.html">Méthodologie</a><a href="sources.html">Sources et licences</a><a href="mentions-legales.html">Mentions légales</a><a href="confidentialite.html">Données personnelles</a><a href="https://github.com/gaspardmalot-maker/poliapp/issues/new" target="_blank" rel="noopener">Signaler une erreur</a></nav>
+  <p>Données : Assemblée nationale, open data (Licence Ouverte / Etalab 2.0), récupérées le 30 octobre 2026. Programmes : documents officiels des partis. Toutes les citations sont reprises mot pour mot. Site indépendant, sans publicité, sans lien avec un parti.</p>
+</div></footer>
+<script>function dispositionHemicycle(n) {
+  const cache = (dispositionHemicycle.cache ??= new Map());
+  if (cache.has(n)) return cache.get(n);
+  const rangees = n > 400 ? 12 : n > 200 ? 9 : 6;
+  const r0 = 0.38;
+  const rayons = Array.from({ length: rangees }, (_, i) => r0 + ((1 - r0) * i) / (rangees - 1));
+  const somme = rayons.reduce((a, b) => a + b, 0);
+  const parRangee = rayons.map((r) => Math.floor((n * r) / somme));
+  for (let i = rangees - 1, reste = n - parRangee.reduce((a, b) => a + b, 0); reste > 0; reste--, i = (i - 1 + rangees) % rangees) parRangee[i]++;
+  const sieges = [];
+  rayons.forEach((r, i) => {
+    const k = parRangee[i];
+    for (let j = 0; j < k; j++) {
+      const angle = Math.PI * (1 - (k === 1 ? 0.5 : j / (k - 1)));
+      sieges.push({ angle, r, x: r * Math.cos(angle), y: -r * Math.sin(angle) });
+    }
+  });
+  sieges.sort((a, b) => b.angle - a.angle || a.r - b.r);
+  const resultat = { sieges, rayon: (((1 - r0) / (rangees - 1)) * 0.4).toFixed(4) };
+  cache.set(n, resultat);
+  return resultat;
+}
+(function appSujet(DATA) {
+  const POSITIONS = { pour: 'Pour', contre: 'Contre', abstention: 'Abstention', partage: 'Partagé', null: "N'a pas voté" };
+  const SVG = 'http://www.w3.org/2000/svg';
+  const $ = (sel, racine = document) => racine.querySelector(sel);
+  const $$ = (sel, racine = document) => [...racine.querySelectorAll(sel)];
+  const esc = (t) => String(t ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
+  const dateFr = (d) => new Date(d).toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' });
+  const dateCourte = (d) => new Date(d).toLocaleDateString('fr-FR', { day: 'numeric', month: 'short', year: 'numeric' });
+  const normaliser = (t) => t.toLowerCase().normalize('NFD').replace(/\p{Diacritic}/gu, '');
+  const groupe = (sigle) => DATA.groupes.find((g) => g.sigle === sigle);
+  const logoHtml = (g, taille = '') =>
+    `<span class="cadre-logo ${taille}" aria-hidden="true">${g.logo ? `<img src="${g.logo}" alt="">` : `<span class="sigle-logo">${esc(g.sigle)}</span>`}</span>`;
+
+  const disposition = dispositionHemicycle;
+  const element = (tag, attrs = {}, texte) => {
+    const e = document.createElementNS(SVG, tag);
+    for (const [k, v] of Object.entries(attrs)) e.setAttribute(k, v);
+    if (texte) e.textContent = texte;
+    return e;
+  };
+  function hemicycle(vote) {
+    const presents = DATA.groupes.filter((g) => vote.groupes[g.sigle]);
+    const total = presents.reduce((n, g) => n + vote.groupes[g.sigle].membres, 0);
+    const { sieges, rayon } = disposition(total);
+    const svg = element('svg', { viewBox: '-1.3 -1.2 2.6 1.26', role: 'img', 'aria-label': `Hémicycle : ${vote.decompte.pour} pour, ${vote.decompte.contre} contre, ${vote.decompte.abstention} abstentions` });
+    let i = 0;
+    for (const g of presents) {
+      const r = vote.groupes[g.sigle];
+      const portion = sieges.slice(i, i + r.membres);
+      if (portion.length) {
+        const milieu = (portion[0].angle + portion.at(-1).angle) / 2;
+        const deg = (milieu * 180) / Math.PI;
+        const gauche = deg > 90;
+        const [x, y] = [(1.05 * Math.cos(milieu)).toFixed(4), (-1.05 * Math.sin(milieu)).toFixed(4)];
+        const t = element('text', { x, y, transform: `rotate(${gauche ? 180 - deg : -deg} ${x} ${y})`, 'text-anchor': gauche ? 'end' : 'start', 'dominant-baseline': 'central', class: 'etiquette' }, g.sigle);
+        t.dataset.groupe = g.sigle;
+        svg.appendChild(t);
+      }
+      const nonVotants = Math.max(r.membres - r.pour - r.contre - r.abstention, 0);
+      for (const [pos, nb] of [['pour', r.pour], ['contre', r.contre], ['abstention', r.abstention], ['null', nonVotants]]) {
+        for (let k = 0; k < nb && i < sieges.length; k++, i++) {
+          const c = element('circle', { cx: sieges[i].x.toFixed(4), cy: sieges[i].y.toFixed(4), r: rayon, class: `siege s-${pos}` });
+          c.dataset.groupe = g.sigle;
+          svg.appendChild(c);
+        }
+      }
+    }
+    svg.appendChild(element('text', { x: 0, y: -0.1, class: `centre res-${vote.resultat}` }, vote.resultat === 'adopté' ? 'Adopté' : 'Rejeté'));
+    svg.appendChild(element('text', { x: 0, y: 0, class: 'centre-detail' }, `${vote.decompte.votants} votants`));
+    svg.addEventListener('mouseover', (e) => e.target.dataset?.groupe && surligner(e.target.dataset.groupe));
+    svg.addEventListener('mouseleave', () => surligner(null));
+    return svg;
+  }
+  function surligner(sigle) {
+    $$('#panneau .siege, #panneau .etiquette').forEach((c) => c.classList.toggle('estompe', !!sigle && c.dataset.groupe !== sigle));
+    $$('#panneau .ligne-groupe').forEach((l) => l.classList.toggle('actif', l.dataset.groupe === sigle));
+  }
+
+  // --- Lecteur vidéo : flux HLS officiel de la séance, ouvert au moment de l'intervention.
+  let hls = null;
+  let chargementHls = null;
+  const chargerHls = () =>
+    (chargementHls ??= new Promise((ok, ko) => {
+      const s = document.createElement('script');
+      s.src = 'https://cdnjs.cloudflare.com/ajax/libs/hls.js/1.5.13/hls.min.js';
+      s.onload = () => ok(window.Hls);
+      s.onerror = ko;
+      document.head.appendChild(s);
+    }));
+  async function lireVideo({ flux, debut, titre, source }) {
+    const dialogue = $('#lecteur');
+    const video = $('#lecteur video');
+    $('#lecteur-titre').textContent = titre;
+    $('#lecteur-source').href = source;
+    $('#lecteur-erreur').hidden = true;
+    dialogue.showModal();
+    const erreur = () => ($('#lecteur-erreur').hidden = false);
+    if (video.canPlayType('application/vnd.apple.mpegurl')) {
+      video.src = flux;
+      video.addEventListener('loadedmetadata', () => { video.currentTime = debut; video.play().catch(() => {}); }, { once: true });
+      video.addEventListener('error', erreur, { once: true });
+      return;
+    }
+    try {
+      const Hls = await chargerHls();
+      hls = new Hls({ startPosition: debut });
+      hls.on(Hls.Events.ERROR, (_, d) => d.fatal && erreur());
+      hls.loadSource(flux);
+      hls.attachMedia(video);
+      hls.on(Hls.Events.MANIFEST_PARSED, () => video.play().catch(() => {}));
+    } catch {
+      erreur();
+    }
+  }
+  $('#lecteur').addEventListener('close', () => {
+    const video = $('#lecteur video');
+    video.pause();
+    hls?.destroy();
+    hls = null;
+    video.removeAttribute('src');
+    video.load();
+  });
+  $('#lecteur-fermer').addEventListener('click', () => $('#lecteur').close());
+  $('#lecteur').addEventListener('click', (e) => e.target === e.currentTarget && $('#lecteur').close());
+
+  // --- Panneau d'un vote.
+  function explicationHtml(ex, sigle) {
+    if (!ex) return sigle === 'NI' ? '' : `<p class="pas-explication">Pas d'explication de vote relevée dans les débats.</p>`;
+    if (!ex.citations.length) return `<p class="pas-explication">${esc(ex.remarque)} <a href="${ex.url}" target="_blank" rel="noopener">Voir l'intervention</a></p>`;
+    return `
+      <div class="explication" data-ouvert="false">
+        <blockquote>${ex.citations.map((c) => `« ${esc(c)} »`).join(' <span class="coupe">[…]</span> ')}</blockquote>
+        <div class="actions">
+          ${
+            ex.video
+              ? DATA.videoIntegree
+                ? `<button class="action video" data-groupe="${esc(sigle)}"><span aria-hidden="true">▶</span> Voir en vidéo</button>`
+                : `<a class="action video" href="${ex.url}" target="_blank" rel="noopener" title="Ouvre le compte rendu officiel à ce passage, avec la vidéo de la séance"><span aria-hidden="true">▶</span> Voir la vidéo</a>`
+              : ''
+          }
+          <button class="action lire">Lire tout</button>
+          <a class="action" href="${ex.url}" target="_blank" rel="noopener">Source ↗</a>
+          <span class="qui">${esc(ex.orateur ?? '')}${ex.statut === 'auto' ? ' · <span class="brouillon">extrait automatique</span>' : ex.statut === 'brouillon' ? ' · <span class="brouillon">à valider</span>' : ''}</span>
+        </div>
+      </div>`;
+  }
+  function ligneGroupe(vote, g) {
+    const r = vote.groupes[g.sigle];
+    if (!r) return '';
+    const votants = r.pour + r.contre + r.abstention;
+    const detail = [r.pour && `${r.pour} pour`, r.contre && `${r.contre} contre`, r.abstention && `${r.abstention} abst.`].filter(Boolean).join(' · ') || 'aucun votant';
+    return `
+      <li class="ligne-groupe" data-groupe="${esc(g.sigle)}">
+        <div class="ligne-haut">
+          ${logoHtml(g)}
+          <span class="nom-groupe"><strong>${esc(g.sigle)}</strong><small>${detail} — ${votants} votants sur ${r.membres}</small></span>
+          <span class="badge b-${r.position}">${POSITIONS[r.position]}</span>
+        </div>
+        ${explicationHtml(vote.explications[g.sigle], g.sigle)}
+      </li>`;
+  }
+
+  let courant = null;
+  function afficher(cle, { defiler = false } = {}) {
+    const index = Math.max(DATA.votes.findIndex((v) => v.cle === cle), 0);
+    const vote = DATA.votes[index];
+    courant = vote;
+    $$('.choix-vote').forEach((b) => b.setAttribute('aria-current', String(b.dataset.cle === vote.cle)));
+    $('.choix-vote[aria-current="true"]')?.scrollIntoView({ block: 'nearest', inline: 'center' });
+    $('#panneau-entete').innerHTML = `
+      <p class="meta">${dateFr(vote.date)} · ${vote.congres ? 'Congrès du Parlement' : vote.motion ? 'Motion' : vote.resolution ? 'Résolution' : 'Loi'}${vote.lecture ? ` · ${esc(vote.lecture)}` : ''} · <span class="res res-${vote.resultat}">${vote.resultat === 'adopté' ? 'Adopté' : 'Rejeté'}</span>${vote.statut === 'auto' ? ' · <span class="brouillon">sélection automatique</span>' : vote.statut === 'brouillon' ? ' · <span class="brouillon">à valider</span>' : ''}</p>
+      <h3>${esc(vote.resume)}</h3>
+      ${vote.motion ? `<p class="aide-motion">${vote.motion === 'censure' ? 'Voter <b>pour</b> cette motion, c’est vouloir renverser le gouvernement. Seuls les votes pour sont comptés : il faut la majorité absolue des membres de l’Assemblée (289 si tous les sièges sont pourvus).' : 'Voter <b>pour</b> cette motion, c’est rejeter le texte sans l’examiner.'}</p>` : ''}`;
+    $('#hemicycle').replaceChildren(hemicycle(vote));
+    $('#totaux').innerHTML = `
+      <span><i class="pastille s-pour"></i><strong>${vote.decompte.pour}</strong> pour</span>
+      <span><i class="pastille s-contre"></i><strong>${vote.decompte.contre}</strong> contre</span>
+      <span><i class="pastille s-abstention"></i><strong>${vote.decompte.abstention}</strong> abstention${vote.decompte.abstention > 1 ? 's' : ''}</span>
+      <span><i class="pastille s-null"></i>absents</span>`;
+    $('#liste-groupes').innerHTML = DATA.groupes.map((g) => ligneGroupe(vote, g)).join('');
+    $('#lien-officiel').href = vote.url;
+    $('#precedent').disabled = index === 0;
+    $('#suivant').disabled = index === DATA.votes.length - 1;
+    $('#position-vote').textContent = `${index + 1} / ${DATA.votes.length}`;
+    $$('.ligne-groupe').forEach((l) => {
+      l.addEventListener('mouseenter', () => surligner(l.dataset.groupe));
+      l.addEventListener('mouseleave', () => surligner(null));
+    });
+    $$('#liste-groupes .lire').forEach((b) =>
+      b.addEventListener('click', () => {
+        const bloc = b.closest('.explication');
+        const ouvert = bloc.dataset.ouvert !== 'true';
+        bloc.dataset.ouvert = String(ouvert);
+        b.textContent = ouvert ? 'Réduire' : 'Lire tout';
+      }),
+    );
+    $$('#liste-groupes .video').forEach((b) =>
+      b.addEventListener('click', () => {
+        const ex = courant.explications[b.dataset.groupe];
+        lireVideo({ ...ex.video, titre: `${ex.orateur} (${b.dataset.groupe}) — ${dateFr(ex.date)}`, source: ex.url });
+      }),
+    );
+    history.replaceState(null, '', `#vote-${vote.cle}`);
+    if (defiler) $('#panneau').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+
+  // --- Liste des votes.
+  $('#liste-votes').innerHTML = DATA.votes
+    .map(
+      (v) => `
+      <button class="choix-vote" data-cle="${v.cle}" data-texte="${esc(normaliser(v.resume + ' ' + v.titre))}" aria-current="false">
+        <span class="meta">${dateCourte(v.date)}${v.legislature === 16 ? ' · <span class="leg">2022-2024</span>' : ''}</span>
+        <span class="resume">${esc(v.resume)}</span>
+        <span class="apercu">${DATA.groupes
+          .filter((g) => v.groupes[g.sigle])
+          .map((g) => `<i class="mini b-${v.groupes[g.sigle] ? v.groupes[g.sigle].position : 'absent'}" title="${esc(g.sigle)} : ${v.groupes[g.sigle] ? POSITIONS[v.groupes[g.sigle].position] : '—'}"></i>`)
+          .join('')}</span>
+      </button>`,
+    )
+    .join('');
+  $$('.choix-vote').forEach((b) => b.addEventListener('click', () => afficher(b.dataset.cle, { defiler: window.matchMedia('(max-width: 900px)').matches })));
+  $('#filtre').addEventListener('input', (e) => {
+    const q = normaliser(e.target.value.trim());
+    let visibles = 0;
+    $$('.choix-vote').forEach((b) => {
+      b.hidden = !!q && !b.dataset.texte.includes(q);
+      visibles += !b.hidden;
+    });
+    $('#aucun-resultat').hidden = visibles > 0;
+  });
+  $('#precedent').addEventListener('click', () => afficher(DATA.votes[DATA.votes.indexOf(courant) - 1].cle));
+  $('#suivant').addEventListener('click', () => afficher(DATA.votes[DATA.votes.indexOf(courant) + 1].cle));
+  $$('[data-logo]').forEach((el) => {
+    const g = groupe(el.dataset.logo);
+    if (g) el.outerHTML = logoHtml(g, 'petit');
+  });
+
+  // Anciens liens « #vote-3061 » : numéro seul = XVIIe législature.
+  const ancre = (location.hash.match(/vote-(\w+)/) ?? [])[1];
+  afficher(/^\d+$/.test(ancre ?? '') ? `VTANR5L17V${ancre}` : ancre ?? DATA.votes[0].cle);
+})({"groupes":[{"sigle":"LFI-NFP","nom":"La France insoumise - Nouveau Front Populaire","logo":"logos/LFI-NFP.svg"},{"sigle":"LFI-NUPES","nom":"La France insoumise - Nouvelle Union Populaire écologique et sociale","logo":"logos/LFI-NFP.svg"},{"sigle":"GDR","nom":"Gauche Démocrate et Républicaine","logo":"logos/GDR.svg"},{"sigle":"GDR-NUPES","nom":"Gauche démocrate et républicaine - NUPES","logo":"logos/GDR.svg"},{"sigle":"EcoS","nom":"Écologiste et Social","logo":"logos/EcoS.png"},{"sigle":"Ecolo-NUPES","nom":"Écologiste - NUPES","logo":"logos/EcoS.png"},{"sigle":"SOC","nom":"Socialistes et apparentés","logo":"logos/SOC.svg"},{"sigle":"LIOT","nom":"Libertés, Indépendants, Outre-mer et Territoires","logo":null},{"sigle":"Dem","nom":"Les Démocrates","logo":"logos/Dem.svg"},{"sigle":"EPR","nom":"Ensemble pour la République","logo":"logos/EPR.svg"},{"sigle":"RE","nom":"Renaissance","logo":"logos/EPR.svg"},{"sigle":"HOR","nom":"Horizons & Indépendants","logo":"logos/HOR.svg"},{"sigle":"DR","nom":"Droite Républicaine","logo":"logos/DR.svg"},{"sigle":"LR","nom":"Les Républicains","logo":"logos/DR.svg"},{"sigle":"UDR","nom":"Union des droites pour la République","logo":"logos/UDR.svg"},{"sigle":"RN","nom":"Rassemblement National","logo":"logos/RN.svg"},{"sigle":"NI","nom":"Non inscrit","logo":null}],"votes":[{"cle":"VTANR5L17V7905","numero":7905,"legislature":17,"congres":false,"motion":null,"lecture":"texte de la commission mixte paritaire","resume":"Projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense","statut":"auto","date":"2026-07-01","titre":"l'ensemble du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (texte de la commission mixte paritaire).","resolution":false,"resultat":"adopté","decompte":{"votants":490,"pour":375,"contre":113,"abstention":2},"url":"https://www.assemblee-nationale.fr/dyn/17/scrutins/7905","groupes":{"RN":{"position":"pour","membres":122,"pour":97,"contre":0,"abstention":0,"nonVotants":0},"EPR":{"position":"pour","membres":91,"pour":86,"contre":0,"abstention":0,"nonVotants":1},"LFI-NFP":{"position":"contre","membres":71,"pour":0,"contre":62,"abstention":0,"nonVotants":0},"SOC":{"position":"pour","membres":68,"pour":46,"contre":1,"abstention":0,"nonVotants":0},"DR":{"position":"pour","membres":48,"pour":44,"contre":0,"abstention":0,"nonVotants":0},"EcoS":{"position":"contre","membres":38,"pour":1,"contre":36,"abstention":1,"nonVotants":0},"Dem":{"position":"pour","membres":37,"pour":26,"contre":0,"abstention":0,"nonVotants":0},"HOR":{"position":"pour","membres":35,"pour":35,"contre":0,"abstention":0,"nonVotants":0},"LIOT":{"position":"pour","membres":23,"pour":19,"contre":0,"abstention":0,"nonVotants":0},"UDR":{"position":"pour","membres":17,"pour":14,"contre":0,"abstention":0,"nonVotants":0},"GDR":{"position":"contre","membres":17,"pour":0,"contre":14,"abstention":1,"nonVotants":0},"NI":{"position":"pour","membres":10,"pour":7,"contre":0,"abstention":0,"nonVotants":0}},"explications":{"SOC":{"citations":["Malgré cette glissade nationaliste que nous déplorons vivement, nous voterons en faveur de ce texte parce que les besoins sont réels et parce que nous faisons confiance à la direction générale de l'armement et aux états-majors pour nous dire, dès l'an prochain, lors des travaux relatifs au prochain Livre blanc, ce dont nous avons réellement besoin eu égard aux différents retours d'expérience et aux choix tant de doctrine que de format que nous, parlementaires, serons amenés à faire."],"statut":"auto","orateur":"Mme Anna Pic","date":"2026-07-01","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N001#4145519","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/07/hemi_20260701134502.smil/master.m3u8","debut":4595}},"DR":{"citations":["Et là, car il s'agit d'un péril existentiel, le « quoi qu'il en coûte » ne pourra être éludé ; mais ce sera pour après l'élection présidentielle. En attendant, mon groupe votera unanimement cette loi de cohérence qui est aussi une loi d'attente et donc une loi d'espérance."],"statut":"auto","orateur":"M. Jean-Louis Thiériot","date":"2026-07-01","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N001#4145531","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/07/hemi_20260701134502.smil/master.m3u8","debut":4644}},"EcoS":{"citations":["C'est cette conception exigeante d'une sécurité globale que nous défendons. C'est pourquoi le groupe Écologiste et social votera contre ce projet de loi."],"statut":"auto","orateur":"M. Damien Girard","date":"2026-07-01","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N001#4145684","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/07/hemi_20260701134502.smil/master.m3u8","debut":4873}},"Dem":{"citations":["Au nom de ces principes, de la place de la France en Europe et dans le monde, de notre conviction partagée que notre pays doit être autonome et décider pour lui-même, le groupe Les Démocrates soutiendra bien entendu le texte."],"statut":"auto","orateur":"Mme Geneviève Darrieussecq","date":"2026-07-01","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N001#4145691","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/07/hemi_20260701134502.smil/master.m3u8","debut":4973}},"HOR":{"citations":["Ce texte garantit notre crédibilité. C'est pourquoi le groupe Horizons & indépendants le votera."],"statut":"auto","orateur":"Mme Lise Magnier","date":"2026-07-01","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N001#4146025","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/07/hemi_20260701134502.smil/master.m3u8","debut":5111}},"LIOT":{"citations":["Malgré ces quelques réserves, et parce que ce texte traduit indéniablement un effort pour nos armées, le groupe LIOT votera le projet de loi actualisant la programmation militaire."],"statut":"auto","orateur":"M. Yannick Favennec-Bécot","date":"2026-07-01","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N001#4146037","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/07/hemi_20260701134502.smil/master.m3u8","debut":5125}},"UDR":{"citations":["Parce que la défense relève de l'intérêt supérieur de la nation, parce que nos armées méritent mieux que des postures politiciennes et parce que nous ne pratiquerons jamais la politique du pire, le groupe UDR votera tout de même pour cette actualisation de la loi de programmation militaire."],"statut":"auto","orateur":"M. Matthieu Bloch","date":"2026-07-01","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N001#4146056","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/07/hemi_20260701134502.smil/master.m3u8","debut":5254}},"RN":{"citations":["C'est parce que chaque euro supplémentaire consacré à nos armées est préférable à l'immobilisme que nous voterons cette actualisation, malgré toutes les insuffisances que nous avons dénoncées."],"statut":"auto","orateur":"M. Julien Limongi","date":"2026-07-01","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N001#4146248","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/07/hemi_20260701134502.smil/master.m3u8","debut":5312}},"EPR":{"citations":["Avec les deux lois de programmation militaire historiques votées en 2019 et 2023 et cette loi d'actualisation, voulues par le président Macron, conçue par les ministres Parly, Lecornu et Vautrin et votées par nous, nous préparons bien notre nation aux conflits actuels et à ceux de demain. C'est pourquoi le groupe Ensemble pour la République votera avec détermination ce projet de loi d'actualisation."],"statut":"auto","orateur":"M. François Cormier-Bouligeon","date":"2026-07-01","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N001#4146256","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/07/hemi_20260701134502.smil/master.m3u8","debut":5364}},"LFI-NFP":{"citations":["Je veux aussi saluer les personnels civils du ministère et les salariés de l'industrie de défense, qui sont les artisans de notre souveraineté. C'est en ayant ces hommes et ces femmes à l'esprit que nous voterons contre ce texte,…"],"statut":"auto","orateur":"M. Aurélien Saintoul","date":"2026-07-01","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N001#4146863","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/07/hemi_20260701134502.smil/master.m3u8","debut":5560}}}},{"cle":"VTANR5L17V6736","numero":6736,"legislature":17,"congres":false,"motion":null,"lecture":"première lecture","resume":"Projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense","statut":"auto","date":"2026-05-19","titre":"l'ensemble du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (première lecture).","resolution":false,"resultat":"adopté","decompte":{"votants":566,"pour":440,"contre":122,"abstention":4},"url":"https://www.assemblee-nationale.fr/dyn/17/scrutins/6736","groupes":{"RN":{"position":"pour","membres":122,"pour":119,"contre":0,"abstention":0,"nonVotants":0},"EPR":{"position":"pour","membres":91,"pour":88,"contre":0,"abstention":0,"nonVotants":0},"LFI-NFP":{"position":"contre","membres":71,"pour":0,"contre":71,"abstention":0,"nonVotants":0},"SOC":{"position":"pour","membres":68,"pour":64,"contre":1,"abstention":0,"nonVotants":0},"DR":{"position":"pour","membres":48,"pour":47,"contre":0,"abstention":0,"nonVotants":0},"EcoS":{"position":"contre","membres":38,"pour":1,"contre":36,"abstention":1,"nonVotants":0},"Dem":{"position":"pour","membres":37,"pour":37,"contre":0,"abstention":0,"nonVotants":0},"HOR":{"position":"pour","membres":35,"pour":35,"contre":0,"abstention":0,"nonVotants":0},"LIOT":{"position":"pour","membres":23,"pour":23,"contre":0,"abstention":0,"nonVotants":0},"UDR":{"position":"pour","membres":17,"pour":16,"contre":0,"abstention":0,"nonVotants":0},"GDR":{"position":"contre","positionSource":"abstention","membres":17,"pour":0,"contre":14,"abstention":3,"nonVotants":0},"NI":{"position":"pour","membres":10,"pour":10,"contre":0,"abstention":0,"nonVotants":0}},"explications":{"SOC":{"citations":["Mettons d'emblée fin à un suspense qui n'en est pas vraiment un : en cohérence avec son vote lors du débat organisé en décembre dernier, au titre de l'article 50-1 de la Constitution, sur la stratégie de défense nationale, les moyens supplémentaires et les efforts industriels à engager, comme sur la mission Défense lors du dernier projet de loi de finances, le groupe Socialistes et apparentés votera pour ce projet de loi d'actualisation de la programmation militaire."],"statut":"auto","orateur":"Mme Anna Pic","date":"2026-05-19","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N236#4090569","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/05/hemi_20260519145225.smil/master.m3u8","debut":6520}},"DR":{"citations":["Et à nous, représentants de la nation, d'en être les ambassadeurs. En attendant, notre groupe votera en faveur de ce texte d'actualisation, d'autant que certains de ses amendements portant sur les capacités ont été adoptés."],"statut":"auto","orateur":"M. Jean-Louis Thiériot","date":"2026-05-19","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N236#4090923","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/05/hemi_20260519145225.smil/master.m3u8","debut":6837}},"EcoS":{"citations":["En revanche, nous trouvons ubuesque l'injonction à agir de manière prétendument responsable qui nous est adressée par les partis précédemment au pouvoir et par la majorité actuelle, en totale déliquescence. Nous voterons contre un texte qui bafoue les libertés publiques et la démocratie."],"statut":"auto","orateur":"Mme Catherine Hervieu","date":"2026-05-19","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N236#4090937","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/05/hemi_20260519145225.smil/master.m3u8","debut":7158}},"Dem":{"citations":["Aujourd'hui, le groupe Démocrates fait un choix évident : celui d'une France résiliente, souveraine, munie des moyens d'action nécessaires pour se protéger, protéger ses citoyens et soutenir ses alliés. Notre groupe votera bien évidemment en faveur de ce texte avec enthousiasme."],"statut":"auto","orateur":"Mme Josy Poueyto","date":"2026-05-19","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N236#4090955","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/05/hemi_20260519145225.smil/master.m3u8","debut":7489}},"HOR":{"citations":["Ce texte permet précisément de renforcer notre crédibilité, vis-à-vis de nos alliés comme aux yeux de nos compétiteurs. Pour toutes ces raisons, le groupe Horizons & indépendants votera en faveur de l'actualisation de la programmation des moyens militaires de la France."],"statut":"auto","orateur":"Mme Lise Magnier","date":"2026-05-19","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N236#4090980","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/05/hemi_20260519145225.smil/master.m3u8","debut":7773}},"LIOT":{"citations":["Au fond, ce texte reflète un moment de bascule et marque un effort réel, que nous nous devons de reconnaître, tout en laissant ouvertes plusieurs questions majeures : celles de la soutenabilité budgétaire, de notre modèle d'armée, de la place des territoires, et, surtout, celle de la condition humaine des militaires. En dépit de ces réserves, le groupe LIOT votera en faveur de ce projet de loi d'actualisation."],"statut":"auto","orateur":"M. Yannick Favennec-Bécot","date":"2026-05-19","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N236#4090991","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/05/hemi_20260519145225.smil/master.m3u8","debut":8074}},"GDR":{"citations":["C'est précisément ce que nous refusons. C'est pourquoi, avec mes collègues du groupe de la Gauche démocrate et républicaine, nous voterons contre l'actualisation de la loi de programmation militaire."],"statut":"auto","orateur":"M. Édouard Bénard","date":"2026-05-19","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N236#4091002","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/05/hemi_20260519145225.smil/master.m3u8","debut":8333}},"UDR":{"citations":["Parce que la défense de la nation transcende les clivages partisans et parce que nous ne pratiquons pas la politique du pire, le groupe UDR votera toutefois pour cette actualisation."],"statut":"auto","orateur":"M. Matthieu Bloch","date":"2026-05-19","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N236#4091023","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/05/hemi_20260519145225.smil/master.m3u8","debut":8647}},"RN":{"citations":["Nous ne priverons pas nos armées de ces avancées : elles n'ont pas à payer le prix des hésitations de l'exécutif. Le groupe RN votera donc pour cette actualisation, sans se faire d'illusions ni donner un blanc-seing au gouvernement, mais avec le sens des responsabilités."],"statut":"auto","orateur":"M. Frank Giletti","date":"2026-05-19","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N236#4091044","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/05/hemi_20260519145225.smil/master.m3u8","debut":8915}}}},{"cle":"VTANR5L17V5845","numero":5845,"legislature":17,"congres":false,"motion":null,"lecture":"première lecture","resume":"Proposition de loi visant à renforcer l'enseignement de la défense nationale dans le cadre du parcours de citoyenneté","statut":"auto","date":"2026-03-26","titre":"l'ensemble de la proposition de loi visant à renforcer l'enseignement de la défense nationale dans le cadre du parcours de citoyenneté (première lecture).","resolution":false,"resultat":"adopté","decompte":{"votants":56,"pour":39,"contre":17,"abstention":0},"url":"https://www.assemblee-nationale.fr/dyn/17/scrutins/5845","groupes":{"RN":{"position":"pour","membres":122,"pour":9,"contre":0,"abstention":0,"nonVotants":0},"EPR":{"position":null,"membres":91,"pour":0,"contre":0,"abstention":0,"nonVotants":2},"LFI-NFP":{"position":"contre","membres":71,"pour":0,"contre":11,"abstention":0,"nonVotants":0},"SOC":{"position":"contre","membres":69,"pour":0,"contre":4,"abstention":0,"nonVotants":0},"DR":{"position":null,"membres":49,"pour":0,"contre":0,"abstention":0,"nonVotants":1},"EcoS":{"position":"contre","membres":38,"pour":1,"contre":2,"abstention":0,"nonVotants":0},"Dem":{"position":"pour","membres":36,"pour":26,"contre":0,"abstention":0,"nonVotants":0},"HOR":{"position":"pour","membres":35,"pour":1,"contre":0,"abstention":0,"nonVotants":0},"LIOT":{"position":null,"membres":22,"pour":0,"contre":0,"abstention":0,"nonVotants":0},"UDR":{"position":"pour","membres":17,"pour":2,"contre":0,"abstention":0,"nonVotants":0},"GDR":{"position":null,"membres":17,"pour":0,"contre":0,"abstention":0,"nonVotants":0},"NI":{"position":null,"membres":10,"pour":0,"contre":0,"abstention":0,"nonVotants":0}},"explications":{"HOR":{"citations":["Un peuple qui ne connaît pas les fondements de sa défense ne mesure pas pleinement le prix de sa liberté. Pour toutes ces raisons, le groupe Horizons & indépendants votera en faveur de cette proposition de loi."],"statut":"auto","orateur":"M. Vincent Thiébaut","date":"2026-03-26","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N182#4045589","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/03/hemi_20260326144523.smil/master.m3u8","debut":15941}},"UDR":{"citations":["Considérant que votre proposition est condamnée à être inopérante si elle n'est pas suivie d'une politique ambitieuse de réaffirmation du sentiment national et d'une remise en ordre de l'EMC, mais reconnaissant que votre intention est bonne et que votre démarche n'exclut pas ces mesures complémentaires, le groupe UDR votera en faveur de votre proposition de loi."],"statut":"auto","orateur":"M. Maxime Michelet","date":"2026-03-26","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N182#4045609","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/03/hemi_20260326144523.smil/master.m3u8","debut":16395}},"RN":{"citations":["Je vous l'ai dit d'emblée, nous voterons pour que cette proposition de loi soit adoptée, mais je veux croire, connaissant votre engagement et la force de votre patriotisme, qu'elle ne sera qu'une première étape dans la construction d'un dispositif doté de moyens identifiés, suivis et contrôlés par la puissance publique et dédié à la mobilisation intellectuelle et morale de notre jeunesse."],"statut":"auto","orateur":"M. Roger Chudeau","date":"2026-03-26","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N182#4045620","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/03/hemi_20260326144523.smil/master.m3u8","debut":16683}},"EPR":{"citations":["Ce texte, qui apporte un cadre clair et ouvre une porte à l'intervention d'acteurs extérieurs, notamment des réservistes et des spécialistes des enjeux de défense, constitue une réponse pragmatique et adaptée. C'est pourquoi le groupe Ensemble pour la République votera en faveur de cette proposition de loi."],"statut":"auto","orateur":"M. Vincent Caure","date":"2026-03-26","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N182#4045666","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/03/hemi_20260326144523.smil/master.m3u8","debut":16989}},"LFI-NFP":{"citations":["Vous refusez d'accorder à l'éducation nationale – je le dis en présence du ministre – les budgets nécessaires à son bon fonctionnement. Nous voterons donc contre ce texte."],"statut":"auto","orateur":"M. Emmanuel Fernandes","date":"2026-03-26","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N183#4045790","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/03/hemi_20260326211516.smil/master.m3u8","debut":2554}},"SOC":{"citations":["Il se construit dans le collectif, dans l'effort partagé, dans l'expérience vécue. C'est pour toutes ces raisons que nous voterons contre ce texte."],"statut":"auto","orateur":"Mme Ayda Hadizadeh","date":"2026-03-26","url":"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N182#4045700","video":{"flux":"https://videos-diffusion.assemblee-nationale.fr/videos/definst/mp4/ida/domain1/2026/03/hemi_20260326144523.smil/master.m3u8","debut":17531}}}},{"cle":"VTANR5L16V3117","numero":3117,"legislature":16,"congres":false,"motion":null,"lecture":null,"resume":"Proposition de résolution visant à la défense des démocraties face aux multiples menaces et tentatives de déstabilisation (art. 34-1 de la Constitution)","statut":"auto","date":"2023-12-04","titre":"la proposition de résolution visant à la défense des démocraties face aux multiples menaces et tentatives de déstabilisation (art. 34-1 de la Constitution).","resolution":true,"resultat":"adopté","decompte":{"votants":108,"pour":52,"contre":35,"abstention":21},"url":"https://www.assemblee-nationale.fr/dyn/16/scrutins/3117","groupes":{"RE":{"position":"pour","membres":170,"pour":41,"contre":0,"abstention":0,"nonVotants":0},"RN":{"position":"abstention","membres":88,"pour":0,"contre":0,"abstention":20,"nonVotants":0},"LFI-NUPES":{"position":"contre","membres":75,"pour":0,"contre":25,"abstention":0,"nonVotants":0},"LR":{"position":null,"membres":62,"pour":0,"contre":0,"abstention":0,"nonVotants":0},"Dem":{"position":"pour","membres":51,"pour":1,"contre":0,"abstention":0,"nonVotants":1},"SOC":{"position":"pour","membres":31,"pour":4,"contre":0,"abstention":0,"nonVotants":0},"HOR":{"position":"pour","membres":30,"pour":5,"contre":0,"abstention":0,"nonVotants":0},"Ecolo-NUPES":{"position":"contre","membres":23,"pour":0,"contre":5,"abstention":0,"nonVotants":0},"GDR-NUPES":{"position":"contre","membres":22,"pour":0,"contre":5,"abstention":0,"nonVotants":0},"LIOT":{"position":"abstention","membres":21,"pour":0,"contre":0,"abstention":1,"nonVotants":0},"NI":{"position":"pour","membres":4,"pour":1,"contre":0,"abstention":0,"nonVotants":0}},"explications":{"LFI-NUPES":{"citations":["Nous chérissons les valeurs de la démocratie, vous chérissez l'hypocrisie. Nos convictions valent bien mieux que ce texte : nous voterons donc contre."],"statut":"auto","orateur":"M. Sébastien Delogu","date":"2023-12-04","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N073#3315412","video":null},"Dem":{"citations":["Démocratie, liberté, égalité, fraternité, solidarité : toutes ces valeurs européennes nous unissent dans l'action. Le groupe Démocrate votera naturellement en faveur de la proposition de résolution."],"statut":"auto","orateur":"Mme Maud Gatel","date":"2023-12-04","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N073#3315523","video":null},"SOC":{"citations":["Le groupe des députés Socialistes et apparentés votera donc en faveur du texte, car il approuve son objectif, tout en exprimant ses interrogations et ses réserves."],"statut":"auto","orateur":"Mme Marietta Karamanli","date":"2023-12-04","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N073#3315532","video":null},"HOR":{"citations":["Parce qu'il faut condamner aujourd'hui les régimes autoritaires et leurs menaces sur les démocraties, le groupe Horizons votera en faveur de cette proposition de résolution."],"statut":"auto","orateur":"M. Jean-François Portarrieu","date":"2023-12-04","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N073#3315450","video":null},"Ecolo-NUPES":{"citations":["En France, comme en Europe et partout dans le monde, nous devons œuvrer à l'émergence de nouveaux blocs démocratiques qui se construisent autour d'un socle de valeurs : le social, l'écologie et l'humanisme. Le groupe Écologiste votera donc contre cette proposition de résolution."],"statut":"auto","orateur":"Mme Julie Laernoes","date":"2023-12-04","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N073#3315459","video":null}}},{"cle":"VTANR5L16V2256","numero":2256,"legislature":16,"congres":false,"motion":null,"lecture":"texte de la commission mixte paritaire","resume":"Projet de loi relatif à la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense","statut":"auto","date":"2023-07-12","titre":"l'ensemble du projet de loi relatif à la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (texte de la commission mixte paritaire).","resolution":false,"resultat":"adopté","decompte":{"votants":286,"pour":244,"contre":37,"abstention":5},"url":"https://www.assemblee-nationale.fr/dyn/16/scrutins/2256","groupes":{"RE":{"position":"pour","membres":171,"pour":101,"contre":0,"abstention":0,"nonVotants":0},"RN":{"position":"pour","membres":88,"pour":53,"contre":0,"abstention":0,"nonVotants":0},"LFI-NUPES":{"position":"contre","membres":75,"pour":0,"contre":28,"abstention":0,"nonVotants":1},"LR":{"position":"pour","membres":62,"pour":19,"contre":0,"abstention":0,"nonVotants":0},"Dem":{"position":"pour","membres":51,"pour":35,"contre":0,"abstention":0,"nonVotants":0},"SOC":{"position":"pour","membres":31,"pour":10,"contre":0,"abstention":0,"nonVotants":0},"HOR":{"position":"pour","membres":29,"pour":16,"contre":0,"abstention":0,"nonVotants":0},"Ecolo-NUPES":{"position":"abstention","membres":23,"pour":0,"contre":0,"abstention":4,"nonVotants":0},"GDR-NUPES":{"position":"contre","membres":22,"pour":0,"contre":8,"abstention":0,"nonVotants":0},"LIOT":{"position":"pour","membres":21,"pour":10,"contre":0,"abstention":1,"nonVotants":0},"NI":{"position":"contre","membres":4,"pour":0,"contre":1,"abstention":0,"nonVotants":0}},"explications":{"LIOT":{"citations":["Je me félicite que le projet de loi et son rapport annexé concrétisent le choix de renforcer l'implication des collectivités et des élus locaux dans la mise en œuvre de ce plan. Vous l'aurez compris, chers collègues, le groupe Libertés, indépendants, outre-mer et territoires votera la loi de programmation militaire."],"statut":"auto","orateur":"M. Laurent Panifous","date":"2023-07-12","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023E1N014#3198142","video":null},"RE":{"citations":["Nous voterons donc pour cette loi de transformation, pour notre sécurité, notre liberté et notre souveraineté, pour le respect des engagements de la France en tant qu'alliée exemplaire et fiable, de haut niveau ; en un mot, nous voterons pour une France puissance, une France influente, solidaire et partenaire de souveraineté."],"statut":"auto","orateur":"Mme Anne Genetet","date":"2023-07-12","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023E1N014#3198154","video":null},"LR":{"citations":["Nous serons les aiguillons vigilants de son exécution. En attendant, nous voterons ce texte de concorde nationale."],"statut":"auto","orateur":"M. Jean-Louis Thiériot","date":"2023-07-12","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023E1N014#3197853","video":null},"Dem":{"citations":["Pour toutes ces raisons, cette loi de programmation militaire nous semble particulièrement importante pour engager la transformation de nos armées et pour la défense de notre nation. Le groupe Démocrate votera donc en faveur de ce texte historique."],"statut":"auto","orateur":"Mme Josy Poueyto","date":"2023-07-12","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023E1N014#3197876","video":null},"SOC":{"citations":["Malgré cela, force est de constater que nos principales revendications ont été entendues – même si vous ne l'avez sans doute pas fait par conviction. Nous nous en félicitons, et c'est la raison pour laquelle nous voterons en faveur de cette nouvelle mouture de notre programmation militaire."],"statut":"auto","orateur":"Mme Anna Pic","date":"2023-07-12","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023E1N014#3198013","video":null},"HOR":{"citations":["Auprès de tous ceux qui voudraient menacer notre souveraineté, nous réaffirmons notre rang de puissance militaire majeure, dotée de moyens d'action rapides, modernes et crédibles ; à nos compatriotes, où qu'ils se trouvent sur le globe, nous assurons une protection et une sécurité toujours plus fortes. C'est donc avec une très grande fierté que le groupe Horizons et apparentés votera en faveur de ce projet de loi."],"statut":"auto","orateur":"M. Jean-Charles Larsonneur","date":"2023-07-12","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023E1N014#3198023","video":null},"Ecolo-NUPES":{"citations":["Pour toutes ces raisons, nous nous abstiendrons lors du vote de ce texte."],"statut":"auto","orateur":"Mme Cyrielle Chatelain","date":"2023-07-12","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023E1N014#3198034","video":null}}},{"cle":"VTANR5L16V1778","numero":1778,"legislature":16,"congres":false,"motion":null,"lecture":"première lecture","resume":"Projet de loi relatif à la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense","statut":"auto","date":"2023-06-07","titre":"l’ensemble du projet de loi relatif à la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (première lecture).","resolution":false,"resultat":"adopté","decompte":{"votants":548,"pour":408,"contre":87,"abstention":53},"url":"https://www.assemblee-nationale.fr/dyn/16/scrutins/1778","groupes":{"RE":{"position":"pour","membres":171,"pour":162,"contre":0,"abstention":0,"nonVotants":0},"RN":{"position":"pour","membres":88,"pour":87,"contre":0,"abstention":0,"nonVotants":0},"LFI-NUPES":{"position":"contre","membres":75,"pour":0,"contre":70,"abstention":0,"nonVotants":0},"LR":{"position":"pour","membres":62,"pour":61,"contre":0,"abstention":0,"nonVotants":0},"Dem":{"position":"pour","membres":51,"pour":49,"contre":0,"abstention":0,"nonVotants":0},"SOC":{"position":"abstention","membres":31,"pour":0,"contre":0,"abstention":31,"nonVotants":0},"HOR":{"position":"pour","membres":29,"pour":29,"contre":0,"abstention":0,"nonVotants":0},"Ecolo-NUPES":{"position":"abstention","membres":23,"pour":0,"contre":1,"abstention":20,"nonVotants":0},"GDR-NUPES":{"position":"contre","membres":22,"pour":0,"contre":16,"abstention":1,"nonVotants":0},"LIOT":{"position":"pour","membres":21,"pour":16,"contre":0,"abstention":1,"nonVotants":0},"NI":{"position":"pour","membres":4,"pour":4,"contre":0,"abstention":0,"nonVotants":0}},"explications":{"LIOT":{"citations":["Il convient que les militaires, lorsqu'ils se trouvent sur un théâtre d'opérations extérieures, n'aient pas l'esprit encombré par le souci d'assurer la sécurité de leur famille à l'intérieur même de nos casernes. Comme je l'ai dit, notre groupe votera à la quasi-unanimité cette LPM."],"statut":"auto","orateur":"M. Christophe Naegelen","date":"2023-06-07","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N259#3143337","video":null},"RE":{"citations":["Cette LPM s'inscrit donc dans un projet politique cohérent. Les députés du groupe Renaissance voteront bien évidemment en faveur de cette LPM pour les années 2024 à 2030,…"],"statut":"auto","orateur":"M. Mounir Belhamiti","date":"2023-06-07","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N259#3143346","video":null},"RN":{"citations":["Eh bien, nous ferons bon usage de cet argent, pour une armée mieux équipée et mieux entraînée, pour des soldats mieux considérés. C'est pourquoi, sans enthousiasme, avec vigilance, mais aussi avec la satisfaction de voir certaines de nos mesures adoptées, nous voterons pour cette LPM."],"statut":"auto","orateur":"M. Laurent Jacobelli","date":"2023-06-07","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N259#3143410","video":null},"LFI-NUPES":{"citations":["Il y a encore trop d'incertitude autour de l'avenir du service de santé des armées, et nous ne comprenons pas pourquoi les avancées que nous proposons pour les blessés psychiques ont été une nouvelle fois écartées. Pour toutes ces raisons, nous voterons contre cette LPM."],"statut":"auto","orateur":"M. Aurélien Saintoul","date":"2023-06-07","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N259#3143425","video":null},"LR":{"citations":["Nous avons obtenu une attention particulière au financement de notre BITD – base industrielle et technologique de défense – avec, notamment, la création d'un médiateur du crédit défense. Alors oui, notre groupe votera cette loi de programmation militaire."],"statut":"auto","orateur":"M. Jean-Louis Thiériot","date":"2023-06-07","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N259#3143438","video":null},"Dem":{"citations":["Nous pouvons être satisfaits du travail accompli pour nos armées. Reconnaissant de l'engagement sans faille de nos militaires au service de la nation, le groupe Démocrate votera évidemment en faveur de ce texte."],"statut":"auto","orateur":"Mme Josy Poueyto","date":"2023-06-07","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N259#3143485","video":null},"HOR":{"citations":["C'est aussi la garantie que la France restera un partenaire incontournable en Europe et à l'échelle internationale. Le groupe Horizons et apparentés approuve pleinement cet effort nécessaire et votera donc sans hésitation ce projet de loi de programmation militaire."],"statut":"auto","orateur":"M. Jean-Charles Larsonneur","date":"2023-06-07","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N259#3143447","video":null},"Ecolo-NUPES":{"citations":["Vous l'aurez compris, les députés du groupe Écologistes voteront dans un esprit de responsabilité : ils s'abstiendront, tout en nourrissant de nombreux regrets quant à cette loi de programmation militaire."],"statut":"auto","orateur":"Mme Cyrielle Chatelain","date":"2023-06-07","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N259#3143460","video":null}}},{"cle":"VTANR5L16V1483","numero":1483,"legislature":16,"congres":false,"motion":null,"lecture":null,"resume":"Proposition de résolution visant à appeler la France et l'Union européenne à inscrire le groupe militaire privé Wagner sur la liste des organisations terroristes (article 34-1 de la Constitution)","statut":"auto","date":"2023-05-09","titre":"la proposition de résolution visant à appeler la France et l'Union européenne à inscrire le groupe militaire privé Wagner sur la liste des organisations terroristes (article 34-1 de la Constitution).","resolution":true,"resultat":"adopté","decompte":{"votants":331,"pour":331,"contre":0,"abstention":0},"url":"https://www.assemblee-nationale.fr/dyn/16/scrutins/1483","groupes":{"RE":{"position":"pour","membres":171,"pour":122,"contre":0,"abstention":0,"nonVotants":0},"RN":{"position":"pour","membres":88,"pour":52,"contre":0,"abstention":0,"nonVotants":1},"LFI-NUPES":{"position":"pour","membres":75,"pour":39,"contre":0,"abstention":0,"nonVotants":0},"LR":{"position":"pour","membres":62,"pour":36,"contre":0,"abstention":0,"nonVotants":0},"Dem":{"position":"pour","membres":51,"pour":25,"contre":0,"abstention":0,"nonVotants":0},"SOC":{"position":"pour","membres":31,"pour":14,"contre":0,"abstention":0,"nonVotants":0},"HOR":{"position":"pour","membres":29,"pour":17,"contre":0,"abstention":0,"nonVotants":0},"Ecolo-NUPES":{"position":"pour","membres":23,"pour":11,"contre":0,"abstention":0,"nonVotants":0},"GDR-NUPES":{"position":"pour","membres":22,"pour":5,"contre":0,"abstention":0,"nonVotants":0},"LIOT":{"position":"pour","membres":20,"pour":8,"contre":0,"abstention":0,"nonVotants":0},"NI":{"position":"pour","membres":5,"pour":2,"contre":0,"abstention":0,"nonVotants":0}},"explications":{"RN":{"citations":["Il nous paraît clair que ce groupe paramilitaire porte atteinte à nos intérêts nationaux et que certaines de ses actions revêtent un caractère illégal, voire criminel. Au nom du respect de nos intérêts comme du droit international, le groupe Rassemblement national votera cette proposition de résolution."],"statut":"auto","orateur":"M. Jérôme Buisson","date":"2023-05-09","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N227#3106086","video":null},"LR":{"citations":["Nous ne voulons pas revenir à cette époque, mais que la civilisation et l'État de droit continuent de progresser ; c'est pourquoi notre groupe votera bien évidemment en faveur de cette proposition de résolution !"],"statut":"auto","orateur":"M. Jean-Louis Thiériot","date":"2023-05-09","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N227#3106160","video":null},"Dem":{"citations":["Le groupe MODEM votera évidemment pour ce texte, de même que l'immense majorité des membres de notre assemblée."],"statut":"auto","orateur":"M. Jean-Louis Bourlanges","date":"2023-05-09","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N227#3106163","video":null},"SOC":{"citations":["Ce classement constituerait un signal important, à l'heure où cette milice instrumentalise ouvertement le sentiment antifrançais – et plus globalement anti-occidental – sur le continent africain, et à l'heure où elle manifeste des velléités dans d'autres régions du monde. Pour toutes ces raisons, les députés du groupe Socialistes et apparentés voteront en faveur de ce texte."],"statut":"auto","orateur":"M. Alain David","date":"2023-05-09","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N227#3106528","video":null},"HOR":{"citations":["Nous devons aussi renforcer notre capacité à lutter contre les actions d'influence de ce groupe chez nos partenaires et alliés. Le groupe Horizons et apparentés votera donc en faveur de cette proposition de résolution."],"statut":"auto","orateur":"Mme Stéphanie Kochert","date":"2023-05-09","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N227#3106536","video":null},"LIOT":{"citations":["Le groupe Libertés, indépendants, outre-mer et territoires appelle l'ensemble des représentants de la nation à œuvrer pour opposer une action forte et déterminée à Wagner et aux dirigeants de la fédération de Russie. C'est pourquoi notre groupe votera avec conviction la présente résolution."],"statut":"auto","orateur":"M. Bertrand Pancher","date":"2023-05-09","url":"https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N227#3105676","video":null}}}],"videoIntegree":false});</script>
+</body>
+</html>

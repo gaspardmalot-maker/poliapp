@@ -1,0 +1,481 @@
+[
+  {
+    "id": "droits-des-femmes",
+    "titre": "Droits des femmes et égalité",
+    "description": "Violences faites aux femmes, égalité professionnelle, IVG, santé des femmes, parité.",
+    "contexte": "Depuis 2022, le Parlement a inscrit l'IVG dans la Constitution, puis voté une définition du viol fondée sur le consentement, la fin du « devoir conjugal » et une loi « intégrale » contre les violences sexuelles et sexistes.",
+    "motsCles": [
+      "femme",
+      "egalite entre les femmes et les hommes",
+      "egalite professionnelle",
+      "violences sexuelles",
+      "violences conjugales",
+      "violences intrafamiliales",
+      "feminicide",
+      "du viol",
+      "viols",
+      "consentement",
+      "violences sexistes",
+      "ivg",
+      "interruption volontaire de grossesse",
+      "contraception",
+      "parite",
+      "harcelement",
+      "conge de naissance",
+      "conge maternite",
+      "endometriose",
+      "menstruel",
+      "devoir conjugal",
+      "cancer du sein",
+      "projet parental"
+    ]
+  },
+  {
+    "id": "pouvoir-achat",
+    "titre": "Pouvoir d'achat",
+    "description": "Salaires, prix, énergie, impôts et aides qui pèsent directement sur le budget des ménages.",
+    "motsCles": [
+      "pouvoir d'achat",
+      "smic",
+      "salaire",
+      "remuneration",
+      "prix",
+      "inflation",
+      "carburant",
+      "electricite",
+      "facture",
+      "titre-restaurant",
+      "prime",
+      "cheque",
+      "tva",
+      "impot sur le revenu",
+      "heures supplementaires",
+      "vie chere"
+    ]
+  },
+  {
+    "id": "retraites",
+    "titre": "Retraites",
+    "description": "Âge de départ, montant des pensions, financement du système.",
+    "motsCles": [
+      "retraite",
+      "pension de vieillesse",
+      "pensions",
+      "age legal",
+      "age de depart",
+      "carriere longue",
+      "minimum contributif",
+      "assurance vieillesse",
+      "reforme des retraites"
+    ]
+  },
+  {
+    "id": "sante",
+    "titre": "Santé et accès aux soins",
+    "description": "Médecins, hôpital, déserts médicaux, remboursements, médicaments.",
+    "motsCles": [
+      "sante",
+      "soins",
+      "medecin",
+      "hopital",
+      "hospitalier",
+      "desert medical",
+      "deserts medicaux",
+      "infirmier",
+      "pharmac",
+      "medicament",
+      "assurance maladie",
+      "franchise medicale",
+      "urgences",
+      "ehpad",
+      "psychiatri"
+    ]
+  },
+  {
+    "id": "logement",
+    "titre": "Logement",
+    "description": "Loyers, logement social, accès à la propriété, rénovation des logements.",
+    "motsCles": [
+      "logement",
+      "loyer",
+      "locataire",
+      "bailleur",
+      "hlm",
+      "habitat",
+      "proprietaire",
+      "squat",
+      "renovation energetique",
+      "dpe",
+      "passoire",
+      "meuble de tourisme",
+      "hebergement d'urgence",
+      "copropriete",
+      "immobilier"
+    ]
+  },
+  {
+    "id": "immigration",
+    "titre": "Immigration et nationalité",
+    "description": "Accueil des étrangers, asile, titres de séjour, accès à la nationalité.",
+    "motsCles": [
+      "immigration",
+      "etranger",
+      "asile",
+      "titre de sejour",
+      "titres de sejour",
+      "nationalite",
+      "droit du sol",
+      "regularisation",
+      "retention administrative",
+      "expulsion",
+      "eloignement"
+    ]
+  },
+  {
+    "id": "securite-justice",
+    "titre": "Sécurité et justice",
+    "description": "Police, délinquance, narcotrafic, peines et prisons.",
+    "motsCles": [
+      "securite",
+      "police",
+      "gendarmerie",
+      "delinquan",
+      "narcotrafic",
+      "recidive",
+      "peine",
+      "prison",
+      "penitentiaire",
+      "terroris",
+      "legitime defense",
+      "justice criminelle",
+      "ordre public"
+    ]
+  },
+  {
+    "id": "ecologie-energie",
+    "titre": "Écologie et énergie",
+    "description": "Climat, énergie, pollution, biodiversité, agriculture.",
+    "motsCles": [
+      "climat",
+      "energie",
+      "environnement",
+      "biodiversite",
+      "pesticide",
+      "pfas",
+      "nucleaire",
+      "hydroelectricite",
+      "renouvelable",
+      "pollution",
+      "polluant",
+      "transition energetique",
+      "plastique"
+    ]
+  },
+  {
+    "id": "education",
+    "titre": "École et études",
+    "description": "École, enseignants, élèves, université, bourses et vie étudiante.",
+    "motsCles": [
+      "ecole",
+      "education",
+      "enseignant",
+      "eleve",
+      "universite",
+      "etudiant",
+      "bourse",
+      "scolaire",
+      "lycee",
+      "college",
+      "enseignement"
+    ]
+  },
+  {
+    "id": "fin-de-vie",
+    "titre": "Fin de vie et bioéthique",
+    "description": "Aide à mourir, soins palliatifs, PMA, bioéthique.",
+    "motsCles": [
+      "fin de vie",
+      "aide a mourir",
+      "soins palliatifs",
+      "euthanasie",
+      "suicide assiste",
+      "bioethique",
+      "procreation"
+    ]
+  },
+  {
+    "id": "travail-emploi",
+    "titre": "Travail et emploi",
+    "description": "Chômage, conditions de travail, salariés, entreprises, apprentissage.",
+    "motsCles": [
+      "travail",
+      "emploi",
+      "chomage",
+      "salarie",
+      "licenciement",
+      "apprentissage",
+      "assurance chomage",
+      "plein emploi",
+      "france travail",
+      "contrat de professionnalisation",
+      "entreprise"
+    ]
+  },
+  {
+    "id": "budget-fiscalite",
+    "titre": "Budget, impôts et dette",
+    "description": "Budget de l'État et de la Sécurité sociale, impôts, dette publique.",
+    "motsCles": [
+      "loi de finances",
+      "projet de loi de finances",
+      "financement de la securite sociale",
+      "impot",
+      "fiscal",
+      "taxe",
+      "dette",
+      "deficit",
+      "patrimoine",
+      "loi speciale",
+      "fin de gestion"
+    ]
+  },
+  {
+    "id": "agriculture",
+    "titre": "Agriculture et alimentation",
+    "description": "Agriculteurs, revenus agricoles, pesticides, alimentation.",
+    "motsCles": [
+      "agricol",
+      "agriculteur",
+      "paysan",
+      "alimentation",
+      "alimentaire",
+      "elevage",
+      "foncier agricole",
+      "pesticide",
+      "souverainete alimentaire",
+      "peche"
+    ]
+  },
+  {
+    "id": "institutions",
+    "titre": "Institutions et démocratie",
+    "description": "Fonctionnement de la République, élections, Parlement, 49.3, référendum.",
+    "motsCles": [
+      "constitution",
+      "election",
+      "electoral",
+      "mode de scrutin",
+      "referendum",
+      "parlement",
+      "49",
+      "mandat",
+      "elu local",
+      "statut de l'elu",
+      "proportionnelle",
+      "motion de censure",
+      "declaration de politique generale"
+    ]
+  },
+  {
+    "id": "europe-international",
+    "titre": "Europe et international",
+    "description": "Union européenne, traités, Ukraine, Proche-Orient, commerce international.",
+    "motsCles": [
+      "europeen",
+      "union europeenne",
+      "ukraine",
+      "israel",
+      "palestin",
+      "gaza",
+      "accord commercial",
+      "mercosur",
+      "traite",
+      "convention",
+      "international",
+      "armenie",
+      "azerbaidjan"
+    ]
+  },
+  {
+    "id": "defense",
+    "titre": "Défense et armées",
+    "description": "Armées, programmation militaire, réservistes, industrie de défense.",
+    "motsCles": [
+      "defense",
+      "militaire",
+      "armee",
+      "programmation militaire",
+      "reserve",
+      "reserviste",
+      "anciens combattants",
+      "sapeurs-pompiers"
+    ]
+  },
+  {
+    "id": "outre-mer",
+    "titre": "Outre-mer",
+    "description": "Mayotte, Nouvelle-Calédonie, Antilles, Réunion, vie chère et services publics ultramarins.",
+    "motsCles": [
+      "outre-mer",
+      "outre mer",
+      "mayotte",
+      "nouvelle-caledonie",
+      "caledonie",
+      "guadeloupe",
+      "martinique",
+      "guyane",
+      "reunion",
+      "polynesie",
+      "wallis",
+      "ultramarin",
+      "chlordecone"
+    ]
+  },
+  {
+    "id": "numerique",
+    "titre": "Numérique et réseaux sociaux",
+    "description": "Réseaux sociaux, protection des mineurs en ligne, données, intelligence artificielle.",
+    "motsCles": [
+      "numerique",
+      "reseaux sociaux",
+      "internet",
+      "en ligne",
+      "donnees",
+      "intelligence artificielle",
+      "plateforme",
+      "tiktok",
+      "cyber"
+    ]
+  },
+  {
+    "id": "handicap-autonomie",
+    "titre": "Handicap, grand âge et autonomie",
+    "description": "Personnes handicapées, aidants, EHPAD, perte d'autonomie.",
+    "motsCles": [
+      "handicap",
+      "autonomie",
+      "aidant",
+      "ehpad",
+      "personnes agees",
+      "grand age",
+      "dependance",
+      "fauteuils roulants",
+      "accompagnants d'eleves"
+    ]
+  },
+  {
+    "id": "enfance-famille",
+    "titre": "Enfance et famille",
+    "description": "Protection de l'enfance, crèches, allocations familiales, parentalité.",
+    "motsCles": [
+      "enfant",
+      "enfance",
+      "mineur",
+      "creche",
+      "famille",
+      "familial",
+      "parental",
+      "parentalite",
+      "allocations familiales",
+      "adoption",
+      "aide sociale a l'enfance"
+    ]
+  },
+  {
+    "id": "transports",
+    "titre": "Transports et mobilité",
+    "description": "Trains, routes, transports en commun, sécurité routière, aérien.",
+    "motsCles": [
+      "transport",
+      "ferroviaire",
+      "sncf",
+      "routier",
+      "routiere",
+      "mobilite",
+      "aerien",
+      "autoroute",
+      "vehicule",
+      "permis de conduire"
+    ]
+  },
+  {
+    "id": "culture-medias",
+    "titre": "Culture et médias",
+    "description": "Audiovisuel public, presse, patrimoine, création, sport.",
+    "motsCles": [
+      "culture",
+      "culturel",
+      "audiovisuel",
+      "presse",
+      "patrimoine",
+      "musee",
+      "cinema",
+      "droits voisins",
+      "sport",
+      "olympiques"
+    ]
+  },
+  {
+    "id": "discriminations",
+    "titre": "Discriminations et droits",
+    "description": "Racisme, antisémitisme, droits des personnes LGBT, égalité des chances.",
+    "motsCles": [
+      "discrimination",
+      "racisme",
+      "antisemitisme",
+      "homosexualite",
+      "lgbt",
+      "homophobie",
+      "egalite des chances",
+      "haine",
+      "code noir"
+    ]
+  },
+  {
+    "id": "laicite-religions",
+    "titre": "Laïcité et religions",
+    "description": "Laïcité, séparatisme, signes religieux, cultes.",
+    "motsCles": [
+      "laicite",
+      "religieu",
+      "culte",
+      "separatisme",
+      "voile",
+      "islamisme",
+      "principes de la republique"
+    ]
+  },
+  {
+    "id": "territoires",
+    "titre": "Territoires et services publics",
+    "description": "Ruralité, communes, collectivités, services publics de proximité.",
+    "motsCles": [
+      "rural",
+      "ruralite",
+      "commune",
+      "collectivite",
+      "territorial",
+      "departement",
+      "region",
+      "service public",
+      "services publics",
+      "intercommunal",
+      "maire"
+    ]
+  },
+  {
+    "id": "animaux",
+    "titre": "Bien-être animal",
+    "description": "Protection des animaux, chasse, élevage, animaux de compagnie.",
+    "motsCles": [
+      "animal",
+      "animaux",
+      "animale",
+      "chasse",
+      "maltraitance animale",
+      "corrida",
+      "faune",
+      "frelon"
+    ]
+  }
+]

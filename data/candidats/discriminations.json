@@ -1,0 +1,934 @@
+{
+  "sujet": "discriminations",
+  "titre": "Discriminations et droits",
+  "genereLe": "2026-10-30T15:04:08.471Z",
+  "textes": [
+    {
+      "texte": "proposition de loi portant abrogation du « code noir »",
+      "legislature": 17,
+      "motsCles": [
+        "code noir"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V7002",
+          "legislature": 17,
+          "numero": 7002,
+          "date": "2026-05-28",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi portant abrogation du « code noir » (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7002",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6995",
+          "legislature": 17,
+          "numero": 6995,
+          "date": "2026-05-28",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi portant abrogation du « code noir » (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6995",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7001",
+          "legislature": 17,
+          "numero": 7001,
+          "date": "2026-05-28",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 de la proposition de loi portant abrogation du « code noir » (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7001",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6993",
+          "legislature": 17,
+          "numero": 6993,
+          "date": "2026-05-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 15 de M. William à l'article premier de la proposition de loi portant abrogation du « code noir » (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6993",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6994",
+          "legislature": 17,
+          "numero": 6994,
+          "date": "2026-05-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 16 de M. William à l'article premier de la proposition de loi portant abrogation du « code noir » (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6994",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6996",
+          "legislature": 17,
+          "numero": 6996,
+          "date": "2026-05-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 2 de M. Nadeau après l'article premier de la proposition de loi portant abrogation du « code noir » (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6996",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6997",
+          "legislature": 17,
+          "numero": 6997,
+          "date": "2026-05-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 22 de M. Nilor à l'article 2 de la proposition de loi portant abrogation du « code noir » (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6997",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6998",
+          "legislature": 17,
+          "numero": 6998,
+          "date": "2026-05-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 25 de M. Nilor à l'article 2 de la proposition de loi portant abrogation du « code noir » (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6998",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6999",
+          "legislature": 17,
+          "numero": 6999,
+          "date": "2026-05-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 23 de M. Nilor à l'article 2 de la proposition de loi portant abrogation du « code noir » (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6999",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7000",
+          "legislature": 17,
+          "numero": 7000,
+          "date": "2026-05-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 27 de M. Nilor à l'article 2 de la proposition de loi portant abrogation du « code noir » (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7000",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi portant réparation des personnes condamnées pour homosexualité entre 1945 et 1982",
+      "legislature": 17,
+      "motsCles": [
+        "homosexualite"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V4836",
+          "legislature": 17,
+          "numero": 4836,
+          "date": "2025-12-18",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi portant réparation des personnes condamnées pour homosexualité entre 1945 et 1982 (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4836",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4829",
+          "legislature": 17,
+          "numero": 4829,
+          "date": "2025-12-18",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1 de Mme Duby-Muller à l'article premier de la proposition de loi portant réparation des personnes condamnées pour homosexualité entre 1945 et 1982 (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4829",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4830",
+          "legislature": 17,
+          "numero": 4830,
+          "date": "2025-12-18",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 3 de M. Kerbrat à l'article premier de la proposition de loi portant réparation des personnes condamnées pour homosexualité entre 1945 et 1982 (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4830",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4831",
+          "legislature": 17,
+          "numero": 4831,
+          "date": "2025-12-18",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 6 de M. Kerbrat à l'article premier de la proposition de loi portant réparation des personnes condamnées pour homosexualité entre 1945 et 1982 (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4831",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4832",
+          "legislature": 17,
+          "numero": 4832,
+          "date": "2025-12-18",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 7 de Mme Amiot à l'article premier de la proposition de loi portant réparation des personnes condamnées pour homosexualité entre 1945 et 1982 (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4832",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4833",
+          "legislature": 17,
+          "numero": 4833,
+          "date": "2025-12-18",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 5 de M. Fernandes à l'article premier de la proposition de loi portant réparation des personnes condamnées pour homosexualité entre 1945 et 1982 (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4833",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4834",
+          "legislature": 17,
+          "numero": 4834,
+          "date": "2025-12-18",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 15 de Mme Regol à l'article premier de la proposition de loi portant réparation des personnes condamnées pour homosexualité entre 1945 et 1982 (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4834",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4835",
+          "legislature": 17,
+          "numero": 4835,
+          "date": "2025-12-18",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 14 de Mme Regol à l'article premier de la proposition de loi portant réparation des personnes condamnées pour homosexualité entre 1945 et 1982 (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4835",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi relative à la lutte contre l'antisémitisme dans l'enseignement supérieur",
+      "legislature": 17,
+      "motsCles": [
+        "antisemitisme"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V2880",
+          "legislature": 17,
+          "numero": 2880,
+          "date": "2025-07-02",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi relative à la lutte contre l'antisémitisme dans l'enseignement supérieur (texte de la commission mixte paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2880",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V2879",
+          "legislature": 17,
+          "numero": 2879,
+          "date": "2025-07-02",
+          "type": "motion",
+          "resultat": "rejeté",
+          "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, de la proposition de loi relative à la lutte contre l'antisémitisme dans l'enseignement supérieur (texte de la commission mixte paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2879",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur",
+      "legislature": 17,
+      "motsCles": [
+        "discrimination",
+        "racisme",
+        "antisemitisme",
+        "haine"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V1601",
+          "legislature": 17,
+          "numero": 1601,
+          "date": "2025-05-07",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1601",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1573",
+          "legislature": 17,
+          "numero": 1573,
+          "date": "2025-05-06",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1573",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1585",
+          "legislature": 17,
+          "numero": 1585,
+          "date": "2025-05-07",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1585",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1596",
+          "legislature": 17,
+          "numero": 1596,
+          "date": "2025-05-07",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 4 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1596",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1571",
+          "legislature": 17,
+          "numero": 1571,
+          "date": "2025-05-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 33 de M. Gustave à l'article premier de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1571",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1572",
+          "legislature": 17,
+          "numero": 1572,
+          "date": "2025-05-06",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 53 de Mme Yadan à l'article premier de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1572",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1574",
+          "legislature": 17,
+          "numero": 1574,
+          "date": "2025-05-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 7 de Mme Mesmeur à l'article 2 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1574",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1575",
+          "legislature": 17,
+          "numero": 1575,
+          "date": "2025-05-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 6 de Mme Mesmeur à l'article 2 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1575",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1576",
+          "legislature": 17,
+          "numero": 1576,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 12 de M. Chudeau à l'article 2 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1576",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1577",
+          "legislature": 17,
+          "numero": 1577,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 11 de M. Chudeau à l'article 2 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1577",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1578",
+          "legislature": 17,
+          "numero": 1578,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 35 de M. Gustave à l'article 2 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1578",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1579",
+          "legislature": 17,
+          "numero": 1579,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 36 de M. Gustave à l'article 2 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1579",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1580",
+          "legislature": 17,
+          "numero": 1580,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 5 de Mme Mesmeur à l'article 2 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1580",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1581",
+          "legislature": 17,
+          "numero": 1581,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 48 de Mme Le Grip à l'article 2 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1581",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1582",
+          "legislature": 17,
+          "numero": 1582,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 56 de Mme Yadan à l'article 2 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1582",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1583",
+          "legislature": 17,
+          "numero": 1583,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 57 de Mme Yadan à l'article 2 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1583",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1584",
+          "legislature": 17,
+          "numero": 1584,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 58 de Mme Yadan à l'article 2 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1584",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1593",
+          "legislature": 17,
+          "numero": 1593,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 46 de M. Henriet à l'article 3 (supprimé) de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1593",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1594",
+          "legislature": 17,
+          "numero": 1594,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 67 de Mme Yadan après l'article 3 bis de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1594",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1595",
+          "legislature": 17,
+          "numero": 1595,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 69 de Mme Yadan après l'article 3 bis de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1595",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1597",
+          "legislature": 17,
+          "numero": 1597,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 61 de Mme Yadan après l'article 4 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1597",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1598",
+          "legislature": 17,
+          "numero": 1598,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 41 de Henriet de suppression de l'article 5 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1598",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1599",
+          "legislature": 17,
+          "numero": 1599,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 42 de Henriet de suppression de l'article 6 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1599",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1600",
+          "legislature": 17,
+          "numero": 1600,
+          "date": "2025-05-07",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 43 de Henriet de suppression de l'article 7 de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1600",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1586",
+          "legislature": 17,
+          "numero": 1586,
+          "date": "2025-05-07",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 70 de M. Boyard à l'amendement n° 46 de M. Henriet à l'article 3 (supprimé) de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1586",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1587",
+          "legislature": 17,
+          "numero": 1587,
+          "date": "2025-05-07",
+          "type": "sous-amendement",
+          "resultat": "adopté",
+          "titre": "le sous-amendement n° 92 de M. Portier à l'amendement n° 46 de M. Henriet à l'article 3 (supprimé) de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1587",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1588",
+          "legislature": 17,
+          "numero": 1588,
+          "date": "2025-05-07",
+          "type": "sous-amendement",
+          "resultat": "adopté",
+          "titre": "le sous-amendement n° 96 du Gouvernement et le sous-amendement identique suivant à l'amendement n° 46 de M. Henriet à l'article 3 (supprimé) de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1588",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1589",
+          "legislature": 17,
+          "numero": 1589,
+          "date": "2025-05-07",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 85 rectifié de Mme Yadan à l'amendement n° 46 de M. Henriet à l'article 3 (supprimé) de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1589",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1590",
+          "legislature": 17,
+          "numero": 1590,
+          "date": "2025-05-07",
+          "type": "sous-amendement",
+          "resultat": "adopté",
+          "titre": "le sous-amendement n° 42 de M. Boyard et les sous-amendements identiques suivants à l'amendement n° 46 de M. Henriet à l'article 3 (supprimé) de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1590",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1591",
+          "legislature": 17,
+          "numero": 1591,
+          "date": "2025-05-07",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 77 de M. Boyard à l'amendement n° 46 de M. Henriet à l'article 3 (supprimé) de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1591",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1592",
+          "legislature": 17,
+          "numero": 1592,
+          "date": "2025-05-07",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 74 de M. Boyard à l'amendement n° 46 de M. Henriet à l'article 3 (supprimé) de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1592",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à protéger les personnes engagées dans un projet parental des discriminations au travail",
+      "legislature": 17,
+      "motsCles": [
+        "discrimination"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V1553",
+          "legislature": 17,
+          "numero": 1553,
+          "date": "2025-05-05",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à protéger les personnes engagées dans un projet parental des discriminations au travail (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1553",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1551",
+          "legislature": 17,
+          "numero": 1551,
+          "date": "2025-05-05",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi visant à protéger les personnes engagées dans un projet parental des discriminations au travail (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1551",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1552",
+          "legislature": 17,
+          "numero": 1552,
+          "date": "2025-05-05",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 de la proposition de loi visant à protéger les personnes engagées dans un projet parental des discriminations au travail (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1552",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à proroger le dispositif d'expérimentation favorisant l'égalité des chances pour l'accès à certaines écoles de service public",
+      "legislature": 17,
+      "motsCles": [
+        "egalite des chances"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V840",
+          "legislature": 17,
+          "numero": 840,
+          "date": "2025-02-18",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à proroger le dispositif d'expérimentation favorisant l'égalité des chances pour l'accès à certaines écoles de service public (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/840",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V838",
+          "legislature": 17,
+          "numero": 838,
+          "date": "2025-02-18",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi visant à proroger le dispositif d'expérimentation favorisant l'égalité des chances pour l'accès à certaines écoles de service public (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/838",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V839",
+          "legislature": 17,
+          "numero": 839,
+          "date": "2025-02-18",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 8 du Gouvernement de suppression de l'article 2 ter de la proposition de loi visant à proroger le dispositif d'expérimentation favorisant l'égalité des chances pour l'accès à certaines écoles de service public (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/839",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à reconnaître et à sanctionner la discrimination capillaire",
+      "legislature": 16,
+      "motsCles": [
+        "discrimination"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3624",
+          "legislature": 16,
+          "numero": 3624,
+          "date": "2024-03-28",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à reconnaître et à sanctionner la discrimination capillaire (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3624",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi portant reconnaissance de la Nation et réparation des préjudices subis par les personnes condamnées pour homosexualité entre 1942 et 1982",
+      "legislature": 16,
+      "motsCles": [
+        "homosexualite"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3436",
+          "legislature": 16,
+          "numero": 3436,
+          "date": "2024-03-06",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi portant reconnaissance de la Nation et réparation des préjudices subis par les personnes condamnées pour homosexualité entre 1942 et 1982 (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3436",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à lutter contre les discriminations par la pratique de tests individuels et statistiques",
+      "legislature": 16,
+      "motsCles": [
+        "discrimination"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3144",
+          "legislature": 16,
+          "numero": 3144,
+          "date": "2023-12-06",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à lutter contre les discriminations par la pratique de tests individuels et statistiques (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3144",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3139",
+          "legislature": 16,
+          "numero": 3139,
+          "date": "2023-12-06",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi visant à lutter contre les discriminations par la pratique de tests individuels et statistiques (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3139",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3141",
+          "legislature": 16,
+          "numero": 3141,
+          "date": "2023-12-06",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 de la proposition de loi visant à lutter contre les discriminations par la pratique de tests individuels et statistiques (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3141",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3143",
+          "legislature": 16,
+          "numero": 3143,
+          "date": "2023-12-06",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 3 de la proposition de loi visant à lutter contre les discriminations par la pratique de tests individuels et statistiques (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3143",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3137",
+          "legislature": 16,
+          "numero": 3137,
+          "date": "2023-12-06",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 46 de M. Taché à l'article premier de la proposition de loi visant à lutter contre les discriminations par la pratique de tests individuels et statistiques (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3137",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3138",
+          "legislature": 16,
+          "numero": 3138,
+          "date": "2023-12-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 19 de Mme Karamanli à l'article premier de la proposition de loi visant à lutter contre les discriminations par la pratique de tests individuels et statistiques (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3138",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3140",
+          "legislature": 16,
+          "numero": 3140,
+          "date": "2023-12-06",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 24 de Mme Chassaniol et les amendements identiques suivants à l'article 2 de la proposition de loi visant à lutter contre les discriminations par la pratique de tests individuels et statistiques (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3140",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3142",
+          "legislature": 16,
+          "numero": 3142,
+          "date": "2023-12-06",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 10 de M. Serva et les amendements identiques suivants à l'article 3 de la proposition de loi visant à lutter contre les discriminations par la pratique de tests individuels et statistiques (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3142",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à instaurer une majorité numérique et à lutter contre la haine en ligne",
+      "legislature": 16,
+      "motsCles": [
+        "haine"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V1108",
+          "legislature": 16,
+          "numero": 1108,
+          "date": "2023-03-02",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à instaurer une majorité numérique et à lutter contre la haine en ligne (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1108",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2075",
+          "legislature": 16,
+          "numero": 2075,
+          "date": "2023-06-28",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l’ensemble de la proposition de loi visant à instaurer une majorité numérique et à lutter contre la haine en ligne (texte de la commission mixte paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2075",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1106",
+          "legislature": 16,
+          "numero": 1106,
+          "date": "2023-03-02",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 51 de Mme Amiot à l'article 2 de la proposition de loi visant à instaurer une majorité numérique et à lutter contre la haine en ligne (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1106",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1107",
+          "legislature": 16,
+          "numero": 1107,
+          "date": "2023-03-02",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 62 de M. Arenas à l'article 4 de la proposition de loi visant à instaurer une majorité numérique et à lutter contre la haine en ligne (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1107",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi portant réparation des préjudices subis par les personnes condamnées pour homosexualité entre 1942 et 1982",
+      "legislature": 16,
+      "motsCles": [
+        "homosexualite"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3432",
+          "legislature": 16,
+          "numero": 3432,
+          "date": "2024-03-06",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi portant réparation des préjudices subis par les personnes condamnées pour homosexualité entre 1942 et 1982 (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3432",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3433",
+          "legislature": 16,
+          "numero": 3433,
+          "date": "2024-03-06",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 33 de M. Saulignac à l'article 3 de la proposition de loi portant réparation des préjudices subis par les personnes condamnées pour homosexualité entre 1942 et 1982 (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3433",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3435",
+          "legislature": 16,
+          "numero": 3435,
+          "date": "2024-03-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 10 de M. Kerbrat à l'article 4 de la proposition de loi portant réparation des préjudices subis par les personnes condamnées pour homosexualité entre 1942 et 1982 (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3435",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3434",
+          "legislature": 16,
+          "numero": 3434,
+          "date": "2024-03-06",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 40  de M. Saulignac à l'amendement n° 10 de M. Kerbrat à l'article 4 de la proposition de loi portant réparation des préjudices subis par les personnes condamnées pour homosexualité entre 1942 et 1982 (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3434",
+          "dejaRetenu": false
+        }
+      ]
+    }
+  ]
+}

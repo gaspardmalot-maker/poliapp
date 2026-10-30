@@ -1,0 +1,647 @@
+{
+  "sujet": "europe-international",
+  "auto": true,
+  "note": "Pré-sélection automatique (scripts/brouillon.mjs). Passer « statut » à « valide » après relecture : l’entrée ne sera plus modifiée.",
+  "scrutins": [
+    {
+      "id": "VTANR5L17V8611",
+      "resume": "Proposition de résolution visant à refonder l'espace Schengen en instaurant une double frontière nationale et européenne (article 34-1 de la Constitution)",
+      "statut": "auto",
+      "explications": {
+        "RN": {
+          "ancre": "4177860",
+          "citations": [
+            "Philippe et Attal, défendent publiquement le renforcement du contrôle des frontières, les membres de leurs groupes respectifs annoncent qu'ils ne voteront pas cette résolution."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "4178317",
+          "citations": [
+            "Cette résolution est la revanche des idées qu'il n'ose plus assumer publiquement. C'est pourquoi nous voterons contre."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4178348",
+          "citations": [
+            "Je le répète, on ne protège pas une maison commune en murant chacune de ses pièces. Nous voterons résolument contre votre proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4177659",
+          "citations": [
+            "cette proposition de résolution a au moins le mérite de poser le sujet d'une nécessaire refondation de Schengen, le groupe Droite républicaine votera en sa faveur."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4177891",
+          "citations": [
+            "Le groupe Écologiste et social votera contre la frontière du soupçon, contre la France qui trie, contre la politique du bouc émissaire et pour cette Europe fraternelle et fédérale que nos aînés ont rêvée jusque dans les prisons."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4178098",
+          "citations": [
+            "Pour l'ensemble de ces raisons, nous voterons contre la proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "4177939",
+          "citations": [
+            "Une fois de plus, vous avez tombé le masque avec votre programme de polichinelle. Pour toutes ces raisons, pour l'ensemble de votre œuvre, pour votre arnaque permanente, le groupe Horizons & indépendants votera contre votre résolution."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4178179",
+          "citations": [
+            "Cependant, réinstaller durablement des frontières nationales au cœur de l'Europe, c'est en perdre l'esprit fondateur et fragiliser ce que nous devons, au contraire, chercher à consolider. Pour toutes ces raisons, notre groupe votera contre cette proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "4177919",
+          "citations": [
+            "Mais surtout, ce texte, comme tant d'autres, révèle la tristesse de votre vision du monde et votre mépris d'une humanité que vous avez oubliée. Nous voterons évidemment contre ce texte profondément raciste."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V4244",
+      "resume": "Proposition de résolution invitant le Gouvernement de la République française à s’opposer à l’adoption de l’accord commercial entre l’Union européenne et le Mercosur (article 34-1 de la Constitution)",
+      "statut": "auto",
+      "explications": {
+        "Dem": {
+          "ancre": "3943885",
+          "citations": [
+            "Malgré certaines avancées, l'accord commercial entre l'Union européenne et le Mercosur n'est donc pas conforme, en l'état, aux demandes de la représentation nationale. Le groupe Les Démocrates votera donc en faveur de cette proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3943937",
+          "citations": [
+            "Nous voterons celle de La France insoumise contre le Mercosur parce que c'est bon pour la France."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3943948",
+          "citations": [
+            "Cette proposition de résolution invite le gouvernement à chercher la voie d'une minorité de blocage au Conseil et à saisir la Cour de justice de l'Union européenne. Bien évidemment, les députés communistes et du groupe de la Gauche démocrate et républicaine la voteront."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3944043",
+          "citations": [
+            "C'est vous qui cherchez chaque jour dans cet hémicycle, avec vos alliés de gauche, à provoquer l'inflation de normes environnementales qui entravent la vie des agriculteurs au quotidien. Nous voterons donc la proposition de résolution, mais les agriculteurs savent qui les infantilise, qui les utilise, et surtout ils savent qui les défend."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3944046",
+          "citations": [
+            "Nous voterons donc malgré tout pour cette proposition de résolution, mais c'est parce que nous sommes animés par le souci de la cohérence et de l'intérêt général."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3943899",
+          "citations": [
+            "Le gouvernement français doit tenir parole en actionnant le dernier levier à sa disposition pour faire obstacle à la marginalisation des parlements nationaux et empêcher la ratification sinon précipitée, en tout cas préjudiciable, d'un accord commercial largement décrié par les citoyens européens. Le groupe Libertés, indépendants, outre-mer et territoires votera donc majoritairement pour cette proposition de résolution."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V3991",
+      "resume": "Proposition de résolution portant sur la procédure de ratification de l'accord économique et commercial global entre le Canada et l'Union européenne (art. 34-1 de la Constitution)",
+      "statut": "auto",
+      "explications": {
+        "Ecolo-NUPES": {
+          "ancre": "3486341",
+          "citations": [
+            "Le groupe Écologiste-NUPES votera bien évidemment le texte et appelle solennellement le Gouvernement à inscrire, dans les plus brefs délais, le projet de loi de ratification du Ceta à l'ordre du jour de l'Assemblée nationale."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "3487373",
+          "citations": [
+            "En attendant, nous nous abstiendrons – nous ne sommes pas contre la démocratie, mais quelle tristesse pour la démocratie, d'entendre raconter n'importe quoi, intervention après intervention !"
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3486390",
+          "citations": [
+            "Nous voterons donc pour cette résolution, pour une véritable consultation démocratique sur le Ceta, pour que le Gouvernement retourne à Bruxelles, contraint par le peuple et ses représentants d'expliquer à la Commission européenne que la France refuse de ratifier ce traité."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3487379",
+          "citations": [
+            "Le traité fait donc plus de perdants que de gagnants. Voilà pourquoi les Républicains s'opposent à sa ratification et voteront la résolution proposée par nos collègues communistes."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3486494",
+          "citations": [
+            "Il appartiendra au Gouvernement de poursuivre la procédure de ratification du texte issu du Sénat, comme le prévoient la Constitution et notre règlement. En raison des excès que l'on peut lire dans ses considérants, le groupe Horizons et apparentés s'abstiendra sur cette proposition de résolution."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V3407",
+      "resume": "Proposition européenne relative à l'adoption d'une loi européenne sur l'espace",
+      "statut": "auto",
+      "explications": {
+        "RN": {
+          "ancre": "3388105",
+          "citations": [
+            "Le Rassemblement national s'abstiendra"
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3386181",
+          "citations": [
+            "En réalité, pour que les aspirations exprimées dans ce texte se concrétisent pleinement, il faudra avant tout une volonté politique forte, un engagement ferme et coordonné des États membres, ainsi qu'une capacité à mobiliser les ressources nécessaires. C'est pourquoi le groupe Les Républicains s'abstiendra."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3386190",
+          "citations": [
+            "Nous devons garder à l'esprit que le spatial, omniprésent dans nos vies, est un outil de souveraineté et un puissant levier de croissance. C'est donc avec enthousiasme que le groupe Démocrate soutiendra la présente proposition de résolution européenne."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3386202",
+          "citations": [
+            "Le groupe Socialistes, qui votera en faveur de cette proposition de résolution européenne, insiste sur le fait que la loi européenne sur l'espace devra être accompagnée, sans attendre, d'une véritable politique industrielle européenne, dotée de financements massifs."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3386640",
+          "citations": [
+            "Elle est donc parfaitement fondée à inciter, avec cette proposition de résolution, la Commission européenne à promouvoir une loi européenne sur l'espace. Pour toutes ces raisons, le groupe Horizons et apparentés votera en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "3388349",
+          "citations": [
+            "Je serai bref ; lors de la discussion générale, j'ai expliqué les raisons pour lesquelles le groupe GDR s'abstiendrait."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3388354",
+          "citations": [
+            "Comme je l'ai indiqué lors de la discussion générale, le groupe Libertés, indépendants, outre-mer et territoires votera pour cette proposition de résolution européenne."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3388345",
+          "citations": [
+            "Pour ces raisons et pour aller toujours et encore plus loin, notre groupe soutiendra ce texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V1804",
+      "resume": "Proposition de résolution relative à l'accord commercial entre l'Union européenne et le Mercosur (article 34-1 de la Constitution)",
+      "statut": "auto",
+      "explications": {
+        "Dem": {
+          "ancre": "3152574",
+          "citations": [
+            "et constitueraient un pied de nez à l'environnement. Le groupe Démocrate votera bien évidemment pour cette résolution."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3153198",
+          "citations": [
+            "Les députés du groupe Horizon et apparentés voteront cette proposition de résolution, coconstruite par les représentants de neuf groupes parlementaires."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3153191",
+          "citations": [
+            "Si vous n'avez pas confiance en lui, votez-la également, afin d'être en mesure de ne pas le ratifier. C'est parce que nous sommes résolument opposés à l'accord UE-Mercosur que nous voterons la proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "3153201",
+          "citations": [
+            "C'est parce que nous sommes opposés à l'accord UE-Mercosur que les députés du groupe GDR-NUPES voteront, à quelques exceptions près, la proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3153215",
+          "citations": [
+            "Il fut un temps où nous n'étions pas nécessairement unanimes à ce sujet, mais nous avons compris qu'il nous était impossible de mettre nos agriculteurs en concurrence, alors que les conditions environnementales et sociales faussent celle-ci. Le groupe LIOT votera la proposition de résolution, en espérant que, par la suite, le Gouvernement s'y tiendra."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3153517",
+          "citations": [
+            "Au Parlement européen, vos amis du groupe Renew Europe ainsi que le PPE – Parti populaire européen – ne s'y opposent pas non plus. Nous voterons évidemment la proposition de résolution qui, bien que très insuffisante, va dans le bon sens."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "3153524",
+          "citations": [
+            "Pour toutes ces raisons, nous voterons contre la proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3153547",
+          "citations": [
+            "Finalement, paysans et consommateurs, même combat. Nous voterons la proposition de résolution car nous sommes contre le Mercosur."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V1501",
+      "resume": "Proposition de loi visant à rendre obligatoire le pavoisement des drapeaux français et européen sur le fronton des mairies",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "HOR": {
+          "ancre": "3107222",
+          "citations": [
+            "Contraints par les règles de recevabilité des amendements, nous ne pouvons que demander un rapport – c'est l'objet de l'unique amendement de notre groupe –, mais insistons en faveur d'un financement par l'État de ce dispositif. Le groupe Horizons et apparentés votera cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3110370",
+          "citations": [
+            "Ce n'est pas sincère ! En conséquence, nous nous abstiendrons."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3106932",
+          "citations": [
+            "Elle est contestable sur le fond. N'étant pas adepte de l'effort inutile et encore moins de vos stratégies de communication, le groupe Rassemblement national votera contre ce texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V1483",
+      "resume": "Proposition de résolution visant à appeler la France et l'Union européenne à inscrire le groupe militaire privé Wagner sur la liste des organisations terroristes (article 34-1 de la Constitution)",
+      "statut": "auto",
+      "explications": {
+        "RN": {
+          "ancre": "3106086",
+          "citations": [
+            "Il nous paraît clair que ce groupe paramilitaire porte atteinte à nos intérêts nationaux et que certaines de ses actions revêtent un caractère illégal, voire criminel. Au nom du respect de nos intérêts comme du droit international, le groupe Rassemblement national votera cette proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3106160",
+          "citations": [
+            "Nous ne voulons pas revenir à cette époque, mais que la civilisation et l'État de droit continuent de progresser ; c'est pourquoi notre groupe votera bien évidemment en faveur de cette proposition de résolution !"
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3106163",
+          "citations": [
+            "Le groupe MODEM votera évidemment pour ce texte, de même que l'immense majorité des membres de notre assemblée."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3106528",
+          "citations": [
+            "Ce classement constituerait un signal important, à l'heure où cette milice instrumentalise ouvertement le sentiment antifrançais – et plus globalement anti-occidental – sur le continent africain, et à l'heure où elle manifeste des velléités dans d'autres régions du monde. Pour toutes ces raisons, les députés du groupe Socialistes et apparentés voteront en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3106536",
+          "citations": [
+            "Nous devons aussi renforcer notre capacité à lutter contre les actions d'influence de ce groupe chez nos partenaires et alliés. Le groupe Horizons et apparentés votera donc en faveur de cette proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3105676",
+          "citations": [
+            "Le groupe Libertés, indépendants, outre-mer et territoires appelle l'ensemble des représentants de la nation à œuvrer pour opposer une action forte et déterminée à Wagner et aux dirigeants de la fédération de Russie. C'est pourquoi notre groupe votera avec conviction la présente résolution."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V1456",
+      "resume": "Proposition de résolution réaffirmant la nécessité d'une solution à deux États et condamnant l'institutionnalisation par l'État d'Israël d'un régime d'apartheid consécutif à sa politique coloniale (art. 34-1 de la Constitution)",
+      "statut": "auto",
+      "explications": {
+        "RN": {
+          "ancre": "3100721",
+          "citations": [
+            "Nous souhaitons également – et c'est pourquoi nous voterons contre cette résolution honteuse aux relents antisémites –, avec la paix au Proche-Orient, la sécurité pour nos compatriotes de confession juive."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "3100666",
+          "citations": [
+            "parce que nous partageons le constat général établi par le texte, et parce que nous jugeons indispensable la reprise d'un processus actif de négociations pour qu'Israéliens et Palestiniens puissent vivre en paix, en sécurité et à égalité de droits, nous voterons en faveur de cette proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3101025",
+          "citations": [
+            "Anatole France écrivait que l'antisémitisme, c'est la mort de la civilisation. Tout le groupe LR, dont je suis fier, votera contre cette résolution de la honte avec clarté et détermination."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3100830",
+          "citations": [
+            "Nous ne voterons pas, pour toutes ces raisons, la résolution proposée par M."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3100765",
+          "citations": [
+            "Le groupe Horizons et apparentés votera donc contre cette proposition de résolution, qui présente une vision biaisée et partisane, fondée sur les rapports de quelques ONG, et qui méprise le droit international."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V652",
+      "resume": "Proposition de résolution affirmant le soutien de l'Assemblée nationale à l'Ukraine et condamnant la guerre menée par la Fédération de Russie (art. 34-1 de la Constitution)",
+      "statut": "auto",
+      "explications": {
+        "RE": {
+          "ancre": "2937154",
+          "citations": [
+            "Le groupe Renaissance soutiendra cette résolution avec détermination et gravité."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "2936129",
+          "citations": [
+            "Rien de ce que j'ai dit ne mérite vos hurlements ou vos critiques ! Le groupe Rassemblement national soutiendra toujours l'ambition d'un gouvernement français qui défend le seul rôle qui sied à la France :…"
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "2936160",
+          "citations": [
+            "Ce devrait pourtant être son objet principal. C'est la raison pour laquelle nous nous abstiendrons."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "2936313",
+          "citations": [
+            "Les députés du groupe Les Républicains voteront cette proposition de résolution proposée par nos collègues de la majorité."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "2936192",
+          "citations": [
+            "La France veut être aux côtés d'une Ukraine libre et indépendante au sein de l'Europe. Le groupe Démocrate soutiendra sans aucune réserve la proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "2936375",
+          "citations": [
+            "Sur les autres points, on note une large convergence, y compris sur les questions territoriales relatives à l'objectif de revenir aux frontières internationalement reconnues de l'Ukraine. C'est pourquoi, avec mes collègues du groupe des députés Socialistes et apparentés, nous voterons évidemment ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "2936424",
+          "citations": [
+            "Parce que notre soutien au peuple ukrainien est le moteur de sa résistance héroïque, le groupe Libertés, indépendants, outre-mer et territoires votera avec force et conviction la présente résolution."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V650",
+      "resume": "Proposition de résolution visant à exiger la fin de l'agression de l'Azerbaïdjan à l'encontre de l'Arménie et à établir une paix durable dans le Caucase du Sud (art. 34-1 de la Constitution)",
+      "statut": "auto",
+      "explications": {
+        "RE": {
+          "ancre": "2936054",
+          "citations": [
+            "C'est donc avec honneur, dignité et humanité et dans un immense élan de fraternité que le groupe Renaissance et, je l'espère, chacun d'entre vous, voteront pour cette proposition de résolution de soutien au peuple arménien."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "2936071",
+          "citations": [
+            "Le groupe du Rassemblement national votera, comme il l'a annoncé, en faveur de la proposition de résolution qui est certes imparfaite, mais indispensable."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "2935701",
+          "citations": [
+            "Aujourd'hui, il n'est plus envisageable que l'Europe finance indirectement l'agresseur azerbaïdjanais en doublant ses importations de gaz. Alors, bien entendu, les députés du groupe Les Républicains soutiendront et voteront en faveur de cette résolution."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "2935806",
+          "citations": [
+            "Avec mes collègues du groupe Socialistes et apparentés, nous voterons donc cette proposition de résolution qui mérite que nous soyons tous rassemblés aux côtés du peuple arménien qui souffre tant."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "2935820",
+          "citations": [
+            "Nous nous engageons à préserver la paix dans le Caucase du Sud. En conséquence, le groupe Horizons et apparentés votera cette proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "2935640",
+          "citations": [
+            "Tout effort que la France entreprendra en ce sens sera à saluer, car il permettra de mettre un terme à ce conflit qui dure depuis bien trop longtemps et qui a coûté bien trop de vies humaines. C'est pourquoi les députés du groupe Écologiste-NUPES voteront la proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "2935647",
+          "citations": [
+            "Je pose ici cette question afin qu'elle soit publique. Et j'affirme que malgré cela nous voterons cette proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "2935661",
+          "citations": [
+            "Avec ces conflits nous avons tout à perdre et rien à gagner. Notre groupe votera donc ce texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V184",
+      "resume": "Projet de loi autorisant la ratification du protocole au Traité de l'Atlantique Nord sur l'accession de la République de Finlande et la ratification du protocole au Traité de l'Atlantique Nord sur l'accession du Royaume de Suède",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "GDR-NUPES": {
+          "ancre": "2843325",
+          "citations": [
+            "Les députés du groupe GDR-NUPES voteront contre le projet de loi ou s'abstiendront afin d'envoyer un message clair au Gouvernement : la solution à la guerre n'est pas dans davantage de guerre, mais dans davantage de paix."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "2843335",
+          "citations": [
+            "Attention donc à ne pas renier les principes et les engagements qui sont les nôtres au nom de l'alliance avec la Turquie. Dans l'attente d'une Europe de la défense puissante, le groupe LIOT soutiendra majoritairement ce texte."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "2843725",
+          "citations": [
+            "L'adhésion de ces pays nordiques va renforcer la place des pays européens au sein de l'OTAN et conforter la profondeur stratégique sur le flanc nordique, scandinave et donc balte. Parce que c'est l'intérêt des deux pays concernés et parce que c'est notre intérêt, le groupe Renaissance votera ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "2843732",
+          "citations": [
+            "Nous privilégierons toujours les modalités les plus utiles pour la paix et pour notre indépendance, plutôt que la mise en place de rapports de force qui ne garantissent pas notre sécurité collective. C'est la raison pour laquelle le groupe La France insoumise-Nouvelle Union populaire, écologique et sociale votera contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "2843751",
+          "citations": [
+            "Le groupe LR votera évidemment l'adhésion de la Suède et de la Finlande en ayant en tête ce mot très fort de Churchill, qui disait qu'un partisan de la politique d'apaisement, c'est celui qui nourrit le crocodile en espérant être mangé le dernier. Nous ne voulons pas être mangés, donc nous voterons oui."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "2843766",
+          "citations": [
+            "Ces événements ramènent dans notre giron, dans notre équipe, des démocraties militaires fortes et citoyennes, renforçant ainsi la démocratie européenne. Le groupe Démocrate votera évidemment pour une telle armée citoyenne et démocrate."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "2843433",
+          "citations": [
+            "Il faut s'en donner les moyens. Pour ces raisons, les députés du groupe Socialistes et apparentés voteront pour ce texte."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "2843650",
+          "citations": [
+            "Néanmoins, en accédant à la demande des Suédois et des Finlandais, nous n'acceptons pas pour autant le chantage turc à l'égard du peuple kurde, auquel nous devons notre solidarité. Le groupe Écologiste-NUPES votera le projet de loi."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V182",
+      "resume": "Proposition de loi portant diverses dispositions d'adaptation au droit de l'Union européenne en matière de prévention de la diffusion de contenus à caractère terroriste en ligne",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "LR": {
+          "ancre": "2839911",
+          "citations": [
+            "Pour toutes ces raisons, et parce que la lutte contre le terrorisme est bien évidemment une priorité pour le groupe Les Républicains, comme pour tous les Français, nous voterons en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "2840187",
+          "citations": [
+            "Comme l'écrit Victor Hugo : « L'ignorance est la nuit qui commence l'abîme. » Le groupe Horizons votera ce texte, qui permettra le retrait en une heure de contenus terroristes en ligne."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "2840214",
+          "citations": [
+            "Néanmoins, ces quelques lacunes ne remettent pas en cause le bien-fondé du texte. Pour toutes ces raisons, le groupe Socialistes et apparentés votera la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "2840235",
+          "citations": [
+            "Malgré des avancées notables ces dernières années, il serait souhaitable de s'inspirer des travaux menés sur ce régime administratif de retrait, conçu pour les seuls contenus à caractère terroriste, en vue d'étendre en toute hypothèse son champ aux contenus pédopornographiques. Bien entendu, le groupe Renaissance votera ce texte."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "2840243",
+          "citations": [
+            "Nous sommes encore dans les premières semaines de la législature et nous nous prononçons déjà sur les contenus terroristes en ligne. Tant mieux, le groupe Rassemblement national votera ce texte."
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "2840260",
+          "citations": [
+            "Le dispositif que vous proposez ne présente pas de garanties suffisantes pour éviter les abus et pour protéger les victimes, et n'offre pas les garanties nécessaires d'indépendance à l'égard tant des plateformes que du pouvoir exécutif. Pour toutes ces raisons, nous voterons contre la proposition de loi."
+          ],
+          "statut": "auto"
+        }
+      }
+    }
+  ]
+}

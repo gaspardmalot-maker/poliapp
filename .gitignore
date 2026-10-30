@@ -1,0 +1,9 @@
+node_modules/
+.cache/
+.claude/
+.DS_Store
+# Programmes des partis : on ne republie pas les documents ni leur texte intégral (droit d'auteur).
+# Seules les courtes citations retenues (data/programmes/extraits/) sont publiées, avec leur source.
+data/programmes/documents/
+data/programmes/textes/
+data/programmes/candidats/

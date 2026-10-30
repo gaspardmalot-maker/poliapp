@@ -1,0 +1,616 @@
+{
+  "sujet": "handicap-autonomie",
+  "titre": "Handicap, grand âge et autonomie",
+  "genereLe": "2026-10-30T15:04:08.201Z",
+  "textes": [
+    {
+      "texte": "proposition de loi visant à créer un corps de fonctionnaires de catégorie B pour les accompagnants d’élèves en situation de handicap",
+      "legislature": 17,
+      "motsCles": [
+        "handicap",
+        "accompagnants d'eleves"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V9203",
+          "legislature": 17,
+          "numero": 9203,
+          "date": "2026-10-29",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à créer un corps de fonctionnaires de catégorie B pour les accompagnants d’élèves en situation de handicap (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9203",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V9202",
+          "legislature": 17,
+          "numero": 9202,
+          "date": "2026-10-29",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi visant à créer un corps de fonctionnaires de catégorie B pour les accompagnants d’élèves en situation de handicap (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9202",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à améliorer la protection et l'accompagnement des parents d'enfants atteints d'un cancer, d'une maladie grave ou d'un handicap",
+      "legislature": 17,
+      "motsCles": [
+        "handicap"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V7270",
+          "legislature": 17,
+          "numero": 7270,
+          "date": "2026-06-02",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à améliorer la protection et l'accompagnement des parents d'enfants atteints d'un cancer, d'une maladie grave ou d'un handicap (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7270",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7262",
+          "legislature": 17,
+          "numero": 7262,
+          "date": "2026-06-02",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 bis de la proposition de loi visant à améliorer la protection et l'accompagnement des parents d'enfants atteints d'un cancer, d'une maladie grave ou d'un handicap (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7262",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7264",
+          "legislature": 17,
+          "numero": 7264,
+          "date": "2026-06-02",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 4 de la proposition de loi visant à améliorer la protection et l'accompagnement des parents d'enfants atteints d'un cancer, d'une maladie grave ou d'un handicap (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7264",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7265",
+          "legislature": 17,
+          "numero": 7265,
+          "date": "2026-06-02",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 4 bis de la proposition de loi visant à améliorer la protection et l'accompagnement des parents d'enfants atteints d'un cancer, d'une maladie grave ou d'un handicap (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7265",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7266",
+          "legislature": 17,
+          "numero": 7266,
+          "date": "2026-06-02",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 5 de la proposition de loi visant à améliorer la protection et l'accompagnement des parents d'enfants atteints d'un cancer, d'une maladie grave ou d'un handicap (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7266",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7267",
+          "legislature": 17,
+          "numero": 7267,
+          "date": "2026-06-02",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 6 de la proposition de loi visant à améliorer la protection et l'accompagnement des parents d'enfants atteints d'un cancer, d'une maladie grave ou d'un handicap (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7267",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7268",
+          "legislature": 17,
+          "numero": 7268,
+          "date": "2026-06-02",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 6 bis de la proposition de loi visant à améliorer la protection et l'accompagnement des parents d'enfants atteints d'un cancer, d'une maladie grave ou d'un handicap (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7268",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7269",
+          "legislature": 17,
+          "numero": 7269,
+          "date": "2026-06-02",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 9 de la proposition de loi visant à améliorer la protection et l'accompagnement des parents d'enfants atteints d'un cancer, d'une maladie grave ou d'un handicap (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7269",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7263",
+          "legislature": 17,
+          "numero": 7263,
+          "date": "2026-06-02",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 12 de Mme Amiot et l'amendement identique suivant à l'article 3 de la proposition de loi visant à améliorer la protection et l'accompagnement des parents d'enfants atteints d'un cancer, d'une maladie grave ou d'un handicap (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7263",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi organique tendant à modifier le II de l’article 43 de la loi organique n° 2004-192 du 27 février 2004 portant statut d’autonomie de la Polynésie française",
+      "legislature": 17,
+      "motsCles": [
+        "autonomie"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V4706",
+          "legislature": 17,
+          "numero": 4706,
+          "date": "2025-12-10",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi organique tendant à modifier le II de l’article 43 de la loi organique n° 2004-192 du 27 février 2004 portant statut d’autonomie de la Polynésie française (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4706",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4699",
+          "legislature": 17,
+          "numero": 4699,
+          "date": "2025-12-10",
+          "type": "motion",
+          "resultat": "rejeté",
+          "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, de la proposition de loi organique tendant à modifier le II de l’article 43 de la loi organique n° 2004-192 du 27 février 2004 portant statut d’autonomie de la Polynésie française (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4699",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4704",
+          "legislature": 17,
+          "numero": 4704,
+          "date": "2025-12-10",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article unique de la proposition de loi organique tendant à modifier le II de l’article 43 de la loi organique n° 2004-192 du 27 février 2004 portant statut d’autonomie de la Polynésie française (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4704",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4700",
+          "legislature": 17,
+          "numero": 4700,
+          "date": "2025-12-10",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1 de Mme Reid Arbelot et les amendements identiques suivants à l'article unique de la proposition de loi organique tendant à modifier le II de l’article 43 de la loi organique n° 2004-192 du 27 février 2004 portant statut d’autonomie de la Polynésie française (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4700",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4701",
+          "legislature": 17,
+          "numero": 4701,
+          "date": "2025-12-10",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 7 de Mme Reid Arbelot à l'article unique de la proposition de loi organique tendant à modifier le II de l’article 43 de la loi organique n° 2004-192 du 27 février 2004 portant statut d’autonomie de la Polynésie française (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4701",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4702",
+          "legislature": 17,
+          "numero": 4702,
+          "date": "2025-12-10",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 2 de Mme Reid Arbelot à l'article unique de la proposition de loi organique tendant à modifier le II de l’article 43 de la loi organique n° 2004-192 du 27 février 2004 portant statut d’autonomie de la Polynésie française (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4702",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4703",
+          "legislature": 17,
+          "numero": 4703,
+          "date": "2025-12-10",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 3 de Mme Reid Arbelot à l'article unique de la proposition de loi organique tendant à modifier le II de l’article 43 de la loi organique n° 2004-192 du 27 février 2004 portant statut d’autonomie de la Polynésie française (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4703",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4705",
+          "legislature": 17,
+          "numero": 4705,
+          "date": "2025-12-10",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 8 de M. Gustave après l'article unique de la proposition de loi organique tendant à modifier le II de l’article 43 de la loi organique n° 2004-192 du 27 février 2004 portant statut d’autonomie de la Polynésie française (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4705",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à optimiser la protection et l'accompagnement des parents d'enfants atteints de cancers, de maladies graves et de handicaps",
+      "legislature": 17,
+      "motsCles": [
+        "handicap"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V515",
+          "legislature": 17,
+          "numero": 515,
+          "date": "2024-12-03",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à optimiser la protection et l'accompagnement des parents d'enfants atteints de cancers, de maladies graves et de handicaps (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/515",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V505",
+          "legislature": 17,
+          "numero": 505,
+          "date": "2024-12-03",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 7 de M. Saint-Pasteur à l'article 2 de la proposition de loi visant à optimiser la protection et l'accompagnement des parents d'enfants atteints de cancers, de maladies graves et de handicaps (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/505",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V506",
+          "legislature": 17,
+          "numero": 506,
+          "date": "2024-12-03",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 37 de M. Biteau à l'article 2 de la proposition de loi visant à optimiser la protection et l'accompagnement des parents d'enfants atteints de cancers, de maladies graves et de handicaps (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/506",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V507",
+          "legislature": 17,
+          "numero": 507,
+          "date": "2024-12-03",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 12 de Mme Loir après l'article 2 de la proposition de loi visant à optimiser la protection et l'accompagnement des parents d'enfants atteints de cancers, de maladies graves et de handicaps (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/507",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V508",
+          "legislature": 17,
+          "numero": 508,
+          "date": "2024-12-03",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 15 de Mme Amiot après l'article 2 de la proposition de loi visant à optimiser la protection et l'accompagnement des parents d'enfants atteints de cancers, de maladies graves et de handicaps (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/508",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V509",
+          "legislature": 17,
+          "numero": 509,
+          "date": "2024-12-03",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 16 de Mme Erodi après l'article 2 de la proposition de loi visant à optimiser la protection et l'accompagnement des parents d'enfants atteints de cancers, de maladies graves et de handicaps (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/509",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V510",
+          "legislature": 17,
+          "numero": 510,
+          "date": "2024-12-03",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 9 de Mme Loir après l'article 2 de la proposition de loi visant à optimiser la protection et l'accompagnement des parents d'enfants atteints de cancers, de maladies graves et de handicaps (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/510",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V511",
+          "legislature": 17,
+          "numero": 511,
+          "date": "2024-12-03",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 47 (rect.) du Gouvernement à l'article 3 de la proposition de loi visant à optimiser la protection et l'accompagnement des parents d'enfants atteints de cancers, de maladies graves et de handicaps (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/511",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V512",
+          "legislature": 17,
+          "numero": 512,
+          "date": "2024-12-03",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 4 de M. Saint-Pasteur après l'article 4 de la proposition de loi visant à optimiser la protection et l'accompagnement des parents d'enfants atteints de cancers, de maladies graves et de handicaps (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/512",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V513",
+          "legislature": 17,
+          "numero": 513,
+          "date": "2024-12-03",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 8 de Mme Dogor-Such après l'article 9 bis de la proposition de loi visant à optimiser la protection et l'accompagnement des parents d'enfants atteints de cancers, de maladies graves et de handicaps (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/513",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V514",
+          "legislature": 17,
+          "numero": 514,
+          "date": "2024-12-03",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 11 de Mme Loir après l'article 9 bis de la proposition de loi visant à optimiser la protection et l'accompagnement des parents d'enfants atteints de cancers, de maladies graves et de handicaps (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/514",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi sur le remboursement intégral des fauteuils roulants par l'Assurance maladie",
+      "legislature": 17,
+      "motsCles": [
+        "fauteuils roulants"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V516",
+          "legislature": 17,
+          "numero": 516,
+          "date": "2024-12-03",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi sur le remboursement intégral des fauteuils roulants par l'Assurance maladie (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/516",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à améliorer le repérage et l’accompagnement des personnes présentant des troubles du neuro-développement et à favoriser le répit des proches aidants",
+      "legislature": 16,
+      "motsCles": [
+        "aidant"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3715",
+          "legislature": 16,
+          "numero": 3715,
+          "date": "2024-05-02",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à améliorer le repérage et l’accompagnement des personnes présentant des troubles du neuro-développement et à favoriser le répit des proches aidants (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3715",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3714",
+          "legislature": 16,
+          "numero": 3714,
+          "date": "2024-05-02",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l’article 7 de la proposition de loi visant à améliorer le repérage et l’accompagnement des personnes présentant des troubles du neuro-développement et à favoriser le répit des proches aidants (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3714",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3712",
+          "legislature": 16,
+          "numero": 3712,
+          "date": "2024-05-02",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l’amendement n° 68 de Mme Paris à l’article 6 de la proposition de loi visant à améliorer le repérage et l’accompagnement des personnes présentant des troubles du neuro-développement et à favoriser le répit des proches aidants (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3712",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3713",
+          "legislature": 16,
+          "numero": 3713,
+          "date": "2024-05-02",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l’amendement de suppression n° 24 de M. Monnet et l'amendement identique suivant à l’article 7 de la proposition de loi visant à améliorer le repérage et l’accompagnement des personnes présentant des troubles du neuro-développement et à favoriser le répit des proches aidants (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3713",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à la prise en charge par l'État de l'accompagnement humain des élèves en situation de handicap durant le temps de pause méridienne",
+      "legislature": 16,
+      "motsCles": [
+        "handicap"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3660",
+          "legislature": 16,
+          "numero": 3660,
+          "date": "2024-04-08",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à la prise en charge par l'État de l'accompagnement humain des élèves en situation de handicap durant le temps de pause méridienne (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3660",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi portant diverses mesures relatives au grand âge et à l’autonomie",
+      "legislature": 16,
+      "motsCles": [
+        "autonomie",
+        "grand age"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3550",
+          "legislature": 16,
+          "numero": 3550,
+          "date": "2024-03-19",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi portant diverses mesures relatives au grand âge et à l’autonomie (texte de la commission paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3550",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3549",
+          "legislature": 16,
+          "numero": 3549,
+          "date": "2024-03-19",
+          "type": "motion",
+          "resultat": "rejeté",
+          "titre": "la motion de rejet préalable, déposée par M. Boris Vallaud, de la proposition de loi portant diverses mesures relatives au grand âge et à l’autonomie (texte de la commission paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3549",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à renforcer la protection des familles d'enfants atteints d'une maladie ou d'un handicap ou victimes d'un accident d'une particulière gravité",
+      "legislature": 16,
+      "motsCles": [
+        "handicap"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V1114",
+          "legislature": 16,
+          "numero": 1114,
+          "date": "2023-03-02",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à renforcer la protection des familles d'enfants atteints d'une maladie ou d'un handicap ou victimes d'un accident d'une particulière gravité (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1114",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2255",
+          "legislature": 16,
+          "numero": 2255,
+          "date": "2023-07-12",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à renforcer la protection des familles d'enfants atteints d'une maladie ou d'un handicap ou victimes d'un accident d'une particulière gravité (texte de la commission mixte paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2255",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1109",
+          "legislature": 16,
+          "numero": 1109,
+          "date": "2023-03-02",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 21 de M. Mathieu après l'article premier de la proposition de loi visant à renforcer la protection des familles d'enfants atteints d'une maladie ou d'un handicap ou victimes d'un accident d'une particulière gravité (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1109",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1110",
+          "legislature": 16,
+          "numero": 1110,
+          "date": "2023-03-02",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 23 de Mme Erodi après l'article premier de la proposition de loi visant à renforcer la protection des familles d'enfants atteints d'une maladie ou d'un handicap ou victimes d'un accident d'une particulière gravité (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1110",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1111",
+          "legislature": 16,
+          "numero": 1111,
+          "date": "2023-03-02",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 24 de M. Mathieu après l'article premier de la proposition de loi visant à renforcer la protection des familles d'enfants atteints d'une maladie ou d'un handicap ou victimes d'un accident d'une particulière gravité (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1111",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1112",
+          "legislature": 16,
+          "numero": 1112,
+          "date": "2023-03-02",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 39 de M. Delaporte après l'article premier de la proposition de loi visant à renforcer la protection des familles d'enfants atteints d'une maladie ou d'un handicap ou victimes d'un accident d'une particulière gravité (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1112",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1113",
+          "legislature": 16,
+          "numero": 1113,
+          "date": "2023-03-02",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 33 de M. Ruffin à l'article 3 de la proposition de loi visant à renforcer la protection des familles d'enfants atteints d'une maladie ou d'un handicap ou victimes d'un accident d'une particulière gravité (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1113",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à la prise en charge par l'État de l'accompagnement humain des élèves en situation de handicap pendant le temps de pause méridienne",
+      "legislature": 16,
+      "motsCles": [
+        "handicap"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3658",
+          "legislature": 16,
+          "numero": 3658,
+          "date": "2024-04-08",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 7 de Mme Lepvraud à l'article 2 de la proposition de loi visant à la prise en charge par l'État de l'accompagnement humain des élèves en situation de handicap pendant le temps de pause méridienne (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3658",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3659",
+          "legislature": 16,
+          "numero": 3659,
+          "date": "2024-04-08",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 15 de Mme Bourouaha à l'article 2 de la proposition de loi visant à la prise en charge par l'État de l'accompagnement humain des élèves en situation de handicap pendant le temps de pause méridienne (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3659",
+          "dejaRetenu": false
+        }
+      ]
+    }
+  ]
+}

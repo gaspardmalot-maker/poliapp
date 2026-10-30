@@ -1,0 +1,3391 @@
+{
+  "sujet": "territoires",
+  "titre": "Territoires et services publics",
+  "genereLe": "2026-10-30T15:04:08.606Z",
+  "textes": [
+    {
+      "texte": "proposition de loi relative à l'expérimentation d'une gouvernance territoriale unifiée pour le centre de ressources, d'expertise et de performance sportive",
+      "legislature": 17,
+      "motsCles": [
+        "territorial"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V8695",
+          "legislature": 17,
+          "numero": 8695,
+          "date": "2026-10-12",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi relative à l'expérimentation d'une gouvernance territoriale unifiée pour le centre de ressources, d'expertise et de performance sportive (CREPS) de Vichy (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8695",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics",
+      "legislature": 17,
+      "motsCles": [
+        "services publics"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V4962",
+          "legislature": 17,
+          "numero": 4962,
+          "date": "2026-01-12",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4962",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7408",
+          "legislature": 17,
+          "numero": 7408,
+          "date": "2026-06-17",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (texte de la commission mixte paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7408",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4952",
+          "legislature": 17,
+          "numero": 4952,
+          "date": "2026-01-12",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4952",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4953",
+          "legislature": 17,
+          "numero": 4953,
+          "date": "2026-01-12",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 bis de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4953",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4954",
+          "legislature": 17,
+          "numero": 4954,
+          "date": "2026-01-12",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 3 de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4954",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4956",
+          "legislature": 17,
+          "numero": 4956,
+          "date": "2026-01-12",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 4 de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4956",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4958",
+          "legislature": 17,
+          "numero": 4958,
+          "date": "2026-01-12",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 5 de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4958",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4959",
+          "legislature": 17,
+          "numero": 4959,
+          "date": "2026-01-12",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 6 de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4959",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4961",
+          "legislature": 17,
+          "numero": 4961,
+          "date": "2026-01-12",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 7 de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4961",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4948",
+          "legislature": 17,
+          "numero": 4948,
+          "date": "2026-01-12",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 10 de M. Peu et l'amendement identique suivant à l'article premier de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4948",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4949",
+          "legislature": 17,
+          "numero": 4949,
+          "date": "2026-01-12",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 44 (rect.) de M. Armand à l'article premier de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4949",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4950",
+          "legislature": 17,
+          "numero": 4950,
+          "date": "2026-01-12",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 5 de Mme Belouassa-Cherifi et les amendements identiques suivants à l'article 2 de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4950",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4951",
+          "legislature": 17,
+          "numero": 4951,
+          "date": "2026-01-12",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 2 de M. Falcon et l'amendement identique suivant à l'article 2 de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4951",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4955",
+          "legislature": 17,
+          "numero": 4955,
+          "date": "2026-01-12",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 8 de M. Piquemal et l'amendement identique suivant à l'article 4 de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4955",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4957",
+          "legislature": 17,
+          "numero": 4957,
+          "date": "2026-01-12",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 9 de Mme Belouassa-Cherifi à l'article 5 de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4957",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4960",
+          "legislature": 17,
+          "numero": 4960,
+          "date": "2026-01-12",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 4 de M. Falcon après l'article 6 de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4960",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à étendre à toutes les communes la compensation financière prévue pour les communes de plus de 3 500 habitants pour l'exercice de l'ensemble des compétences du service public de la petite enfance",
+      "legislature": 17,
+      "motsCles": [
+        "commune",
+        "service public"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V7004",
+          "legislature": 17,
+          "numero": 7004,
+          "date": "2026-05-28",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à étendre à toutes les communes la compensation financière prévue pour les communes de plus de 3 500 habitants pour l'exercice de l'ensemble des compétences du service public de la petite enfance (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7004",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7003",
+          "legislature": 17,
+          "numero": 7003,
+          "date": "2026-05-28",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article unique de la proposition de loi visant à étendre à toutes les communes la compensation financière prévue pour les communes de plus de 3 500 habitants pour l'exercice de l'ensemble des compétences du service public de la petite enfance (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7003",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à encadrer les regroupements pédagogiques intercommunaux afin de garantir l'égalité d'accès à l'école en milieu rural",
+      "legislature": 17,
+      "motsCles": [
+        "rural"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V6076",
+          "legislature": 17,
+          "numero": 6076,
+          "date": "2026-04-09",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à encadrer les regroupements pédagogiques intercommunaux afin de garantir l'égalité d'accès à l'école en milieu rural (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6076",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6073",
+          "legislature": 17,
+          "numero": 6073,
+          "date": "2026-04-09",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi visant à encadrer les regroupements pédagogiques intercommunaux afin de garantir l'égalité d'accès à l'école en milieu rural (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6073",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6070",
+          "legislature": 17,
+          "numero": 6070,
+          "date": "2026-04-09",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1 de M. Proença à l'article premier de la proposition de loi visant à encadrer les regroupements pédagogiques intercommunaux afin de garantir l'égalité d'accès à l'école en milieu rural (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6070",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6071",
+          "legislature": 17,
+          "numero": 6071,
+          "date": "2026-04-09",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 11 de M. Raux à l'article premier de la proposition de loi visant à encadrer les regroupements pédagogiques intercommunaux afin de garantir l'égalité d'accès à l'école en milieu rural (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6071",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6072",
+          "legislature": 17,
+          "numero": 6072,
+          "date": "2026-04-09",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 10 de M. Raux à l'article premier de la proposition de loi visant à encadrer les regroupements pédagogiques intercommunaux afin de garantir l'égalité d'accès à l'école en milieu rural (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6072",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6074",
+          "legislature": 17,
+          "numero": 6074,
+          "date": "2026-04-09",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 2 de M. Arenas après l'article premier ter de la proposition de loi visant à encadrer les regroupements pédagogiques intercommunaux afin de garantir l'égalité d'accès à l'école en milieu rural (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6074",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6075",
+          "legislature": 17,
+          "numero": 6075,
+          "date": "2026-04-09",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 12 de M. Raux après l'article premier ter de la proposition de loi visant à encadrer les regroupements pédagogiques intercommunaux afin de garantir l'égalité d'accès à l'école en milieu rural (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6075",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à simplifier le millefeuille territorial par la collectivité unique",
+      "legislature": 17,
+      "motsCles": [
+        "collectivite",
+        "territorial"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V6045",
+          "legislature": 17,
+          "numero": 6045,
+          "date": "2026-04-08",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à simplifier le millefeuille territorial par la collectivité unique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6045",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6024",
+          "legislature": 17,
+          "numero": 6024,
+          "date": "2026-04-07",
+          "type": "motion",
+          "resultat": "rejeté",
+          "titre": "la motion de rejet préalable, déposée par M. Boris Vallaud, de la proposition de loi visant à simplifier le millefeuille territorial par la collectivité unique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6024",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6037",
+          "legislature": 17,
+          "numero": 6037,
+          "date": "2026-04-08",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 de la proposition de loi visant à simplifier le millefeuille territorial par la collectivité unique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6037",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6042",
+          "legislature": 17,
+          "numero": 6042,
+          "date": "2026-04-08",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 3 de la proposition de loi visant à simplifier le millefeuille territorial par la collectivité unique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6042",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6025",
+          "legislature": 17,
+          "numero": 6025,
+          "date": "2026-04-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1 de M. Fernandes et les amendements identiques suivants de suppression de l'article 2 de la proposition de loi visant à simplifier le millefeuille territorial par la collectivité unique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6025",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6030",
+          "legislature": 17,
+          "numero": 6030,
+          "date": "2026-04-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 70 du Gouvernement à l'article 2 de la proposition de loi visant à simplifier le millefeuille territorial par la collectivité unique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6030",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6031",
+          "legislature": 17,
+          "numero": 6031,
+          "date": "2026-04-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 61 de M. Sother à l'article 2 de la proposition de loi visant à simplifier le millefeuille territorial par la collectivité unique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6031",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6032",
+          "legislature": 17,
+          "numero": 6032,
+          "date": "2026-04-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 66 de M. Sother à l'article 2 de la proposition de loi visant à simplifier le millefeuille territorial par la collectivité unique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6032",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6033",
+          "legislature": 17,
+          "numero": 6033,
+          "date": "2026-04-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 62 de M. Sother à l'article 2 de la proposition de loi visant à simplifier le millefeuille territorial par la collectivité unique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6033",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6034",
+          "legislature": 17,
+          "numero": 6034,
+          "date": "2026-04-08",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 5 de Mme Morel à l'article 2 de la proposition de loi visant à simplifier le millefeuille territorial par la collectivité unique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6034",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6035",
+          "legislature": 17,
+          "numero": 6035,
+          "date": "2026-04-08",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 16 de Mme Regol à l'article 2 de la proposition de loi visant à simplifier le millefeuille territorial par la collectivité unique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6035",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6036",
+          "legislature": 17,
+          "numero": 6036,
+          "date": "2026-04-08",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 63 de M. Sother à l'article 2 de la proposition de loi visant à simplifier le millefeuille territorial par la collectivité unique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6036",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6038",
+          "legislature": 17,
+          "numero": 6038,
+          "date": "2026-04-08",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 25 de M. Bernhardt après l'article 2 de la proposition de loi visant à simplifier le millefeuille territorial par la collectivité unique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6038",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6039",
+          "legislature": 17,
+          "numero": 6039,
+          "date": "2026-04-08",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 45 de M. Mendes après l'article 2 de la proposition de loi visant à simplifier le millefeuille territorial par la collectivité unique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6039",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6040",
+          "legislature": 17,
+          "numero": 6040,
+          "date": "2026-04-08",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 50 de M. Jacobelli après l'article 2 de la proposition de loi visant à simplifier le millefeuille territorial par la collectivité unique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6040",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6041",
+          "legislature": 17,
+          "numero": 6041,
+          "date": "2026-04-08",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 2 de M. Fernandes et l'amendement identique suivant de suppression de l'article 3 de la proposition de loi visant à simplifier le millefeuille territorial par la collectivité unique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6041",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6043",
+          "legislature": 17,
+          "numero": 6043,
+          "date": "2026-04-08",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 32 de Mme Klinkert au titre de la proposition de loi visant à simplifier le millefeuille territorial par la collectivité unique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6043",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6044",
+          "legislature": 17,
+          "numero": 6044,
+          "date": "2026-04-08",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 56 de M. Sother au titre de la proposition de loi visant à simplifier le millefeuille territorial par la collectivité unique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6044",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6026",
+          "legislature": 17,
+          "numero": 6026,
+          "date": "2026-04-07",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 73 de M. Bernhardt à l'amendement n° 70 du Gouvernement à l'article 2 de la proposition de loi visant à simplifier le millefeuille territorial par la collectivité unique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6026",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6027",
+          "legislature": 17,
+          "numero": 6027,
+          "date": "2026-04-07",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 74 de M. Bernhardt à l'amendement n° 70 du Gouvernement à l'article 2 de la proposition de loi visant à simplifier le millefeuille territorial par la collectivité unique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6027",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6028",
+          "legislature": 17,
+          "numero": 6028,
+          "date": "2026-04-07",
+          "type": "sous-amendement",
+          "resultat": "adopté",
+          "titre": "le sous-amendement n° 83 de M. Sitzenstuhl à l'amendement n° 70 du Gouvernement à l'article 2 de la proposition de loi visant à simplifier le millefeuille territorial par la collectivité unique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6028",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V6029",
+          "legislature": 17,
+          "numero": 6029,
+          "date": "2026-04-07",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 76 de M. Bernhardt à l'amendement n° 70 du Gouvernement à l'article 2 de la proposition de loi visant à simplifier le millefeuille territorial par la collectivité unique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6029",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à soutenir les collectivités territoriales dans la prévention et la gestion des inondations",
+      "legislature": 17,
+      "motsCles": [
+        "collectivite",
+        "territorial"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V5844",
+          "legislature": 17,
+          "numero": 5844,
+          "date": "2026-03-26",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à soutenir les collectivités territoriales dans la prévention et la gestion des inondations (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5844",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V5840",
+          "legislature": 17,
+          "numero": 5840,
+          "date": "2026-03-26",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 24 de M. Evrard à l'article 2 de la proposition de loi visant à soutenir les collectivités territoriales dans la prévention et la gestion des inondations (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5840",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V5841",
+          "legislature": 17,
+          "numero": 5841,
+          "date": "2026-03-26",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 22 de M. Evrard à l'article 2 quater de la proposition de loi visant à soutenir les collectivités territoriales dans la prévention et la gestion des inondations (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5841",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V5842",
+          "legislature": 17,
+          "numero": 5842,
+          "date": "2026-03-26",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 25 de M. Humbert à l'article 2 quater de la proposition de loi visant à soutenir les collectivités territoriales dans la prévention et la gestion des inondations (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5842",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V5843",
+          "legislature": 17,
+          "numero": 5843,
+          "date": "2026-03-26",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 23 de M. Evrard après l'article 4 de la proposition de loi visant à soutenir les collectivités territoriales dans la prévention et la gestion des inondations (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5843",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer",
+      "legislature": 17,
+      "motsCles": [
+        "service public"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V4287",
+          "legislature": 17,
+          "numero": 4287,
+          "date": "2025-11-27",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4287",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4275",
+          "legislature": 17,
+          "numero": 4275,
+          "date": "2025-11-27",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4275",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4284",
+          "legislature": 17,
+          "numero": 4284,
+          "date": "2025-11-27",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4284",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4245",
+          "legislature": 17,
+          "numero": 4245,
+          "date": "2025-11-27",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 4 de Mme Marais-Beuil à l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4245",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4246",
+          "legislature": 17,
+          "numero": 4246,
+          "date": "2025-11-27",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1 de M. Rivière à l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4246",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4247",
+          "legislature": 17,
+          "numero": 4247,
+          "date": "2025-11-27",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 35 de M. Fayssat à l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4247",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4249",
+          "legislature": 17,
+          "numero": 4249,
+          "date": "2025-11-27",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 38 de M. Fayssat à l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4249",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4250",
+          "legislature": 17,
+          "numero": 4250,
+          "date": "2025-11-27",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 19 de M. Baubry à l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4250",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4251",
+          "legislature": 17,
+          "numero": 4251,
+          "date": "2025-11-27",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 39 de M. Fayssat à l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4251",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4252",
+          "legislature": 17,
+          "numero": 4252,
+          "date": "2025-11-27",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 18 de M. Baubry à l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4252",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4258",
+          "legislature": 17,
+          "numero": 4258,
+          "date": "2025-11-27",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 5 de Mme Marais-Beuil à l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4258",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4260",
+          "legislature": 17,
+          "numero": 4260,
+          "date": "2025-11-27",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 37 de M. Fayssat à l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4260",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4262",
+          "legislature": 17,
+          "numero": 4262,
+          "date": "2025-11-27",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 24 de M. Gaillard à l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4262",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4263",
+          "legislature": 17,
+          "numero": 4263,
+          "date": "2025-11-27",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 41 de M. Fayssat à l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4263",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4264",
+          "legislature": 17,
+          "numero": 4264,
+          "date": "2025-11-27",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 34 de M. Fayssat à l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4264",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4265",
+          "legislature": 17,
+          "numero": 4265,
+          "date": "2025-11-27",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 40 (rect.) de M. Fayssat à l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4265",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4270",
+          "legislature": 17,
+          "numero": 4270,
+          "date": "2025-11-27",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 26 de M. Fayssat à l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4270",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4271",
+          "legislature": 17,
+          "numero": 4271,
+          "date": "2025-11-27",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 27 de M. Fayssat à l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4271",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4272",
+          "legislature": 17,
+          "numero": 4272,
+          "date": "2025-11-27",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 28 de M. Fayssat à l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4272",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4274",
+          "legislature": 17,
+          "numero": 4274,
+          "date": "2025-11-27",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 32 de M. Fayssat à l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4274",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4276",
+          "legislature": 17,
+          "numero": 4276,
+          "date": "2025-11-27",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 33 de M. Fayssat après l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4276",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4277",
+          "legislature": 17,
+          "numero": 4277,
+          "date": "2025-11-27",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 13 de M. Gillet après l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4277",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4282",
+          "legislature": 17,
+          "numero": 4282,
+          "date": "2025-11-27",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 15 de M. Gillet après l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4282",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4283",
+          "legislature": 17,
+          "numero": 4283,
+          "date": "2025-11-27",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 29 de M. Fayssat après l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4283",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4285",
+          "legislature": 17,
+          "numero": 4285,
+          "date": "2025-11-27",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 21 de M. Fayssat au titre de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4285",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4286",
+          "legislature": 17,
+          "numero": 4286,
+          "date": "2025-11-27",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 22 de M. Fayssat au titre de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4286",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4248",
+          "legislature": 17,
+          "numero": 4248,
+          "date": "2025-11-27",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 97 de M. Jacobelli à l'amendement n° 38 de M. Fayssat à l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4248",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4253",
+          "legislature": 17,
+          "numero": 4253,
+          "date": "2025-11-27",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 70 de M. Gillet à l'amendement n° 5 de Mme Marais-Beuil à l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4253",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4254",
+          "legislature": 17,
+          "numero": 4254,
+          "date": "2025-11-27",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 71 de M. Gillet à l'amendement n° 5 de Mme Marais-Beuil à l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4254",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4255",
+          "legislature": 17,
+          "numero": 4255,
+          "date": "2025-11-27",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 69 de M. Gillet à l'amendement n° 5 de Mme Marais-Beuil à l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4255",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4256",
+          "legislature": 17,
+          "numero": 4256,
+          "date": "2025-11-27",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 68 de M. Gillet à l'amendement n° 5 de Mme Marais-Beuil à l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4256",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4257",
+          "legislature": 17,
+          "numero": 4257,
+          "date": "2025-11-27",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 67 de M. Gillet à l'amendement n° 5 de Mme Marais-Beuil à l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4257",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4259",
+          "legislature": 17,
+          "numero": 4259,
+          "date": "2025-11-27",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 122 de Mme Diaz à l'amendement n° 37 de M. Fayssat à l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4259",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4261",
+          "legislature": 17,
+          "numero": 4261,
+          "date": "2025-11-27",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 126 de M. Jacobelli à l'amendement n° 24 de M. Gaillard à l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4261",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4266",
+          "legislature": 17,
+          "numero": 4266,
+          "date": "2025-11-27",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 78 de M. Trébuchet à l'amendement n° 26 de M. Fayssat à l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4266",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4267",
+          "legislature": 17,
+          "numero": 4267,
+          "date": "2025-11-27",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 127 de M. Jacobelli à l'amendement n° 26 de M. Fayssat à l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4267",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4268",
+          "legislature": 17,
+          "numero": 4268,
+          "date": "2025-11-27",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 73 de M. Trébuchet à l'amendement n° 26 de M. Fayssat à l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4268",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4269",
+          "legislature": 17,
+          "numero": 4269,
+          "date": "2025-11-27",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 83 de M. Trébuchet à l'amendement n° 26 de M. Fayssat à l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4269",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4273",
+          "legislature": 17,
+          "numero": 4273,
+          "date": "2025-11-27",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 88 de M. Trébuchet à l'amendement n° 32 de M. Fayssat à l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4273",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4278",
+          "legislature": 17,
+          "numero": 4278,
+          "date": "2025-11-27",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 89 de M. Trébuchet à l'amendement n° 15 de M. Gillet après l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4278",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4279",
+          "legislature": 17,
+          "numero": 4279,
+          "date": "2025-11-27",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 90 de M. Trébuchet à l'amendement n° 15 de M. Gillet après l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4279",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4280",
+          "legislature": 17,
+          "numero": 4280,
+          "date": "2025-11-27",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 92 de M. Verny à l'amendement n° 15 de M. Gillet après l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4280",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4281",
+          "legislature": 17,
+          "numero": 4281,
+          "date": "2025-11-27",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 93 de M. Trébuchet à l'amendement n° 15 de M. Gillet après l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4281",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "projet de loi organique relatif au Département-Région de Mayotte",
+      "legislature": 17,
+      "motsCles": [
+        "departement",
+        "region"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V2875",
+          "legislature": 17,
+          "numero": 2875,
+          "date": "2025-07-01",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l’ensemble du projet de loi organique relatif au Département-Région de Mayotte (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2875",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V2976",
+          "legislature": 17,
+          "numero": 2976,
+          "date": "2025-07-09",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble du projet de loi organique relatif au Département-Région de Mayotte (texte de la commission mixte paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2976",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi simplifiant l'ouverture des débits de boissons en zone rurale",
+      "legislature": 17,
+      "motsCles": [
+        "rural"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V931",
+          "legislature": 17,
+          "numero": 931,
+          "date": "2025-03-10",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi simplifiant l'ouverture des débits de boissons en zone rurale (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/931",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V930",
+          "legislature": 17,
+          "numero": 930,
+          "date": "2025-03-10",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article unique de la proposition de loi simplifiant l'ouverture des débits de boissons en zone rurale (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/930",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V922",
+          "legislature": 17,
+          "numero": 922,
+          "date": "2025-03-10",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 22 de M. Gillet à l'article unique de la proposition de loi simplifiant l'ouverture des débits de boissons en zone rurale (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/922",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V923",
+          "legislature": 17,
+          "numero": 923,
+          "date": "2025-03-10",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 23 de M. Gillet à l'article unique de la proposition de loi simplifiant l'ouverture des débits de boissons en zone rurale (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/923",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V924",
+          "legislature": 17,
+          "numero": 924,
+          "date": "2025-03-10",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 7 de M. Leseul à l'article unique de la proposition de loi simplifiant l'ouverture des débits de boissons en zone rurale (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/924",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V925",
+          "legislature": 17,
+          "numero": 925,
+          "date": "2025-03-10",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 52 (rect.) de M. Balanant à l'article unique de la proposition de loi simplifiant l'ouverture des débits de boissons en zone rurale (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/925",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V926",
+          "legislature": 17,
+          "numero": 926,
+          "date": "2025-03-10",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 14 de M. Leseul à l'article unique de la proposition de loi simplifiant l'ouverture des débits de boissons en zone rurale (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/926",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V927",
+          "legislature": 17,
+          "numero": 927,
+          "date": "2025-03-10",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 36 de M. Gernigon à l'article unique de la proposition de loi simplifiant l'ouverture des débits de boissons en zone rurale (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/927",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V928",
+          "legislature": 17,
+          "numero": 928,
+          "date": "2025-03-10",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 41 de M. Gernigon à l'article unique de la proposition de loi simplifiant l'ouverture des débits de boissons en zone rurale (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/928",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V929",
+          "legislature": 17,
+          "numero": 929,
+          "date": "2025-03-10",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 10 de M. Monnet à l'article unique de la proposition de loi simplifiant l'ouverture des débits de boissons en zone rurale (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/929",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à proroger le dispositif d'expérimentation favorisant l'égalité des chances pour l'accès à certaines écoles de service public",
+      "legislature": 17,
+      "motsCles": [
+        "service public"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V840",
+          "legislature": 17,
+          "numero": 840,
+          "date": "2025-02-18",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à proroger le dispositif d'expérimentation favorisant l'égalité des chances pour l'accès à certaines écoles de service public (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/840",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V838",
+          "legislature": 17,
+          "numero": 838,
+          "date": "2025-02-18",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi visant à proroger le dispositif d'expérimentation favorisant l'égalité des chances pour l'accès à certaines écoles de service public (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/838",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V839",
+          "legislature": 17,
+          "numero": 839,
+          "date": "2025-02-18",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 8 du Gouvernement de suppression de l'article 2 ter de la proposition de loi visant à proroger le dispositif d'expérimentation favorisant l'égalité des chances pour l'accès à certaines écoles de service public (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/839",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à permettre l'élection du maire d'une commune nouvelle en cas de conseil municipal incomplet",
+      "legislature": 17,
+      "motsCles": [
+        "commune",
+        "maire"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V742",
+          "legislature": 17,
+          "numero": 742,
+          "date": "2025-02-10",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à permettre l'élection du maire d'une commune nouvelle en cas de conseil municipal incomplet (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/742",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V741",
+          "legislature": 17,
+          "numero": 741,
+          "date": "2025-02-10",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article unique de la proposition de loi visant à permettre l'élection du maire d'une commune nouvelle en cas de conseil municipal incomplet (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/741",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de résolution tendant à la création d'une commission d'enquête sur les causes de l'insuffisance, de la non-décence et de l'insalubrité du logement soical dans les départements et régions d'outre-mer",
+      "legislature": 16,
+      "motsCles": [
+        "departement",
+        "region"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3992",
+          "legislature": 16,
+          "numero": 3992,
+          "date": "2024-05-30",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "la proposition de résolution tendant à la création d'une commission d'enquête sur les causes de l'insuffisance, de la non-décence et de l'insalubrité du logement soical dans les départements et régions d'outre-mer.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3992",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi pour une meilleure réussite scolaire des jeunes ultramarins grâce à l'apprentissage des langues régionales",
+      "legislature": 16,
+      "motsCles": [
+        "region"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3996",
+          "legislature": 16,
+          "numero": 3996,
+          "date": "2024-05-30",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi pour une meilleure réussite scolaire des jeunes ultramarins grâce à l'apprentissage des langues régionales (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3996",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3995",
+          "legislature": 16,
+          "numero": 3995,
+          "date": "2024-05-30",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi pour une meilleure réussite scolaire des jeunes ultramarins grâce à l'apprentissage des langues régionales (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3995",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi tendant à tenir compte de la capacité contributive des collectivités territoriales dans l'attribution des subventions et dotations destinées aux investissements relatifs à la transition écologique des bâtiments scolaires",
+      "legislature": 16,
+      "motsCles": [
+        "collectivite",
+        "territorial"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3566",
+          "legislature": 16,
+          "numero": 3566,
+          "date": "2024-03-20",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi tendant à tenir compte de la capacité contributive des collectivités territoriales dans l'attribution des subventions et dotations destinées aux investissements relatifs à la transition écologique des bâtiments scolaires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3566",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3565",
+          "legislature": 16,
+          "numero": 3565,
+          "date": "2024-03-20",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article unique de la proposition de loi tendant à tenir compte de la capacité contributive des collectivités territoriales dans l'attribution des subventions et dotations destinées aux investissements relatifs à la transition écologique des bâtiments scolaires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3565",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3563",
+          "legislature": 16,
+          "numero": 3563,
+          "date": "2024-03-20",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 8 de M. Dessigny à l'article unique de la proposition de loi tendant à tenir compte de la capacité contributive des collectivités territoriales dans l'attribution des subventions et dotations destinées aux investissements relatifs à la transition écologique des bâtiments scolaires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3563",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3564",
+          "legislature": 16,
+          "numero": 3564,
+          "date": "2024-03-20",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 7 de M. Sala à l'article unique de la proposition de loi tendant à tenir compte de la capacité contributive des collectivités territoriales dans l'attribution des subventions et dotations destinées aux investissements relatifs à la transition écologique des bâtiments scolaires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3564",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi renforçant la sécurité et la protection des maires et des élus locaux",
+      "legislature": 16,
+      "motsCles": [
+        "maire"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3350",
+          "legislature": 16,
+          "numero": 3350,
+          "date": "2024-02-07",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi renforçant la sécurité et la protection des maires et des élus locaux (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3350",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3457",
+          "legislature": 16,
+          "numero": 3457,
+          "date": "2024-03-11",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi renforçant la sécurité et la protection des maires et des élus locaux (texte de la commission mixte paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3457",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à faciliter la mise à disposition aux régions du réseau routier national non concédé",
+      "legislature": 16,
+      "motsCles": [
+        "region"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3370",
+          "legislature": 16,
+          "numero": 3370,
+          "date": "2024-02-14",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à faciliter la mise à disposition aux régions du réseau routier national non concédé (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3370",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3369",
+          "legislature": 16,
+          "numero": 3369,
+          "date": "2024-02-14",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 2 de M. Léaument à l'article unique de la proposition de loi visant à faciliter la mise à disposition aux régions du réseau routier national non concédé (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3369",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à pérenniser les jardins d'enfants gérés par une collectivité publique ou bénéficiant de financements publics",
+      "legislature": 16,
+      "motsCles": [
+        "collectivite"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3334",
+          "legislature": 16,
+          "numero": 3334,
+          "date": "2024-02-01",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à pérenniser les jardins d'enfants gérés par une collectivité publique ou bénéficiant de financements publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3334",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels",
+      "legislature": 16,
+      "motsCles": [
+        "territorial"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V1858",
+          "legislature": 16,
+          "numero": 1858,
+          "date": "2023-06-15",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1858",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3206",
+          "legislature": 16,
+          "numero": 3206,
+          "date": "2023-12-12",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (texte de la commission mixte paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3206",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1809",
+          "legislature": 16,
+          "numero": 1809,
+          "date": "2023-06-13",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1809",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1848",
+          "legislature": 16,
+          "numero": 1848,
+          "date": "2023-06-15",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 5 de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1848",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1850",
+          "legislature": 16,
+          "numero": 1850,
+          "date": "2023-06-15",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 5 bis de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1850",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1802",
+          "legislature": 16,
+          "numero": 1802,
+          "date": "2023-06-12",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 40 de M. Neuder et les amendements identiques suivants à l'article premier de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1802",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1803",
+          "legislature": 16,
+          "numero": 1803,
+          "date": "2023-06-12",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 603 de M. Dharréville à l'article premier de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1803",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1805",
+          "legislature": 16,
+          "numero": 1805,
+          "date": "2023-06-13",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 233 de M. Cormier-Bouligeon à l'article premier de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1805",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1806",
+          "legislature": 16,
+          "numero": 1806,
+          "date": "2023-06-13",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 984 de M. Patrier-Leitus à l'article premier de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1806",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1807",
+          "legislature": 16,
+          "numero": 1807,
+          "date": "2023-06-13",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 619 de M. Dharréville à l'article premier de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1807",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1808",
+          "legislature": 16,
+          "numero": 1808,
+          "date": "2023-06-13",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 578 de M. Lamirault à l'article premier de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1808",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1812",
+          "legislature": 16,
+          "numero": 1812,
+          "date": "2023-06-14",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1 de M. Garot et les amendements identiques suivants après l'article 2 de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1812",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1813",
+          "legislature": 16,
+          "numero": 1813,
+          "date": "2023-06-14",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1083 de M. Patrier-Leitus après l'article 2 de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1813",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1814",
+          "legislature": 16,
+          "numero": 1814,
+          "date": "2023-06-14",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 167 de M. Kervran après l'article 2 de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1814",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1815",
+          "legislature": 16,
+          "numero": 1815,
+          "date": "2023-06-14",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 75 de M. Benoit après l'article 2 de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1815",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1816",
+          "legislature": 16,
+          "numero": 1816,
+          "date": "2023-06-14",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 968 de M. Mournet après l'article 2 de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1816",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1817",
+          "legislature": 16,
+          "numero": 1817,
+          "date": "2023-06-14",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 967 de M. Mournet après l'article 2 de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1817",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1818",
+          "legislature": 16,
+          "numero": 1818,
+          "date": "2023-06-14",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 794 de Mme Ménard après l'article 2 de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1818",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1819",
+          "legislature": 16,
+          "numero": 1819,
+          "date": "2023-06-14",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 71 de M. Benoit après l'article 2 de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1819",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1820",
+          "legislature": 16,
+          "numero": 1820,
+          "date": "2023-06-14",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 72 de M. Benoit après l'article 2 de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1820",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1821",
+          "legislature": 16,
+          "numero": 1821,
+          "date": "2023-06-14",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 970 de M. Mournet après l'article 2 de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1821",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1823",
+          "legislature": 16,
+          "numero": 1823,
+          "date": "2023-06-14",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 973 de M. Mournet après l'article 2 de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1823",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1824",
+          "legislature": 16,
+          "numero": 1824,
+          "date": "2023-06-14",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 971 de M. Mournet après l'article 2 de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1824",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1825",
+          "legislature": 16,
+          "numero": 1825,
+          "date": "2023-06-14",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 972 de M. Mournet après l'article 2 de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1825",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1826",
+          "legislature": 16,
+          "numero": 1826,
+          "date": "2023-06-14",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 797 de Mme Ménard après l'article 2 de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1826",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1844",
+          "legislature": 16,
+          "numero": 1844,
+          "date": "2023-06-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement de rédaction globale n° 1150 de M. Rousset et les amendements identiques suivants à l'article 2 duodecies de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1844",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1845",
+          "legislature": 16,
+          "numero": 1845,
+          "date": "2023-06-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 342 de M. Bazin et les amendements identiques suivants à l'article 3 de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1845",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1846",
+          "legislature": 16,
+          "numero": 1846,
+          "date": "2023-06-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 1019 (rect.) de M. Marchive après l'article 3 de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1846",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1847",
+          "legislature": 16,
+          "numero": 1847,
+          "date": "2023-06-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 806 de M. Califer et les amendements identiques suivants après l'article 4 de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1847",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1849",
+          "legislature": 16,
+          "numero": 1849,
+          "date": "2023-06-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 156 de M. Neuder à l'article 5 bis de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1849",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1851",
+          "legislature": 16,
+          "numero": 1851,
+          "date": "2023-06-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 1184 de Mme Rist après l'article 5 bis de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1851",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1852",
+          "legislature": 16,
+          "numero": 1852,
+          "date": "2023-06-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 1147 de M. Valletoux et les amendements identiques suivants après l'article 5 bis de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1852",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1853",
+          "legislature": 16,
+          "numero": 1853,
+          "date": "2023-06-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement de suppression n° 245 de M. Garot et les amendements identiques suivants à l'article 6 bis de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1853",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1854",
+          "legislature": 16,
+          "numero": 1854,
+          "date": "2023-06-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 1028  de M. Rousset à l'article 7 de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1854",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1855",
+          "legislature": 16,
+          "numero": 1855,
+          "date": "2023-06-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 848 de M. Clouet à l'article 8 de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1855",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1856",
+          "legislature": 16,
+          "numero": 1856,
+          "date": "2023-06-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 318  de M. Califer et les amendements identiques suivants à l'article 9 de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1856",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1857",
+          "legislature": 16,
+          "numero": 1857,
+          "date": "2023-06-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 27 de Mme Corneloup et l'amendement identique suivant après l'article 10 bis de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1857",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1822",
+          "legislature": 16,
+          "numero": 1822,
+          "date": "2023-06-14",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 1161 de Mme Bannier à l'amendement n° 973 de M. Mournet après l'article 2 de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1822",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à améliorer l'accès aux soins par la territorialisation et la formation",
+      "legislature": 16,
+      "motsCles": [
+        "territorial"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3201",
+          "legislature": 16,
+          "numero": 3201,
+          "date": "2023-12-07",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à améliorer l'accès aux soins par la territorialisation et la formation (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3201",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3195",
+          "legislature": 16,
+          "numero": 3195,
+          "date": "2023-12-07",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi visant à améliorer l'accès aux soins par la territorialisation et la formation (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3195",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3196",
+          "legislature": 16,
+          "numero": 3196,
+          "date": "2023-12-07",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 de la proposition de loi visant à améliorer l'accès aux soins par la territorialisation et la formation (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3196",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3199",
+          "legislature": 16,
+          "numero": 3199,
+          "date": "2023-12-07",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 3 de la proposition de loi visant à améliorer l'accès aux soins par la territorialisation et la formation (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3199",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3197",
+          "legislature": 16,
+          "numero": 3197,
+          "date": "2023-12-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 38 de M. Bentz après l'article 2 de la proposition de loi visant à améliorer l'accès aux soins par la territorialisation et la formation (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3197",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3198",
+          "legislature": 16,
+          "numero": 3198,
+          "date": "2023-12-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 33 de M. Bentz à l'article 3 de la proposition de loi visant à améliorer l'accès aux soins par la territorialisation et la formation (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3198",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3200",
+          "legislature": 16,
+          "numero": 3200,
+          "date": "2023-12-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 43 de M. Frappé après l'article 3 de la proposition de loi visant à améliorer l'accès aux soins par la territorialisation et la formation (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3200",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi tendant à la réouverture des accueils physiques dans les services publics",
+      "legislature": 16,
+      "motsCles": [
+        "services publics"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3115",
+          "legislature": 16,
+          "numero": 3115,
+          "date": "2023-11-30",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi tendant à la réouverture des accueils physiques dans les services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3115",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3107",
+          "legislature": 16,
+          "numero": 3107,
+          "date": "2023-11-30",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi tendant à la réouverture des accueils physiques dans les services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3107",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3113",
+          "legislature": 16,
+          "numero": 3113,
+          "date": "2023-11-30",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 de la proposition de loi tendant à la réouverture des accueils physiques dans les services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3113",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3103",
+          "legislature": 16,
+          "numero": 3103,
+          "date": "2023-11-30",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 3 de Mme Obono à l'article premier de la proposition de loi tendant à la réouverture des accueils physiques dans les services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3103",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3104",
+          "legislature": 16,
+          "numero": 3104,
+          "date": "2023-11-30",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 2 de Mme Obono à l'article premier de la proposition de loi tendant à la réouverture des accueils physiques dans les services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3104",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3105",
+          "legislature": 16,
+          "numero": 3105,
+          "date": "2023-11-30",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1 de Mme Ménard à l'article premier de la proposition de loi tendant à la réouverture des accueils physiques dans les services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3105",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3106",
+          "legislature": 16,
+          "numero": 3106,
+          "date": "2023-11-30",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 7 de M. Gouffier Valente à l'article premier de la proposition de loi tendant à la réouverture des accueils physiques dans les services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3106",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3108",
+          "legislature": 16,
+          "numero": 3108,
+          "date": "2023-11-30",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 9 de M. Gouffier Valente après l'article premier de la proposition de loi tendant à la réouverture des accueils physiques dans les services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3108",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3109",
+          "legislature": 16,
+          "numero": 3109,
+          "date": "2023-11-30",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 10 de M. Gouffier Valente après l'article premier de la proposition de loi tendant à la réouverture des accueils physiques dans les services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3109",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3110",
+          "legislature": 16,
+          "numero": 3110,
+          "date": "2023-11-30",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 11 de M. Gouffier Valente après l'article premier de la proposition de loi tendant à la réouverture des accueils physiques dans les services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3110",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3111",
+          "legislature": 16,
+          "numero": 3111,
+          "date": "2023-11-30",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n°12 de M. Gouffier Valente après l'article premier de la proposition de loi tendant à la réouverture des accueils physiques dans les services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3111",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3112",
+          "legislature": 16,
+          "numero": 3112,
+          "date": "2023-11-30",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 13 de M. Gouffier Valente après l'article premier de la proposition de loi tendant à la réouverture des accueils physiques dans les services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3112",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3114",
+          "legislature": 16,
+          "numero": 3114,
+          "date": "2023-11-30",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 14 de M. Gouffier Valente au titre de la proposition de loi tendant à la réouverture des accueils physiques dans les services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3114",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi relative aux services express régionaux métropolitains",
+      "legislature": 16,
+      "motsCles": [
+        "region"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V1894",
+          "legislature": 16,
+          "numero": 1894,
+          "date": "2023-06-16",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1894",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2983",
+          "legislature": 16,
+          "numero": 2983,
+          "date": "2023-11-15",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi relative aux services express régionaux métropolitains (texte de la commission mixte paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2983",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1878",
+          "legislature": 16,
+          "numero": 1878,
+          "date": "2023-06-16",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l’article premier de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1878",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1881",
+          "legislature": 16,
+          "numero": 1881,
+          "date": "2023-06-16",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l’article premier bis de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1881",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1883",
+          "legislature": 16,
+          "numero": 1883,
+          "date": "2023-06-16",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l’article 2 de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1883",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1886",
+          "legislature": 16,
+          "numero": 1886,
+          "date": "2023-06-16",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l’article 2 bis de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1886",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1890",
+          "legislature": 16,
+          "numero": 1890,
+          "date": "2023-06-16",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l’article 3 de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1890",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1892",
+          "legislature": 16,
+          "numero": 1892,
+          "date": "2023-06-16",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l’article 4 de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1892",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1859",
+          "legislature": 16,
+          "numero": 1859,
+          "date": "2023-06-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l’amendement n° 32 de M. Delautrette à l’article premier de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1859",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1860",
+          "legislature": 16,
+          "numero": 1860,
+          "date": "2023-06-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l’amendement n° 191 de M. Pahun à l’article premier de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1860",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1861",
+          "legislature": 16,
+          "numero": 1861,
+          "date": "2023-06-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l’amendement n° 33 de M. Delautrette à l’article premier de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1861",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1862",
+          "legislature": 16,
+          "numero": 1862,
+          "date": "2023-06-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l’amendement n° 219 de M. Meurin à l’article premier de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1862",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1863",
+          "legislature": 16,
+          "numero": 1863,
+          "date": "2023-06-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l’amendement n° 82 de M. Villledieu à l’article premier de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1863",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1864",
+          "legislature": 16,
+          "numero": 1864,
+          "date": "2023-06-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l’amendement n° 172 de M. Carrière à l’article premier de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1864",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1865",
+          "legislature": 16,
+          "numero": 1865,
+          "date": "2023-06-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l’amendement n° 167 de M. Rome à l’article premier de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1865",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1866",
+          "legislature": 16,
+          "numero": 1866,
+          "date": "2023-06-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l’amendement n° 34 de M. Delautrette à l’article premier de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1866",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1867",
+          "legislature": 16,
+          "numero": 1867,
+          "date": "2023-06-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l’amendement n° 83 de M. Villedieu et l'amendement identique suivant à l’article premier de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1867",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1868",
+          "legislature": 16,
+          "numero": 1868,
+          "date": "2023-06-16",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l’amendement n° 26 de M. Guy Bricout et les amendements identiques suivants à l’article premier de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1868",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1869",
+          "legislature": 16,
+          "numero": 1869,
+          "date": "2023-06-16",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l’amendement n° 124 de Mme Luquet à l’article premier de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1869",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1870",
+          "legislature": 16,
+          "numero": 1870,
+          "date": "2023-06-16",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l’amendement n° 192 de Mme Manon Meunier à l’article premier de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1870",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1871",
+          "legislature": 16,
+          "numero": 1871,
+          "date": "2023-06-16",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l’amendement n° 38 de M. Delautrette et les amendements identiques suivants à l’article premier de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1871",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1872",
+          "legislature": 16,
+          "numero": 1872,
+          "date": "2023-06-16",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l’amendement n° 112 de M. Zulesi à l’article premier de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1872",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1873",
+          "legislature": 16,
+          "numero": 1873,
+          "date": "2023-06-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l’amendement n° 205 de Mme Laernoes à l’article premier de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1873",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1874",
+          "legislature": 16,
+          "numero": 1874,
+          "date": "2023-06-16",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l’amendement n° 103 de M. Wulfranc à l’article premier de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1874",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1875",
+          "legislature": 16,
+          "numero": 1875,
+          "date": "2023-06-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l’amendement n° 241 de M. Meurin à l’article premier de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1875",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1876",
+          "legislature": 16,
+          "numero": 1876,
+          "date": "2023-06-16",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l’amendement n° 114 de M. Zulesi et l'amendement identique suivant à l’article premier de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1876",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1877",
+          "legislature": 16,
+          "numero": 1877,
+          "date": "2023-06-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l’amendement n° 111 de Mme Mathilde Paris à l’article premier de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1877",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1879",
+          "legislature": 16,
+          "numero": 1879,
+          "date": "2023-06-16",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l’amendement n° 206 du Gouvernement et l'amendement identique suivant à l’article premier bis de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1879",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1880",
+          "legislature": 16,
+          "numero": 1880,
+          "date": "2023-06-16",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l’amendement n° 204 du Gouvernement et l'amendement identique suivant à l’article premier bis de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1880",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1882",
+          "legislature": 16,
+          "numero": 1882,
+          "date": "2023-06-16",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l’amendement n° 202 (rect.) du Gouvernement et l'amendement identique suivant à l’article 2 de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1882",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1884",
+          "legislature": 16,
+          "numero": 1884,
+          "date": "2023-06-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l’amendement n° 35 de M. Leseul après l’article 2 de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1884",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1885",
+          "legislature": 16,
+          "numero": 1885,
+          "date": "2023-06-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l’amendement n° 178 (rect.) de M. Rome à l’article 2 bis de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1885",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1887",
+          "legislature": 16,
+          "numero": 1887,
+          "date": "2023-06-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 180 de Mme Stambach-Terrenoir à l’article 3 de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1887",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1888",
+          "legislature": 16,
+          "numero": 1888,
+          "date": "2023-06-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 70 de Mme Mathilde Paris à l’article 3 de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1888",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1889",
+          "legislature": 16,
+          "numero": 1889,
+          "date": "2023-06-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 263 de M. Meurin à l’article 3 de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1889",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1891",
+          "legislature": 16,
+          "numero": 1891,
+          "date": "2023-06-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 181 de Mme Stambach-Terrenoir à l’article 4 de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1891",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1893",
+          "legislature": 16,
+          "numero": 1893,
+          "date": "2023-06-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 182 de Mme Stambach-Terrenoir à l’article 5 de la proposition de loi relative aux services express régionaux métropolitains (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1893",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi tendant à garantir la continuité de la représentation des communes au sein des conseils communautaires",
+      "legislature": 16,
+      "motsCles": [
+        "commune"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V1833",
+          "legislature": 16,
+          "numero": 1833,
+          "date": "2023-06-15",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi tendant à garantir la continuité de la représentation des communes au sein des conseils communautaires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1833",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à renforcer la continuité territoriale en Outre-Mer",
+      "legislature": 16,
+      "motsCles": [
+        "territorial"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V1797",
+          "legislature": 16,
+          "numero": 1797,
+          "date": "2023-06-08",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à renforcer la continuité territoriale en Outre-Mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1797",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1788",
+          "legislature": 16,
+          "numero": 1788,
+          "date": "2023-06-08",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 de la proposition de loi visant à renforcer la continuité territoriale en Outre-Mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1788",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1791",
+          "legislature": 16,
+          "numero": 1791,
+          "date": "2023-06-08",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 4 de la proposition de loi visant à renforcer la continuité territoriale en Outre-Mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1791",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1787",
+          "legislature": 16,
+          "numero": 1787,
+          "date": "2023-06-08",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 65 (rect.) du Gouvernement à l'article premier de la proposition de loi visant à renforcer la continuité territoriale en Outre-Mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1787",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1789",
+          "legislature": 16,
+          "numero": 1789,
+          "date": "2023-06-08",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 16 de Mme Parmentier après l'article 3 de la proposition de loi visant à renforcer la continuité territoriale en Outre-Mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1789",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1790",
+          "legislature": 16,
+          "numero": 1790,
+          "date": "2023-06-08",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 15 de Mme Parmentier après l'article 3 de la proposition de loi visant à renforcer la continuité territoriale en Outre-Mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1790",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1792",
+          "legislature": 16,
+          "numero": 1792,
+          "date": "2023-06-08",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 2 de Mme Parmentier après l'article 4 de la proposition de loi visant à renforcer la continuité territoriale en Outre-Mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1792",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1793",
+          "legislature": 16,
+          "numero": 1793,
+          "date": "2023-06-08",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 30 de M. Blairy après l'article 4 de la proposition de loi visant à renforcer la continuité territoriale en Outre-Mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1793",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1794",
+          "legislature": 16,
+          "numero": 1794,
+          "date": "2023-06-08",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 44 de M. Valence après l'article 4 de la proposition de loi visant à renforcer la continuité territoriale en Outre-Mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1794",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1795",
+          "legislature": 16,
+          "numero": 1795,
+          "date": "2023-06-08",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 42 de M. Fugit après l'article 4 de la proposition de loi visant à renforcer la continuité territoriale en Outre-Mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1795",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1796",
+          "legislature": 16,
+          "numero": 1796,
+          "date": "2023-06-08",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 35 de M. Vuilletet après l'article 4 de la proposition de loi visant à renforcer la continuité territoriale en Outre-Mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1796",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à ouvrir le tiers financement à l'État, à ses établissements publics et aux collectivités territoriales pour favoriser les travaux de la rénovation énergétique",
+      "legislature": 16,
+      "motsCles": [
+        "collectivite",
+        "territorial"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V1255",
+          "legislature": 16,
+          "numero": 1255,
+          "date": "2023-03-22",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à ouvrir le tiers financement à l'État, à ses établissements publics et aux collectivités territoriales pour favoriser les travaux de la rénovation énergétique (texte de la commission mixte paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1255",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de résolution tendant à la création d'une commission d'enquête sur le coût de la vie dans les collectivités territoriales régies par les articles 73 et 74 de la Constitution",
+      "legislature": 16,
+      "motsCles": [
+        "collectivite",
+        "territorial"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V924",
+          "legislature": 16,
+          "numero": 924,
+          "date": "2023-02-09",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de résolution tendant à la création d'une commission d'enquête sur le coût de la vie dans les collectivités territoriales régies par les articles 73 et 74 de la Constitution.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/924",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "projet de loi, adopté par le Sénat, autorisant l’approbation de l’accord pour la mise en place d’un mécanisme d’échange et de partage de l’information maritime dans l’océan Indien occidental et de l’accord régional sur la coordination des opérations en mer dans l’océan Indien occidental",
+      "legislature": 16,
+      "motsCles": [
+        "region"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V907",
+          "legislature": 16,
+          "numero": 907,
+          "date": "2023-02-01",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble du projet de loi, adopté par le Sénat, autorisant l’approbation de l’accord pour la mise en place d’un mécanisme d’échange et de partage de l’information maritime dans l’océan Indien occidental et de l’accord régional sur la coordination des opérations en mer dans l’océan Indien occidental (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/907",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à ouvrir le tiers financement à l'Etat, à ses établissements publics et aux collectivités territoriales pour favoriser les travaux de rénovation énergétique",
+      "legislature": 16,
+      "motsCles": [
+        "collectivite",
+        "territorial"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V876",
+          "legislature": 16,
+          "numero": 876,
+          "date": "2023-01-19",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à ouvrir le tiers financement à l'Etat, à ses établissements publics et aux collectivités territoriales pour favoriser les travaux de rénovation énergétique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/876",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "projet de loi ratifiant l'ordonnance n° 2021-1605 du 8 décembre 2021 étendant et adaptant à la fonction publique des communes de Polynésie française certaines dispositions statutaires relatives à la fonction publique territoriale",
+      "legislature": 16,
+      "motsCles": [
+        "commune",
+        "territorial"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V188",
+          "legislature": 16,
+          "numero": 188,
+          "date": "2022-08-03",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble du projet de loi ratifiant l'ordonnance n° 2021-1605 du 8 décembre 2021 étendant et adaptant à la fonction publique des communes de Polynésie française certaines dispositions statutaires relatives à la fonction publique territoriale (texte de la commission paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/188",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à rétablir le droit commun de la prescription acquisitive dans les Collectivités régies par l’article 73 de la Constitution ainsi qu’à Saint-Martin et Saint-Barthélemy",
+      "legislature": 17,
+      "motsCles": [
+        "collectivite"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V9201",
+          "legislature": 17,
+          "numero": 9201,
+          "date": "2026-10-29",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi visant à rétablir le droit commun de la prescription acquisitive dans les Collectivités régies par l’article 73 de la Constitution ainsi qu’à Saint-Martin et Saint-Barthélemy (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9201",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi élargissant la possibilité pour les collectivités territoriales et leurs groupements d'avoir recours au modèle de la société portuaire pour l'exploitation de leurs ports",
+      "legislature": 17,
+      "motsCles": [
+        "collectivite",
+        "territorial"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V4697",
+          "legislature": 17,
+          "numero": 4697,
+          "date": "2025-12-09",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article unique de la proposition de loi élargissant la possibilité pour les collectivités territoriales et leurs groupements d'avoir recours au modèle de la société portuaire pour l'exploitation de leurs ports (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4697",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi créant une dérogation à la participation minimale pour la maîtrise d'ouvrage  pour les communes rurales",
+      "legislature": 17,
+      "motsCles": [
+        "rural",
+        "commune"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V946",
+          "legislature": 17,
+          "numero": 946,
+          "date": "2025-03-11",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article unique de la proposition de loi créant une dérogation à la participation minimale pour la maîtrise d'ouvrage  pour les communes rurales (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/946",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V945",
+          "legislature": 17,
+          "numero": 945,
+          "date": "2025-03-11",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 3 de M. Bex à l'article unique de la proposition de loi créant une dérogation à la participation minimale pour la maîtrise d'ouvrage  pour les communes rurales (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/945",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi organique visant à renforcer l'ancrage territorial des parlementaires",
+      "legislature": 16,
+      "motsCles": [
+        "territorial"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3514",
+          "legislature": 16,
+          "numero": 3514,
+          "date": "2024-03-14",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article unique de la proposition de loi organique visant à renforcer l'ancrage territorial des parlementaires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3514",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3513",
+          "legislature": 16,
+          "numero": 3513,
+          "date": "2024-03-14",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 1 de M. Raux et les amendements identiques suivants à l'article unique de la proposition de loi organique visant à renforcer l'ancrage territorial des parlementaires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3513",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi renforçant la sécurité des élus locaux et la protection des maires",
+      "legislature": 16,
+      "motsCles": [
+        "maire"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3339",
+          "legislature": 16,
+          "numero": 3339,
+          "date": "2024-02-06",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi renforçant la sécurité des élus locaux et la protection des maires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3339",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3341",
+          "legislature": 16,
+          "numero": 3341,
+          "date": "2024-02-06",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 3 de la proposition de loi renforçant la sécurité des élus locaux et la protection des maires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3341",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3344",
+          "legislature": 16,
+          "numero": 3344,
+          "date": "2024-02-06",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 10 de la proposition de loi renforçant la sécurité des élus locaux et la protection des maires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3344",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3337",
+          "legislature": 16,
+          "numero": 3337,
+          "date": "2024-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 36 de M. Delautrette à l'article premier de la proposition de loi renforçant la sécurité des élus locaux et la protection des maires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3337",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3338",
+          "legislature": 16,
+          "numero": 3338,
+          "date": "2024-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 17 de M. Rome et l'amendement identique suivant à l'article premier de la proposition de loi renforçant la sécurité des élus locaux et la protection des maires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3338",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3340",
+          "legislature": 16,
+          "numero": 3340,
+          "date": "2024-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 32 de M. Rome à l'article 3 de la proposition de loi renforçant la sécurité des élus locaux et la protection des maires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3340",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3342",
+          "legislature": 16,
+          "numero": 3342,
+          "date": "2024-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 39 de M. Delautrette après l'article 6 de la proposition de loi renforçant la sécurité des élus locaux et la protection des maires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3342",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3343",
+          "legislature": 16,
+          "numero": 3343,
+          "date": "2024-02-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 45 de Mme Diaz à l'article 10 de la proposition de loi renforçant la sécurité des élus locaux et la protection des maires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3343",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3345",
+          "legislature": 16,
+          "numero": 3345,
+          "date": "2024-02-07",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 1 de M. Sitzenstuhl à l'article 14 de la proposition de loi renforçant la sécurité des élus locaux et la protection des maires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3345",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3346",
+          "legislature": 16,
+          "numero": 3346,
+          "date": "2024-02-07",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 25 de M. Rome à l'article 14 de la proposition de loi renforçant la sécurité des élus locaux et la protection des maires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3346",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3347",
+          "legislature": 16,
+          "numero": 3347,
+          "date": "2024-02-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 27 de M. Rome à l'article 14 de la proposition de loi renforçant la sécurité des élus locaux et la protection des maires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3347",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3348",
+          "legislature": 16,
+          "numero": 3348,
+          "date": "2024-02-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 42 de M. Delautrette à l'article 14 de la proposition de loi renforçant la sécurité des élus locaux et la protection des maires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3348",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3349",
+          "legislature": 16,
+          "numero": 3349,
+          "date": "2024-02-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 101 de Mme Pochon après l'article 19 de la proposition de loi renforçant la sécurité des élus locaux et la protection des maires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3349",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à réduire les inégalités territoriales pour les ouvertures de casinos",
+      "legislature": 16,
+      "motsCles": [
+        "territorial"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3135",
+          "legislature": 16,
+          "numero": 3135,
+          "date": "2023-12-05",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article unique de la proposition de loi visant à réduire les inégalités territoriales pour les ouvertures de casinos (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3135",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "projet de loi de finances pour 2024",
+      "legislature": 16,
+      "motsCles": [
+        "territorial",
+        "rural"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V2825",
+          "legislature": 16,
+          "numero": 2825,
+          "date": "2023-10-31",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1530 de M. Jean-Philippe Tanguy à l'article 35 et État B de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Administration générale et territoriale de l'État.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2825",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2826",
+          "legislature": 16,
+          "numero": 2826,
+          "date": "2023-10-31",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 787 de M. Saulignac à l'article 35 et État B de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Administration générale et territoriale de l'État.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2826",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2827",
+          "legislature": 16,
+          "numero": 2827,
+          "date": "2023-10-31",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 88 de M. Gillet à l'article 35 et État B de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Administration générale et territoriale de l'État.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2827",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2828",
+          "legislature": 16,
+          "numero": 2828,
+          "date": "2023-10-31",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 597 de M. de Courson à l'article 35 et État B de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Administration générale et territoriale de l'État.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2828",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2829",
+          "legislature": 16,
+          "numero": 2829,
+          "date": "2023-10-31",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1014 de M. Rancoule à l'article 35 et État B de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Administration générale et territoriale de l'État.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2829",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2831",
+          "legislature": 16,
+          "numero": 2831,
+          "date": "2023-10-31",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1032 de la commission des finances avant l'article 50 de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Administration générale et territoriale de l'État.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2831",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2832",
+          "legislature": 16,
+          "numero": 2832,
+          "date": "2023-10-31",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1034 de la commission des finances avant l'article 50 de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Administration générale et territoriale de l'État.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2832",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2888",
+          "legislature": 16,
+          "numero": 2888,
+          "date": "2023-11-06",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 2921 de Mme Panonacle à l'article 35 et État B de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Agricuture, alimentation, forêt et affaires rurales.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2888",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2889",
+          "legislature": 16,
+          "numero": 2889,
+          "date": "2023-11-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1204 de Mme Hignet à l'article 35 et État B de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Agricuture, alimentation, forêt et affaires rurales.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2889",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2890",
+          "legislature": 16,
+          "numero": 2890,
+          "date": "2023-11-06",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 3552 de Mme Le Feur à l'article 35 et État B de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Agricuture, alimentation, forêt et affaires rurales.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2890",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2891",
+          "legislature": 16,
+          "numero": 2891,
+          "date": "2023-11-06",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 3546 de M. Davi à l'article 35 et État B de la seconde partie du projet de loi de finances pour 2024 (première lecture) - Mission Agricuture, alimentation, forêt et affaires rurales.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2891",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V2830",
+          "legislature": 16,
+          "numero": 2830,
+          "date": "2023-10-31",
+          "type": "autre",
+          "resultat": "adopté",
+          "titre": "les crédits de la mission Administration générale et territoriale de l'État à l'article 35 et État B de la seconde partie du projet de loi de finances pour 2024 (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2830",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de résolution tendant à la création d'une commission d'enquête sur le coût de la vie dans les départements et régions d'outre-mer",
+      "legislature": 16,
+      "motsCles": [
+        "departement",
+        "region"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V923",
+          "legislature": 16,
+          "numero": 923,
+          "date": "2023-02-09",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 10 de Mme Laporte à l'amendement n° 8 de M. Hajjar au titre de la proposition de résolution tendant à la création d'une commission d'enquête sur le coût de la vie dans les départements et régions d'outre-mer.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/923",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à garantir un tarif réduit aux étudiants boursiers et précaires dans les sites de restauration gérés par les centres régionaux des oeuvres universitaires",
+      "legislature": 16,
+      "motsCles": [
+        "region"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V927",
+          "legislature": 16,
+          "numero": 927,
+          "date": "2023-02-09",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi visant à garantir un tarif réduit aux étudiants boursiers et précaires dans les sites de restauration gérés par les centres régionaux des oeuvres universitaires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/927",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V929",
+          "legislature": 16,
+          "numero": 929,
+          "date": "2023-02-09",
+          "type": "article",
+          "resultat": "rejeté",
+          "titre": "l'article 2 de la proposition de loi visant à garantir un tarif réduit aux étudiants boursiers et précaires dans les sites de restauration gérés par les centres régionaux des oeuvres universitaires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/929",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V925",
+          "legislature": 16,
+          "numero": 925,
+          "date": "2023-02-09",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 11 de Mme Keloua Hachi à l'article premier de la proposition de loi visant à garantir un tarif réduit aux étudiants boursiers et précaires dans les sites de restauration gérés par les centres régionaux des oeuvres universitaires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/925",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V926",
+          "legislature": 16,
+          "numero": 926,
+          "date": "2023-02-09",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 19 de Mme Calvez et les amendements identiques suivants à l'article premier de la proposition de loi visant à garantir un tarif réduit aux étudiants boursiers et précaires dans les sites de restauration gérés par les centres régionaux des oeuvres universitaires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/926",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V928",
+          "legislature": 16,
+          "numero": 928,
+          "date": "2023-02-09",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 9 de M. Bilde après l'article premier de la proposition de loi visant à garantir un tarif réduit aux étudiants boursiers et précaires dans les sites de restauration gérés par les centres régionaux des oeuvres universitaires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/928",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V930",
+          "legislature": 16,
+          "numero": 930,
+          "date": "2023-02-09",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 12 de Mme Keloua Hachi au titre de la proposition de loi visant à garantir un tarif réduit aux étudiants boursiers et précaires dans les sites de restauration gérés par les centres régionaux des oeuvres universitaires (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/930",
+          "dejaRetenu": false
+        }
+      ]
+    }
+  ]
+}

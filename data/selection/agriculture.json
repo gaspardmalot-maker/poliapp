@@ -1,0 +1,591 @@
+{
+  "sujet": "agriculture",
+  "auto": true,
+  "note": "Pré-sélection automatique (scripts/brouillon.mjs). Passer « statut » à « valide » après relecture : l’entrée ne sera plus modifiée.",
+  "scrutins": [
+    {
+      "id": "VTANR5L17V8427",
+      "resume": "Projet de loi d'urgence pour la protection et la souveraineté agricoles",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "Dem": {
+          "ancre": "4166348",
+          "citations": [
+            "Notre responsabilité consiste à rendre accessible au plus grand nombre le choix de son alimentation. Même s'il est partagé, le groupe Les Démocrates votera, dans sa majorité, ce texte."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "4166740",
+          "citations": [
+            "Je vous invite à l'adopter pour les familles d'agriculteurs, pour ceux qui aimeraient vivre de leur métier et n'y parviennent pas. Le groupe Horizons & indépendants votera majoritairement pour le projet de loi, et j'en suis heureux."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4166755",
+          "citations": [
+            "Le 2 juin, nous l'avons majoritairement voté en première lecture. Nous voulons un texte pour les agriculteurs et, si l'article 2 quater était supprimé, de nombreux députés de notre groupe voteraient pour le projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "4166766",
+          "citations": [
+            "Si ce texte devait trouver ici une majorité, nous sommes pour notre part convaincus qu'il ne ferait qu'approfondir les divisions et les fractures, au lieu de chercher à construire collectivement les régulations, les protections et les accompagnements publics plus indispensables que jamais à notre secteur agricole. Les députés communistes et du groupe de la Gauche démocrate et républicaine voteront donc résolument contre les conclusions de la commission mixte paritaire."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "4165322",
+          "citations": [
+            "Ce texte n'est pas parfait, mais il apporte des réponses concrètes et attendues à nos agriculteurs tout en préservant les exigences auxquelles nous sommes attachés. C'est pourquoi le groupe Ensemble pour la République votera majoritairement en faveur de ce projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4165413",
+          "citations": [
+            "Pourtant, jamais la voix de la France n'a semblé aussi faible à Bruxelles que sous les gouvernements successifs d'Emmanuel Macron. Parce que ce texte ne répond ni à l'urgence du revenu ni à celle du climat, le groupe Socialistes et apparentés votera contre."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4165434",
+          "citations": [
+            "Le groupe de la Droite républicaine soutiendra ce texte issu de la commission mixte paritaire, parce qu'il répond aux attentes de nos agriculteurs et de nos éleveurs, parce que produire en France est une nécessité pour retrouver la voie de la souveraineté agricole et agroalimentaire,…"
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V7259",
+      "resume": "Projet de loi d'urgence pour la protection et la souveraineté agricoles",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "EcoS": {
+          "ancre": "4112410",
+          "citations": [
+            "Du sincère espoir de voir ce projet de loi d'urgence agricole apporter des améliorations, il ne me reste désormais plus rien. Nous voterons donc contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4112426",
+          "citations": [
+            "Ce texte contient des mesures utiles et circonscrites sur l'eau, la prédation et le revenu des agriculteurs, il renforce plusieurs outils attendus par le monde agricole et il contribue à la protection de notre souveraineté alimentaire. Pour toutes ces raisons, le groupe Les Démocrates votera en sa faveur, mais demeurera vigilant pour la suite."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "4112895",
+          "citations": [
+            "Le groupe Horizons & indépendants votera pour ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4112906",
+          "citations": [
+            "Arrêtons d'afficher des ambitions et de reculer au moment d'inscrire les outils dans la loi ! Notre groupe votera majoritairement en faveur de ce texte, sans illusion et sans enthousiasme."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4112446",
+          "citations": [
+            "Le groupe UDR refuse de mépriser les quelques améliorations concrètes contenues dans ce projet de loi et votera donc en sa faveur, mais nous le ferons avec gravité."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "4112458",
+          "citations": [
+            "Pour la justice économique envers nos agriculteurs, pour la sécurité de nos éleveurs, pour la fierté de nos terroirs et pour notre souveraineté alimentaire, le groupe Rassemblement national votera en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "4112474",
+          "citations": [
+            "Pour le groupe Ensemble pour la République, le choix est clair : celui d'une France qui ne se résigne pas à dépendre des autres, qui fait confiance à ses agriculteurs et qui continue à choisir avec force la ferme France. C'est la raison pour laquelle nous voterons en faveur de ce projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4113056",
+          "citations": [
+            "Notre responsabilité est de dire clairement notre infinie déception. Le groupe Socialistes et apparentés votera contre ce projet de loi d'urgence agricole."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4113075",
+          "citations": [
+            "Nous le voterons parce qu'il améliore la protection de celles et ceux qui nous nourrissent face aux délits dont ils sont victimes, parce qu'il ambitionne de donner à nos agriculteurs davantage de moyens pour produire, vivre de leur travail et préparer l'avenir."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V3273",
+      "resume": "Proposition de loi visant à rendre systématique l'information du consommateur sur l'origine des denrées alimentaires par le moyen de l'étiquetage",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "EPR": {
+          "ancre": "3875032",
+          "citations": [
+            "Pour notre part, nous refusons de faire croire à nos concitoyens et à nos agriculteurs qu'une loi française pourrait effacer un règlement européen. Pour toutes ces raisons, nous voterons contre la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "3871837",
+          "citations": [
+            "Vous proposez un texte sur l'étiquetage, mais derrière cet affichage, d'une grande hypocrisie, vous ne soutenez aucune mesure pour le pouvoir d'achat et, par là même, vous poussez la plupart des consommateurs vers la malbouffe. Pour toutes ces raisons, nous voterons contre cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3872072",
+          "citations": [
+            "Pour la défense des agriculteurs, fiers de produire dans nos territoires, mais aussi des consommateurs, soucieux d'une alimentation de qualité, nous voterons contre l'hypocrisie et contre vos fausses promesses."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3875044",
+          "citations": [
+            "Le groupe votera contre la proposition de loi pour les raisons exposées tout à l'heure."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3875046",
+          "citations": [
+            "Aujourd'hui, il s'agit de notre capacité à leur donner un bouclier et à faire passer un message à l'Europe, qui méprise nos agriculteurs, comme en atteste l'accord avec le Mercosur. Nous voterons pour ce texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V2957",
+      "resume": "Proposition de loi visant à lever les contraintes à l'exercice du métier d'agriculteur",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "GDR": {
+          "ancre": "3839244",
+          "citations": [
+            "Vous faites diversion en réautorisant certaines molécules interdites ou en faisant croire que l'affaiblissement du droit environnemental permettra de faire face au défi climatique et aux menaces de la grande mise en concurrence des producteurs au niveau international. Pour toutes ces raisons, les députés du groupe de la Gauche démocrate et républicaine voteront contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3839250",
+          "citations": [
+            "Le groupe UDR votera le texte parce que, grâce à l'engagement commun du RN et de l'UDR, il échappe au pire et parce qu'il contient des signaux de rupture importants – je pense notamment à la reconnaissance de l'eau comme ressource stratégique et à l'assouplissement des contraintes réglementaires."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3839276",
+          "citations": [
+            "Nous ne voterons pas un énième texte vidé de sa substance pour faire plaisir à la gauche pastèque, verte à l'extérieur, rouge à l'intérieur."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3839294",
+          "citations": [
+            "La présente proposition de loi vient compléter cet ensemble, en apportant de nouvelles réponses pour aider les agriculteurs à exercer leur métier dans des conditions dignes et durables. Pour toutes ces raisons, le groupe Ensemble pour la République votera, dans sa grande majorité, en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3837396",
+          "citations": [
+            "Voilà pourquoi nous continuerons de veiller avec attention à la défense du monde paysan, et pourquoi nous voterons avec force et détermination en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "3837427",
+          "citations": [
+            "Le groupe Écologiste et social votera avec force contre la proposition de loi Duplomb."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3837555",
+          "citations": [
+            "Sur ces sujets, notre groupe sera vigilant. Pour soutenir nos agriculteurs, la majorité des députés du groupe Les Démocrates votera en faveur de ce texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V2105",
+      "resume": "Motion de rejet préalable, déposée par MM. Julien Dive, Laurent Wauquiez, Gabriel Attal, Marc Fesneau et Paul Christophe de la proposition de loi visant à lever les contraintes à l’exercice du métier d’agriculteur",
+      "lecture": "première lecture",
+      "statut": "auto"
+    },
+    {
+      "id": "VTANR5L17V844",
+      "resume": "Projet de loi d'orientation pour la souveraineté alimentaire et agricole et le renouvellement des générations en agriculture",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "RN": {
+          "ancre": "3638751",
+          "citations": [
+            "En outre, le texte ne répond malheureusement toujours en rien aux questions fondamentales qui se posent à notre agriculture : le revenu de nos agriculteurs et leur protection face à la concurrence internationale déloyale. Ce constat étant dressé, nous voterons ce texte car, aussi insuffisant et imparfait soit-il, il est nécessaire pour aider nos filières à relever la tête."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3638761",
+          "citations": [
+            "En revanche, elle dotera la France de l'arsenal juridique qui lui fait cruellement défaut, afin d'assurer le renouvellement des générations et, de ce fait, la pérennité de notre puissance agricole. Pour toutes ces raisons, notre groupe la votera sans réserve."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "3638694",
+          "citations": [
+            "et témoin du désastre lié à l'effondrement de la biodiversité et au dérèglement climatique, je n'ai plus qu'une certitude, qui me permet de dénoncer l'hérésie que constitue ce texte : pour la souveraineté alimentaire, pour les agriculteurs et pour nos enfants, l'écologie plus tard, c'est l'écologie trop tard ! Nous voterons donc contre ce texte, qui est un contresens historique."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3638705",
+          "citations": [
+            "Elle leur permettra de travailler dans un environnement sécurisé. Le groupe Les Démocrates salue les avancées contenues dans ce projet de loi et il le votera."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V789",
+      "resume": "Proposition de loi visant à adapter le fonctionnement des instances de gouvernance des chambres d'agriculture et de la mutualité sociale agricole",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "DR": {
+          "ancre": "3630046",
+          "citations": [
+            "Ils ont néanmoins abouti, grâce à la bonne volonté des députés et des sénateurs présents, au maintien de la condition de s'être acquitté de ses cotisations pour être éligible aux instances de la MSA. Le texte issu de la CMP étant satisfaisant, le groupe Droite républicaine votera en sa faveur."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "3630057",
+          "citations": [
+            "Il ne modifie pas en profondeur la démocratie au sein des instances agricoles, comme nous l'espérions : c'est la raison pour laquelle le groupe Écologiste et social ne le votera pas."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3630077",
+          "citations": [
+            "C'est pourquoi, une fois ce texte voté, il faudra donner une impulsion claire aux chambres d'agriculture qui viennent d'être renouvelées. Je vous fais pleinement confiance, madame la ministre, pour agir en ce sens, et je répète que le groupe Horizons & indépendants votera la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3630089",
+          "citations": [
+            "Ce dernier prend d'ailleurs une tournure inquiétante au Sénat, et les possibilités de le faire évoluer seront particulièrement contraintes par la procédure d'examen. En conclusion, si nous voterons en faveur de ce texte, c'est avec la claire conscience de toutes ses insuffisances."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3630134",
+          "citations": [
+            "Ce débat doit cependant être conduit de manière pragmatique et raisonnable, loin des caricatures, avec le souci constant de garantir à nos agriculteurs des solutions viables et efficaces, comme de garantir à notre pays la souveraineté alimentaire dont il a besoin. Nous soutiendrons donc ce texte qui répond à des questions réelles mais secondaires."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "3630162",
+          "citations": [
+            "Nous voterons donc contre ce texte, mais vous pouvez compter sur le groupe La France insoumise pour continuer à œuvrer en faveur d'un système plus représentatif de la diversité des pratiques agricoles et d'une plus grande présence des femmes dans les instances."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V3966",
+      "resume": "Projet de loi d'orientation pour la souveraineté alimentaire et agricole et le renouvellement des générations en agriculture",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "GDR-NUPES": {
+          "ancre": "3481556",
+          "citations": [
+            "Dans l'attente des résultats de la navette parlementaire, la grande majorité de notre groupe parlementaire s'abstiendra – des voix discordantes s'exprimeront, comme elles ont toujours le droit de le faire dans notre groupe où la liberté est la règle."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3481532",
+          "citations": [
+            "Nous allons tout droit vers une agriculture, plus pauvre, réduite à 200 000 paysans : nous avons raté ce rendez-vous. Le groupe Socialistes et apparentés votera contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3481704",
+          "citations": [
+            "Sans hésitation, nous voterons contre ce texte indigent voire, pour certains articles, dangereux."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "3481720",
+          "citations": [
+            "Parce que ce projet de loi a été coconstruit avec les agriculteurs de notre pays, parce qu'il leur donne des perspectives et des leviers nouveaux, parce qu'il soutient les jeunes agriculteurs et parce qu'il leur fait confiance, parce qu'il a fait l'objet de débats nourris et de modifications adoptées par-delà les clivages, le groupe Renaissance le votera sans hésitation."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3481736",
+          "citations": [
+            "C'est pourquoi, en dépit des appels de certains syndicats – dont nous nous demandons s'ils visent à défendre réellement les intérêts agricoles ou s'ils ne cherchent pas plutôt à donner le change pour éteindre la colère qui gronde –, nous voterons contre ce texte et continuons d'appeler de nos vœux une grande loi de libération de l'agriculture française qui nous permettra d'assumer à nouveau notre rang de puissance agricole mondiale et rendra à notre monde rural sa fierté et sa dignité."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "3481598",
+          "citations": [
+            "Quant à nous, par respect pour Thierry, Héloïse, Nicolas, Christelle, Laurent, Marianna, Benjamin, Amandine et tous les autres, nous voterons résolument contre."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3481636",
+          "citations": [
+            "Je tiens à remercier tous les groupes ayant enrichi le texte en commission ou en séance. Vous l'aurez compris, le groupe Démocrate votera pour ce projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3482067",
+          "citations": [
+            "Compte tenu des nombreuses améliorations obtenues au cours de son examen – la présente version traite mieux les enjeux de production, assure un meilleur soutien à l'élevage, fixe des objectifs chiffrés de renouvellement des générations et contribue à simplifier le droit et les procédures administratives –, le groupe Horizons et apparentés votera majoritairement en faveur de ce texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V3726",
+      "resume": "Motion de rejet préalable, déposée par Mme Cyrielle Chatelain, du projet de loi d’orientation pour la souveraineté alimentaire et agricole et le renouvellement des générations en agriculture",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "RN": {
+          "ancre": "3454169",
+          "citations": [
+            "C'est pourtant ce que vous demandez aux agriculteurs français : ils doivent faire mieux que leurs concurrents internationaux, avec moins d'outils et plus de contraintes. Nous ne pouvons nous satisfaire de ce texte, même si nous voterons tout ce qui sera susceptible de l'améliorer – hélas, il y a peu de choses."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3455427",
+          "citations": [
+            "Un seul choix s'offre donc à nous pour nos débats à venir : travailler ensemble, de manière constructive, pour répondre aux attentes du monde agricole. Le groupe Démocrate soutiendra le projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3455442",
+          "citations": [
+            "Notre groupe se réjouit de l'adoption, en commission, d'amendements qui visent à mieux prendre en considération l'enseignement agricole privé aux côtés du public et à valoriser l'enseignement agricole assuré par les maisons familiales rurales, au plus près des territoires. En ce qui concerne l'article 9, la majorité de notre groupe soutiendra la version revisitée de Pascal Lecamp, rapporteur thématique."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V3101",
+      "resume": "Proposition de loi visant à lutter contre l'inflation par l'encadrement des marges des industries agroalimentaires, du raffinage et de la grande distribution et établissant un prix d'achat plancher des matières premières agricoles",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "RN": {
+          "ancre": "3311504",
+          "citations": [
+            "Face à la détresse des agriculteurs et des Français qui ne s'en sortent plus, le groupe Rassemblement national prendra ses responsabilités et votera cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3311739",
+          "citations": [
+            "Sous réserve que cette proposition de loi soit considérée comme une expérimentation pour temps de crise, que la cible soit bien identifiée – pas les TPE et les PME mais bien les multinationales – et qu'elle intègre les dispositions relatives à l'empowerment, aux contrats tripartites et au commerce équitable que nous proposons, notre groupe soutiendra cette proposition de loi dont il va débattre à l'instant de façon positive et volontariste."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3310425",
+          "citations": [
+            "Oui, nous voterons pour ce texte, en y incorporant des propositions destinées à l'agriculture biologique, et nous espérons que la majorité acceptera, enfin, d'agir vraiment contre l'inflation."
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "3310432",
+          "citations": [
+            "Mais pourquoi est-ce aux producteurs de rogner sur leurs recettes plutôt qu'aux grands distributeurs ? Renverser la situation est tout l'objet de cette proposition de loi, que notre groupe soutiendra."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3311489",
+          "citations": [
+            "Restent les articles sur l'encadrement des marges avec la philosophie desquels nous sommes en désaccord. Nous voterons donc majoritairement contre la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "3311494",
+          "citations": [
+            "Vous avez voté, l'un après l'autre, les amendements qu'il vous proposait. Pour toutes ces raisons, le groupe Renaissance ne votera pas ce texte populiste qui n'apporte aucune solution pour améliorer le pouvoir d'achat des Français."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V1387",
+      "resume": "Proposition de loi visant à mieux manger en soutenant les Français face à l'inflation et en favorisant l'accès à une alimentation saine",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "Ecolo-NUPES": {
+          "ancre": "3084187",
+          "citations": [
+            "En conclusion, puisqu'il contient tout de même quelques miettes pour ceux qui souffrent, les miettes que, très généreusement, vous jetez à la face des Français, nous voterons pour ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3085038",
+          "citations": [
+            "Notre groupe, composé en partie d'élus ultramarins, comprend bien l'intérêt du dispositif pour les outre-mer ; il sait aussi que la structure du marché y est particulière et que, s'il est légitime là-bas, il n'a pas forcément sa pertinence dans l'Hexagone. Pour ces raisons, le groupe LIOT s'abstiendra sur ce texte."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3085047",
+          "citations": [
+            "Pour ce qui nous concerne et parce que nous sommes pragmatiques, nous voterons en faveur de ce texte et des quelques mesures, même indigentes, qui vont dans le bon sens ; mais rendez-vous bientôt pour pouvoir enfin avancer sur le problème de l'inflation qui frappe les Français."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "3085061",
+          "citations": [
+            "Le groupe LFI votera donc en faveur de cette proposition de loi : grâce au bouclier et au blocage des prix, certains pourront enfin manger mais, pour qu'ils mangent mieux, en revanche, il vous faudra mieux voter."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3085070",
+          "citations": [
+            "Votre politique de chèques est coûteuse et injuste car elle oublie, encore une fois, les classes moyennes. C'est pourquoi nous ne voterons pas ce texte."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3085083",
+          "citations": [
+            "Le texte soumis au vote contient désormais deux articles auxquels nous sommes fermement opposés car ils relèvent clairement d'un modèle économique administré. Le groupe Démocrates votera donc contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3085087",
+          "citations": [
+            "La proposition de loi d'origine a certes été appauvrie, mais nous souhaitons valider les quelques avancées que j'ai citées. Nous remercions le groupe écologiste d'avoir permis le débat et nous voterons en faveur des petits pas accomplis."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3085156",
+          "citations": [
+            "Pour ces raisons, et au nom de la responsabilité, le groupe Horizons votera contre ce texte, qui est une aberration."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V654",
+      "resume": "Proposition de loi visant à calculer la retraite de base des non-salariés agricoles en fonction de leurs seules vingt-cinq meilleures années de revenus",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "Dem": {
+          "ancre": "2937918",
+          "citations": [
+            "Le groupe Dem votera sans réserve la proposition de loi déposée par Julien Dive."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "2937283",
+          "citations": [
+            "Nous soutenons également la proposition d'une entrée en vigueur progressive de ladite réforme au 1er janvier 2026, ce qui permettra d'aboutir à un processus pleinement opérationnel. Le groupe Horizons et apparentés votera donc en faveur de cette proposition de loi, amendée comme je l'ai indiqué."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "2937938",
+          "citations": [
+            "C'est une question de justice sociale. Pour cette raison, nous voterons cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "2937929",
+          "citations": [
+            "À mon tour, je remercie M. le rapporteur et l'ensemble des collègues qui ont œuvré pour ce texte que nous voterons, bien entendu."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "2937384",
+          "citations": [
+            "Le groupe Libertés, indépendants, outre-mer et territoires est conscient du fait que ces dispositions pourront être complétées par une réforme des retraites plus vaste, incluant la question des taux et assiettes de cotisation et visant une plus grande contributivité, mais il votera en faveur de ce texte qui va dans le bon sens."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "2937951",
+          "citations": [
+            "Nous devons nous montrer reconnaissants à l'égard de ces femmes et de ces hommes qui s'engagent au quotidien et sans relâche pour une agriculture de qualité proposée à des prix abordables, bref, pour assurer la souveraineté alimentaire. C'est pourquoi le groupe Renaissance votera en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "2937550",
+          "citations": [
+            "Les retraites par points ne sont ni fiables ni viables ; elles conduisent systématiquement à des rectifications législatives ultérieures, ce qui plaide en faveur d'un système de retraite ordinaire par répartition, à même d'assurer à toutes et à tous, après une vie de travail, un revenu décent. Parce que ce texte est étonnamment social et implicitement anti-macroniste, nous le voterons."
+          ],
+          "statut": "auto"
+        }
+      }
+    }
+  ]
+}

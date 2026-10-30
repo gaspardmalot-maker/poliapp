@@ -1,0 +1,794 @@
+{
+  "sujet": "securite-justice",
+  "auto": true,
+  "note": "Pré-sélection automatique (scripts/brouillon.mjs). Passer « statut » à « valide » après relecture : l’entrée ne sera plus modifiée.",
+  "scrutins": [
+    {
+      "id": "VTANR5L17V8433",
+      "resume": "Projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "RN": {
+          "ancre": "4159048",
+          "citations": [
+            "Monsieur le ministre, messieurs les rapporteurs, le groupe Rassemblement national votera ce texte, même s'il est imparfait."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "4149724",
+          "citations": [
+            "Enfin, nous soutiendrons les amendements du gouvernement, de nos rapporteurs, que nous remercions pour leur travail, et de notre collègue Laetitia Saint-Paul, dont nous saluons les travaux précédents sur l'encadrement des rave-parties."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4159147",
+          "citations": [
+            "» Nous sommes nombreux sur ces bancs à vous avoir connu dans vos fonctions précédentes, comme préfet ou secrétaire d'État, et nous sommes unanimes : dans ce texte, nous ne vous reconnaissons pas, monsieur le ministre. Vous aurez compris que nous ne nous y reconnaissons pas non plus et que nous voterons contre."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4159273",
+          "citations": [
+            "Tel est le choix que nous avons fait lors de l'examen en commission et que nous avons confirmé lors de l'examen en séance publique. Nous voterons évidemment en faveur du texte : il ne réglera pas tout – ce dont j'espère que vous êtes conscient –,…"
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4159290",
+          "citations": [
+            "Vous envisagiez de stigmatiser et de réprimer des jeunes qui vont faire la fête le week-end et vous annonciez pêle-mêle des sanctions dans un texte fourre-tout, dont, au lieu de partir des besoins réels de nos forces de sécurité et des autres acteurs de terrain, vous avez fait une espèce de tract à destination des amis de Mme Le Pen, qui vous rendent bien votre sollicitude, puisqu'ils voteront votre projet de loi, après beaucoup d'autres."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4159302",
+          "citations": [
+            "Sans être parfait, il retrouve sa logique d'ensemble et apporte des réponses concrètes à des difficultés bien identifiées. Par conséquent, je le répète, notre groupe, Les Démocrates, votera en faveur de ce projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "4159318",
+          "citations": [
+            "Les dispositions de cet article étaient pourtant nécessaires face au narcotrafic qui gangrène nos territoires, endeuillent trop de familles et volent l'avenir d'une partie de notre jeunesse. Le groupe Horizons & indépendants votera en faveur de ce projet de loi, qui apporte des réponses pragmatiques."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4159182",
+          "citations": [
+            "En conclusion, le groupe LIOT votera majoritairement en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "4159198",
+          "citations": [
+            "Enfin, rappelons que le Conseil d'État, lui-même, alerte le gouvernement sur la multiplication de mesures comportant des restrictions significatives de liberté, initialement justifiées par des motifs impérieux, puis progressivement pérennisées ou étendues. Ce texte s'inscrit précisément dans cette évolution dangereuse ; nous voterons donc résolument contre."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4159213",
+          "citations": [
+            "Mais parce que la séance publique a permis de rétablir l'essentiel, parce que plusieurs dispositions importantes défendues par notre groupe ont été reprises, parce qu'il serait irresponsable de refuser les avancées obtenues au motif qu'elles ne vont pas encore assez loin, le groupe UDR votera ce texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V8279",
+      "resume": "Projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "RN": {
+          "ancre": "4159048",
+          "citations": [
+            "Monsieur le ministre, messieurs les rapporteurs, le groupe Rassemblement national votera ce texte, même s'il est imparfait."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "4149724",
+          "citations": [
+            "Enfin, nous soutiendrons les amendements du gouvernement, de nos rapporteurs, que nous remercions pour leur travail, et de notre collègue Laetitia Saint-Paul, dont nous saluons les travaux précédents sur l'encadrement des rave-parties."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4159147",
+          "citations": [
+            "» Nous sommes nombreux sur ces bancs à vous avoir connu dans vos fonctions précédentes, comme préfet ou secrétaire d'État, et nous sommes unanimes : dans ce texte, nous ne vous reconnaissons pas, monsieur le ministre. Vous aurez compris que nous ne nous y reconnaissons pas non plus et que nous voterons contre."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4159273",
+          "citations": [
+            "Tel est le choix que nous avons fait lors de l'examen en commission et que nous avons confirmé lors de l'examen en séance publique. Nous voterons évidemment en faveur du texte : il ne réglera pas tout – ce dont j'espère que vous êtes conscient –,…"
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4159290",
+          "citations": [
+            "Vous envisagiez de stigmatiser et de réprimer des jeunes qui vont faire la fête le week-end et vous annonciez pêle-mêle des sanctions dans un texte fourre-tout, dont, au lieu de partir des besoins réels de nos forces de sécurité et des autres acteurs de terrain, vous avez fait une espèce de tract à destination des amis de Mme Le Pen, qui vous rendent bien votre sollicitude, puisqu'ils voteront votre projet de loi, après beaucoup d'autres."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4159302",
+          "citations": [
+            "Sans être parfait, il retrouve sa logique d'ensemble et apporte des réponses concrètes à des difficultés bien identifiées. Par conséquent, je le répète, notre groupe, Les Démocrates, votera en faveur de ce projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "4159318",
+          "citations": [
+            "Les dispositions de cet article étaient pourtant nécessaires face au narcotrafic qui gangrène nos territoires, endeuillent trop de familles et volent l'avenir d'une partie de notre jeunesse. Le groupe Horizons & indépendants votera en faveur de ce projet de loi, qui apporte des réponses pragmatiques."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4159182",
+          "citations": [
+            "En conclusion, le groupe LIOT votera majoritairement en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "4159198",
+          "citations": [
+            "Enfin, rappelons que le Conseil d'État, lui-même, alerte le gouvernement sur la multiplication de mesures comportant des restrictions significatives de liberté, initialement justifiées par des motifs impérieux, puis progressivement pérennisées ou étendues. Ce texte s'inscrit précisément dans cette évolution dangereuse ; nous voterons donc résolument contre."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4159213",
+          "citations": [
+            "Mais parce que la séance publique a permis de rétablir l'essentiel, parce que plusieurs dispositions importantes défendues par notre groupe ont été reprises, parce qu'il serait irresponsable de refuser les avancées obtenues au motif qu'elles ne vont pas encore assez loin, le groupe UDR votera ce texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V8042",
+      "resume": "Projet de loi sur la justice criminelle et le respect des victimes",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "HOR": {
+          "ancre": "4149444",
+          "citations": [
+            "Pourquoi refuser un meilleur encadrement des procédures de nullité, l'intégration de psychologues judiciaires et, de manière générale, la simplification de notre système judiciaire ? Parce que ces questions ne sont que pure rhétorique, le groupe Horizons & indépendants votera avec détermination en faveur de ces deux textes."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4149209",
+          "citations": [
+            "Mais cette dernière fait face à une épreuve de vérité, et l'immobilisme ne pourra jamais être la solution. Pour ces raisons, le groupe LIOT votera majoritairement en faveur de ces deux projets de loi."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "4149217",
+          "citations": [
+            "C'est un choix politique, et ce n'est pas le nôtre, encore moins quand notre État de droit est attaqué, encore moins quand les régimes autoritaires pullulent à travers le monde et guettent de nouvelles contrées. Parce que ce texte demeure fidèle à une logique de gestion de la pénurie plutôt qu'à une véritable ambition pour la justice, le groupe GDR votera contre."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "4149254",
+          "citations": [
+            "Dès lors que ces projets amendés apportent quelques molécules d'oxygène aux juridictions criminelles en état chronique d'asphyxie, notre groupe les votera."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "4149349",
+          "citations": [
+            "Le groupe Ensemble pour la République votera en faveur de ces deux textes avec conviction, parce qu'ils traduisent une ambition forte, et parce qu'ils constituent les prémices d'un travail qu'il nous appartiendra de poursuivre ensemble, avec responsabilité."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "4149356",
+          "citations": [
+            "Mais cela ne vous dérange pas, car la surveillance généralisée et la réduction des libertés fondamentales sont inscrites dans vos gènes depuis bientôt dix ans. Nous voterons évidemment contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4149366",
+          "citations": [
+            "Parce que nous voulons une justice efficace mais aussi protectrice des libertés, parce que nous voulons une justice qui respecte véritablement les victimes, parce que nous refusons d'entériner les conséquences du sous-investissement chronique dans la justice, et parce que, comme l'affirmait Robert Badinter, que j'ai toujours grand plaisir à citer ici, « la justice n'est forte que de la confiance que les citoyens lui accordent », le groupe Socialistes et apparentés votera résolument contre ces deux projets de loi."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4149388",
+          "citations": [
+            "Nous continuerons d'exiger que le gouvernement présente enfin le texte consacré à l'exécution des peines et à la fermeté de la réponse pénale. Pour ces raisons, notre groupe votera en faveur de ces projets de loi."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4149419",
+          "citations": [
+            "Nous voulons une justice qui protège les victimes, qui respecte les droits de la défense et qui donne enfin aux professionnels les moyens de remplir leur mission. Pour toutes ces raisons, le groupe Écologiste et social votera contre ce projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4149433",
+          "citations": [
+            "Dans un esprit de responsabilité, d'équilibre et d'exigence et loin des outrances, des démesures et des caricatures que l'on voit sur certains bancs, le groupe Les Démocrates votera pour ce texte."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4149227",
+          "citations": [
+            "Nous voterons les mesures utiles de ce texte, parce que la sécurité de nos compatriotes passera toujours, à nos yeux, avant les considérations partisanes, mais nous le disons avec la même constance : la refondation véritable de notre justice criminelle reste à accomplir."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V7980",
+      "resume": "Projet de loi sur la justice criminelle et le respect des victimes",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "HOR": {
+          "ancre": "4149444",
+          "citations": [
+            "Pourquoi refuser un meilleur encadrement des procédures de nullité, l'intégration de psychologues judiciaires et, de manière générale, la simplification de notre système judiciaire ? Parce que ces questions ne sont que pure rhétorique, le groupe Horizons & indépendants votera avec détermination en faveur de ces deux textes."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4149209",
+          "citations": [
+            "Mais cette dernière fait face à une épreuve de vérité, et l'immobilisme ne pourra jamais être la solution. Pour ces raisons, le groupe LIOT votera majoritairement en faveur de ces deux projets de loi."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "4149217",
+          "citations": [
+            "C'est un choix politique, et ce n'est pas le nôtre, encore moins quand notre État de droit est attaqué, encore moins quand les régimes autoritaires pullulent à travers le monde et guettent de nouvelles contrées. Parce que ce texte demeure fidèle à une logique de gestion de la pénurie plutôt qu'à une véritable ambition pour la justice, le groupe GDR votera contre."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "4149254",
+          "citations": [
+            "Dès lors que ces projets amendés apportent quelques molécules d'oxygène aux juridictions criminelles en état chronique d'asphyxie, notre groupe les votera."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "4149349",
+          "citations": [
+            "Le groupe Ensemble pour la République votera en faveur de ces deux textes avec conviction, parce qu'ils traduisent une ambition forte, et parce qu'ils constituent les prémices d'un travail qu'il nous appartiendra de poursuivre ensemble, avec responsabilité."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "4149356",
+          "citations": [
+            "Mais cela ne vous dérange pas, car la surveillance généralisée et la réduction des libertés fondamentales sont inscrites dans vos gènes depuis bientôt dix ans. Nous voterons évidemment contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4149366",
+          "citations": [
+            "Parce que nous voulons une justice efficace mais aussi protectrice des libertés, parce que nous voulons une justice qui respecte véritablement les victimes, parce que nous refusons d'entériner les conséquences du sous-investissement chronique dans la justice, et parce que, comme l'affirmait Robert Badinter, que j'ai toujours grand plaisir à citer ici, « la justice n'est forte que de la confiance que les citoyens lui accordent », le groupe Socialistes et apparentés votera résolument contre ces deux projets de loi."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4149388",
+          "citations": [
+            "Nous continuerons d'exiger que le gouvernement présente enfin le texte consacré à l'exécution des peines et à la fermeté de la réponse pénale. Pour ces raisons, notre groupe votera en faveur de ces projets de loi."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4149419",
+          "citations": [
+            "Nous voulons une justice qui protège les victimes, qui respecte les droits de la défense et qui donne enfin aux professionnels les moyens de remplir leur mission. Pour toutes ces raisons, le groupe Écologiste et social votera contre ce projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4149433",
+          "citations": [
+            "Dans un esprit de responsabilité, d'équilibre et d'exigence et loin des outrances, des démesures et des caricatures que l'on voit sur certains bancs, le groupe Les Démocrates votera pour ce texte."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4149227",
+          "citations": [
+            "Nous voterons les mesures utiles de ce texte, parce que la sécurité de nos compatriotes passera toujours, à nos yeux, avant les considérations partisanes, mais nous le disons avec la même constance : la refondation véritable de notre justice criminelle reste à accomplir."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V7987",
+      "resume": "Proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "GDR": {
+          "ancre": "4150245",
+          "citations": [
+            "Le groupe GDR votera évidemment contre ce texte, et nous continuerons à le combattre de manière déterminée et résolue."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "4150267",
+          "citations": [
+            "Vous avez dévoyé la doctrine du maintien de l'ordre pour votre seule préservation de classe et à l'avantage de votre seule corruption. Nous voterons bien évidemment contre cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4150550",
+          "citations": [
+            "Notre devoir absolu est de nous y opposer ici et maintenant, et demain devant le Conseil constitutionnel. C'est la raison pour laquelle le groupe Socialistes et apparentés votera contre ce texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V7405",
+      "resume": "Proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d’attentat",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "SOC": {
+          "ancre": "4123366",
+          "citations": [
+            "Il y a les lois utiles et efficaces, il y a les lois justes, et il y a les lois d'affichage et de communication. Celle-ci relève de cette dernière catégorie et c'est pourquoi nous voterons résolument contre."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4123810",
+          "citations": [
+            "Il faut voir le danger, nommer les failles et agir. Les députés du groupe Droite républicaine voteront ce texte, sans hésitation, parce que c'est notre devoir."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4123844",
+          "citations": [
+            "Le groupe Les Démocrates considère que l'équilibre trouvé est le bon. Nous voterons donc ce texte avec résolution."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "4123953",
+          "citations": [
+            "La colère des Français est juste ; elle interroge la capacité de l'État à les protéger ; elle impose des réponses concrètes, si nous voulons une France réconciliée et apaisée. C'est pourquoi le groupe Horizons & indépendants votera avec conviction, fermeté et détermination le texte qui nous est proposé."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4123959",
+          "citations": [
+            "Mais il fait ce que la loi peut faire : il comble des failles, il donne des outils pratiques, il envoie un signal clair. C'est pourquoi je voterai ce texte et invite tous ceux qui partagent cette conviction à faire de même."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "4123976",
+          "citations": [
+            "Chers collègues, cet hémicycle en a été témoin au cours de son histoire : lorsque la peur devient la seule boussole de la loi, l'État de droit recule. Ce texte faisant reculer l'État de droit, nous voterons évidemment contre."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4124096",
+          "citations": [
+            "Lorsqu'il s'agit de protéger les Français, nous avons toujours considéré que le mieux ne devait jamais être l'ennemi du bien ; dès lors, même si ce texte a été affaibli, le groupe UDR votera en sa faveur."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V6318",
+      "resume": "Proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "EPR": {
+          "ancre": "4075134",
+          "citations": [
+            "Nous en sommes convaincus. C'est avec force et responsabilité que les députés du groupe Ensemble pour la République voteront en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4075276",
+          "citations": [
+            "Nous voterons contre ce texte,…"
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4075290",
+          "citations": [
+            "Le groupe Droite républicaine votera ce texte."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4075307",
+          "citations": [
+            "Nous refusons cette logique, nous refusons que la psychiatrie soit instrumentalisée, que l'État de droit soit contourné au nom de la peur. Pour toutes ces raisons, nous voterons résolument contre le texte."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4075737",
+          "citations": [
+            "La proposition de loi fournit des outils supplémentaires ciblés et encadrés destinés à mieux prévenir les risques et à renforcer l'efficacité de l'action publique. Elle répond aux attentes des Français, sans rien céder sur l'État de droit ; c'est pourquoi nous voterons en sa faveur, en conscience et avec résolution."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "4075745",
+          "citations": [
+            "Il y va de la sécurité des Français, mais aussi de la crédibilité de l'État. Nous voterons en faveur de ce texte avec fermeté et détermination."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4075753",
+          "citations": [
+            "Mais il fait ce que la loi peut faire : il corrige des failles, il donne des outils, il envoie un signal clair. Pour ces raisons, je voterai en faveur de ce texte et j'invite ceux qui partagent ces convictions à en faire de même."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "4075856",
+          "citations": [
+            "Mais cela suppose une stratégie fondée sur l'efficacité, sur l'évaluation, sur les moyens humains et judiciaires renforcés, sur la confiance dans les sciences humaines – pas sur l'accumulation de dispositifs toujours plus restrictifs, qui n'ont jamais fait la preuve de leur utilité. Pour toutes ces raisons et certainement encore d'autres, le groupe de la Gauche démocrate et républicaine votera contre cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4075866",
+          "citations": [
+            "Fidèle à ses principes, le groupe UDR votera en faveur de cette proposition de loi, qu'il estime nécessaire, même si elle manque de courage et même si la formation politique qui en est à l'origine s'enferme dans des postures caricaturales et opportunistes lorsque nous examinons des textes ou même des amendements issus de nos rangs."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "4075872",
+          "citations": [
+            "Nous voterons en faveur de cette proposition de loi car, je le répète, l'intérêt de la France et des Français demeurent et seront toujours la seule boussole du Rassemblement national, avec Marine Le Pen et Jordan Bardella."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V2958",
+      "resume": "Proposition de loi visant à faciliter le maintien en rétention des personnes condamnées pour des faits d’une particulière gravité et présentant de forts risques de récidive",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "SOC": {
+          "ancre": "3838534",
+          "citations": [
+            "Les maintenir en rétention administrative pendant 40 jours de plus n'arrangera pas la situation. Pour ces différentes raisons, les socialistes sont résolument opposés à cette proposition de loi et voteront donc contre."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3828778",
+          "citations": [
+            "Il est de notre devoir de protéger nos concitoyens contre la récidive de gens dangereux qui n'ont rien à faire sur notre territoire après l'exécution de leur peine. Pour toutes ces raisons, le groupe Droite républicaine, présidé par Laurent Wauquiez, votera évidemment pour cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "3838562",
+          "citations": [
+            "En somme, c'est un texte d'affichage, attentatoire aux libertés, inefficace et peut-être même contre-productif. Le groupe Écologiste et social votera résolument contre."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3837338",
+          "citations": [
+            "Enfin, les efforts diplomatiques devront être poursuivis afin d'obtenir plus fréquemment et plus rapidement les laissez-passer consulaires indispensables à l'éloignement de l'étranger. Le groupe Les Démocrates votera en faveur de ce texte, car il prévoit des dispositions allant dans le bon sens."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3837347",
+          "citations": [
+            "Convaincu que l'allongement de la durée de rétention favorisera l'éloignement des personnes sous OQTF et que l'État de droit nécessite cette réforme, notre groupe votera ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3837359",
+          "citations": [
+            "Il nous semble que la priorité est plutôt de repenser notre politique diplomatique pour améliorer le taux d'obtention de laissez-passer consulaires – dans le cas de l'Algérie, par exemple, il n'est que de 10 %. Nous soutenons donc ce texte et nous le voterons."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3839001",
+          "citations": [
+            "Outre l'absence de cour de promenade et l'impossibilité de travailler ou de pratiquer une activité, le sens de cet enfermement est incompris et sa durée inconnue : ce sont autant de critères qui participent à la détérioration de la santé mentale des retenus. Vous l'aurez compris, par cohérence et pour toutes ces raisons, les députés du groupe GDR voteront contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3827614",
+          "citations": [
+            "En attendant, nous faisons notre part : nous voterons ce texte."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3839022",
+          "citations": [
+            "Seul le Rassemblement national propose dans son contre-budget des mesures d'économie sur l'immigration. Nous voterons néanmoins cette proposition de loi puisque, même si elle ne changera pas grand-chose, elle vise tout de même à protéger un peu plus les Français."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3839104",
+          "citations": [
+            "Il est juste, ciblé, attendu et nécessaire. C'est pourquoi, sans hésitation et avec détermination, le groupe Ensemble pour la République le votera."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V1624",
+      "resume": "Proposition de loi visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto"
+    },
+    {
+      "id": "VTANR5L17V1473",
+      "resume": "Proposition de loi visant à sortir la France du piège du narcotrafic",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "LIOT": {
+          "ancre": "3720879",
+          "citations": [
+            "Nous saluons la suppression du mécanisme des portes dérobées dans les messageries cryptées. Pour toutes ces raisons, notre groupe soutiendra ces propositions de loi."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3720905",
+          "citations": [
+            "Rappelons enfin que l'isolement des détenus dangereux ou le recours aux moyens technologiques, comme les drones, dans les établissements pénitentiaires, ne sont pas des gadgets mais répondent à une nécessité vitale. Nous voterons ce texte car il représente une avancée réelle."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3720920",
+          "citations": [
+            "Madame Regol, vous aurez l'occasion d'exprimer vos réticences à l'endroit de ce texte dans quelques instants ; soyez sage, attendez patiemment votre tour ! Nous soutiendrons, pour ce qui nous concerne, les avancées majeures de la proposition de loi ordinaire."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3720933",
+          "citations": [
+            "En votant cette proposition de loi, nous envoyons un message clair : jamais les criminels n'imposeront leur loi à la République, jamais ils ne seront plus forts que l'État. Le groupe EPR votera ce texte et appelle toutes les forces de cette assemblée à faire un choix clair, celui de la responsabilité, et non du renoncement."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "3720948",
+          "citations": [
+            "Vous savez aussi que nous serons toujours là pour contrer ces dérives. Le groupe Écologiste et social s'abstiendra."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3720964",
+          "citations": [
+            "Notre vote sera donc un vote de responsabilité, tant il est urgent d'agir face à ce phénomène d'ampleur. Nous voterons pour ce texte, mais nous restons vigilants."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3720980",
+          "citations": [
+            "D'une manière ou d'une autre, la drogue cible toujours la vulnérabilité et nous avons besoin de la force de la loi pour protéger les plus vulnérables. Nous voterons aussi ce texte avec conviction parce qu'il est résolument énergique."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3721262",
+          "citations": [
+            "Nous le devons aux forces de l'ordre, aux magistrats, aux surveillants pénitentiaires, aux douaniers, ainsi qu'à l'ensemble de nos concitoyens dont le quotidien est rendu invivable par les trafiquants. Le groupe Les Démocrates votera en faveur de ces deux textes."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3721280",
+          "citations": [
+            "Elles donneront à nos agents des moyens supplémentaires pour lutter efficacement contre le narcotrafic. Le Groupe Horizons & indépendants votera donc en faveur de ces deux textes."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V1194",
+      "resume": "Proposition de loi visant à sortir la France du piège du narcotrafic",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "LIOT": {
+          "ancre": "3691508",
+          "citations": [
+            "Une nouvelle disposition prévoit que les fonctionnaires de l'administration pénitentiaire pourront être anonymisés : c'est une excellente chose. Pour ces raisons, notre groupe, dans son immense majorité, votera pour cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3691462",
+          "citations": [
+            "Nos propositions relatives aux amendes forfaitaires délictuelles et à l'aggravation des peines pour les consommateurs n'ont pas été retenues, mais en responsabilité, nous avons soutenu ce texte jusqu'au bout, sans considérations politiciennes. C'est pourquoi nous le voterons."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3664763",
+          "citations": [
+            "Pour les députés qui connaissent la vraie vie, sur le terrain, notamment celle des magistrats et des policiers, la création du Pnaco est indispensable. Nous voterons donc bien évidemment contre cette motion de rejet préalable, comme nous l'avons fait contre la précédente."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3691437",
+          "citations": [
+            "Le groupe Ensemble pour la République votera ce texte avec conviction, parce qu'il porte une ambition forte, parce qu'il donne à l'État les armes pour lutter contre la délinquance en bande organisée et parce qu'il envoie un message clair aux narcotrafiquants : partout où vous serez, nos forces de l'ordre seront, partout où vous outrepasserez la loi, la justice passera."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3664798",
+          "citations": [
+            "Les questions que vous posez, sur les bancs du groupe LFI, méritent d'être discutées. C'est pour cela que nous voulons un débat et que nous ne voterons pas la motion de rejet."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3692512",
+          "citations": [
+            "même au sein d'une copropriété privée. Ce texte est nécessaire, juste et fort, c'est pourquoi les députés du groupe Droite républicaine le voteront avec conviction."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "3664816",
+          "citations": [
+            "Nous continuerons à défendre l'idée qu'il faut d'abord combattre le haut du panier et s'en donner les moyens, et nous bataillerons pour que les mesures inconstitutionnelles qui restent dans le texte soient retirées. Parce que nous souhaitons que le débat ait lieu, nous ne voterons pas cette motion de rejet préalable."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3692734",
+          "citations": [
+            "Dans une tribune parue dans Le Point il y a une dizaine de jours, 250 maires, témoins de l'explosion de la violence, des règlements de compte et des intimidations en tout genre, ont appelé à soutenir le texte. Vous l'aurez compris, notre groupe votera pour."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3692747",
+          "citations": [
+            "Face aux irresponsables politiques qui restent aveugles à ce qui se joue dans notre pays, nous voulons assurer la condamnation effective des narcotrafiquants, garantir la sécurité de nos concitoyens, celle des agents publics et l'avenir d'une partie de notre jeunesse. Nous voterons donc pour ces textes pleins de bon sens."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3691452",
+          "citations": [
+            "C'est le choix des ministres que d'avoir refusé que notre groupe puisse participer à un consensus. Nous ne voterons pas pour ce texte et ils n'ont pas cherché à ce qu'il en aille autrement."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V15",
+      "resume": "Projet de loi maintenant provisoirement un dispositif de veille et de sécurité sanitaire en matière de lutte contre la covid-19",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "LFI-NUPES": {
+          "ancre": "2812995",
+          "citations": [
+            "Reste cette grande absente : la question d'une véritable stratégie de lutte contre la covid. Nous voterons contre le projet de loi !"
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "2812527",
+          "citations": [
+            "Le dispositif le plus discutable ayant été écarté, et dans la mesure où nous souscrivons à la nécessité de conserver un système de transmission dans le temps des données en cas de nouveau rebond épidémique, nous voterons le texte"
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "2808619",
+          "citations": [
+            "Le présent projet de loi, rédigé de manière responsable et avec un souci de proportionnalité, est indispensable ; c'est la raison pour laquelle le groupe Démocrate le votera."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "2808571",
+          "citations": [
+            "Nous sommes constructifs et soumettons à la discussion plusieurs pistes d'amélioration. Cependant, nous resterons vigilants : si nos propositions ne sont pas retenues, le groupe Socialistes et apparentés ne votera pas le texte."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "2808580",
+          "citations": [
+            "Ce rapport pourra faire l'objet d'un débat en commission permanente ou en séance publique : le Parlement pourra là encore exercer son rôle de contrôle. L'adoption du présent projet de loi est nécessaire et le groupe Horizons et apparentés le votera avec conviction."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "2812803",
+          "citations": [
+            "Vous pouvez crier, je sais donner de la voix ! Le groupe Écologiste-NUPES votera pour l'État de droit, c'est-à-dire contre le texte !"
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "2813018",
+          "citations": [
+            "Pour toutes ces raisons, compte tenu de la version du texte à laquelle nous avons abouti et parce que l'article 1er maintient des dispositifs d'exception, le groupe GDR-NUPES votera contre le projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "2813030",
+          "citations": [
+            "Au sein du groupe Libertés, indépendants, outre-mer et territoires, chacun dispose de sa liberté de vote. Mes collègues se prononceront donc en conscience sur le texte : certains voteront pour, d'autres contre."
+          ],
+          "statut": "auto"
+        }
+      }
+    }
+  ]
+}

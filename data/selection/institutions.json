@@ -1,0 +1,696 @@
+{
+  "sujet": "institutions",
+  "auto": true,
+  "note": "Pré-sélection automatique (scripts/brouillon.mjs). Passer « statut » à « valide » après relecture : l’entrée ne sera plus modifiée.",
+  "scrutins": [
+    {
+      "id": "VTANR5L17V8611",
+      "resume": "Proposition de résolution visant à refonder l'espace Schengen en instaurant une double frontière nationale et européenne (article 34-1 de la Constitution)",
+      "statut": "auto",
+      "explications": {
+        "RN": {
+          "ancre": "4177860",
+          "citations": [
+            "Philippe et Attal, défendent publiquement le renforcement du contrôle des frontières, les membres de leurs groupes respectifs annoncent qu'ils ne voteront pas cette résolution."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "4178317",
+          "citations": [
+            "Cette résolution est la revanche des idées qu'il n'ose plus assumer publiquement. C'est pourquoi nous voterons contre."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4178348",
+          "citations": [
+            "Je le répète, on ne protège pas une maison commune en murant chacune de ses pièces. Nous voterons résolument contre votre proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4177659",
+          "citations": [
+            "cette proposition de résolution a au moins le mérite de poser le sujet d'une nécessaire refondation de Schengen, le groupe Droite républicaine votera en sa faveur."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4177891",
+          "citations": [
+            "Le groupe Écologiste et social votera contre la frontière du soupçon, contre la France qui trie, contre la politique du bouc émissaire et pour cette Europe fraternelle et fédérale que nos aînés ont rêvée jusque dans les prisons."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4178098",
+          "citations": [
+            "Pour l'ensemble de ces raisons, nous voterons contre la proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "4177939",
+          "citations": [
+            "Une fois de plus, vous avez tombé le masque avec votre programme de polichinelle. Pour toutes ces raisons, pour l'ensemble de votre œuvre, pour votre arnaque permanente, le groupe Horizons & indépendants votera contre votre résolution."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4178179",
+          "citations": [
+            "Cependant, réinstaller durablement des frontières nationales au cœur de l'Europe, c'est en perdre l'esprit fondateur et fragiliser ce que nous devons, au contraire, chercher à consolider. Pour toutes ces raisons, notre groupe votera contre cette proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "4177919",
+          "citations": [
+            "Mais surtout, ce texte, comme tant d'autres, révèle la tristesse de votre vision du monde et votre mépris d'une humanité que vous avez oubliée. Nous voterons évidemment contre ce texte profondément raciste."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V8610",
+      "resume": "Proposition de résolution visant à mobiliser la commande publique au service de l'emploi, de la production et de l'innovation en France (article 34-1 de la Constitution)",
+      "statut": "auto",
+      "explications": {
+        "EPR": {
+          "ancre": "4178158",
+          "citations": [
+            "Nos entreprises méritent mieux qu'une opération de communication. C'est pourquoi nous voterons contre cette proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "4177990",
+          "citations": [
+            "Vous y trouverez une mesure de refonte contraignante de la commande publique, intégrant des critères de localisation et de nationalité, mais également des critères sociaux et des critères écologiques. En attendant, nous ne participerons pas à votre grande duperie et nous voterons contre ce texte en carton."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4178162",
+          "citations": [
+            "Ce travail est en cours : un projet de réforme des règles européennes a été présenté pas plus tard que le mois dernier. Pour toutes ces raisons, nous voterons contre cette résolution."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4177333",
+          "citations": [
+            "Mais en l'absence de moyens pour l'atteindre, c'est, comme le disait un collègue, comme chanter « le feu, ça brûle et l'eau, ça mouille » ! Nous la voterons néanmoins – pas simplement sur la forme, mais parce que nous partageons son objectif."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4177373",
+          "citations": [
+            "Ne désarmons pas notre pays par un repli illusoire et dangereux. Pour défendre nos entreprises, nos collectivités et notre industrie au bon échelon, le groupe Les Démocrates votera contre cette proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "4178305",
+          "citations": [
+            "Comme l'a dit Thomas Lam, nous ne voterons pas ce texte."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "4178153",
+          "citations": [
+            "Ce n'est pas surprenant de votre part. Par conséquent, nous ne vous surprendrons pas non plus : nous voterons contre votre proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4177787",
+          "citations": [
+            "De même que la commande publique doit en priorité alimenter les entreprises françaises, les subventions de l'État doivent en priorité alimenter les industries françaises. En conséquence, nous voterons pour cette disposition."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V8609",
+      "resume": "Proposition de résolution visant à garantir un accès continu à l'eau potable dans les territoires ultramarins (article 34-1 de la Constitution)",
+      "statut": "auto",
+      "explications": {
+        "EPR": {
+          "ancre": "4177713",
+          "citations": [
+            "Nous voterons contre cette proposition de résolution et nous vous ferons battre tout au long de cette journée."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "4177480",
+          "citations": [
+            "Comme le déclarait tout à l'heure mon camarade et ami Jean-Hugues Ratenon, au bal des hypocrites, La France insoumise ne danse pas. Face à l'hypocrisie de cette proposition de résolution, elle votera contre !"
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4176660",
+          "citations": [
+            "C'est pourquoi le groupe Socialistes et apparentés, au-delà des déclarations, veut de l'action. Nous voterons contre cette proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4177711",
+          "citations": [
+            "En votant pour cette proposition de résolution, nous réaffirmons notre attachement à l'égalité entre les territoires et à la solidarité nationale. Les députés de la Droite républicaine la voteront."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4177666",
+          "citations": [
+            "Elle ne sera réglée ni par des effets de tribune, ni par une résolution sans moyens garantis, ni par l'effacement des responsabilités historiques. Vous l'aurez compris, nous voterons contre cette proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "4177696",
+          "citations": [
+            "Nous voterons contre cette proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4177029",
+          "citations": [
+            "Notre première responsabilité n'est pas d'y faire flotter notre drapeau ; elle est de donner à ceux qui vivent sous ce drapeau toutes les raisons de croire à ce qu'il représente. C'est pour toutes ces raisons que le groupe UDR votera cette proposition de résolution."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V7454",
+      "resume": "Projet de loi constitutionnelle pour une Corse autonome au sein de la République",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "HOR": {
+          "ancre": "4128010",
+          "citations": [
+            "En tant que président de groupe et responsable de texte, je me dois aussi de dire ce que le groupe Horizons & indépendants fera. Il votera très majoritairement le projet de loi constitutionnelle."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4128272",
+          "citations": [
+            "Voilà pourquoi le groupe UDR votera contre ce texte : non par hostilité à la Corse, bien au contraire, mais par refus d'un texte qui ouvre des pouvoirs sans contre-pouvoirs, qui ressuscite une notion déjà censurée, qui se prive de ses propres leviers et qui écarte les Corses du seul choix qui comptait vraiment, celui du principe."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "4128284",
+          "citations": [
+            "Parce que nous croyons à cette autonomie-là, nous ne pouvons approuver celle qui nous est proposée aujourd'hui. C'est la raison pour laquelle le groupe Rassemblement national votera contre ce texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V6753",
+      "resume": "Proposition de loi organique portant régularisation des natifs dans le corps électoral pour les élections au congrès et aux assemblées de province de Nouvelle-Calédonie",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "Dem": {
+          "ancre": "4092988",
+          "citations": [
+            "Chacun sait l'émotion particulière qui règne sur tous les bancs lorsque nous débattons des territoires ultramarins, et plus encore lorsqu'il s'agit de la Nouvelle-Calédonie. Le groupe Démocrates votera ce texte, car ce petit pas met fin à un statu quo, à un déni de démocratie totalement inacceptable."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "4092993",
+          "citations": [
+            "Dans un esprit de responsabilité, de fidélité aux accords et d'attachement indéfectible à la paix civile, le groupe Horizons & indépendants votera en faveur de cette proposition de loi organique."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "4093000",
+          "citations": [
+            "Vous pourrez ainsi mettre autour de la table des personnes tenant leur légitimité de la population de la Nouvelle-Calédonie. Le groupe de la Gauche démocrate et républicaine votera contre le texte."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4093164",
+          "citations": [
+            "Parce que les Néo-Calédoniens attendent que la République tienne sa promesse, parce que la paix civile et le suffrage universel ne s'opposent pas mais se construisent ensemble, notre groupe votera pour la proposition de loi organique."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "4093166",
+          "citations": [
+            "Le Rassemblement national, lui, défend une ligne claire qui consiste à protéger la Nouvelle-Calédonie française, à restaurer la stabilité et à rassembler toutes les forces du territoire autour d'un projet économique et social. Nous voterons évidemment pour ce texte."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "4093170",
+          "citations": [
+            "Nous voterons le texte, car le groupe Ensemble pour la République souhaite avancer, mais nous estimons que le texte manque d'ambition en laissant de côté une partie des citoyens."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "4093175",
+          "citations": [
+            "Voilà pourquoi nous voterons contre cette proposition de loi organique, alors que, tout comme les représentants du peuple premier, nous ne sommes nullement opposés à l'ouverture du corps électoral."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4093184",
+          "citations": [
+            "Nous voterons donc ce texte, monsieur le premier ministre, en responsabilité, avec l'idée que l'intégration dans le corps électoral des natifs, des jeunes pour une grande partie d'entre eux, qui ne demandent qu'une chose, voter dans le territoire dans lequel ils sont nés, est nécessaire pour qu'ils puissent vivre dans un territoire pacifié, démocratique et heureux."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4093472",
+          "citations": [
+            "Face à l'immobilisme, nous faisons le choix de la responsabilité ; face au blocage, nous considérons qu'il faut faire le choix de la démocratie ; face à certaines fractures, il faut faire plus que jamais le choix de la République. Pour toutes ces raisons, le groupe Droite républicaine votera en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4093476",
+          "citations": [
+            "Le groupe Écologiste et social votera contre la proposition de loi organique parce que, depuis le début de ce débat, nous entendons une partie des députés qui siègent dans cet hémicycle nous expliquer qu'il n'y aura finalement pas de discussion autour d'un processus de décolonisation."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4092997",
+          "citations": [
+            "C'est pourquoi le groupe Libertés, indépendants, outre-mer et territoires est partagé : certains voteront pour ce texte. Pour ma part, je voterai résolument contre."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V1303",
+      "resume": "Proposition de loi visant à harmoniser le mode de scrutin aux élections municipales afin de garantir la vitalité démocratique, la cohésion municipale et la parité",
+      "lecture": "deuxième lecture",
+      "statut": "auto",
+      "explications": {
+        "EPR": {
+          "ancre": "3700583",
+          "citations": [
+            "Nos concitoyennes et nos concitoyens sont nombreux à attendre que se concrétise cette exigence républicaine et démocratique d'égalité entre les femmes et les hommes. Nous voterons pour ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "3700597",
+          "citations": [
+            "Cette proposition de loi, enfin, est une avancée majeure pour la parité et la vitalité démocratique de notre pays et de nos communes. Pour toutes ces raisons, le groupe La France insoumise votera pour ce texte."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3700619",
+          "citations": [
+            "Fidèles à leur histoire, ils voteront ce texte : il ne faut jamais remettre à demain le combat pour l'égalité, a fortiori quand il concerne les femmes et leur place dans les instances démocratiques."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3700629",
+          "citations": [
+            "Je sais que vous avez aussi subi quelques pressions – c'est bien normal – de la part d'un certain nombre d'élus ici présents. Je tenais à vous préciser que, dans sa très grande majorité, le groupe Droite républicaine votera contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "3699793",
+          "citations": [
+            "C'est la raison pour laquelle nous ne nous opposerons pas à l'amendement du groupe de la Gauche démocrate et républicaine qui vise à ce que ce texte n'entre en vigueur qu'après les prochaines élections municipales ; nous nous abstiendrons sur ce point."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3701001",
+          "citations": [
+            "Nous sommes pour la parité, mais nous souhaitons qu'elle soit effective et, surtout, atteignable dans les délais impartis, ce qui n'est pas le cas pour 2026. C'est pourquoi nous nous abstiendrons."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3700432",
+          "citations": [
+            "Dernier sujet : en tant qu'orateur du groupe LIOT, je me dois de souligner, madame la ministre, l'absence de consultation des maires de la Polynésie Française, qui auraient mérité plus de considération que l'arrivée d'un amendement de rattrapage. Le groupe LIOT, dans sa majorité, votera donc contre ces textes, tout en réaffirmant son engagement profond en faveur d'une parité qui ne soit pas contrainte."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3701023",
+          "citations": [
+            "Fidèles à leur engagement historique, les députés de notre groupe voteront majoritairement en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3701032",
+          "citations": [
+            "Le groupe UDR votera contre cette réforme engagée à un an des élections municipales."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3700776",
+          "citations": [
+            "Vous l'aurez compris, le Rassemblement national votera contre ce texte !"
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V1304",
+      "resume": "Proposition de loi organique visant à harmoniser le mode de scrutin aux élections municipales afin de garantir la vitalité démocratique, la cohésion municipale et la parité",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "EPR": {
+          "ancre": "3700583",
+          "citations": [
+            "Nos concitoyennes et nos concitoyens sont nombreux à attendre que se concrétise cette exigence républicaine et démocratique d'égalité entre les femmes et les hommes. Nous voterons pour ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "3700597",
+          "citations": [
+            "Cette proposition de loi, enfin, est une avancée majeure pour la parité et la vitalité démocratique de notre pays et de nos communes. Pour toutes ces raisons, le groupe La France insoumise votera pour ce texte."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3700619",
+          "citations": [
+            "Fidèles à leur histoire, ils voteront ce texte : il ne faut jamais remettre à demain le combat pour l'égalité, a fortiori quand il concerne les femmes et leur place dans les instances démocratiques."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3700629",
+          "citations": [
+            "Je sais que vous avez aussi subi quelques pressions – c'est bien normal – de la part d'un certain nombre d'élus ici présents. Je tenais à vous préciser que, dans sa très grande majorité, le groupe Droite républicaine votera contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "3699793",
+          "citations": [
+            "C'est la raison pour laquelle nous ne nous opposerons pas à l'amendement du groupe de la Gauche démocrate et républicaine qui vise à ce que ce texte n'entre en vigueur qu'après les prochaines élections municipales ; nous nous abstiendrons sur ce point."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3701001",
+          "citations": [
+            "Nous sommes pour la parité, mais nous souhaitons qu'elle soit effective et, surtout, atteignable dans les délais impartis, ce qui n'est pas le cas pour 2026. C'est pourquoi nous nous abstiendrons."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3700432",
+          "citations": [
+            "Dernier sujet : en tant qu'orateur du groupe LIOT, je me dois de souligner, madame la ministre, l'absence de consultation des maires de la Polynésie Française, qui auraient mérité plus de considération que l'arrivée d'un amendement de rattrapage. Le groupe LIOT, dans sa majorité, votera donc contre ces textes, tout en réaffirmant son engagement profond en faveur d'une parité qui ne soit pas contrainte."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3701023",
+          "citations": [
+            "Fidèles à leur engagement historique, les députés de notre groupe voteront majoritairement en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3701032",
+          "citations": [
+            "Le groupe UDR votera contre cette réforme engagée à un an des élections municipales."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3700776",
+          "citations": [
+            "Vous l'aurez compris, le Rassemblement national votera contre ce texte !"
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V519",
+      "resume": "Censure du gouvernement de Michel Barnier, après le recours au 49.3 sur le budget de la Sécurité sociale pour 2025.",
+      "statut": "brouillon"
+    },
+    {
+      "id": "VTANR5L16V3725",
+      "resume": "Projet de loi constitutionnelle portant modification du corps électoral pour les élections au congrès et aux assemblées de province de la Nouvelle-Calédonie",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "HOR": {
+          "ancre": "3452233",
+          "citations": [
+            "Il reste donc du temps et nous espérons que celui-ci permettra d'atteindre un consensus sur l'avenir politique et institutionnel de ce territoire unique par la richesse de son histoire, par sa place dans la République française. Le groupe Horizons et apparentés votera en faveur de ce projet de loi constitutionnelle."
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "3448657",
+          "citations": [
+            "Or le texte manque de cette substance : la fierté d'être Kanak, de mourir Kanak et d'être né sur une terre kanak. Nous voterons donc contre le projet de loi constitutionnelle."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3452538",
+          "citations": [
+            "Chacun se déterminera en conscience : jusqu'à présent, la situation relevait de la responsabilité du Gouvernement ; désormais, elle relèvera aussi de la nôtre. Majoritairement, le groupe LIOT votera contre ce projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3448666",
+          "citations": [
+            "Enfin, allez-vous respecter la décision du Congrès de la Nouvelle-Calédonie, qui demande le retrait de ce projet de loi ? Pour toutes ces raisons, le groupe Écologiste votera en faveur de la motion de rejet."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "3448757",
+          "citations": [
+            "Et nous ne tolérerons pas que ce processus démocratique soit entaché par des violences, comme celles survenues depuis ce week-end. Pour toutes ces raisons, nous voterons en faveur du projet de loi constitutionnelle et contre la motion de rejet."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3452726",
+          "citations": [
+            "Le groupe Rassemblement national votera pour ce texte, qui vise simplement à permettre à des Français de voter en France."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "3452738",
+          "citations": [
+            "L'avenir de la Nouvelle-Calédonie doit s'écrire en commun : c'est tout le contraire de ce que fait ce texte, raison pour laquelle nous nous voterons contre, dans le respect de la volonté populaire calédonienne."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3452759",
+          "citations": [
+            "À l'Assemblée comme au Congrès, si toutefois il venait à être réuni, les députés du groupe Les Républicains voteront en sa faveur, sans aucune difficulté et avec le sens des responsabilités."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3448783",
+          "citations": [
+            "Qu'ils permettent qu'il ait lieu aussi dans cet hémicycle ! Nous ne voterons pas cette motion de rejet et prendrons nos responsabilités."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V1804",
+      "resume": "Proposition de résolution relative à l'accord commercial entre l'Union européenne et le Mercosur (article 34-1 de la Constitution)",
+      "statut": "auto",
+      "explications": {
+        "Dem": {
+          "ancre": "3152574",
+          "citations": [
+            "et constitueraient un pied de nez à l'environnement. Le groupe Démocrate votera bien évidemment pour cette résolution."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3153198",
+          "citations": [
+            "Les députés du groupe Horizon et apparentés voteront cette proposition de résolution, coconstruite par les représentants de neuf groupes parlementaires."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3153191",
+          "citations": [
+            "Si vous n'avez pas confiance en lui, votez-la également, afin d'être en mesure de ne pas le ratifier. C'est parce que nous sommes résolument opposés à l'accord UE-Mercosur que nous voterons la proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "3153201",
+          "citations": [
+            "C'est parce que nous sommes opposés à l'accord UE-Mercosur que les députés du groupe GDR-NUPES voteront, à quelques exceptions près, la proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3153215",
+          "citations": [
+            "Il fut un temps où nous n'étions pas nécessairement unanimes à ce sujet, mais nous avons compris qu'il nous était impossible de mettre nos agriculteurs en concurrence, alors que les conditions environnementales et sociales faussent celle-ci. Le groupe LIOT votera la proposition de résolution, en espérant que, par la suite, le Gouvernement s'y tiendra."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3153517",
+          "citations": [
+            "Au Parlement européen, vos amis du groupe Renew Europe ainsi que le PPE – Parti populaire européen – ne s'y opposent pas non plus. Nous voterons évidemment la proposition de résolution qui, bien que très insuffisante, va dans le bon sens."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "3153524",
+          "citations": [
+            "Pour toutes ces raisons, nous voterons contre la proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3153547",
+          "citations": [
+            "Finalement, paysans et consommateurs, même combat. Nous voterons la proposition de résolution car nous sommes contre le Mercosur."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V1483",
+      "resume": "Proposition de résolution visant à appeler la France et l'Union européenne à inscrire le groupe militaire privé Wagner sur la liste des organisations terroristes (article 34-1 de la Constitution)",
+      "statut": "auto",
+      "explications": {
+        "RN": {
+          "ancre": "3106086",
+          "citations": [
+            "Il nous paraît clair que ce groupe paramilitaire porte atteinte à nos intérêts nationaux et que certaines de ses actions revêtent un caractère illégal, voire criminel. Au nom du respect de nos intérêts comme du droit international, le groupe Rassemblement national votera cette proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3106160",
+          "citations": [
+            "Nous ne voulons pas revenir à cette époque, mais que la civilisation et l'État de droit continuent de progresser ; c'est pourquoi notre groupe votera bien évidemment en faveur de cette proposition de résolution !"
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3106163",
+          "citations": [
+            "Le groupe MODEM votera évidemment pour ce texte, de même que l'immense majorité des membres de notre assemblée."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3106528",
+          "citations": [
+            "Ce classement constituerait un signal important, à l'heure où cette milice instrumentalise ouvertement le sentiment antifrançais – et plus globalement anti-occidental – sur le continent africain, et à l'heure où elle manifeste des velléités dans d'autres régions du monde. Pour toutes ces raisons, les députés du groupe Socialistes et apparentés voteront en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3106536",
+          "citations": [
+            "Nous devons aussi renforcer notre capacité à lutter contre les actions d'influence de ce groupe chez nos partenaires et alliés. Le groupe Horizons et apparentés votera donc en faveur de cette proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3105676",
+          "citations": [
+            "Le groupe Libertés, indépendants, outre-mer et territoires appelle l'ensemble des représentants de la nation à œuvrer pour opposer une action forte et déterminée à Wagner et aux dirigeants de la fédération de Russie. C'est pourquoi notre groupe votera avec conviction la présente résolution."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V1240",
+      "resume": "Motion de censure transpartisane (déposée par le groupe LIOT) contre le recours au 49.3 pour adopter la réforme des retraites.",
+      "statut": "brouillon",
+      "explications": {
+        "RE": {
+          "ancre": "3054866",
+          "citations": [
+            "L'avenir, c'est ce qui se dessinera à partir de ce soir : quel que soit le résultat souverain de notre assemblée, qui se prononcera en faveur de l'adoption ou du rejet de la réforme,…"
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3055845",
+          "citations": [
+            "Vous l'aurez bien sûr compris, soutenant le Gouvernement et persuadés de la nécessité d'une réforme pour pérenniser notre système de retraite, nous ne voterons pas la censure."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3055880",
+          "citations": [
+            "Les députés du groupe Socialistes et apparentés voteront cette motion de censure transpartisane."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3054832",
+          "citations": [
+            "Je sais, madame la Première ministre, que nous pourrons compter pour y parvenir sur votre plein et entier engagement. C'est pourquoi les députés du groupe Horizons et apparentés ne voteront pas en faveur des motions de censure."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3055501",
+          "citations": [
+            "Vous n'avez plus les moyens de gouverner un pays qui s'enfonce dans une spirale inflationniste où les plus vulnérables sont broyés. C'est pourquoi, madame la Première ministre, les écologistes voteront sans la moindre hésitation pour cette motion de censure."
+          ],
+          "statut": "auto"
+        }
+      }
+    }
+  ]
+}

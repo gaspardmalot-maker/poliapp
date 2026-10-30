@@ -1,0 +1,645 @@
+{
+  "sujet": "transports",
+  "auto": true,
+  "note": "Pré-sélection automatique (scripts/brouillon.mjs). Passer « statut » à « valide » après relecture : l’entrée ne sera plus modifiée.",
+  "scrutins": [
+    {
+      "id": "VTANR5L17V6541",
+      "resume": "Proposition de loi visant à accélérer le développement du transport maritime à propulsion vélique",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "HOR": {
+          "ancre": "4084000",
+          "citations": [
+            "C'est aussi faire le choix d'une innovation française, d'une industrie d'avenir et d'une décarbonation qui ne renonce ni à la compétitivité ni à la souveraineté. Pour toutes ces raisons, le groupe Horizons & indépendants votera en faveur de ce texte et appelle à son adoption."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "4084182",
+          "citations": [
+            "L'enjeu n'est pas seulement de faire émerger quelques cargos à voile, mais bien d'équiper massivement les flottes futures afin d'obtenir une véritable diminution de la consommation de carburant. Nous voterons pour cette proposition de loi et nous la soutenons sur le fond."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "4084196",
+          "citations": [
+            "Étendre le régime d'exonération pour les armateurs exploitants, défendre des incitations fiscales en faveur de l'investissement, permettre aux navires véliques de générer des certificats d'économie d'énergie, créer un fonds afin de soutenir la transition du secteur : telles sont les principales dispositions de ce texte, que notre groupe soutiendra évidemment."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "4084801",
+          "citations": [
+            "Pour cette raison, nous voterons des deux mains cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4084388",
+          "citations": [
+            "Mes chers collègues, cette proposition de loi offre à la France une occasion historique : devenir un leader de la transition maritime vers le zéro carbone. C'est pourquoi notre groupe la soutiendra."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4084561",
+          "citations": [
+            "Malgré ces réserves, le groupe Écologiste et social votera en faveur de ce texte parce qu'il constitue une première étape utile, parce qu'il envoie un signal et parce qu'il contribue à faire émerger une filière d'avenir au service du climat, de notre souveraineté énergétique, de l'emploi et de nos territoires."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V2217",
+      "resume": "Proposition de loi créant l'homicide routier et visant à lutter contre la violence routière",
+      "lecture": "deuxième lecture",
+      "statut": "auto",
+      "explications": {
+        "Dem": {
+          "ancre": "3777993",
+          "citations": [
+            "Le groupe Les Démocrates votera sans réserve en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3777999",
+          "citations": [
+            "C'est tout à l'honneur de notre assemblée que de savoir se mettre d'accord sur la nécessité de faire évoluer certaines dispositions de notre droit. Le groupe Horizons & indépendants votera en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3778005",
+          "citations": [
+            "Demain, elle permettra d'apaiser leur douleur et leur évitera de se réfugier dans une tristesse et une amertume qui sont les vrais poisons de ceux qui restent. Le groupe LIOT votera en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3778049",
+          "citations": [
+            "Le groupe de la Gauche démocrate et républicaine votera en faveur de ce texte, en appelant à une amélioration de la prise en charge des victimes des violences routières."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3778059",
+          "citations": [
+            "Il renforce la cohérence de notre législation, responsabilise davantage les conducteurs ; surtout, il répond à une exigence de justice pour les victimes de la route. Le groupe UDR votera en sa faveur avec conviction, afin d'accorder aux familles de ces victimes la reconnaissance et la considération qu'elles méritent."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3777677",
+          "citations": [
+            "Vous avez raison de le souligner, monsieur le rapporteur, nous avons créé un pan dans le droit pénal qui me semble plutôt novateur et qui, je le répète, n'est ni symbolique ni sémantique. C'est la raison pour laquelle nous voterons en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3777680",
+          "citations": [
+            "C'est pour cela, pour leur combat et en ayant une pensée émue pour celles qui sont présentes ici, que le groupe EPR soutiendra évidemment cette proposition de loi, fruit d'un véritable travail de fond mené par le rapporteur Éric Pauget et par notre ancienne collègue Anne Brugnera, lorsqu'elle siégeait sur ces bancs."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3777690",
+          "citations": [
+            "Nous la voterons avec détermination, en ayant dans le cœur et à l'esprit toutes les personnes disparues, et en espérant qu'elle modifiera le comportement de nos concitoyens."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V1041",
+      "resume": "Proposition de loi relative au renforcement de la sûreté dans les transports",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "GDR": {
+          "ancre": "3666644",
+          "citations": [
+            "En conséquence, en raison, d'une part, du flou qu'il entretient entre les missions régaliennes de l'État et celles des agents de sécurité privée, d'autre part, de l'absence de mesures visant à renforcer la présence humaine dans les transports afin de rassurer nos concitoyens, nous voterons contre la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3666655",
+          "citations": [
+            "En adoptant ce texte, nous ne votons pas seulement une loi : nous restaurons une promesse, celle d'un État qui protège ses citoyens jusque dans le moindre compartiment d'un train de nuit ou l'ultime rame d'un métro tardif. Avec le groupe UDR, nous voterons donc en faveur de la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3667190",
+          "citations": [
+            "Alors, parce qu'il semble désormais prouvé par a + b qu'il faut faire l'exact inverse de ce que fait le Nouveau Front populaire, le groupe Rassemblement national votera en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3667205",
+          "citations": [
+            "Mon groupe, Ensemble pour la République, votera en faveur de ce texte, parce qu'il sauvegarde entièrement les trois grands axes de la proposition de loi initiale."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "3667219",
+          "citations": [
+            "La priorité absolue, c'est de remettre nos services publics sur de bons rails, en offrant aux usagers et aux agents une qualité de service digne, notamment grâce à une loi de programmation pluriannuelle. Nous voterons donc contre cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3667145",
+          "citations": [
+            "En définitive, ce texte est donc trop imprécis, alors qu'il traite finalement – cela n'a pas été assez souligné – de la liberté d'aller et venir de tout un chacun dans les transports en commun. Pour cette raison, le groupe Socialistes et apparentés votera contre."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3667153",
+          "citations": [
+            "Comme vous pouvez le constater, le groupe Droite républicaine est pleinement mobilisé sur ces enjeux. Nous avons soutenu cette proposition de loi tout au long de son parcours législatif et nous voterons bien évidemment pour."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "3667168",
+          "citations": [
+            "Nous avons tout fait pour passer d'une proposition de loi de communication à un véritable texte d'action, et je remercie le rapporteur pour son travail en ce sens, mais toutes les mains tendues ont été refusées. Dont acte. Le groupe Écologiste et social ne votera pas en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3667335",
+          "citations": [
+            "Nous tenons à saluer le travail du gouvernement, ainsi que celui des rapporteurs de l'Assemblée, Clément Beaune puis Guillaume Gouffier Valente, qui ont contribué à améliorer cette importante proposition de loi. Notre groupe votera donc pour ce texte, qui est attendu par nos concitoyens."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3667344",
+          "citations": [
+            "Le texte issu de la commission mixte paritaire traduit ces impératifs avec justesse. C'est pourquoi le groupe Horizons & indépendants votera en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V788",
+      "resume": "Proposition de loi relative à la sûreté dans les transports",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "GDR": {
+          "ancre": "3626636",
+          "citations": [
+            "Il est primordial de garantir aux usagers des conditions de transport décentes. Mais là n'est pas la priorité des auteurs de ce texte, contre lequel nous voterons."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3626648",
+          "citations": [
+            "C'est cette dernière option que choisit le groupe UDR. Il votera ce texte, non par goût du rigorisme, mais par attachement à la justice."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3628747",
+          "citations": [
+            "Le Rassemblement national s'est montré à la hauteur, au service des Françaises et des Français, et c'est la raison pour laquelle il votera en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3625788",
+          "citations": [
+            "Pour toutes ces raisons, saluant le travail qui a été mené depuis la commission et jusqu'à l'examen en séance, nous voterons le texte."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "3628763",
+          "citations": [
+            "Que nous soyons le seul pays, en Europe, à recourir à de telles technologies intrusives, qui remettent en cause nos droits les plus fondamentaux ? Ce sont les raisons pour lesquelles non seulement nous ne voterons pas ce texte, mais nous saisirons le Conseil constitutionnel."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3628902",
+          "citations": [
+            "Pour l'ensemble de ces raisons, nous voterons contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3628927",
+          "citations": [
+            "Ce soir, nous l'avons à nouveau amélioré – c'est mon humble avis – et je crois qu'il correspond à l'ambition qui était la vôtre quand vous l'avez déposé. Nous le voterons avec enthousiasme, car il permettra enfin de renforcer la sûreté dans les transports publics."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3626437",
+          "citations": [
+            "Nous espérons que les débats en séance publique permettront de trouver des points d'équilibre sur ces différents sujets. Sous réserve de garanties quant à la sécurité juridique et sur le caractère opérationnel de ses dispositions, notre groupe soutiendra la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3626450",
+          "citations": [
+            "Eu égard à l'ensemble de ces garanties, il nous semble que le texte propose une réponse équilibrée, conciliant apports technologiques et maintien des libertés fondamentales. Le groupe Horizons & indépendants votera donc en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V3622",
+      "resume": "Proposition de loi visant à favoriser le réemploi des véhicules, au service des mobilités durables et solidaires sur les territoires",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "HOR": {
+          "ancre": "3418212",
+          "citations": [
+            "Le groupe Horizons et apparentés soutiendra cette proposition de loi qui constitue une marche supplémentaire dans la recherche de l'équilibre entre transition écologique et aide aux ménages les plus précaires."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3420048",
+          "citations": [
+            "En dépit de ces remarques, nous soutenons une adoption conforme. C'est pourquoi nous n'avons pas déposé d'amendement et nous voterons en faveur de la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "3420082",
+          "citations": [
+            "Les mois qui viennent nous fourniront d'autres occasions d'aborder ces sujets. Convaincus qu'il faut soutenir le développement des garages solidaires et consolider leur modèle économique, nous voterons ce texte sans la moindre hésitation."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3419030",
+          "citations": [
+            "Je salue le travail de la rapporteure Marie Pochon, qui s'est emparée d'un texte que le groupe Libertés, indépendants, outre-mer et territoires soutiendra sans réserve."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3419066",
+          "citations": [
+            "Nous voterons donc l'ensemble des amendements visant à étendre le réemploi des véhicules ; dans l'intérêt des Français, nous espérons qu'à votre tour, vous voterez nos propositions."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V3370",
+      "resume": "Proposition de loi visant à faciliter la mise à disposition aux régions du réseau routier national non concédé",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "Dem": {
+          "ancre": "3374216",
+          "citations": [
+            "Le groupe Démocrate, très attaché aux politiques de décentralisation – qu'il a toujours soutenues –, ainsi qu'aux libertés locales, votera pour cette proposition de loi, qui ouvre la voie à une meilleure application d'une expérimentation nécessaire."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3374226",
+          "citations": [
+            "Nous considérons que la différenciation se fait au bénéfice des usagers grâce au développement d'un réseau mieux adapté à leurs besoins, car conçu au plus près du terrain et cohérent avec les autres projets régionaux – c'est un point de divergence avec nos collègues de La France insoumise. Nous voterons donc contre les amendements tendant à supprimer l'article unique de la proposition de loi et le dispositif de mise à disposition."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3374298",
+          "citations": [
+            "Il s'agit simplement de permettre à des régions volontaires, déjà autorités organisatrices de la mobilité, d'appliquer une politique de transport cohérente, qui détermine à la fois les modalités de gestion des infrastructures d'intérêt régional et l'organisation des services de transport associés. Pour toutes ces raisons, le groupe Horizons et apparentés votera en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3374307",
+          "citations": [
+            "Ce texte est une première étape ; ils pensent, eux, à la seconde. Pour toutes ces raisons, notre groupe s'abstiendra comme il l'a fait en commission des lois."
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "3374315",
+          "citations": [
+            "Néanmoins, il reste des carences majeures. Dans le prolongement de la position que nous avons exprimée lors des débats sur la loi « 3DS », notre groupe votera contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "3374379",
+          "citations": [
+            "Ces derniers cherchent à mieux œuvrer au quotidien pour nos concitoyens ainsi que l'attractivité de leur bassin de vie. C'est pourquoi nous voterons évidemment le texte."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "3374887",
+          "citations": [
+            "Pour toutes ces raisons, nous voterons évidemment contre cette proposition de loi."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V3296",
+      "resume": "Proposition de loi créant l'homicide routier et visant à lutter contre la violence routière",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "RN": {
+          "ancre": "3358926",
+          "citations": [
+            "À cet égard, elle doit prendre toute sa place dans le dispositif de la sécurité routière et de la lutte contre la violence routière, qui n'a jamais été autant d'actualité. Dès lors, compte tenu de ces évidences, le groupe Rassemblement national votera en faveur du texte."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3358977",
+          "citations": [
+            "À l'inverse des postures idéologiques, la droite soutiendra la création d'un homicide routier. Nous avons en effet toujours encouragé l'amélioration de la sécurité des usagers de la route, et l'intégralité du groupe LR, je le répète, votera le texte."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3358983",
+          "citations": [
+            "N'oublions pas non plus la prévention, qui est importante. Pour toutes ces raisons, le groupe Démocrate votera ce texte."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3358987",
+          "citations": [
+            "En conséquence, le groupe Socialistes et apparentés, dans sa large majorité, s'abstiendra sur ce texte qui laisse croire que quelque chose changera, alors que cela ne sera pas le cas."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3358993",
+          "citations": [
+            "Je ne surprendrai personne : le groupe Horizons et apparentés votera en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3358998",
+          "citations": [
+            "De ce point de vue, le présent texte est hypocrite. C'est la raison pour laquelle nous nous abstiendrons."
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "3357395",
+          "citations": [
+            "Nous pensons au contraire qu'il faut prendre le temps de la réflexion afin de s'assurer qu'une nouvelle loi servira véritablement l'intérêt de nos concitoyens. Pour toutes ces raisons, le groupe GDR s'abstiendra lors du vote sur la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3359008",
+          "citations": [
+            "Un petit mot pour Emmanuelle Ménard, avec laquelle j'avais déposé un texte précurseur en 2021. Sans surprise, le groupe LIOT votera résolument cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "3359305",
+          "citations": [
+            "C'est le travail parlementaire dans le cadre des valeurs de la République qui le permettra. Pour l'ensemble de ces raisons, le groupe Renaissance votera le texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V2988",
+      "resume": "Proposition de loi relative à la prévisibilité de l'organisation des services de la navigation aérienne en cas de mouvement social et à l'adéquation entre l'ampleur de la grève et la réduction du trafic",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "SOC": {
+          "ancre": "3294156",
+          "citations": [
+            "Le groupe Socialistes et apparentés votera contre la proposition de loi car, nous venons de le démontrer, il représente une attaque frontale contre le droit de grève, malgré tout ce qui aura pu être dit pour nous prouver le contraire – ce qui est bien normal, dans une démocratie, chacun s'exprime et nous avons le droit de ne pas être d'accord les uns avec les autres."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3293324",
+          "citations": [
+            "Il faut rééquilibrer cette situation asymétrique. Pour toutes ces raisons, le groupe Horizons et apparentés votera avec force pour ce texte."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3293333",
+          "citations": [
+            "Pour résumer, vous ne vous attaquez pas aux véritables problèmes relatifs au secteur aérien ; vous défendez une proposition de loi inutile, puisque les services essentiels sont déjà assurés, même en période de grève ; vous vous contentez de porter atteinte à un droit constitutionnel. Le groupe Écologiste votera donc contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3292626",
+          "citations": [
+            "Imposer une déclaration individuelle, c'est appeler à une meilleure articulation entre un droit individuel et son exercice collectif. Notre groupe est favorable à cette proposition de loi et votera dans sa grande majorité pour le texte."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "3292635",
+          "citations": [
+            "Le groupe Renaissance votera la proposition de loi en l'état pour une promulgation rapide, ce qui permettrait l'entrée en vigueur de ce nouveau dispositif pour les vacances de Noël, connues comme un moment crucial en matière de transport pour nos concitoyens et leurs familles."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3294159",
+          "citations": [
+            "Ces remarques peuvent vous faire rire mais ces lignes sont vitales pour le développement économique de nos régions dans un pays aussi centralisé que la France. Nous voterons le texte mais nous lançons un avertissement au Gouvernement pour qu'il cesse de fermer des lignes et qu'au contraire, il en ouvre de nouvelles."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "3292748",
+          "citations": [
+            "Finalement, ce texte est à votre image : c'est une proposition de loi low cost, soutenue par un gouvernement low cost. Nous voterons contre ce texte !"
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3294136",
+          "citations": [
+            "Le groupe Les Républicains votera ce texte équilibré, de bon sens, qui a fait l'objet d'une concertation et qui est soutenu par le syndicat majoritaire des contrôleurs aériens."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3294145",
+          "citations": [
+            "Le groupe Démocrate votera, lui aussi, en faveur du texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V2391",
+      "resume": "Proposition de loi visant à lutter contre le dumping social sur le transmanche et à renforcer la sécurité du transport maritime",
+      "lecture": "deuxième lecture",
+      "statut": "auto"
+    },
+    {
+      "id": "VTANR5L16V1801",
+      "resume": "Proposition de loi visant à faciliter le passage et l'obtention de l'examen du permis de conduire",
+      "lecture": "deuxième lecture",
+      "statut": "auto"
+    },
+    {
+      "id": "VTANR5L16V1503",
+      "resume": "Proposition de loi visant à faciliter la mobilité internationale des alternants, pour un « Erasmus de l’apprentissage »",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "LIOT": {
+          "ancre": "3109979",
+          "citations": [
+            "Enfin, notre groupe appelle à poursuivre la réflexion sur les dispositifs d'échange pour les apprentis ultramarins et leur évaluation, car leur situation géographique et économique tout à fait particulière constitue un frein supplémentaire. Même s'il reste donc des obstacles à lever pour démocratiser le programme Erasmus +, notre groupe soutiendra la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3110493",
+          "citations": [
+            "Elle est globalement en adéquation avec la vision que porte notre présidente de groupe, Marine Le Pen. C'est pourquoi, en cohérence avec ce que nous défendons et avons toujours défendu, nous voterons en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "3110503",
+          "citations": [
+            "Vous l'avez compris, pour l'instant, le groupe LFI-NUPES votera contre cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3110531",
+          "citations": [
+            "Certes, il l'est par son esprit, même si nous avons compris qu'un des groupes ne le voterait pas, mais je veux dénoncer clairement, pour l'avenir, l'approche unilatérale, verticale – conforme à l'enseignement de votre maître –, peu propice à la coconstruction, que vous avez adoptée en commission."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3110292",
+          "citations": [
+            "Il salue une avancée pour la place des jeunes Français, de l'Hexagone et d'outre-mer, dans le territoire européen. Il votera donc la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3110300",
+          "citations": [
+            "Le groupe Socialistes et apparentés soutiendra les mesures proposées, mais nous regrettons que la question des moyens ne soit pas abordée, non plus que celle de l'expansion d'un projet dont trop peu d'alternants bénéficient, sans que les contraintes administratives soient seules en cause."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3110309",
+          "citations": [
+            "La présente proposition de loi, par le développement d'un Erasmus de l'apprentissage, serait pour la jeunesse un remarquable facteur d'intégration dans un marché du travail mondialisé et une formidable occasion de découvrir la diversité culturelle et professionnelle existante. Le groupe Horizons et apparentés la votera donc, comme l'ensemble des groupes ici présents – nous l'espérons."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3110006",
+          "citations": [
+            "Nous aurions aimé qu'elle aille plus loin, afin que l'idéal européen soit accessible à toutes et à tous, que le programme Erasmus soit un acte fondateur de la jeunesse européenne et qu'il reste un succès européen. Parce que ce programme est le premier fondement d'une Europe des citoyennes et des citoyens, notre groupe votera ce texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V1298",
+      "resume": "Proposition de loi visant à faciliter le passage et l’obtention de l’examen du permis de conduire",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "RE": {
+          "ancre": "3067639",
+          "citations": [
+            "Nos débats ont révélé un intérêt unanime pour un texte qui vise à rendre le passage du permis moins cher, plus simple et plus rapide. Le groupe Renaissance votera en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3065883",
+          "citations": [
+            "Malgré tout, parce que les députés du groupe Rassemblement national placent au-dessus de tout l'intérêt des Français, en l'occurrence celui des jeunes, qui ont besoin de leur permis de conduire pour s'émanciper, nous voterons cette loi aux avancées, je le répète, mineures."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "3067641",
+          "citations": [
+            "pour combattre une disposition somme toute insipide, voire d'une innocuité totale. Le groupe La France insoumise-NUPES s'abstiendra."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3067651",
+          "citations": [
+            "Le groupe Les Républicains votera en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3065970",
+          "citations": [
+            "L'augmentation très inquiétante de ce type de comportements à risque nous paraît le justifier. Notre groupe votera cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3067657",
+          "citations": [
+            "Le groupe Socialistes et apparentés votera ce texte."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3066870",
+          "citations": [
+            "Ce sont parfois des petits riens, des coups de pouce qui changent le quotidien des territoires, notamment ruraux – j'y serai toujours attachée. En conclusion, et sans surprise, le groupe Horizons et apparentés votera la proposition de loi."
+          ],
+          "statut": "auto"
+        }
+      }
+    }
+  ]
+}

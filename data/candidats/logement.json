@@ -1,0 +1,2657 @@
+{
+  "sujet": "logement",
+  "titre": "Logement",
+  "genereLe": "2026-10-30T15:04:07.228Z",
+  "textes": [
+    {
+      "texte": "proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État",
+      "legislature": 17,
+      "motsCles": [
+        "immobilier"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V5240",
+          "legislature": 17,
+          "numero": 5240,
+          "date": "2026-01-28",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5240",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V8434",
+          "legislature": 17,
+          "numero": 8434,
+          "date": "2026-07-21",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (texte de la commission mixte paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8434",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V5237",
+          "legislature": 17,
+          "numero": 5237,
+          "date": "2026-01-28",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5237",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V5239",
+          "legislature": 17,
+          "numero": 5239,
+          "date": "2026-01-28",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5239",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V5227",
+          "legislature": 17,
+          "numero": 5227,
+          "date": "2026-01-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 7 de M. Maurel et les amendements identiques suivants de suppression de l'article premier de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5227",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V5228",
+          "legislature": 17,
+          "numero": 5228,
+          "date": "2026-01-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 17 de Mme Pantel à l'article premier de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5228",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V5229",
+          "legislature": 17,
+          "numero": 5229,
+          "date": "2026-01-28",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 60 de M. Cazenave à l'article premier de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5229",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V5230",
+          "legislature": 17,
+          "numero": 5230,
+          "date": "2026-01-28",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 66 (rect.) du Gouvernement à l'article premier de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5230",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V5231",
+          "legislature": 17,
+          "numero": 5231,
+          "date": "2026-01-28",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 12 de Mme Pantel à l'article premier de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5231",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V5232",
+          "legislature": 17,
+          "numero": 5232,
+          "date": "2026-01-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 14 de Mme Pantel à l'article premier de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5232",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V5233",
+          "legislature": 17,
+          "numero": 5233,
+          "date": "2026-01-28",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 21 de Mme Pantel à l'article premier de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5233",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V5234",
+          "legislature": 17,
+          "numero": 5234,
+          "date": "2026-01-28",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 23 de M. Legavre à l'article premier de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5234",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V5235",
+          "legislature": 17,
+          "numero": 5235,
+          "date": "2026-01-28",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 65 du Gouvernement à l'article premier de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5235",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V5236",
+          "legislature": 17,
+          "numero": 5236,
+          "date": "2026-01-28",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 37 de Mme Pantel à l'article premier de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5236",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V5238",
+          "legislature": 17,
+          "numero": 5238,
+          "date": "2026-01-28",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 68 du Gouvernement après l'article premier de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5238",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics",
+      "legislature": 17,
+      "motsCles": [
+        "logement"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V4962",
+          "legislature": 17,
+          "numero": 4962,
+          "date": "2026-01-12",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4962",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7408",
+          "legislature": 17,
+          "numero": 7408,
+          "date": "2026-06-17",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (texte de la commission mixte paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7408",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4952",
+          "legislature": 17,
+          "numero": 4952,
+          "date": "2026-01-12",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4952",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4953",
+          "legislature": 17,
+          "numero": 4953,
+          "date": "2026-01-12",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 bis de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4953",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4954",
+          "legislature": 17,
+          "numero": 4954,
+          "date": "2026-01-12",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 3 de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4954",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4956",
+          "legislature": 17,
+          "numero": 4956,
+          "date": "2026-01-12",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 4 de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4956",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4958",
+          "legislature": 17,
+          "numero": 4958,
+          "date": "2026-01-12",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 5 de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4958",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4959",
+          "legislature": 17,
+          "numero": 4959,
+          "date": "2026-01-12",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 6 de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4959",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4961",
+          "legislature": 17,
+          "numero": 4961,
+          "date": "2026-01-12",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 7 de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4961",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4948",
+          "legislature": 17,
+          "numero": 4948,
+          "date": "2026-01-12",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 10 de M. Peu et l'amendement identique suivant à l'article premier de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4948",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4949",
+          "legislature": 17,
+          "numero": 4949,
+          "date": "2026-01-12",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 44 (rect.) de M. Armand à l'article premier de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4949",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4950",
+          "legislature": 17,
+          "numero": 4950,
+          "date": "2026-01-12",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 5 de Mme Belouassa-Cherifi et les amendements identiques suivants à l'article 2 de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4950",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4951",
+          "legislature": 17,
+          "numero": 4951,
+          "date": "2026-01-12",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 2 de M. Falcon et l'amendement identique suivant à l'article 2 de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4951",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4955",
+          "legislature": 17,
+          "numero": 4955,
+          "date": "2026-01-12",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 8 de M. Piquemal et l'amendement identique suivant à l'article 4 de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4955",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4957",
+          "legislature": 17,
+          "numero": 4957,
+          "date": "2026-01-12",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 9 de Mme Belouassa-Cherifi à l'article 5 de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4957",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V4960",
+          "legislature": 17,
+          "numero": 4960,
+          "date": "2026-01-12",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 4 de M. Falcon après l'article 6 de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4960",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi pour la mobilisation de l'habitat existant en réponse à la crise du logement",
+      "legislature": 17,
+      "motsCles": [
+        "logement",
+        "habitat"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V7027",
+          "legislature": 17,
+          "numero": 7027,
+          "date": "2026-05-28",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi pour la mobilisation de l'habitat existant en réponse à la crise du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7027",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7018",
+          "legislature": 17,
+          "numero": 7018,
+          "date": "2026-05-28",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi pour la mobilisation de l'habitat existant en réponse à la crise du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7018",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7022",
+          "legislature": 17,
+          "numero": 7022,
+          "date": "2026-05-28",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 de la proposition de loi pour la mobilisation de l'habitat existant en réponse à la crise du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7022",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7024",
+          "legislature": 17,
+          "numero": 7024,
+          "date": "2026-05-28",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 3 de la proposition de loi pour la mobilisation de l'habitat existant en réponse à la crise du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7024",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7005",
+          "legislature": 17,
+          "numero": 7005,
+          "date": "2026-05-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 72 de Mme Soudais de suppression de l'article premier de la proposition de loi pour la mobilisation de l'habitat existant en réponse à la crise du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7005",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7006",
+          "legislature": 17,
+          "numero": 7006,
+          "date": "2026-05-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 77 de Mme Soudais à l'article premier de la proposition de loi pour la mobilisation de l'habitat existant en réponse à la crise du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7006",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7007",
+          "legislature": 17,
+          "numero": 7007,
+          "date": "2026-05-28",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 28 de M. Falcon et l'amendement identique suivant à l'article premier de la proposition de loi pour la mobilisation de l'habitat existant en réponse à la crise du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7007",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7008",
+          "legislature": 17,
+          "numero": 7008,
+          "date": "2026-05-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 2 de Mme Chatelain et l'amendement identique suivant à l'article premier de la proposition de loi pour la mobilisation de l'habitat existant en réponse à la crise du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7008",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7009",
+          "legislature": 17,
+          "numero": 7009,
+          "date": "2026-05-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 78 de M. Aurélien Taché à l'article premier de la proposition de loi pour la mobilisation de l'habitat existant en réponse à la crise du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7009",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7010",
+          "legislature": 17,
+          "numero": 7010,
+          "date": "2026-05-28",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 22 de M. Jolivet à l'article premier de la proposition de loi pour la mobilisation de l'habitat existant en réponse à la crise du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7010",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7011",
+          "legislature": 17,
+          "numero": 7011,
+          "date": "2026-05-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 32 de M. Falcon à l'article premier de la proposition de loi pour la mobilisation de l'habitat existant en réponse à la crise du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7011",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7012",
+          "legislature": 17,
+          "numero": 7012,
+          "date": "2026-05-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 79 de Mme Soudais à l'article premier de la proposition de loi pour la mobilisation de l'habitat existant en réponse à la crise du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7012",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7013",
+          "legislature": 17,
+          "numero": 7013,
+          "date": "2026-05-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 30 de M. Falcon à l'article premier de la proposition de loi pour la mobilisation de l'habitat existant en réponse à la crise du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7013",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7014",
+          "legislature": 17,
+          "numero": 7014,
+          "date": "2026-05-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 33 de M. Falcon à l'article premier de la proposition de loi pour la mobilisation de l'habitat existant en réponse à la crise du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7014",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7015",
+          "legislature": 17,
+          "numero": 7015,
+          "date": "2026-05-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 8 de Mme Rossi à l'article premier de la proposition de loi pour la mobilisation de l'habitat existant en réponse à la crise du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7015",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7016",
+          "legislature": 17,
+          "numero": 7016,
+          "date": "2026-05-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 31 de M. Falcon à l'article premier de la proposition de loi pour la mobilisation de l'habitat existant en réponse à la crise du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7016",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7017",
+          "legislature": 17,
+          "numero": 7017,
+          "date": "2026-05-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 34 (rect.) de M. Falcon à l'article premier de la proposition de loi pour la mobilisation de l'habitat existant en réponse à la crise du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7017",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7019",
+          "legislature": 17,
+          "numero": 7019,
+          "date": "2026-05-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 82 de Mme Soudais de suppression de l'article 2 de la proposition de loi pour la mobilisation de l'habitat existant en réponse à la crise du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7019",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7020",
+          "legislature": 17,
+          "numero": 7020,
+          "date": "2026-05-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 83 (rect.) de M. Aurélien Taché à l'article 2 de la proposition de loi pour la mobilisation de l'habitat existant en réponse à la crise du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7020",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7021",
+          "legislature": 17,
+          "numero": 7021,
+          "date": "2026-05-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 84 de M. Aurélien Taché à l'article 2 de la proposition de loi pour la mobilisation de l'habitat existant en réponse à la crise du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7021",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7023",
+          "legislature": 17,
+          "numero": 7023,
+          "date": "2026-05-28",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 6 de Mme Chatelain à l'article 3 de la proposition de loi pour la mobilisation de l'habitat existant en réponse à la crise du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7023",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7025",
+          "legislature": 17,
+          "numero": 7025,
+          "date": "2026-05-28",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 71 de Mme Chatelain après l'article 3 de la proposition de loi pour la mobilisation de l'habitat existant en réponse à la crise du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7025",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7026",
+          "legislature": 17,
+          "numero": 7026,
+          "date": "2026-05-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 87 de Mme Soudais au titre de la proposition de loi pour la mobilisation de l'habitat existant en réponse à la crise du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7026",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à l'extension de la possibilité de préemption de baux commerciaux dans les mairies aux sociétés civiles immobilières",
+      "legislature": 17,
+      "motsCles": [
+        "immobilier"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V5432",
+          "legislature": 17,
+          "numero": 5432,
+          "date": "2026-02-16",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à l'extension de la possibilité de préemption de baux commerciaux dans les mairies aux sociétés civiles immobilières (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5432",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V5428",
+          "legislature": 17,
+          "numero": 5428,
+          "date": "2026-02-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 2 de M. Vos à l'article unique de la proposition de loi visant à l'extension de la possibilité de préemption de baux commerciaux dans les mairies aux sociétés civiles immobilières (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5428",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V5429",
+          "legislature": 17,
+          "numero": 5429,
+          "date": "2026-02-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1 de M. Vos à l'article unique de la proposition de loi visant à l'extension de la possibilité de préemption de baux commerciaux dans les mairies aux sociétés civiles immobilières (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5429",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V5430",
+          "legislature": 17,
+          "numero": 5430,
+          "date": "2026-02-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 3 de M. Vos à l'article unique de la proposition de loi visant à l'extension de la possibilité de préemption de baux commerciaux dans les mairies aux sociétés civiles immobilières (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5430",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V5431",
+          "legislature": 17,
+          "numero": 5431,
+          "date": "2026-02-16",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 4 de M. Vos à l'article unique de la proposition de loi visant à l'extension de la possibilité de préemption de baux commerciaux dans les mairies aux sociétés civiles immobilières (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5431",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi de simplification du droit de l'urbanisme et du logement",
+      "legislature": 17,
+      "motsCles": [
+        "logement"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V1717",
+          "legislature": 17,
+          "numero": 1717,
+          "date": "2025-05-15",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1717",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V3056",
+          "legislature": 17,
+          "numero": 3056,
+          "date": "2025-10-15",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi de simplification du droit de l'urbanisme et du logement (texte de la commission mixte paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3056",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1692",
+          "legislature": 17,
+          "numero": 1692,
+          "date": "2025-05-15",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1692",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1702",
+          "legislature": 17,
+          "numero": 1702,
+          "date": "2025-05-15",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 3 de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1702",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1710",
+          "legislature": 17,
+          "numero": 1710,
+          "date": "2025-05-15",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 4 de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1710",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1675",
+          "legislature": 17,
+          "numero": 1675,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 133 de Mme Perrine Goulet après l'article 1er A de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1675",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1676",
+          "legislature": 17,
+          "numero": 1676,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 61 de Mme Ozenne et l'amendement identique suivant à l'article premier de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1676",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1677",
+          "legislature": 17,
+          "numero": 1677,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 55 de Mme Ozenne et les amendements identiques suivants à l'article premier de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1677",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1678",
+          "legislature": 17,
+          "numero": 1678,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 40 de Mme Marsaud à l'article premier de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1678",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1679",
+          "legislature": 17,
+          "numero": 1679,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 26 de M. Peu et l'amendement identique suivant à l'article premier de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1679",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1680",
+          "legislature": 17,
+          "numero": 1680,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 132 de Mme Perrine Goulet après l'article premier de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1680",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1681",
+          "legislature": 17,
+          "numero": 1681,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 80 de M. Castor après l'article premier de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1681",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1682",
+          "legislature": 17,
+          "numero": 1682,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 74 de M. Castor après l'article premier de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1682",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1683",
+          "legislature": 17,
+          "numero": 1683,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement de suppression n° 54 de Mme Ozenne et les amendements identiques suivants à l'article 1er bis de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1683",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1685",
+          "legislature": 17,
+          "numero": 1685,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 60 de Mme Ozenne et l'amendement identique suivant à l'article 2 de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1685",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1686",
+          "legislature": 17,
+          "numero": 1686,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 125 de M. Jeanbrun à l'article 2 de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1686",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1687",
+          "legislature": 17,
+          "numero": 1687,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 27 de M. Peu et l'amendement identique suivant à l'article 2 de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1687",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1688",
+          "legislature": 17,
+          "numero": 1688,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 114 de M. Huyghe à l'article 2 de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1688",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1689",
+          "legislature": 17,
+          "numero": 1689,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 85 de M. Pribetich à l'article 2 de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1689",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1691",
+          "legislature": 17,
+          "numero": 1691,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 22 de M. Warsmann à l'article 2 de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1691",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1694",
+          "legislature": 17,
+          "numero": 1694,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 39 de Mme Lebec après l'article 2 de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1694",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1695",
+          "legislature": 17,
+          "numero": 1695,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 19 de M. Jolivet après l'article 2 de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1695",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1696",
+          "legislature": 17,
+          "numero": 1696,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 98 de M. Huyghe après l'article 2 de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1696",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1697",
+          "legislature": 17,
+          "numero": 1697,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 113 de M. Huyghe après l'article 2 de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1697",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1698",
+          "legislature": 17,
+          "numero": 1698,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 103 de M. Huyghe après l'article 2 de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1698",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1699",
+          "legislature": 17,
+          "numero": 1699,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 123 de M. Huyghe après l'article 2 de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1699",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1700",
+          "legislature": 17,
+          "numero": 1700,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 101 de M. Huyghe après l'article 2 de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1700",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1701",
+          "legislature": 17,
+          "numero": 1701,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 29 de M. Peu à l'article 3 de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1701",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1703",
+          "legislature": 17,
+          "numero": 1703,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 119 de M. Huyghe après l'article 3 de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1703",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1704",
+          "legislature": 17,
+          "numero": 1704,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 7 de M. Woerth après l'article 3 de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1704",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1705",
+          "legislature": 17,
+          "numero": 1705,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 16 de M. Jolivet après l'article 3 de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1705",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1706",
+          "legislature": 17,
+          "numero": 1706,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 12 de M. Grégoire après l'article 3 de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1706",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1707",
+          "legislature": 17,
+          "numero": 1707,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 79 de Mme Lejeune à l'article 3 bis de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1707",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1708",
+          "legislature": 17,
+          "numero": 1708,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 57 de Mme Ozenne et l'amendement identique suivant à l'article 4 de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1708",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1709",
+          "legislature": 17,
+          "numero": 1709,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 47 de M. Vos et les amendements identiques suivants à l'article 4 de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1709",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1711",
+          "legislature": 17,
+          "numero": 1711,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 59 de Mme Lebec après l'article 4 de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1711",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1712",
+          "legislature": 17,
+          "numero": 1712,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 48 de M. Vos après l'article 4 de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1712",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1713",
+          "legislature": 17,
+          "numero": 1713,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 49 de M. Vos après l'article 4 de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1713",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1714",
+          "legislature": 17,
+          "numero": 1714,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 92 de M. Dufau après l'article 4 de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1714",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1715",
+          "legislature": 17,
+          "numero": 1715,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 50 de M. Vos après l'article 4 de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1715",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1716",
+          "legislature": 17,
+          "numero": 1716,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 51 de M. Vos après l'article 4 de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1716",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1690",
+          "legislature": 17,
+          "numero": 1690,
+          "date": "2025-05-15",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 152 de  M. Pribetich à l'amendement n° 22 de M. Warsmann à l'article 2 de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1690",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V1693",
+          "legislature": 17,
+          "numero": 1693,
+          "date": "2025-05-15",
+          "type": "sous-amendement",
+          "resultat": "adopté",
+          "titre": "le sous-amendement n° 153 de  M. Pribetich à l'amendement n° 39 de Mme Lebec après l'article 2 de la proposition de loi de simplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1693",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi expérimentant l'encadrement des loyers et améliorant l'habitat dans les outre-mer",
+      "legislature": 17,
+      "motsCles": [
+        "loyer",
+        "habitat"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V2262",
+          "legislature": 17,
+          "numero": 2262,
+          "date": "2025-06-05",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi expérimentant l'encadrement des loyers et améliorant l'habitat dans les outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2262",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V2258",
+          "legislature": 17,
+          "numero": 2258,
+          "date": "2025-06-05",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 4 de M. Rivière à l'article 3 bis de la proposition de loi expérimentant l'encadrement des loyers et améliorant l'habitat dans les outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2258",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V2259",
+          "legislature": 17,
+          "numero": 2259,
+          "date": "2025-06-05",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 5 de M. Rivière à l'article 3 bis de la proposition de loi expérimentant l'encadrement des loyers et améliorant l'habitat dans les outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2259",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V2260",
+          "legislature": 17,
+          "numero": 2260,
+          "date": "2025-06-05",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 1 (rect.) de M. Falcon après l'article 3 bis de la proposition de loi expérimentant l'encadrement des loyers et améliorant l'habitat dans les outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2260",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V2261",
+          "legislature": 17,
+          "numero": 2261,
+          "date": "2025-06-05",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 2 (rect.) de M. Falcon après l'article 3 bis de la proposition de loi expérimentant l'encadrement des loyers et améliorant l'habitat dans les outre-mer (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2261",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à faciliter la transformation des bureaux et autres bâtiments en logements",
+      "legislature": 17,
+      "motsCles": [
+        "logement"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V2215",
+          "legislature": 17,
+          "numero": 2215,
+          "date": "2025-06-03",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à faciliter la transformation des bureaux et autres bâtiments en logements (texte de la commission mixte paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2215",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de résolution tendant à la création d'une commission d'enquête sur les causes de l'insuffisance, de la non-décence et de l'insalubrité du logement soical dans les départements et régions d'outre-mer",
+      "legislature": 16,
+      "motsCles": [
+        "logement"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3992",
+          "legislature": 16,
+          "numero": 3992,
+          "date": "2024-05-30",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "la proposition de résolution tendant à la création d'une commission d'enquête sur les causes de l'insuffisance, de la non-décence et de l'insalubrité du logement soical dans les départements et régions d'outre-mer.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3992",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement",
+      "legislature": 16,
+      "motsCles": [
+        "habitat"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3247",
+          "legislature": 16,
+          "numero": 3247,
+          "date": "2024-01-23",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble du projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3247",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3548",
+          "legislature": 16,
+          "numero": 3548,
+          "date": "2024-03-19",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble du projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement (texte de la commission paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3548",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3222",
+          "legislature": 16,
+          "numero": 3222,
+          "date": "2024-01-22",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier du projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3222",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3227",
+          "legislature": 16,
+          "numero": 3227,
+          "date": "2024-01-22",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 du projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3227",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3231",
+          "legislature": 16,
+          "numero": 3231,
+          "date": "2024-01-22",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 3 du projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3231",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3235",
+          "legislature": 16,
+          "numero": 3235,
+          "date": "2024-01-22",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 6 du projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3235",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3236",
+          "legislature": 16,
+          "numero": 3236,
+          "date": "2024-01-22",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 7 bis du projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3236",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3238",
+          "legislature": 16,
+          "numero": 3238,
+          "date": "2024-01-22",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 8 du projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3238",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3243",
+          "legislature": 16,
+          "numero": 3243,
+          "date": "2024-01-23",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 9 ter du projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3243",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3221",
+          "legislature": 16,
+          "numero": 3221,
+          "date": "2024-01-22",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 100 de Mme Martinez à l'article premier du projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3221",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3223",
+          "legislature": 16,
+          "numero": 3223,
+          "date": "2024-01-22",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 239 de M. Falcon à l'article 2 du projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3223",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3224",
+          "legislature": 16,
+          "numero": 3224,
+          "date": "2024-01-22",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 61 de Mme Florence Goulet à l'article 2 du projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3224",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3225",
+          "legislature": 16,
+          "numero": 3225,
+          "date": "2024-01-22",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 159 de M. Martinet à l'article 2 du projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3225",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3226",
+          "legislature": 16,
+          "numero": 3226,
+          "date": "2024-01-22",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 2 de M. Falcon à l'article 2 du projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3226",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3228",
+          "legislature": 16,
+          "numero": 3228,
+          "date": "2024-01-22",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 38 de M. Falcon à l'article 3 du projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3228",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3229",
+          "legislature": 16,
+          "numero": 3229,
+          "date": "2024-01-22",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 66 de Mme Levavasseur à l'article 3 du projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3229",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3230",
+          "legislature": 16,
+          "numero": 3230,
+          "date": "2024-01-22",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 4 de M. Falcon à l'article 3 du projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3230",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3232",
+          "legislature": 16,
+          "numero": 3232,
+          "date": "2024-01-22",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 327 du Gouvernement et l'amendement identique suivant après l'article 3 bis du projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3232",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3233",
+          "legislature": 16,
+          "numero": 3233,
+          "date": "2024-01-22",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 269 de M. Echaniz après l'article 5 du projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3233",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3234",
+          "legislature": 16,
+          "numero": 3234,
+          "date": "2024-01-22",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 5 de M. Falcon à l'article 6 du projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3234",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3237",
+          "legislature": 16,
+          "numero": 3237,
+          "date": "2024-01-22",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 101 de Mme Martinez à l'article 8 du projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3237",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3239",
+          "legislature": 16,
+          "numero": 3239,
+          "date": "2024-01-23",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 158 de M. Bompard après l'article 8 bis du projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3239",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3240",
+          "legislature": 16,
+          "numero": 3240,
+          "date": "2024-01-23",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 8 de M. Bazin et les amendements identiques suivants après l'article 9 du projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3240",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3241",
+          "legislature": 16,
+          "numero": 3241,
+          "date": "2024-01-23",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 193 de M. Falcon à l'article 9 ter du projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3241",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3242",
+          "legislature": 16,
+          "numero": 3242,
+          "date": "2024-01-23",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 278 de Mme Engrand à l'article 9 ter du projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3242",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3244",
+          "legislature": 16,
+          "numero": 3244,
+          "date": "2024-01-23",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 184 de M. Martinet et l'amendement identique suivant après l'article 12 du projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3244",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3245",
+          "legislature": 16,
+          "numero": 3245,
+          "date": "2024-01-23",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 181 de M. Martinet après l'article 12 du projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3245",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3246",
+          "legislature": 16,
+          "numero": 3246,
+          "date": "2024-01-23",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 285 de M. Martinet et l'amendement identique suivant après l'article 12 du projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3246",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à faciliter la transformation des bureaux en logements",
+      "legislature": 16,
+      "motsCles": [
+        "logement"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3445",
+          "legislature": 16,
+          "numero": 3445,
+          "date": "2024-03-07",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à faciliter la transformation des bureaux en logements (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3445",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3441",
+          "legislature": 16,
+          "numero": 3441,
+          "date": "2024-03-07",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi visant à faciliter la transformation des bureaux en logements (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3441",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3443",
+          "legislature": 16,
+          "numero": 3443,
+          "date": "2024-03-07",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 4 de la proposition de loi visant à faciliter la transformation des bureaux en logements (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3443",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3437",
+          "legislature": 16,
+          "numero": 3437,
+          "date": "2024-03-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 20 de M. Falcon à l'article premier de la proposition de loi visant à faciliter la transformation des bureaux en logements (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3437",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3438",
+          "legislature": 16,
+          "numero": 3438,
+          "date": "2024-03-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 32 de M. Piquemal à l'article premier de la proposition de loi visant à faciliter la transformation des bureaux en logements (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3438",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3439",
+          "legislature": 16,
+          "numero": 3439,
+          "date": "2024-03-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 31 de M. Piquemal à l'article premier de la proposition de loi visant à faciliter la transformation des bureaux en logements (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3439",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3440",
+          "legislature": 16,
+          "numero": 3440,
+          "date": "2024-03-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 23 de M. Falcon à l'article premier de la proposition de loi visant à faciliter la transformation des bureaux en logements (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3440",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3442",
+          "legislature": 16,
+          "numero": 3442,
+          "date": "2024-03-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 38 de M. Piquemal après l'article 3 de la proposition de loi visant à faciliter la transformation des bureaux en logements (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3442",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V3444",
+          "legislature": 16,
+          "numero": 3444,
+          "date": "2024-03-07",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 3 de M. Tivoli après l'article 5 de la proposition de loi visant à faciliter la transformation des bureaux en logements (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3444",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de résolution appelant à accentuer les efforts pour favoriser l’accès de tous au logement",
+      "legislature": 16,
+      "motsCles": [
+        "logement"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3219",
+          "legislature": 16,
+          "numero": 3219,
+          "date": "2024-01-18",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "la proposition de résolution appelant à accentuer les efforts pour favoriser l’accès de tous au logement (art. 34-1 de la Constitution).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3219",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à mieux indemniser les dégâts sur les biens immobiliers causés par le retrait-gonflement de l'argile",
+      "legislature": 16,
+      "motsCles": [
+        "immobilier"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V1402",
+          "legislature": 16,
+          "numero": 1402,
+          "date": "2023-04-06",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à mieux indemniser les dégâts sur les biens immobiliers causés par le retrait-gonflement de l'argile (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1402",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1391",
+          "legislature": 16,
+          "numero": 1391,
+          "date": "2023-04-06",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi visant à mieux indemniser les dégâts sur les biens immobiliers causés par le retrait-gonflement de l'argile (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1391",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1400",
+          "legislature": 16,
+          "numero": 1400,
+          "date": "2023-04-06",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 de la proposition de loi visant à mieux indemniser les dégâts sur les biens immobiliers causés par le retrait-gonflement de l'argile (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1400",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1388",
+          "legislature": 16,
+          "numero": 1388,
+          "date": "2023-04-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 74 de Mme Marsaud à l'article premier de la proposition de loi visant à mieux indemniser les dégâts sur les biens immobiliers causés par le retrait-gonflement de l'argile (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1388",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1389",
+          "legislature": 16,
+          "numero": 1389,
+          "date": "2023-04-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 58 de Mme Rousseau à l'article premier de la proposition de loi visant à mieux indemniser les dégâts sur les biens immobiliers causés par le retrait-gonflement de l'argile (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1389",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1390",
+          "legislature": 16,
+          "numero": 1390,
+          "date": "2023-04-06",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 60 de Mme Rousseau à l'article premier de la proposition de loi visant à mieux indemniser les dégâts sur les biens immobiliers causés par le retrait-gonflement de l'argile (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1390",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1392",
+          "legislature": 16,
+          "numero": 1392,
+          "date": "2023-04-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 49 de M. Berteloot après l'article premier de la proposition de loi visant à mieux indemniser les dégâts sur les biens immobiliers causés par le retrait-gonflement de l'argile (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1392",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1393",
+          "legislature": 16,
+          "numero": 1393,
+          "date": "2023-04-06",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 68 de M. Philippe Brun après l'article premier de la proposition de loi visant à mieux indemniser les dégâts sur les biens immobiliers causés par le retrait-gonflement de l'argile (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1393",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1394",
+          "legislature": 16,
+          "numero": 1394,
+          "date": "2023-04-06",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 70 de M. Philippe Brun après l'article premier de la proposition de loi visant à mieux indemniser les dégâts sur les biens immobiliers causés par le retrait-gonflement de l'argile (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1394",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1395",
+          "legislature": 16,
+          "numero": 1395,
+          "date": "2023-04-06",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 38 de M. Breton après l'article premier de la proposition de loi visant à mieux indemniser les dégâts sur les biens immobiliers causés par le retrait-gonflement de l'argile (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1395",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1396",
+          "legislature": 16,
+          "numero": 1396,
+          "date": "2023-04-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 79 du Gouvernement à l'article 2 de la proposition de loi visant à mieux indemniser les dégâts sur les biens immobiliers causés par le retrait-gonflement de l'argile (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1396",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1397",
+          "legislature": 16,
+          "numero": 1397,
+          "date": "2023-04-06",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 61 de Mme Rousseau à l'article 2 de la proposition de loi visant à mieux indemniser les dégâts sur les biens immobiliers causés par le retrait-gonflement de l'argile (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1397",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1398",
+          "legislature": 16,
+          "numero": 1398,
+          "date": "2023-04-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 62 de Mme Rousseau à l'article 2 de la proposition de loi visant à mieux indemniser les dégâts sur les biens immobiliers causés par le retrait-gonflement de l'argile (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1398",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1399",
+          "legislature": 16,
+          "numero": 1399,
+          "date": "2023-04-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 63 de Mme Rousseau à l'article 2 de la proposition de loi visant à mieux indemniser les dégâts sur les biens immobiliers causés par le retrait-gonflement de l'argile (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1399",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1401",
+          "legislature": 16,
+          "numero": 1401,
+          "date": "2023-04-06",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 23 de M. Mathieu à l'article 2 bis de la proposition de loi visant à mieux indemniser les dégâts sur les biens immobiliers causés par le retrait-gonflement de l'argile (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1401",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à protéger les logements contre l'occupation illicite",
+      "legislature": 16,
+      "motsCles": [
+        "logement"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V663",
+          "legislature": 16,
+          "numero": 663,
+          "date": "2022-12-02",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à protéger les logements contre l'occupation illicite (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/663",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1361",
+          "legislature": 16,
+          "numero": 1361,
+          "date": "2023-04-04",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à protéger les logements contre l'occupation illicite (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1361",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V635",
+          "legislature": 16,
+          "numero": 635,
+          "date": "2022-11-28",
+          "type": "motion",
+          "resultat": "rejeté",
+          "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, de la proposition de loi visant à protéger les logements contre l'occupation illicite (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/635",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1316",
+          "legislature": 16,
+          "numero": 1316,
+          "date": "2023-03-29",
+          "type": "motion",
+          "resultat": "rejeté",
+          "titre": "la motion de rejet préalable, déposée par M. Boris Vallaud, de la proposition de loi visant à protéger les logements contre l'occupation illicite (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1316",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V639",
+          "legislature": 16,
+          "numero": 639,
+          "date": "2022-11-29",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 4 de la proposition de loi visant à protéger les logements contre l'occupation illicite (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/639",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V659",
+          "legislature": 16,
+          "numero": 659,
+          "date": "2022-12-02",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article premier de la proposition de loi visant à protéger les logements contre l'occupation illicite (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/659",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V661",
+          "legislature": 16,
+          "numero": 661,
+          "date": "2022-12-02",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 de la proposition de loi visant à protéger les logements contre l'occupation illicite (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/661",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V662",
+          "legislature": 16,
+          "numero": 662,
+          "date": "2022-12-02",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 bis de la proposition de loi visant à protéger les logements contre l'occupation illicite (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/662",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1326",
+          "legislature": 16,
+          "numero": 1326,
+          "date": "2023-03-29",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 1er A de la proposition de loi visant à protéger les logements contre l'occupation illicite (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1326",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1328",
+          "legislature": 16,
+          "numero": 1328,
+          "date": "2023-03-29",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 1er B de la proposition de loi visant à protéger les logements contre l'occupation illicite (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1328",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1329",
+          "legislature": 16,
+          "numero": 1329,
+          "date": "2023-03-29",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 1er bis A de la proposition de loi visant à protéger les logements contre l'occupation illicite (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1329",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1330",
+          "legislature": 16,
+          "numero": 1330,
+          "date": "2023-03-29",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 de la proposition de loi visant à protéger les logements contre l'occupation illicite (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1330",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1331",
+          "legislature": 16,
+          "numero": 1331,
+          "date": "2023-03-29",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 bis de la proposition de loi visant à protéger les logements contre l'occupation illicite (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1331",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1332",
+          "legislature": 16,
+          "numero": 1332,
+          "date": "2023-03-29",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 ter de la proposition de loi visant à protéger les logements contre l'occupation illicite (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1332",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1334",
+          "legislature": 16,
+          "numero": 1334,
+          "date": "2023-03-29",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 4 de la proposition de loi visant à protéger les logements contre l'occupation illicite (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1334",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1336",
+          "legislature": 16,
+          "numero": 1336,
+          "date": "2023-03-29",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 5 de la proposition de loi visant à protéger les logements contre l'occupation illicite (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1336",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1338",
+          "legislature": 16,
+          "numero": 1338,
+          "date": "2023-03-29",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 6 de la proposition de loi visant à protéger les logements contre l'occupation illicite (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1338",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1339",
+          "legislature": 16,
+          "numero": 1339,
+          "date": "2023-03-29",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 7 de la proposition de loi visant à protéger les logements contre l'occupation illicite (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1339",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1340",
+          "legislature": 16,
+          "numero": 1340,
+          "date": "2023-03-29",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 8 de la proposition de loi visant à protéger les logements contre l'occupation illicite (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1340",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V636",
+          "legislature": 16,
+          "numero": 636,
+          "date": "2022-11-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 80 de M. Peu et les amendements identiques suivants  à l'article 4 de la proposition de loi visant à protéger les logements contre l'occupation illicite (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/636",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V638",
+          "legislature": 16,
+          "numero": 638,
+          "date": "2022-11-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 120 de M. Martineau à l'article 4 de la proposition de loi visant à protéger les logements contre l'occupation illicite (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/638",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V640",
+          "legislature": 16,
+          "numero": 640,
+          "date": "2022-11-29",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 121 de M. Martineau à l'article 5 de la proposition de loi visant à protéger les logements contre l'occupation illicite (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/640",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V641",
+          "legislature": 16,
+          "numero": 641,
+          "date": "2022-11-29",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 122 de M. Martineau à l'article 5 de la proposition de loi visant à protéger les logements contre l'occupation illicite (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/641",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V642",
+          "legislature": 16,
+          "numero": 642,
+          "date": "2022-11-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 191 de M. Gonzalez après l'article 5 de la proposition de loi visant à protéger les logements contre l'occupation illicite (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/642",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V643",
+          "legislature": 16,
+          "numero": 643,
+          "date": "2022-11-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 56 de M. Pfeffer après l'article 5 de la proposition de loi visant à protéger les logements contre l'occupation illicite (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/643",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V644",
+          "legislature": 16,
+          "numero": 644,
+          "date": "2022-11-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 137 de M. Loubet après l'article 5 de la proposition de loi visant à protéger les logements contre l'occupation illicite (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/644",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V645",
+          "legislature": 16,
+          "numero": 645,
+          "date": "2022-11-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 96 de Mme Simonnet après l'article 5 de la proposition de loi visant à protéger les logements contre l'occupation illicite (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/645",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V646",
+          "legislature": 16,
+          "numero": 646,
+          "date": "2022-11-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 124 de M. Chenu après l'article 5 de la proposition de loi visant à protéger les logements contre l'occupation illicite (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/646",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V647",
+          "legislature": 16,
+          "numero": 647,
+          "date": "2022-11-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 111 de M. Berteloot après l'article 5 de la proposition de loi visant à protéger les logements contre l'occupation illicite (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/647",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V648",
+          "legislature": 16,
+          "numero": 648,
+          "date": "2022-11-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 75 de M. Peu et les amendements identiques suivants à l'article 1er A de la proposition de loi visant à protéger les logements contre l'occupation illicite (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/648",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V660",
+          "legislature": 16,
+          "numero": 660,
+          "date": "2022-12-02",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 71 de Mme Genevard après l'article premier de la proposition de loi visant à protéger les logements contre l'occupation illicite (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/660",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1317",
+          "legislature": 16,
+          "numero": 1317,
+          "date": "2023-03-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 1 de M. Echaniz et les amendements identiques suivants à l'article 1er A de la proposition de loi visant à protéger les logements contre l'occupation illicite (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1317",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1318",
+          "legislature": 16,
+          "numero": 1318,
+          "date": "2023-03-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 146 de Mme Genevard à l'article 1er A de la proposition de loi visant à protéger les logements contre l'occupation illicite (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1318",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1319",
+          "legislature": 16,
+          "numero": 1319,
+          "date": "2023-03-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 37 de Mme Simonnet à l'article 1er A de la proposition de loi visant à protéger les logements contre l'occupation illicite (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1319",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1320",
+          "legislature": 16,
+          "numero": 1320,
+          "date": "2023-03-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 105 de Mme Lechanteux à l'article 1er A de la proposition de loi visant à protéger les logements contre l'occupation illicite (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1320",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1321",
+          "legislature": 16,
+          "numero": 1321,
+          "date": "2023-03-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 101 de Mme Lechanteux à l'article 1er A de la proposition de loi visant à protéger les logements contre l'occupation illicite (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1321",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1322",
+          "legislature": 16,
+          "numero": 1322,
+          "date": "2023-03-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 102 de Mme Lechanteux à l'article 1er A de la proposition de loi visant à protéger les logements contre l'occupation illicite (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1322",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1323",
+          "legislature": 16,
+          "numero": 1323,
+          "date": "2023-03-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 103 de Mme Lechanteux à l'article 1er A de la proposition de loi visant à protéger les logements contre l'occupation illicite (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1323",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1324",
+          "legislature": 16,
+          "numero": 1324,
+          "date": "2023-03-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 8 de M. Tivoli à l'article 1er A de la proposition de loi visant à protéger les logements contre l'occupation illicite (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1324",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1325",
+          "legislature": 16,
+          "numero": 1325,
+          "date": "2023-03-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 9 de M. Tivoli à l'article 1er A de la proposition de loi visant à protéger les logements contre l'occupation illicite (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1325",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1327",
+          "legislature": 16,
+          "numero": 1327,
+          "date": "2023-03-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 2 de M. Echaniz et les amendements identiques suivants à l'article 1er B de la proposition de loi visant à protéger les logements contre l'occupation illicite (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1327",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1333",
+          "legislature": 16,
+          "numero": 1333,
+          "date": "2023-03-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 17 de M. Echaniz et les amendements identiques suivants à l'article 4 de la proposition de loi visant à protéger les logements contre l'occupation illicite (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1333",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1335",
+          "legislature": 16,
+          "numero": 1335,
+          "date": "2023-03-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 3 de M. Echaniz et les amendements identiques suivants à l'article 5 de la proposition de loi visant à protéger les logements contre l'occupation illicite (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1335",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V1337",
+          "legislature": 16,
+          "numero": 1337,
+          "date": "2023-03-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 7 de M. Echaniz et l'amendement identique suivant à l'article 6 de la proposition de loi visant à protéger les logements contre l'occupation illicite (deuxième lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1337",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L16V637",
+          "legislature": 16,
+          "numero": 637,
+          "date": "2022-11-29",
+          "type": "sous-amendement",
+          "resultat": "rejeté",
+          "titre": "le sous-amendement n° 203 de M. Balanant à l'amendement n° 120 de M. Martineau à l'article 4 de la proposition de loi visant à protéger les logements contre l'occupation illicite (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/637",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à ouvrir le tiers financement à l'État, à ses établissements publics et aux collectivités territoriales pour favoriser les travaux de la rénovation énergétique",
+      "legislature": 16,
+      "motsCles": [
+        "renovation energetique"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V1255",
+          "legislature": 16,
+          "numero": 1255,
+          "date": "2023-03-22",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à ouvrir le tiers financement à l'État, à ses établissements publics et aux collectivités territoriales pour favoriser les travaux de la rénovation énergétique (texte de la commission mixte paritaire).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1255",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à ouvrir le tiers financement à l'Etat, à ses établissements publics et aux collectivités territoriales pour favoriser les travaux de rénovation énergétique",
+      "legislature": 16,
+      "motsCles": [
+        "renovation energetique"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V876",
+          "legislature": 16,
+          "numero": 876,
+          "date": "2023-01-19",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à ouvrir le tiers financement à l'Etat, à ses établissements publics et aux collectivités territoriales pour favoriser les travaux de rénovation énergétique (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/876",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi de ssimplification du droit de l'urbanisme et du logement",
+      "legislature": 17,
+      "motsCles": [
+        "logement"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V1684",
+          "legislature": 17,
+          "numero": 1684,
+          "date": "2025-05-15",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 58 de Mme Ozenne et l'amendement identique suivant à l'article 2 de la proposition de loi de ssimplification du droit de l'urbanisme et du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1684",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à prévenir les litiges relatifs aux obligations de décence énergétique et à sécuriser leur application en copropriété",
+      "legislature": 17,
+      "motsCles": [
+        "copropriete"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V673",
+          "legislature": 17,
+          "numero": 673,
+          "date": "2025-01-29",
+          "type": "article",
+          "resultat": "rejeté",
+          "titre": "l'article premier de la proposition de loi visant à prévenir les litiges relatifs aux obligations de décence énergétique et à sécuriser leur application en copropriété (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/673",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V659",
+          "legislature": 17,
+          "numero": 659,
+          "date": "2025-01-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 29 de M. Bazin à l'article premier de la proposition de loi visant à prévenir les litiges relatifs aux obligations de décence énergétique et à sécuriser leur application en copropriété (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/659",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V660",
+          "legislature": 17,
+          "numero": 660,
+          "date": "2025-01-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 33 de M. Bazin à l'article premier de la proposition de loi visant à prévenir les litiges relatifs aux obligations de décence énergétique et à sécuriser leur application en copropriété (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/660",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V661",
+          "legislature": 17,
+          "numero": 661,
+          "date": "2025-01-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 25 de M. Alfandari et l'amendement identique suivant à l'article premier de la proposition de loi visant à prévenir les litiges relatifs aux obligations de décence énergétique et à sécuriser leur application en copropriété (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/661",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V662",
+          "legislature": 17,
+          "numero": 662,
+          "date": "2025-01-29",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 37 de Mme Laernoes à l'article premier de la proposition de loi visant à prévenir les litiges relatifs aux obligations de décence énergétique et à sécuriser leur application en copropriété (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/662",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V663",
+          "legislature": 17,
+          "numero": 663,
+          "date": "2025-01-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 4 de Mme Chatelain et l'amendement identique suivant à l'article premier de la proposition de loi visant à prévenir les litiges relatifs aux obligations de décence énergétique et à sécuriser leur application en copropriété (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/663",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V665",
+          "legislature": 17,
+          "numero": 665,
+          "date": "2025-01-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 24 de M. Jolivet à l'article premier de la proposition de loi visant à prévenir les litiges relatifs aux obligations de décence énergétique et à sécuriser leur application en copropriété (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/665",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V666",
+          "legislature": 17,
+          "numero": 666,
+          "date": "2025-01-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 48 de M. Cosson à l'article premier de la proposition de loi visant à prévenir les litiges relatifs aux obligations de décence énergétique et à sécuriser leur application en copropriété (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/666",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V667",
+          "legislature": 17,
+          "numero": 667,
+          "date": "2025-01-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 31 de M. Bazin à l'article premier de la proposition de loi visant à prévenir les litiges relatifs aux obligations de décence énergétique et à sécuriser leur application en copropriété (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/667",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V668",
+          "legislature": 17,
+          "numero": 668,
+          "date": "2025-01-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 16 de M. Peu à l'article premier de la proposition de loi visant à prévenir les litiges relatifs aux obligations de décence énergétique et à sécuriser leur application en copropriété (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/668",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V669",
+          "legislature": 17,
+          "numero": 669,
+          "date": "2025-01-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 15 de M. Peu et l'amendement identique suivant à l'article premier de la proposition de loi visant à prévenir les litiges relatifs aux obligations de décence énergétique et à sécuriser leur application en copropriété (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/669",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V670",
+          "legislature": 17,
+          "numero": 670,
+          "date": "2025-01-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 26 de M. Alfandari à l'article premier de la proposition de loi visant à prévenir les litiges relatifs aux obligations de décence énergétique et à sécuriser leur application en copropriété (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/670",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V671",
+          "legislature": 17,
+          "numero": 671,
+          "date": "2025-01-29",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 35 de M. Bazin à l'article premier de la proposition de loi visant à prévenir les litiges relatifs aux obligations de décence énergétique et à sécuriser leur application en copropriété (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/671",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V672",
+          "legislature": 17,
+          "numero": 672,
+          "date": "2025-01-29",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 8 de Mme Chatelain à l'article premier de la proposition de loi visant à prévenir les litiges relatifs aux obligations de décence énergétique et à sécuriser leur application en copropriété (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/672",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V664",
+          "legislature": 17,
+          "numero": 664,
+          "date": "2025-01-29",
+          "type": "sous-amendement",
+          "resultat": "adopté",
+          "titre": "le sous-amendement n° 52 de M. Marchive à l'amendement n° 30 de M. Taupiac à l'article premier de la proposition de loi visant à prévenir les litiges relatifs aux obligations de décence énergétique et à sécuriser leur application en copropriété (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/664",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à réduire les contraintes énergétiques pesant sur l’offre locative et à juguler leurs effets sur la crise du logement",
+      "legislature": 17,
+      "motsCles": [
+        "logement"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V219",
+          "legislature": 17,
+          "numero": 219,
+          "date": "2024-10-31",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement de suppression n° 1 de M. Coulomme et les amendements identiques suivants à l'article unique de la proposition de loi visant à réduire les contraintes énergétiques pesant sur l’offre locative et à juguler leurs effets sur la crise du logement (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/219",
+          "dejaRetenu": false
+        }
+      ]
+    }
+  ]
+}

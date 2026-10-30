@@ -1,0 +1,772 @@
+{
+  "sujet": "outre-mer",
+  "auto": true,
+  "note": "Pré-sélection automatique (scripts/brouillon.mjs). Passer « statut » à « valide » après relecture : l’entrée ne sera plus modifiée.",
+  "scrutins": [
+    {
+      "id": "VTANR5L17V8609",
+      "resume": "Proposition de résolution visant à garantir un accès continu à l'eau potable dans les territoires ultramarins (article 34-1 de la Constitution)",
+      "statut": "auto",
+      "explications": {
+        "EPR": {
+          "ancre": "4177713",
+          "citations": [
+            "Nous voterons contre cette proposition de résolution et nous vous ferons battre tout au long de cette journée."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "4177480",
+          "citations": [
+            "Comme le déclarait tout à l'heure mon camarade et ami Jean-Hugues Ratenon, au bal des hypocrites, La France insoumise ne danse pas. Face à l'hypocrisie de cette proposition de résolution, elle votera contre !"
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4176660",
+          "citations": [
+            "C'est pourquoi le groupe Socialistes et apparentés, au-delà des déclarations, veut de l'action. Nous voterons contre cette proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4177711",
+          "citations": [
+            "En votant pour cette proposition de résolution, nous réaffirmons notre attachement à l'égalité entre les territoires et à la solidarité nationale. Les députés de la Droite républicaine la voteront."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4177666",
+          "citations": [
+            "Elle ne sera réglée ni par des effets de tribune, ni par une résolution sans moyens garantis, ni par l'effacement des responsabilités historiques. Vous l'aurez compris, nous voterons contre cette proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "4177696",
+          "citations": [
+            "Nous voterons contre cette proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4177029",
+          "citations": [
+            "Notre première responsabilité n'est pas d'y faire flotter notre drapeau ; elle est de donner à ceux qui vivent sous ce drapeau toutes les raisons de croire à ce qu'il représente. C'est pour toutes ces raisons que le groupe UDR votera cette proposition de résolution."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V6753",
+      "resume": "Proposition de loi organique portant régularisation des natifs dans le corps électoral pour les élections au congrès et aux assemblées de province de Nouvelle-Calédonie",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "Dem": {
+          "ancre": "4092988",
+          "citations": [
+            "Chacun sait l'émotion particulière qui règne sur tous les bancs lorsque nous débattons des territoires ultramarins, et plus encore lorsqu'il s'agit de la Nouvelle-Calédonie. Le groupe Démocrates votera ce texte, car ce petit pas met fin à un statu quo, à un déni de démocratie totalement inacceptable."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "4092993",
+          "citations": [
+            "Dans un esprit de responsabilité, de fidélité aux accords et d'attachement indéfectible à la paix civile, le groupe Horizons & indépendants votera en faveur de cette proposition de loi organique."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "4093000",
+          "citations": [
+            "Vous pourrez ainsi mettre autour de la table des personnes tenant leur légitimité de la population de la Nouvelle-Calédonie. Le groupe de la Gauche démocrate et républicaine votera contre le texte."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4093164",
+          "citations": [
+            "Parce que les Néo-Calédoniens attendent que la République tienne sa promesse, parce que la paix civile et le suffrage universel ne s'opposent pas mais se construisent ensemble, notre groupe votera pour la proposition de loi organique."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "4093166",
+          "citations": [
+            "Le Rassemblement national, lui, défend une ligne claire qui consiste à protéger la Nouvelle-Calédonie française, à restaurer la stabilité et à rassembler toutes les forces du territoire autour d'un projet économique et social. Nous voterons évidemment pour ce texte."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "4093170",
+          "citations": [
+            "Nous voterons le texte, car le groupe Ensemble pour la République souhaite avancer, mais nous estimons que le texte manque d'ambition en laissant de côté une partie des citoyens."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "4093175",
+          "citations": [
+            "Voilà pourquoi nous voterons contre cette proposition de loi organique, alors que, tout comme les représentants du peuple premier, nous ne sommes nullement opposés à l'ouverture du corps électoral."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4093184",
+          "citations": [
+            "Nous voterons donc ce texte, monsieur le premier ministre, en responsabilité, avec l'idée que l'intégration dans le corps électoral des natifs, des jeunes pour une grande partie d'entre eux, qui ne demandent qu'une chose, voter dans le territoire dans lequel ils sont nés, est nécessaire pour qu'ils puissent vivre dans un territoire pacifié, démocratique et heureux."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4093472",
+          "citations": [
+            "Face à l'immobilisme, nous faisons le choix de la responsabilité ; face au blocage, nous considérons qu'il faut faire le choix de la démocratie ; face à certaines fractures, il faut faire plus que jamais le choix de la République. Pour toutes ces raisons, le groupe Droite républicaine votera en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4093476",
+          "citations": [
+            "Le groupe Écologiste et social votera contre la proposition de loi organique parce que, depuis le début de ce débat, nous entendons une partie des députés qui siègent dans cet hémicycle nous expliquer qu'il n'y aura finalement pas de discussion autour d'un processus de décolonisation."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "4092997",
+          "citations": [
+            "C'est pourquoi le groupe Libertés, indépendants, outre-mer et territoires est partagé : certains voteront pour ce texte. Pour ma part, je voterai résolument contre."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V3182",
+      "resume": "Proposition de loi organique visant à reporter le renouvellement général des membres du congrès et des assemblées de province de la Nouvelle-Calédonie afin de permettre la poursuite de la discussion en vue d'un accord consensuel sur l'avenir institutionnel de la Nouvelle-Calédonie",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "LIOT": {
+          "ancre": "3866276",
+          "citations": [
+            "La liberté de vote étant l'ADN du groupe LIOT, je vous indique qu'une majorité des députés du groupe soutiendra ce texte, et qu'une minorité s'y opposera fermement."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3866449",
+          "citations": [
+            "Je voterai contre le report prévu par cette proposition de loi organique, non par esprit d'opposition, mais par fidélité à nos engagements, à notre histoire et à la parole qui nous avait été donnée par le ministre d'État le 12 juillet."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3866460",
+          "citations": [
+            "Le groupe UDR votera cette proposition parce que nous croyons à la stabilité, mais nous le ferons en appelant le gouvernement à sortir enfin de la gestion pour redevenir une nation qui gouverne."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3866477",
+          "citations": [
+            "Le calendrier sera celui du nouveau cycle de discussion, en attendant le consensus qui en sortira. Nous voterons pour ce texte tel qu'il est issu de la commission mixte paritaire."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3866891",
+          "citations": [
+            "Il faut reconstruire un contrat de confiance, redonner de l'espoir, du travail et, surtout, le goût du vivre-ensemble. Mon groupe parlementaire votera en faveur de ce texte, parce que la République doit tenir bon."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "3866901",
+          "citations": [
+            "Nous voterons contre les conclusions de la commission mixte paritaire car l'histoire oubliera peut-être les petits calculs, les compromissions et les faux-semblants, mais elle retiendra la fierté et la constance d'un peuple qu'aucune domination n'aura jamais su faire taire."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3865670",
+          "citations": [
+            "Afin de témoigner notre confiance à l'ensemble des acteurs calédoniens, nous voterons en faveur des conclusions de la commission mixte paritaire sur la présente proposition de loi organique."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V3060",
+      "resume": "Motion de rejet préalable, déposée par MM. Vincent Caure et Nicolas Metzdorf, de la proposition de loi organique visant à reporter le renouvellement général des membres du congrès et des assemblées de province de la Nouvelle-Calédonie pour permettre la mise en œuvre de l'accord du 12 juillet 2025",
+      "lecture": "première lecture",
+      "statut": "auto"
+    },
+    {
+      "id": "VTANR5L17V2975",
+      "resume": "Projet de loi de programmation pour la refondation de Mayotte",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "RN": {
+          "ancre": "3826600",
+          "citations": [
+            "Sans régularisation foncière, Mayotte ne pourra regarder vers un avenir serein. Vous l'aurez compris, nous voterons ce texte."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3826673",
+          "citations": [
+            "Chers collègues, soyons à la hauteur des attentes des Mahoraises et des Mahorais, à la hauteur des responsabilités qui sont les nôtres : votons en faveur de ce texte. Je le répète, le groupe Ensemble pour la République soutiendra le projet de loi de programmation pour la refondation de Mayotte."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "3826679",
+          "citations": [
+            "et méprisez ses habitants. Pour toutes ces raisons, nous voterons contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3826691",
+          "citations": [
+            "Pour toutes ces raisons, à l'instar de nos collègues sénateurs, nous nous abstiendrons lors du vote du projet de loi – dans une logique d'exigence à l'égard du gouvernement, qui doit passer rapidement à l'action pour répondre aux demandes légitimes de nos compatriotes mahorais. Nous voterons en revanche en faveur du projet de loi organique, qui vise à consacrer l'évolution de la collectivité de Mayotte en département-région."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3808263",
+          "citations": [
+            "L'heure est venue de fixer clairement un cap pour le développement économique, l'intégration régionale et l'égalité sociale des Mahorais et pour leur assurer sécurité, solidarité et justice. Le groupe Droite républicaine soutiendra donc ce texte nécessaire pour accélérer la reconstruction et parachever la départementalisation de Mayotte."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3827260",
+          "citations": [
+            "Il nous permet d'écrire une nouvelle page avec nos compatriotes mahorais et mahoraises, que je salue, dans un esprit de volonté, de clarté, de respect mutuel et sur le long terme. Le groupe Les Démocrates votera donc en faveur de ce texte, convaincu qu'il pose les bases d'un nouveau pacte républicain."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3827272",
+          "citations": [
+            "Le groupe Horizons votera en faveur du projet de loi, car ce texte comporte des mesures utiles et nous permettra de tenir la promesse républicaine, ainsi qu'en faveur du projet de loi organique."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3827362",
+          "citations": [
+            "Mayotte restera vigilante. Nous voterons ces deux textes."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3827378",
+          "citations": [
+            "Il enterre des principes, il alimente la stigmatisation, il légitime une dérive inquiétante qui criminalise la misère et affaiblit les élus locaux. Pour nombre de raisons, le groupe GDR se partagera entre vote contre et abstention sur le premier texte ; il votera pour le projet de loi organique."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3827394",
+          "citations": [
+            "Refonder Mayotte, c'est redonner sens à nos valeurs. Le groupe UDR votera ces textes, mais son soutien est vigilant."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V2976",
+      "resume": "Projet de loi organique relatif au Département-Région de Mayotte",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "RN": {
+          "ancre": "3826600",
+          "citations": [
+            "Sans régularisation foncière, Mayotte ne pourra regarder vers un avenir serein. Vous l'aurez compris, nous voterons ce texte."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3826673",
+          "citations": [
+            "Chers collègues, soyons à la hauteur des attentes des Mahoraises et des Mahorais, à la hauteur des responsabilités qui sont les nôtres : votons en faveur de ce texte. Je le répète, le groupe Ensemble pour la République soutiendra le projet de loi de programmation pour la refondation de Mayotte."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "3826679",
+          "citations": [
+            "et méprisez ses habitants. Pour toutes ces raisons, nous voterons contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3826691",
+          "citations": [
+            "Pour toutes ces raisons, à l'instar de nos collègues sénateurs, nous nous abstiendrons lors du vote du projet de loi – dans une logique d'exigence à l'égard du gouvernement, qui doit passer rapidement à l'action pour répondre aux demandes légitimes de nos compatriotes mahorais. Nous voterons en revanche en faveur du projet de loi organique, qui vise à consacrer l'évolution de la collectivité de Mayotte en département-région."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3808263",
+          "citations": [
+            "L'heure est venue de fixer clairement un cap pour le développement économique, l'intégration régionale et l'égalité sociale des Mahorais et pour leur assurer sécurité, solidarité et justice. Le groupe Droite républicaine soutiendra donc ce texte nécessaire pour accélérer la reconstruction et parachever la départementalisation de Mayotte."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3827260",
+          "citations": [
+            "Il nous permet d'écrire une nouvelle page avec nos compatriotes mahorais et mahoraises, que je salue, dans un esprit de volonté, de clarté, de respect mutuel et sur le long terme. Le groupe Les Démocrates votera donc en faveur de ce texte, convaincu qu'il pose les bases d'un nouveau pacte républicain."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3827272",
+          "citations": [
+            "Le groupe Horizons votera en faveur du projet de loi, car ce texte comporte des mesures utiles et nous permettra de tenir la promesse républicaine, ainsi qu'en faveur du projet de loi organique."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3827362",
+          "citations": [
+            "Mayotte restera vigilante. Nous voterons ces deux textes."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3827378",
+          "citations": [
+            "Il enterre des principes, il alimente la stigmatisation, il légitime une dérive inquiétante qui criminalise la misère et affaiblit les élus locaux. Pour nombre de raisons, le groupe GDR se partagera entre vote contre et abstention sur le premier texte ; il votera pour le projet de loi organique."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3827394",
+          "citations": [
+            "Refonder Mayotte, c'est redonner sens à nos valeurs. Le groupe UDR votera ces textes, mais son soutien est vigilant."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V2874",
+      "resume": "Projet de loi de programmation pour la refondation de Mayotte",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "RN": {
+          "ancre": "3826600",
+          "citations": [
+            "Sans régularisation foncière, Mayotte ne pourra regarder vers un avenir serein. Vous l'aurez compris, nous voterons ce texte."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3826673",
+          "citations": [
+            "Chers collègues, soyons à la hauteur des attentes des Mahoraises et des Mahorais, à la hauteur des responsabilités qui sont les nôtres : votons en faveur de ce texte. Je le répète, le groupe Ensemble pour la République soutiendra le projet de loi de programmation pour la refondation de Mayotte."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "3826679",
+          "citations": [
+            "et méprisez ses habitants. Pour toutes ces raisons, nous voterons contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3826691",
+          "citations": [
+            "Pour toutes ces raisons, à l'instar de nos collègues sénateurs, nous nous abstiendrons lors du vote du projet de loi – dans une logique d'exigence à l'égard du gouvernement, qui doit passer rapidement à l'action pour répondre aux demandes légitimes de nos compatriotes mahorais. Nous voterons en revanche en faveur du projet de loi organique, qui vise à consacrer l'évolution de la collectivité de Mayotte en département-région."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3808263",
+          "citations": [
+            "L'heure est venue de fixer clairement un cap pour le développement économique, l'intégration régionale et l'égalité sociale des Mahorais et pour leur assurer sécurité, solidarité et justice. Le groupe Droite républicaine soutiendra donc ce texte nécessaire pour accélérer la reconstruction et parachever la départementalisation de Mayotte."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3827260",
+          "citations": [
+            "Il nous permet d'écrire une nouvelle page avec nos compatriotes mahorais et mahoraises, que je salue, dans un esprit de volonté, de clarté, de respect mutuel et sur le long terme. Le groupe Les Démocrates votera donc en faveur de ce texte, convaincu qu'il pose les bases d'un nouveau pacte républicain."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3827272",
+          "citations": [
+            "Le groupe Horizons votera en faveur du projet de loi, car ce texte comporte des mesures utiles et nous permettra de tenir la promesse républicaine, ainsi qu'en faveur du projet de loi organique."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3827362",
+          "citations": [
+            "Mayotte restera vigilante. Nous voterons ces deux textes."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3827378",
+          "citations": [
+            "Il enterre des principes, il alimente la stigmatisation, il légitime une dérive inquiétante qui criminalise la misère et affaiblit les élus locaux. Pour nombre de raisons, le groupe GDR se partagera entre vote contre et abstention sur le premier texte ; il votera pour le projet de loi organique."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3827394",
+          "citations": [
+            "Refonder Mayotte, c'est redonner sens à nos valeurs. Le groupe UDR votera ces textes, mais son soutien est vigilant."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V2875",
+      "resume": "Projet de loi organique relatif au Département-Région de Mayotte",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "RN": {
+          "ancre": "3826600",
+          "citations": [
+            "Sans régularisation foncière, Mayotte ne pourra regarder vers un avenir serein. Vous l'aurez compris, nous voterons ce texte."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3826673",
+          "citations": [
+            "Chers collègues, soyons à la hauteur des attentes des Mahoraises et des Mahorais, à la hauteur des responsabilités qui sont les nôtres : votons en faveur de ce texte. Je le répète, le groupe Ensemble pour la République soutiendra le projet de loi de programmation pour la refondation de Mayotte."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "3826679",
+          "citations": [
+            "et méprisez ses habitants. Pour toutes ces raisons, nous voterons contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3826691",
+          "citations": [
+            "Pour toutes ces raisons, à l'instar de nos collègues sénateurs, nous nous abstiendrons lors du vote du projet de loi – dans une logique d'exigence à l'égard du gouvernement, qui doit passer rapidement à l'action pour répondre aux demandes légitimes de nos compatriotes mahorais. Nous voterons en revanche en faveur du projet de loi organique, qui vise à consacrer l'évolution de la collectivité de Mayotte en département-région."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3808263",
+          "citations": [
+            "L'heure est venue de fixer clairement un cap pour le développement économique, l'intégration régionale et l'égalité sociale des Mahorais et pour leur assurer sécurité, solidarité et justice. Le groupe Droite républicaine soutiendra donc ce texte nécessaire pour accélérer la reconstruction et parachever la départementalisation de Mayotte."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3827260",
+          "citations": [
+            "Il nous permet d'écrire une nouvelle page avec nos compatriotes mahorais et mahoraises, que je salue, dans un esprit de volonté, de clarté, de respect mutuel et sur le long terme. Le groupe Les Démocrates votera donc en faveur de ce texte, convaincu qu'il pose les bases d'un nouveau pacte républicain."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3827272",
+          "citations": [
+            "Le groupe Horizons votera en faveur du projet de loi, car ce texte comporte des mesures utiles et nous permettra de tenir la promesse républicaine, ainsi qu'en faveur du projet de loi organique."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3827362",
+          "citations": [
+            "Mayotte restera vigilante. Nous voterons ces deux textes."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3827378",
+          "citations": [
+            "Il enterre des principes, il alimente la stigmatisation, il légitime une dérive inquiétante qui criminalise la misère et affaiblit les élus locaux. Pour nombre de raisons, le groupe GDR se partagera entre vote contre et abstention sur le premier texte ; il votera pour le projet de loi organique."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3827394",
+          "citations": [
+            "Refonder Mayotte, c'est redonner sens à nos valeurs. Le groupe UDR votera ces textes, mais son soutien est vigilant."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V1308",
+      "resume": "Proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "Dem": {
+          "ancre": "3703092",
+          "citations": [
+            "Pour toutes ces raisons, le groupe Les Démocrates votera en faveur de cette proposition de loi, sous réserve que sa rédaction finale garantisse pleinement sa conformité constitutionnelle,…"
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3703516",
+          "citations": [
+            "Avec ces dispositions, la proposition de loi atteint un équilibre et fera œuvre utile pour les Mahoraises et les Mahorais. Pour l'ensemble de ces raisons, le groupe Horizons & indépendants votera en faveur de la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3703678",
+          "citations": [
+            "Les Mahorais demandent des mesures fermes et explicites, mais force est de constater que ce texte, réduit à peau de chagrin, n'est pas à la hauteur de leurs attentes. Cependant, ne vous méprenez pas, chers collègues : nous voterons en faveur de votre texte."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3703708",
+          "citations": [
+            "Vous l'avez dit, il n'est ni la solution ni l'alpha et l'oméga, mais il constitue un début de solution. C'est pourquoi le groupe Ensemble pour la République votera en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V790",
+      "resume": "Projet de loi d'urgence pour Mayotte",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "DR": {
+          "ancre": "3602434",
+          "citations": [
+            "Des assouplissements sont également prévus dans le domaine de la commande publique. Tout cela va dans le bon sens, et le groupe de la Droite républicaine, dont quatorze amendements ont été adoptés, votera ce texte."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3602451",
+          "citations": [
+            "Malgré toutes les réserves que je viens d'exprimer, il nous apparaît essentiel de faire avancer l'examen de ce projet de loi pour que le Sénat s'en saisisse rapidement et que son adoption définitive permette, dès le mois prochain, l'application des mesures qu'il contient. Nous voterons donc pour ce projet de loi, afin de répondre à l'urgence de la reconstruction de Mayotte."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "3630299",
+          "citations": [
+            "Parce qu'il est urgent d'avancer pour Mayotte et pour les Mahorais, parce qu'un sursaut est possible et nécessaire, nous voterons en faveur de ce petit texte, en attendant le grand texte qui remédiera à la misère du système éducatif, à la saturation du système de soins et à l'absence de tout développement économique endogène."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3602824",
+          "citations": [
+            "Pour toutes ces raisons et dans l'attente d'un prochain projet de loi-programme plus dense et plus durable, le groupe Modem votera ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3602831",
+          "citations": [
+            "J'appelle également à systématiser les plans d'apurement des dettes des entreprises. Je voterai cette loi d'urgence pour Mayotte, même si le gouvernement n'a toujours pas précisé le financement de la reconstruction."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3602843",
+          "citations": [
+            "Nous ne doutons pas que le Sénat, qui examinera bientôt ce texte, se prononcera avec le même sens des responsabilités pour répondre à l'urgence de la situation."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3602851",
+          "citations": [
+            "Le groupe GDR, dont les membres sont libres de leur vote, se prononcera majoritairement en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3602890",
+          "citations": [
+            "Nous voterons ce texte, avec l'espérance qu'il soit la première pierre d'une politique de long terme, où Mayotte et les Mahorais seront pleinement pris en considération par l'État, et ce dès le projet de loi-programme dont le gouvernement a promis la présentation dans deux mois."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3630614",
+          "citations": [
+            "Il est essentiel que nous mobilisions tous les moyens disponibles pour apporter une réponse globale et ambitieuse aux problèmes que rencontre Mayotte. Le groupe Ensemble pour la République votera donc naturellement en faveur de ce texte d'urgence, tout en rappelant qu'il ne constitue qu'une première étape."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "3630624",
+          "citations": [
+            "C'est pourquoi nous nous abstiendrons sur ce projet de loi."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V580",
+      "resume": "Projet de loi d'urgence pour Mayotte",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "SOC": {
+          "ancre": "3602451",
+          "citations": [
+            "Malgré toutes les réserves que je viens d'exprimer, il nous apparaît essentiel de faire avancer l'examen de ce projet de loi pour que le Sénat s'en saisisse rapidement et que son adoption définitive permette, dès le mois prochain, l'application des mesures qu'il contient. Nous voterons donc pour ce projet de loi, afin de répondre à l'urgence de la reconstruction de Mayotte."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3602824",
+          "citations": [
+            "Pour toutes ces raisons et dans l'attente d'un prochain projet de loi-programme plus dense et plus durable, le groupe Modem votera ce texte."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3602843",
+          "citations": [
+            "Nous ne doutons pas que le Sénat, qui examinera bientôt ce texte, se prononcera avec le même sens des responsabilités pour répondre à l'urgence de la situation."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3602831",
+          "citations": [
+            "J'appelle également à systématiser les plans d'apurement des dettes des entreprises. Je voterai cette loi d'urgence pour Mayotte, même si le gouvernement n'a toujours pas précisé le financement de la reconstruction."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3602851",
+          "citations": [
+            "Le groupe GDR, dont les membres sont libres de leur vote, se prononcera majoritairement en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3597112",
+          "citations": [
+            "Nous serons très attentifs à la réalisation concrète des mesures que nous voterons aujourd'hui et que vous aurez, monsieur le ministre d'État, la lourde charge de mettre en œuvre."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3602890",
+          "citations": [
+            "Nous voterons ce texte, avec l'espérance qu'il soit la première pierre d'une politique de long terme, où Mayotte et les Mahorais seront pleinement pris en considération par l'État, et ce dès le projet de loi-programme dont le gouvernement a promis la présentation dans deux mois."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3602434",
+          "citations": [
+            "Des assouplissements sont également prévus dans le domaine de la commande publique. Tout cela va dans le bon sens, et le groupe de la Droite républicaine, dont quatorze amendements ont été adoptés, votera ce texte."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V3725",
+      "resume": "Projet de loi constitutionnelle portant modification du corps électoral pour les élections au congrès et aux assemblées de province de la Nouvelle-Calédonie",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "HOR": {
+          "ancre": "3452233",
+          "citations": [
+            "Il reste donc du temps et nous espérons que celui-ci permettra d'atteindre un consensus sur l'avenir politique et institutionnel de ce territoire unique par la richesse de son histoire, par sa place dans la République française. Le groupe Horizons et apparentés votera en faveur de ce projet de loi constitutionnelle."
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "3448657",
+          "citations": [
+            "Or le texte manque de cette substance : la fierté d'être Kanak, de mourir Kanak et d'être né sur une terre kanak. Nous voterons donc contre le projet de loi constitutionnelle."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3452538",
+          "citations": [
+            "Chacun se déterminera en conscience : jusqu'à présent, la situation relevait de la responsabilité du Gouvernement ; désormais, elle relèvera aussi de la nôtre. Majoritairement, le groupe LIOT votera contre ce projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3448666",
+          "citations": [
+            "Enfin, allez-vous respecter la décision du Congrès de la Nouvelle-Calédonie, qui demande le retrait de ce projet de loi ? Pour toutes ces raisons, le groupe Écologiste votera en faveur de la motion de rejet."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "3448757",
+          "citations": [
+            "Et nous ne tolérerons pas que ce processus démocratique soit entaché par des violences, comme celles survenues depuis ce week-end. Pour toutes ces raisons, nous voterons en faveur du projet de loi constitutionnelle et contre la motion de rejet."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3452726",
+          "citations": [
+            "Le groupe Rassemblement national votera pour ce texte, qui vise simplement à permettre à des Français de voter en France."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "3452738",
+          "citations": [
+            "L'avenir de la Nouvelle-Calédonie doit s'écrire en commun : c'est tout le contraire de ce que fait ce texte, raison pour laquelle nous nous voterons contre, dans le respect de la volonté populaire calédonienne."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3452759",
+          "citations": [
+            "À l'Assemblée comme au Congrès, si toutefois il venait à être réuni, les députés du groupe Les Républicains voteront en sa faveur, sans aucune difficulté et avec le sens des responsabilités."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3448783",
+          "citations": [
+            "Qu'ils permettent qu'il ait lieu aussi dans cet hémicycle ! Nous ne voterons pas cette motion de rejet et prendrons nos responsabilités."
+          ],
+          "statut": "auto"
+        }
+      }
+    }
+  ]
+}

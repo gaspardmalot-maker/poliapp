@@ -1,0 +1,687 @@
+{
+  "sujet": "retraites",
+  "titre": "Retraites",
+  "genereLe": "2026-10-30T15:04:07.081Z",
+  "textes": [
+    {
+      "texte": "proposition de loi visant à renforcer la solidarité envers les retraités pauvres",
+      "legislature": 17,
+      "motsCles": [
+        "retraite"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V7354",
+          "legislature": 17,
+          "numero": 7354,
+          "date": "2026-06-11",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à renforcer la solidarité envers les retraités pauvres (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7354",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7352",
+          "legislature": 17,
+          "numero": 7352,
+          "date": "2026-06-11",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 14 du Gouvernement à l'article premier de la proposition de loi visant à renforcer la solidarité envers les retraités pauvres (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7352",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7353",
+          "legislature": 17,
+          "numero": 7353,
+          "date": "2026-06-11",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 10 de M. Muller à l'article premier de la proposition de loi visant à renforcer la solidarité envers les retraités pauvres (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7353",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi portant plusieurs mesures de justice en faveur de la revalorisation des pensions de retraites agricoles",
+      "legislature": 17,
+      "motsCles": [
+        "retraite",
+        "pensions"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V7324",
+          "legislature": 17,
+          "numero": 7324,
+          "date": "2026-06-04",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi portant plusieurs mesures de justice en faveur de la revalorisation des pensions de retraites agricoles (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7324",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7319",
+          "legislature": 17,
+          "numero": 7319,
+          "date": "2026-06-04",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 5 de la proposition de loi portant plusieurs mesures de justice en faveur de la revalorisation des pensions de retraites agricoles (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7319",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7314",
+          "legislature": 17,
+          "numero": 7314,
+          "date": "2026-06-04",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 19 du Gouvernement à l'article premier de la proposition de loi portant plusieurs mesures de justice en faveur de la revalorisation des pensions de retraites agricoles (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7314",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7315",
+          "legislature": 17,
+          "numero": 7315,
+          "date": "2026-06-04",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 20 (rect.) du Gouvernement à l'article 3 de la proposition de loi portant plusieurs mesures de justice en faveur de la revalorisation des pensions de retraites agricoles (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7315",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7316",
+          "legislature": 17,
+          "numero": 7316,
+          "date": "2026-06-04",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 3 de M. Peytavie après l'article 3 de la proposition de loi portant plusieurs mesures de justice en faveur de la revalorisation des pensions de retraites agricoles (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7316",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7317",
+          "legislature": 17,
+          "numero": 7317,
+          "date": "2026-06-04",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 4 de M. Bazin de suppression de l'article 5 de la proposition de loi portant plusieurs mesures de justice en faveur de la revalorisation des pensions de retraites agricoles (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7317",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7318",
+          "legislature": 17,
+          "numero": 7318,
+          "date": "2026-06-04",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 11 de M. Alexandre à l'article 5 de la proposition de loi portant plusieurs mesures de justice en faveur de la revalorisation des pensions de retraites agricoles (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7318",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7320",
+          "legislature": 17,
+          "numero": 7320,
+          "date": "2026-06-04",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 5 de M. Bazin de suppression de l'article 6 de la proposition de loi portant plusieurs mesures de justice en faveur de la revalorisation des pensions de retraites agricoles (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7320",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7321",
+          "legislature": 17,
+          "numero": 7321,
+          "date": "2026-06-04",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 8 de M. Alexandre après l'article 6 de la proposition de loi portant plusieurs mesures de justice en faveur de la revalorisation des pensions de retraites agricoles (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7321",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7322",
+          "legislature": 17,
+          "numero": 7322,
+          "date": "2026-06-04",
+          "type": "amendement",
+          "resultat": "adopté",
+          "titre": "l'amendement n° 9 de M. Alexandre après l'article 6 de la proposition de loi portant plusieurs mesures de justice en faveur de la revalorisation des pensions de retraites agricoles (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7322",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V7323",
+          "legislature": 17,
+          "numero": 7323,
+          "date": "2026-06-04",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 10 de M. Alexandre après l'article 6 de la proposition de loi portant plusieurs mesures de justice en faveur de la revalorisation des pensions de retraites agricoles (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7323",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de résolution visant à abroger la loi n° 2023-270 du 14 avril 2023 de financement rectificative de la sécurité sociale pour 2023 dite réforme des retraites",
+      "legislature": 17,
+      "motsCles": [
+        "retraite",
+        "reforme des retraites"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V2257",
+          "legislature": 17,
+          "numero": 2257,
+          "date": "2025-06-05",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "la proposition de résolution visant à abroger la loi n° 2023-270 du 14 avril 2023 de financement rectificative de la sécurité sociale pour 2023 dite réforme des retraites.",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2257",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à restaurer un système de retraite plus juste en annulant les dernières réformes portant sur l’âge de départ et le nombre d’annuités",
+      "legislature": 17,
+      "motsCles": [
+        "retraite",
+        "age de depart"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V217",
+          "legislature": 17,
+          "numero": 217,
+          "date": "2024-10-31",
+          "type": "ensemble",
+          "resultat": "rejeté",
+          "titre": "l'ensemble de la proposition de loi visant à restaurer un système de retraite plus juste en annulant les dernières réformes portant sur l’âge de départ et le nombre d’annuités (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/217",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V214",
+          "legislature": 17,
+          "numero": 214,
+          "date": "2024-10-31",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 quinquies de la proposition de loi visant à restaurer un système de retraite plus juste en annulant les dernières réformes portant sur l’âge de départ et le nombre d’annuités (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/214",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V215",
+          "legislature": 17,
+          "numero": 215,
+          "date": "2024-10-31",
+          "type": "article",
+          "resultat": "adopté",
+          "titre": "l'article 2 octies de la proposition de loi visant à restaurer un système de retraite plus juste en annulant les dernières réformes portant sur l’âge de départ et le nombre d’annuités (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/215",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V213",
+          "legislature": 17,
+          "numero": 213,
+          "date": "2024-10-31",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 5 de M. Ménagé après l'article 2 de la proposition de loi visant à restaurer un système de retraite plus juste en annulant les dernières réformes portant sur l’âge de départ et le nombre d’annuités (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/213",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V216",
+          "legislature": 17,
+          "numero": 216,
+          "date": "2024-10-31",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 7 de M. Dive après l'article 2 octies de la proposition de loi visant à restaurer un système de retraite plus juste en annulant les dernières réformes portant sur l’âge de départ et le nombre d’annuités (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/216",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à garantir le versement des pensions alimentaires aux enfants majeurs",
+      "legislature": 16,
+      "motsCles": [
+        "pensions"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V3490",
+          "legislature": 16,
+          "numero": 3490,
+          "date": "2024-03-14",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à garantir le versement des pensions alimentaires aux enfants majeurs (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3490",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi visant à calculer la retraite de base des non-salariés agricoles en fonction de leurs seules vingt-cinq meilleures années de revenus",
+      "legislature": 16,
+      "motsCles": [
+        "retraite"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V654",
+          "legislature": 16,
+          "numero": 654,
+          "date": "2022-12-01",
+          "type": "ensemble",
+          "resultat": "adopté",
+          "titre": "l'ensemble de la proposition de loi visant à calculer la retraite de base des non-salariés agricoles en fonction de leurs seules vingt-cinq meilleures années de revenus (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/654",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi d'abrogation de la retraite à 64 ans",
+      "legislature": 17,
+      "motsCles": [
+        "retraite"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L17V457",
+          "legislature": 17,
+          "numero": 457,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 869 de M. Alfandari avant l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/457",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V458",
+          "legislature": 17,
+          "numero": 458,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 883 de M. Alfandari avant l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/458",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V459",
+          "legislature": 17,
+          "numero": 459,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 879 de Mme Colin-Osterlé avant l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/459",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V460",
+          "legislature": 17,
+          "numero": 460,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 3 de M. Sitzenstuhl avant l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/460",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V461",
+          "legislature": 17,
+          "numero": 461,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 870 de M. Alfandari avant l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/461",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V462",
+          "legislature": 17,
+          "numero": 462,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 871 de Mme Colin-Osterlé avant l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/462",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V463",
+          "legislature": 17,
+          "numero": 463,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 872 de M. Gernigon avant l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/463",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V464",
+          "legislature": 17,
+          "numero": 464,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 884 de M. Gernigon avant l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/464",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V465",
+          "legislature": 17,
+          "numero": 465,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 885 de Mme Colin-Osterlé avant l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/465",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V466",
+          "legislature": 17,
+          "numero": 466,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 878 de M. Gernigon avant l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/466",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V467",
+          "legislature": 17,
+          "numero": 467,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 875 de M. Alfandari avant l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/467",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V468",
+          "legislature": 17,
+          "numero": 468,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de suppression n° 4 de M. Sitzenstuhl et les amendements identiques suivants à l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/468",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V469",
+          "legislature": 17,
+          "numero": 469,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement de rédaction globale n° 335 de Mme Spillebout à l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/469",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V470",
+          "legislature": 17,
+          "numero": 470,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 390 de Mme Bergé à l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/470",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V471",
+          "legislature": 17,
+          "numero": 471,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 796 de M. Gernigon à l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/471",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V472",
+          "legislature": 17,
+          "numero": 472,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 798 de M. Alfandari à l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/472",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V473",
+          "legislature": 17,
+          "numero": 473,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 797 de M. Moulliere à l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/473",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V474",
+          "legislature": 17,
+          "numero": 474,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 794 de Mme Colin-Osterlé à l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/474",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V475",
+          "legislature": 17,
+          "numero": 475,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 392 de M. Labaronne à l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/475",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V476",
+          "legislature": 17,
+          "numero": 476,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 451 de Mme Yadan à l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/476",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V477",
+          "legislature": 17,
+          "numero": 477,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 337 de M. Vojetta à l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/477",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V478",
+          "legislature": 17,
+          "numero": 478,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 514 de M. Huyghe à l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/478",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V479",
+          "legislature": 17,
+          "numero": 479,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 773 de M. Alfandari à l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/479",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V480",
+          "legislature": 17,
+          "numero": 480,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 83 de M. Lefèvre et les amendements identiques suivants à l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/480",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V481",
+          "legislature": 17,
+          "numero": 481,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 73 de M. Jean-René Cazeneuve et l'amendement identique suivant à l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/481",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V482",
+          "legislature": 17,
+          "numero": 482,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 7 de M. Sitzenstuhl et les amendements identiques suivants à l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/482",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V483",
+          "legislature": 17,
+          "numero": 483,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 336 de M. Sitzenstuhl à l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/483",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V484",
+          "legislature": 17,
+          "numero": 484,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 809 de M. Alfandari à l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/484",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V485",
+          "legislature": 17,
+          "numero": 485,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 8 de M. Sitzenstuhl et l'amendement identique suivant à l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/485",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V486",
+          "legislature": 17,
+          "numero": 486,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 531 de M. Huyghe à l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/486",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V487",
+          "legislature": 17,
+          "numero": 487,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 415 de M. Mendes à l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/487",
+          "dejaRetenu": false
+        },
+        {
+          "id": "VTANR5L17V488",
+          "legislature": 17,
+          "numero": 488,
+          "date": "2024-11-28",
+          "type": "amendement",
+          "resultat": "rejeté",
+          "titre": "l'amendement n° 973 de Mme Thevenot à l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/488",
+          "dejaRetenu": false
+        }
+      ]
+    },
+    {
+      "texte": "proposition de loi pour une retraite universellement juste",
+      "legislature": 16,
+      "motsCles": [
+        "retraite"
+      ],
+      "scrutins": [
+        {
+          "id": "VTANR5L16V912",
+          "legislature": 16,
+          "numero": 912,
+          "date": "2023-02-07",
+          "type": "autre",
+          "resultat": "rejeté",
+          "titre": "la demande de constitution d’une commission spéciale pour l’examen de la proposition de loi pour une retraite universellement juste.",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/912",
+          "dejaRetenu": false
+        }
+      ]
+    }
+  ]
+}

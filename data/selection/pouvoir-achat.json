@@ -1,0 +1,647 @@
+{
+  "sujet": "pouvoir-achat",
+  "auto": true,
+  "note": "Pré-sélection automatique (scripts/brouillon.mjs). Passer « statut » à « valide » après relecture : l’entrée ne sera plus modifiée.",
+  "scrutins": [
+    {
+      "id": "VTANR5L17V8693",
+      "resume": "Proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "GDR": {
+          "ancre": "4182396",
+          "citations": [
+            "La situation en matière de pouvoir d'achat s'étant encore dégradée – bien que leur hausse ait quelque peu ralenti ces derniers mois, les prix alimentaires restent supérieurs d'environ 23 % à leur niveau de janvier 2022 –, nous voterons en faveur du texte que vous nous proposez, en songeant aux salariés concernés, mais non sans exprimer quelques réserves."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4182404",
+          "citations": [
+            "La modernisation du dispositif doit se traduire par davantage de simplicité, par une diminution des coûts d'intermédiation. En l'état, le groupe UDR votera néanmoins en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "4182415",
+          "citations": [
+            "Nous soutiendrons cette proposition de loi, mais en rappelant qu'elle ne saurait à elle seule répondre aux difficultés structurelles que rencontrent nos compatriotes."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "4182563",
+          "citations": [
+            "Cette proposition de loi correspond pleinement à cette ambition ; c'est la raison pour laquelle nous la soutiendrons."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "4182586",
+          "citations": [
+            "C'est aussi cela, la justice sociale. La position du groupe Socialistes et apparentés est donc claire : nous voterons pour ce texte, et, nous l'espérons, pour ce texte enrichi de nos amendements."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "4182602",
+          "citations": [
+            "L'adoption unanime de ce texte en commission montre que nous pouvons avancer collectivement sur ces objectifs. Dans cet esprit, le groupe Horizons et indépendants soutiendra cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4182612",
+          "citations": [
+            "Nous défendrons des amendements en ce sens. Nous soutiendrons ce texte, mais ne nous trompons pas : les titres-restaurant ne suffiront pas à protéger les restaurants."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V4755",
+      "resume": "Proposition de loi visant à prendre des mesures d'urgence contre la vie chère en outre-mer dans le secteur des services",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "Dem": {
+          "ancre": "3970490",
+          "citations": [
+            "Nous avons pour cela des rendez-vous à venir, dont le projet de loi de lutte contre la vie chère dans les outre-mer. Pour toutes ces raisons, le groupe Démocrates s'abstiendra sur cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3970496",
+          "citations": [
+            "Pour toutes ces raisons, de façon cohérente avec la position que nous avons exprimée en commission, le groupe Horizons & indépendants s'abstiendra sur ce texte."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "3970506",
+          "citations": [
+            "Le groupe Droite républicaine s'abstiendra donc sur ce texte, dans l'attente d'un projet sérieux du gouvernement en mesure de mettre à plat un certain nombre de sujets."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3969900",
+          "citations": [
+            "Mettons fin immédiatement et courageusement à ces inégalités. Le groupe LIOT votera bien sûr en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3969905",
+          "citations": [
+            "C'est pourquoi le groupe GDR votera en sa faveur, pour ouvrir les yeux et agir, sans cécité, avec volonté, car, trop souvent, on nous oppose la cécité et la volonté de maintenir une situation inadmissible et scandaleuse dans nos pays."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3969909",
+          "citations": [
+            "Ce texte pose de bonnes questions mais apporte parfois des réponses susceptibles de fragiliser l'offre plutôt que de l'améliorer. Nous nous abstiendrons donc, car nous sommes là pour régler des problèmes, non pour produire des illusions."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3969918",
+          "citations": [
+            "Il serait temps que ses représentants l'écoutent. Le groupe Rassemblement national s'abstiendra."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "3969927",
+          "citations": [
+            "Néanmoins, nous ne nions ni l'importance du sujet ni la valeur de votre intention, et il faut reconnaître que le dispositif proposé est bien moins extravagant que d'autres textes défendus par d'autres groupes sur le même thème. C'est pourquoi, partageant le constat mais manquant de garanties, le groupe Ensemble pour la République s'abstiendra."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V596",
+      "resume": "Proposition de loi visant à prendre des mesures d'urgence contre la vie chère et à réguler la concentration des acteurs économiques dans les territoires d'outre-mer",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "DR": {
+          "ancre": "3604749",
+          "citations": [
+            "Mes chers collègues, en l'état actuel du texte, la Droite républicaine choisira de s'abstenir, mais elle soutiendra les initiatives qui, sans être anticoncurrentielles, permettront de combattre les positions dominantes abusives afin de lutter contre une différence des prix entre l'Hexagone et l'outre-mer."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3604791",
+          "citations": [
+            "même si je la remercie pour ses derniers mots. Sur le fond, le groupe Dem, qui avait l'intention de voter en faveur de ce texte, s'abstiendra finalement."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3604766",
+          "citations": [
+            "Nous voterons donc en faveur de ce texte car il représente une occasion précieuse d'améliorer la situation dans nos territoires ultramarins, en espérant que l'amendement du gouvernement soit adopté."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3605489",
+          "citations": [
+            "Bien que le groupe UDR partage l'analyse des défis à relever pour notre outre-mer, les réponses proposées nous semblent insuffisantes et méritent d'autres développements. En conséquence, le groupe UDR s'abstiendra sur ce texte."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3605497",
+          "citations": [
+            "Néanmoins, pour le peuple ultramarin et parce que nous n'avons aucune volonté de bloquer les institutions, nous voterons globalement en sa faveur, quoiqu'avec beaucoup de réserves. Sans sectarisme, nous voterons pour les amendements et articles qui iront dans le bon sens."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V3373",
+      "resume": "Proposition de loi visant à protéger le groupe Électricité de France d'un démembrement",
+      "lecture": "troisième lecture",
+      "statut": "auto",
+      "explications": {
+        "SOC": {
+          "ancre": "3382247",
+          "citations": [
+            "Il convient donc de le saluer, ainsi que l'autre rapporteur du texte, Sébastien Jumel, car ils ont su trouver un accord, un consensus, avec le Gouvernement. Nous voterons le texte avec fierté."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3384071",
+          "citations": [
+            "Lors de la discussion générale, nous avions émis deux réserves concernant la cession du capital d'Enedis et la participation des salariés au capital d'EDF. Celles-ci ayant été levées, le groupe Horizons et apparentés votera le texte."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3381305",
+          "citations": [
+            "Malgré toutes ces dérives, le Président de la République a annoncé la construction de quatorze nouvelles centrales nucléaires – le projet a été adopté contre notre volonté dans cet hémicycle – alors que l'industrie de l'atome, grevée par les retards et les surcoûts, recule dans le monde entier. La version allégée du texte ne nous enthousiasme pas, mais nous la soutiendrons par esprit de compromis."
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "3381520",
+          "citations": [
+            "Elle doit être maîtrisée par la nation, par le Parlement, car elle est au cœur de notre capacité commune à imaginer un mode de développement renouvelé, où la transition écologique se conjugue avec l'égalité sociale, où la souveraineté s'affirme dans le cadre d'un grand service public unifié. Nous soutiendrons le texte, tel que les deux rapporteurs nous le proposent."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3382583",
+          "citations": [
+            "Je regrette néanmoins qu'il faille démontrer au Gouvernement qu'il est ultraminoritaire dans cette enceinte pour qu'il se mette à négocier jusqu'à trouver un accord. Nous voterons naturellement le texte."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "3382587",
+          "citations": [
+            "qui ont participé à cette réussite qui est aujourd'hui la nôtre. M. le rapporteur l'a dit, le résultat sera exceptionnel, car nous voterons un texte…"
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3382206",
+          "citations": [
+            "En effet, son article 3 bis permet de protéger nos artisans, nos TPE et nos petites communes. Oui, nous voterons pour."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "3381704",
+          "citations": [
+            "Nous voterons cette proposition de loi, qui est une première victoire dans la longue bataille qu'il nous reste à mener pour reprendre le contrôle de l'électricité."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3382233",
+          "citations": [
+            "Ainsi, parce que le ministre a décidé qu'il était convenable, nous allons pouvoir adopter un texte qui concerne un grand nombre de nos concitoyens, et même la France entière, puisqu'il y va de ce fleuron qu'est EDF. Nous voterons pour la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3382240",
+          "citations": [
+            "En effet, il n'y a plus sa place, compte tenu du consensus auquel nous sommes parvenus. Nous voterons pour la version amendée de ce texte, en espérant que nos collègues sénateurs feront de même."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V3101",
+      "resume": "Proposition de loi visant à lutter contre l'inflation par l'encadrement des marges des industries agroalimentaires, du raffinage et de la grande distribution et établissant un prix d'achat plancher des matières premières agricoles",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "RN": {
+          "ancre": "3311504",
+          "citations": [
+            "Face à la détresse des agriculteurs et des Français qui ne s'en sortent plus, le groupe Rassemblement national prendra ses responsabilités et votera cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3311739",
+          "citations": [
+            "Sous réserve que cette proposition de loi soit considérée comme une expérimentation pour temps de crise, que la cible soit bien identifiée – pas les TPE et les PME mais bien les multinationales – et qu'elle intègre les dispositions relatives à l'empowerment, aux contrats tripartites et au commerce équitable que nous proposons, notre groupe soutiendra cette proposition de loi dont il va débattre à l'instant de façon positive et volontariste."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3310425",
+          "citations": [
+            "Oui, nous voterons pour ce texte, en y incorporant des propositions destinées à l'agriculture biologique, et nous espérons que la majorité acceptera, enfin, d'agir vraiment contre l'inflation."
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "3310432",
+          "citations": [
+            "Mais pourquoi est-ce aux producteurs de rogner sur leurs recettes plutôt qu'aux grands distributeurs ? Renverser la situation est tout l'objet de cette proposition de loi, que notre groupe soutiendra."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3311489",
+          "citations": [
+            "Restent les articles sur l'encadrement des marges avec la philosophie desquels nous sommes en désaccord. Nous voterons donc majoritairement contre la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "3311494",
+          "citations": [
+            "Vous avez voté, l'un après l'autre, les amendements qu'il vous proposait. Pour toutes ces raisons, le groupe Renaissance ne votera pas ce texte populiste qui n'apporte aucune solution pour améliorer le pouvoir d'achat des Français."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V2967",
+      "resume": "Projet de loi portant mesures d'urgence pour lutter contre l'inflation concernant les produits de grande consommation",
+      "lecture": "texte de la commission mixte paritaire",
+      "statut": "auto",
+      "explications": {
+        "GDR-NUPES": {
+          "ancre": "3290994",
+          "citations": [
+            "Toutefois, sans encadrement des marges, nous continuerons, texte après texte, à brasser du vent. C'est pourquoi nous voterons contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3291545",
+          "citations": [
+            "Or nous ne pouvons cautionner un manque de volonté politique sur la question du pouvoir d'achat. C'est pourquoi le groupe LIOT s'abstiendra."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "3291562",
+          "citations": [
+            "Il devrait constituer la première pierre d'un débat à tenir sur les marges, sur la façon dont nous rémunérons les agriculteurs, sur la façon de gérer ces négociations commerciales, la France étant le seul pays à disposer d'une date fixe, qui s'impose à tout le monde jusqu'à la fin de l'année. Le groupe Renaissance votera évidemment pour ce texte."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3291587",
+          "citations": [
+            "En réalité, le Gouvernement n'aura rien fait d'autre qu'esquisser un geste avant de rester les bras ballants. Le groupe Rassemblement national se refuse à prendre part à cette agitation inutile et s'abstiendra."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3291639",
+          "citations": [
+            "Le groupe Écologiste votera donc contre ce projet de loi, qui est un texte d'impuissance face aux marges et aux dividendes records qui conduisent à une explosion du mal vivre et de la pauvreté."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3291658",
+          "citations": [
+            "En attendant, nous souhaitons que les négociations commerciales soient profitables à tous, équilibrées, dans le respect des parties et des relations entre distributeurs et industriels de toutes tailles. Le groupe Démocrate votera donc le texte issu de la commission mixte paritaire."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3291695",
+          "citations": [
+            "À titre personnel, avec d'autres centristes, je plaide pour une TVA sociale – à taux très réduit – pour les denrées de première nécessité, et une hausse de la TVA pour les produits de luxe. Le groupe Horizons et apparentés votera pour le texte, même s'il n'est pas révolutionnaire."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3291722",
+          "citations": [
+            "Telle que nous l'avons conçue, elle pourrait même servir de base à d'autres textes en faveur des PME. Pour toutes ces raisons, et dans la mesure où nous sommes très mitigés, nous nous abstiendrons."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V1482",
+      "resume": "Proposition de loi visant à protéger le groupe Électricité de France d'un démembrement",
+      "lecture": "deuxième lecture",
+      "statut": "auto",
+      "explications": {
+        "LIOT": {
+          "ancre": "3101711",
+          "citations": [
+            "Il restera cependant à relever des défis colossaux : le financement des investissements dans le parc nucléaire, les réformes indispensables du marché européen de l'énergie, ou encore la maîtrise des prix de l'énergie pour les ménages, les entreprises et les collectivités en sont quelques exemples éloquents. Vous l'aurez compris, le groupe LIOT soutiendra cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3102466",
+          "citations": [
+            "À la fin, les Français savent que c'est grâce à nous que ces sujets ont pu avancer à l'Assemblée : ils nous en remercient, et cela commence à se voir nettement dans les sondages. Le groupe RN votera bien évidemment en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3102488",
+          "citations": [
+            "Je serai très bref : le groupe Les Républicains soutiendra la proposition de loi visant à protéger le groupe Électricité de France d'un démembrement."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3101788",
+          "citations": [
+            "Nous contestons donc les allégations d'après lesquelles nous voudrions le démembrement d'EDF. Pour ces quatre raisons majeures, que nous avons développées pendant cinq heures, le groupe Démocrate votera contre cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3102120",
+          "citations": [
+            "Protéger EDF et notre souveraineté énergétique, c'est protéger les Français, répondre à l'urgence de la situation. Je n'en dirai pas plus long, chers collègues : vous l'avez compris, nous voterons en faveur du texte et vous invitons à le soutenir massivement !"
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3102458",
+          "citations": [
+            "La proposition de loi n'apporte ni l'un, ni l'autre. Pour ces raisons, le groupe Horizons et apparentés votera contre le texte."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3102148",
+          "citations": [
+            "Nous voterons en faveur de l'amendement déposé en ce sens par le rapporteur Philippe Brun, d'autant qu'une telle mesure contribuerait à ce que soit atteint l'objectif inscrit dans la loi du 22 mai 2019 relative à la croissance et la transformation des entreprises, dite loi Pacte, qui prévoit que d'ici à 2030, 10 % du capital des entreprises françaises soit détenu par leurs salariés."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V1387",
+      "resume": "Proposition de loi visant à mieux manger en soutenant les Français face à l'inflation et en favorisant l'accès à une alimentation saine",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "Ecolo-NUPES": {
+          "ancre": "3084187",
+          "citations": [
+            "En conclusion, puisqu'il contient tout de même quelques miettes pour ceux qui souffrent, les miettes que, très généreusement, vous jetez à la face des Français, nous voterons pour ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3085038",
+          "citations": [
+            "Notre groupe, composé en partie d'élus ultramarins, comprend bien l'intérêt du dispositif pour les outre-mer ; il sait aussi que la structure du marché y est particulière et que, s'il est légitime là-bas, il n'a pas forcément sa pertinence dans l'Hexagone. Pour ces raisons, le groupe LIOT s'abstiendra sur ce texte."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3085047",
+          "citations": [
+            "Pour ce qui nous concerne et parce que nous sommes pragmatiques, nous voterons en faveur de ce texte et des quelques mesures, même indigentes, qui vont dans le bon sens ; mais rendez-vous bientôt pour pouvoir enfin avancer sur le problème de l'inflation qui frappe les Français."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "3085061",
+          "citations": [
+            "Le groupe LFI votera donc en faveur de cette proposition de loi : grâce au bouclier et au blocage des prix, certains pourront enfin manger mais, pour qu'ils mangent mieux, en revanche, il vous faudra mieux voter."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3085070",
+          "citations": [
+            "Votre politique de chèques est coûteuse et injuste car elle oublie, encore une fois, les classes moyennes. C'est pourquoi nous ne voterons pas ce texte."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3085083",
+          "citations": [
+            "Le texte soumis au vote contient désormais deux articles auxquels nous sommes fermement opposés car ils relèvent clairement d'un modèle économique administré. Le groupe Démocrates votera donc contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3085087",
+          "citations": [
+            "La proposition de loi d'origine a certes été appauvrie, mais nous souhaitons valider les quelques avancées que j'ai citées. Nous remercions le groupe écologiste d'avoir permis le débat et nous voterons en faveur des petits pas accomplis."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3085156",
+          "citations": [
+            "Pour ces raisons, et au nom de la responsabilité, le groupe Horizons votera contre ce texte, qui est une aberration."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V935",
+      "resume": "Proposition de loi visant à protéger le groupe Électricité de France d'un démembrement",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "HOR": {
+          "ancre": "3007094",
+          "citations": [
+            "Le groupe Horizons et apparentés redit son attachement à ce qu'EDF soit une entreprise 100 % publique, pour retrouver une politique énergétique forte. C'est pour cela que nous soutenons l'OPA lancée par le Gouvernement et que nous voterons contre cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3007111",
+          "citations": [
+            "L'inscription dans la loi de la nationalisation, le maintien des activités d'EDF, un engagement déterminé à développer de nouveaux outils et à produire plus d'énergies renouvelables, la garantie d'un respect des petits actionnaires, le retour aux tarifs réglementés : tout cela serait une excellente nouvelle. Nous voterons donc avec conviction cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "3007128",
+          "citations": [
+            "Tel est l'état d'esprit du groupe communiste, qui votera sans hésitation cette proposition de loi : celle-ci est une première étape – qui en appelle d'autres – dans la reprise en main par la puissance publique de la politique énergétique de la France."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3007504",
+          "citations": [
+            "Le groupe Libertés, indépendants, outre-mer et territoires votera la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3007501",
+          "citations": [
+            "Sans surprise, nous voterons la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "3007491",
+          "citations": [
+            "Nous voterons donc ce texte, qui ne doit toutefois pas être considéré comme un aboutissement : il s'agit d'une première étape pour qu'EDF vive, pour que l'objectif d'un mix énergétique intégralement composé d'énergies renouvelables soit atteint et pour que l'énergie devienne enfin un bien commun."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "3007478",
+          "citations": [
+            "Même si nous ne sommes pas tout à fait d'accord sur le moyen juridique à privilégier, la nationalisation n'étant pas, à nos yeux, la meilleure façon de parvenir à cette fin, il faut absolument signifier notre opposition au démembrement du groupe. C'est la raison pour laquelle nous voterons la proposition de loi."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V186",
+      "resume": "Projet de loi portant mesures d'urgence pour la protection du pouvoir d'achat (texte de la commission paritaire)",
+      "statut": "auto",
+      "explications": {
+        "LFI-NUPES": {
+          "ancre": "2826213",
+          "citations": [
+            "Voici ce que valent les engagements : rien ! Voilà pourquoi les députés du groupe LFI-NUPES voteront contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "2826268",
+          "citations": [
+            "Mais il faudra, demain, aller plus loin pour assurer notre souveraineté énergétique et apporter une réponse adaptée à nos électro-intensifs. En responsabilité, les députés du groupe Les Républicains voteront le présent texte."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "2844527",
+          "citations": [
+            "Eu égard à l'équilibre qui a été trouvé et aux mesures concrètes qu'il contient pour l'ensemble de nos concitoyens, le groupe Horizons et apparentés votera en faveur de ce texte."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "2844534",
+          "citations": [
+            "De ceux que l'on étudiera plus tard pour essayer de comprendre pourquoi cette assemblée, alors qu'elle savait, n'a rien fait. Vous l'aurez compris nous voterons contre ce texte mais, de surcroît, nous appelons à une forme de résistance contre ces dénis écologiques et sociaux."
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "2826201",
+          "citations": [
+            "Mais s'il s'agit de vous accompagner dans une politique qui a déjà produit tant de dégâts, vous nous trouverez face à vous. C'est pourquoi nous ne soutiendrons pas cette version de la loi."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "2826277",
+          "citations": [
+            "Bien qu'incomplet et partiellement insatisfaisant, ce texte comporte des mesures qui vont dans le bon sens. Une partie de mon groupe votera donc en sa faveur, quand une autre a plutôt exprimé la volonté de s'abstenir."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "2844707",
+          "citations": [
+            "Le groupe Renaissance fera partie de cette deuxième catégorie et votera le projet de loi."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "2815580",
+          "citations": [
+            "Quant à nous, au contraire, les députés du Rassemblement national, nous avons clairement entendu le message des Français : ils ne veulent pas de l'obstruction, mais d'un travail constructif ; ils ne veulent pas de posture, mais de résultats. Aussi soutiendrons-nous l'essentiel des mesures que vous proposez"
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V81",
+      "resume": "Projet de loi portant mesures d'urgence pour la protection du pouvoir d'achat",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "LFI-NUPES": {
+          "ancre": "2826213",
+          "citations": [
+            "Voici ce que valent les engagements : rien ! Voilà pourquoi les députés du groupe LFI-NUPES voteront contre ce texte."
+          ],
+          "statut": "auto"
+        },
+        "LR": {
+          "ancre": "2826268",
+          "citations": [
+            "Mais il faudra, demain, aller plus loin pour assurer notre souveraineté énergétique et apporter une réponse adaptée à nos électro-intensifs. En responsabilité, les députés du groupe Les Républicains voteront le présent texte."
+          ],
+          "statut": "auto"
+        },
+        "GDR-NUPES": {
+          "ancre": "2826201",
+          "citations": [
+            "Mais s'il s'agit de vous accompagner dans une politique qui a déjà produit tant de dégâts, vous nous trouverez face à vous. C'est pourquoi nous ne soutiendrons pas cette version de la loi."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "2826277",
+          "citations": [
+            "Bien qu'incomplet et partiellement insatisfaisant, ce texte comporte des mesures qui vont dans le bon sens. Une partie de mon groupe votera donc en sa faveur, quand une autre a plutôt exprimé la volonté de s'abstenir."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "2815580",
+          "citations": [
+            "Quant à nous, au contraire, les députés du Rassemblement national, nous avons clairement entendu le message des Français : ils ne veulent pas de l'obstruction, mais d'un travail constructif ; ils ne veulent pas de posture, mais de résultats. Aussi soutiendrons-nous l'essentiel des mesures que vous proposez"
+          ],
+          "statut": "auto"
+        }
+      }
+    }
+  ]
+}

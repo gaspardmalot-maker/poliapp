@@ -1,0 +1,362 @@
+{
+  "sujet": "retraites",
+  "auto": true,
+  "note": "Pré-sélection automatique (scripts/brouillon.mjs). Passer « statut » à « valide » après relecture : l’entrée ne sera plus modifiée.",
+  "scrutins": [
+    {
+      "id": "VTANR5L17V7354",
+      "resume": "Proposition de loi visant à renforcer la solidarité envers les retraités pauvres",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "GDR": {
+          "ancre": "4118994",
+          "citations": [
+            "Je remercie grandement la rapporteure Émeline K/Bidi pour son travail constant et déterminé. Pour toutes ces raisons, les députés du groupe GDR voteront en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "4119003",
+          "citations": [
+            "Le groupe UDR n'est évidemment pas opposé à la solidarité, mais combat l'assistanat déguisé en réforme sociale, les mesures qui, sous couvert de justice, créent de nouvelles injustices et de nouveaux déséquilibres. Pour toutes ces raisons, le groupe UDR votera contre ce texte en l'état."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "4119009",
+          "citations": [
+            "C'est dans cet esprit que le groupe Rassemblement national votera en faveur de la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "4119087",
+          "citations": [
+            "Je salue votre travail, monsieur le ministre, ainsi que celui de votre cabinet et de vos services, qui ont sans doute été mobilisés jusqu'à une heure avancée pour aboutir à cette solution. Le groupe Ensemble pour la République votera en faveur de l'amendement no 14 du gouvernement et de la proposition de loi ainsi amendée."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "4119093",
+          "citations": [
+            "Il va cependant dans le bon sens et constitue une avancée réelle. C'est pourquoi nous le soutiendrons."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4119189",
+          "citations": [
+            "Merci à Émeline K/Bidi, merci au groupe GDR de présenter ce texte. Évidemment, nous voterons pour."
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "4119195",
+          "citations": [
+            "Ce serait neutre budgétairement, plus simple administrativement et il n'y aurait plus la crainte du recours sur succession. Si cet amendement est adopté, nous voterons en faveur de ce texte ; à défaut, nous nous abstiendrons."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "4119202",
+          "citations": [
+            "Le groupe Horizons & indépendants aborde donc la discussion du texte dans un esprit constructif, fidèle au double objectif qui devrait tous nous rassembler : protéger le toit des familles modestes sans renoncer à l'équité qui fonde la solidarité nationale. Nous voterons donc en faveur de l'amendement du gouvernement et du texte qui serait issu de son adoption."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V7324",
+      "resume": "Proposition de loi portant plusieurs mesures de justice en faveur de la revalorisation des pensions de retraites agricoles",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "RN": {
+          "ancre": "4116380",
+          "citations": [
+            "Au fond, le texte que nous examinons pose la question simple de la justice et de la reconnaissance envers le monde agricole. Le groupe Rassemblement national soutient les principales mesures de cette proposition de loi et votera en faveur du texte."
+          ],
+          "statut": "auto"
+        },
+        "EPR": {
+          "ancre": "4116395",
+          "citations": [
+            "Pour toutes ces raisons, je voterai ce texte."
+          ],
+          "statut": "auto"
+        },
+        "DR": {
+          "ancre": "4116432",
+          "citations": [
+            "Pour ma part, ayant été agriculteur et ayant vu ma mère être la première à se lever le matin pour démarrer la journée et la dernière à se coucher le soir après une dure journée de labeur, je voterai ce texte."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "4116441",
+          "citations": [
+            "Nous apporterons notre soutien plein et entier à cette proposition de loi, nécessaire à la dignité des agriculteurs et des agricultrices qui ont consacré leur vie à assurer notre subsistance."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "4116846",
+          "citations": [
+            "Il prolonge ainsi notre combat pour la justice, pour la dignité et pour la reconnaissance. Pour toutes ces raisons, nous voterons bien évidemment le texte présenté par notre collègue Julien Brugerolles, que nous félicitons pour cette initiative."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V2257",
+      "resume": "Proposition de résolution visant à abroger la loi n° 2023-270 du 14 avril 2023 de financement rectificative de la sécurité sociale pour 2023 dite réforme des retraites",
+      "statut": "auto",
+      "explications": {
+        "GDR": {
+          "ancre": "3780026",
+          "citations": [
+            "Selon l'étude de l'Ifop d'avril 2025, plus des deux tiers des Français et plus de 78 % des salariés voteraient l'abrogation de cette réforme ; par ailleurs, sept Français sur dix plébiscitent le système par répartition."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3780062",
+          "citations": [
+            "Ainsi, nous vous proposons d'anticiper la crise et d'offrir un système de retraite plus équitable, durable et pérenne. Pour l'ensemble de ces raisons, le groupe UDR votera contre cette proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3780169",
+          "citations": [
+            "Tenir cette promesse sera l'occasion de vous rappeler un élément essentiel : sans le Rassemblement national, personne ne pourra rien faire pour tenter d'abroger ou réussir à abroger la réforme des retraites. Aussi inopérante soit-elle, nous voterons cette proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3780611",
+          "citations": [
+            "La Cour des comptes alerte sur le risque de défaut de paiement de la sécurité sociale – voilà la réalité ! Le groupe Horizons & indépendants votera contre cette proposition de résolution,…"
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3780869",
+          "citations": [
+            "C'est pourquoi nous voterons contre cette proposition de résolution."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3780919",
+          "citations": [
+            "C'est dans cet esprit que le groupe LIOT continuera, sur un sujet aussi sensible et important que la protection sociale et les retraites des Français, à faire entendre une voie responsable, humaine et ancrée dans le réel. Chacun de ses députés s'exprimera et votera librement selon ses convictions."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V217",
+      "resume": "Proposition de loi visant à restaurer un système de retraite plus juste en annulant les dernières réformes portant sur l’âge de départ et le nombre d’annuités",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "EPR": {
+          "ancre": "3548166",
+          "citations": [
+            "Le groupe Ensemble pour la République présidé par Gabriel Attal votera contre le texte."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "3546961",
+          "citations": [
+            "Nous assistons donc à une pantalonnade absolue. Heureusement, le bout du tunnel se rapproche : le 28 novembre, cette assemblée se prononcera sur le rétablissement d'un départ à 62 ans"
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3546989",
+          "citations": [
+            "Les socialistes voteront donc contre cette réforme – et vous pouvez ajouter mon nom et le nom de beaucoup d'autres ici sur la longue liste des ennemis de l'extrême droite"
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3547110",
+          "citations": [
+            "Le groupe Les Démocrates ne votera pas votre réforme et je vais vous expliquer pourquoi."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3548156",
+          "citations": [
+            "Comme de nombreux autres groupes, nous voterons contre ce texte, pour des raisons de fond et par responsabilité, contrairement aux collègues du NFP qui voteront contre pour des raisons politiques – afin de se réserver la primeur d'une abrogation irresponsable et délétère."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V1240",
+      "resume": "Motion de censure transpartisane (déposée par le groupe LIOT) contre le recours au 49.3 pour adopter la réforme des retraites (âge légal porté à 64 ans).",
+      "statut": "brouillon",
+      "explications": {
+        "RE": {
+          "ancre": "3054866",
+          "citations": [
+            "L'avenir, c'est ce qui se dessinera à partir de ce soir : quel que soit le résultat souverain de notre assemblée, qui se prononcera en faveur de l'adoption ou du rejet de la réforme,…"
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3055845",
+          "citations": [
+            "Vous l'aurez bien sûr compris, soutenant le Gouvernement et persuadés de la nécessité d'une réforme pour pérenniser notre système de retraite, nous ne voterons pas la censure."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3055880",
+          "citations": [
+            "Les députés du groupe Socialistes et apparentés voteront cette motion de censure transpartisane."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3054832",
+          "citations": [
+            "Je sais, madame la Première ministre, que nous pourrons compter pour y parvenir sur votre plein et entier engagement. C'est pourquoi les députés du groupe Horizons et apparentés ne voteront pas en faveur des motions de censure."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3055501",
+          "citations": [
+            "Vous n'avez plus les moyens de gouverner un pays qui s'enfonce dans une spirale inflationniste où les plus vulnérables sont broyés. C'est pourquoi, madame la Première ministre, les écologistes voteront sans la moindre hésitation pour cette motion de censure."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V1241",
+      "resume": "Motion de censure du Rassemblement national contre le recours au 49.3 pour adopter la réforme des retraites (âge légal porté à 64 ans).",
+      "statut": "brouillon",
+      "explications": {
+        "RE": {
+          "ancre": "3054866",
+          "citations": [
+            "L'avenir, c'est ce qui se dessinera à partir de ce soir : quel que soit le résultat souverain de notre assemblée, qui se prononcera en faveur de l'adoption ou du rejet de la réforme,…"
+          ],
+          "statut": "auto"
+        },
+        "Dem": {
+          "ancre": "3055845",
+          "citations": [
+            "Vous l'aurez bien sûr compris, soutenant le Gouvernement et persuadés de la nécessité d'une réforme pour pérenniser notre système de retraite, nous ne voterons pas la censure."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3055880",
+          "citations": [
+            "Les députés du groupe Socialistes et apparentés voteront cette motion de censure transpartisane."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3054832",
+          "citations": [
+            "Je sais, madame la Première ministre, que nous pourrons compter pour y parvenir sur votre plein et entier engagement. C'est pourquoi les députés du groupe Horizons et apparentés ne voteront pas en faveur des motions de censure."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3055501",
+          "citations": [
+            "Vous n'avez plus les moyens de gouverner un pays qui s'enfonce dans une spirale inflationniste où les plus vulnérables sont broyés. C'est pourquoi, madame la Première ministre, les écologistes voteront sans la moindre hésitation pour cette motion de censure."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V908",
+      "resume": "Motion de rejet préalable du projet de loi de financement rectificative de la Sécurité sociale pour 2023, qui porte la réforme des retraites.",
+      "lecture": "première lecture",
+      "statut": "brouillon",
+      "explications": {
+        "HOR": {
+          "ancre": "2999666",
+          "citations": [
+            "Nous resterons attentifs aux évolutions apportées à ce texte pour tendre vers la justice en préservant l'équilibre des comptes. Nous soutiendrons, en responsabilité, ce projet de loi."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L16V654",
+      "resume": "Proposition de loi visant à calculer la retraite de base des non-salariés agricoles en fonction de leurs seules vingt-cinq meilleures années de revenus",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "Dem": {
+          "ancre": "2937918",
+          "citations": [
+            "Le groupe Dem votera sans réserve la proposition de loi déposée par Julien Dive."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "2937283",
+          "citations": [
+            "Nous soutenons également la proposition d'une entrée en vigueur progressive de ladite réforme au 1er janvier 2026, ce qui permettra d'aboutir à un processus pleinement opérationnel. Le groupe Horizons et apparentés votera donc en faveur de cette proposition de loi, amendée comme je l'ai indiqué."
+          ],
+          "statut": "auto"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "2937938",
+          "citations": [
+            "C'est une question de justice sociale. Pour cette raison, nous voterons cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "2937929",
+          "citations": [
+            "À mon tour, je remercie M. le rapporteur et l'ensemble des collègues qui ont œuvré pour ce texte que nous voterons, bien entendu."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "2937384",
+          "citations": [
+            "Le groupe Libertés, indépendants, outre-mer et territoires est conscient du fait que ces dispositions pourront être complétées par une réforme des retraites plus vaste, incluant la question des taux et assiettes de cotisation et visant une plus grande contributivité, mais il votera en faveur de ce texte qui va dans le bon sens."
+          ],
+          "statut": "auto"
+        },
+        "RE": {
+          "ancre": "2937951",
+          "citations": [
+            "Nous devons nous montrer reconnaissants à l'égard de ces femmes et de ces hommes qui s'engagent au quotidien et sans relâche pour une agriculture de qualité proposée à des prix abordables, bref, pour assurer la souveraineté alimentaire. C'est pourquoi le groupe Renaissance votera en faveur de cette proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NUPES": {
+          "ancre": "2937550",
+          "citations": [
+            "Les retraites par points ne sont ni fiables ni viables ; elles conduisent systématiquement à des rectifications législatives ultérieures, ce qui plaide en faveur d'un système de retraite ordinaire par répartition, à même d'assurer à toutes et à tous, après une vie de travail, un revenu décent. Parce que ce texte est étonnamment social et implicitement anti-macroniste, nous le voterons."
+          ],
+          "statut": "auto"
+        }
+      }
+    }
+  ]
+}

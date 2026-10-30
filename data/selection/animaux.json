@@ -1,0 +1,106 @@
+{
+  "sujet": "animaux",
+  "auto": true,
+  "note": "Pré-sélection automatique (scripts/brouillon.mjs). Passer « statut » à « valide » après relecture : l’entrée ne sera plus modifiée.",
+  "scrutins": [
+    {
+      "id": "VTANR5L17V914",
+      "resume": "Proposition de loi visant à endiguer le prolifération du frelon asiatique et à préserver la filière apicole",
+      "lecture": "première lecture",
+      "statut": "auto",
+      "explications": {
+        "Dem": {
+          "ancre": "3652394",
+          "citations": [
+            "Vous l'aurez compris : le groupe Les Démocrates votera sans réserve et sans modification ce texte, qui témoigne de son engagement aux côtés d'une filière d'excellence."
+          ],
+          "statut": "auto"
+        },
+        "HOR": {
+          "ancre": "3652402",
+          "citations": [
+            "Le groupe Horizons & indépendants votera donc en faveur de ce texte qui apporte une réponse attendue et nécessaire à une crise environnementale et économique d'ampleur."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3652527",
+          "citations": [
+            "Aussi remercions-nous nos collègues du groupe Modem d'avoir défendu cette proposition de loi, que notre groupe soutiendra naturellement."
+          ],
+          "statut": "auto"
+        },
+        "GDR": {
+          "ancre": "3652531",
+          "citations": [
+            "Malgré ces insuffisances, et parce qu'il témoigne de la volonté d'engager enfin une vraie politique de lutte coordonnée contre les espèces invasives, nous voterons pour la proposition de loi."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3652542",
+          "citations": [
+            "Le groupe UDR votera en faveur de la proposition de loi car elle apporte des solutions concrètes et permettra de soulager les collectivités locales, lesquelles se trouvent souvent isolées face à cette menace."
+          ],
+          "statut": "auto"
+        },
+        "RN": {
+          "ancre": "3652556",
+          "citations": [
+            "Après ces débats indispensables, le groupe Rassemblement national votera en faveur de ce texte, qui, même s'il est pour le moment insuffisant, représente une réelle avancée."
+          ],
+          "statut": "auto"
+        },
+        "LFI-NFP": {
+          "ancre": "3652691",
+          "citations": [
+            "Vous l'aurez compris, le groupe La France insoumise votera cette proposition de loi"
+          ],
+          "statut": "auto"
+        },
+        "SOC": {
+          "ancre": "3652707",
+          "citations": [
+            "Le groupe Socialistes et apparentés votera la proposition de loi, tout en regrettant que des éléments essentiels n'y figurent pas."
+          ],
+          "statut": "auto"
+        }
+      }
+    },
+    {
+      "id": "VTANR5L17V685",
+      "resume": "Proposition de résolution européenne relative à l’adoption et à la mise en œuvre d’exigences à l’importation pour le respect de normes de production équivalentes aux normes de production essentielles, en matière de santé, d’environnement, de biodiversité et de bien-être animal applicables dans l’Union européenne",
+      "statut": "auto",
+      "explications": {
+        "DR": {
+          "ancre": "3613855",
+          "citations": [
+            "Nous allons discuter toute la matinée d'un texte incantatoire, fait de vœux pieux et qui ne servira à rien. Nous ne décidons de rien, puisque c'est l'Union européenne qui a la responsabilité de ces sujets et qui votera."
+          ],
+          "statut": "auto"
+        },
+        "EcoS": {
+          "ancre": "3614732",
+          "citations": [
+            "Il va dans le bon sens car il tend à préserver l'agriculture et l'emploi agricole, à améliorer le revenu des agriculteurs et à développer notre souveraineté alimentaire – autant d'objectifs que nous sommes nombreux à partager. Le groupe Écologiste et social soutiendra cette proposition de résolution européenne."
+          ],
+          "statut": "auto"
+        },
+        "LIOT": {
+          "ancre": "3614763",
+          "citations": [
+            "Parce qu'il est juste que l'Union européenne assure à nos agriculteurs un marché commun protecteur qui leur permette de vivre de leur travail, le groupe LIOT votera en faveur du texte."
+          ],
+          "statut": "auto"
+        },
+        "UDR": {
+          "ancre": "3614885",
+          "citations": [
+            "Dans le monde qui est le nôtre, une régulation qui ne s'applique qu'à l'UE n'est pas un progrès : c'est un suicide, un abandon de puissance économique. Nous voterons donc en faveur de la proposition de résolution pour protester contre les politiques insensées qui asphyxient nos producteurs."
+          ],
+          "statut": "auto"
+        }
+      }
+    }
+  ]
+}

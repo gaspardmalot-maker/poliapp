@@ -12,51 +12,98 @@
         "SOC": {
           "ancre": "4123366",
           "citations": [
-            "Il y a les lois utiles et efficaces, il y a les lois justes, et il y a les lois d'affichage et de communication. Celle-ci relève de cette dernière catégorie et c'est pourquoi nous voterons résolument contre."
+            "On ne lutte pas contre le terrorisme en externalisant vers la psychiatrie ce que la police et la justice ne sont pas en mesure de réaliser. Les fanatiques ne sont pas des malades mentaux qu'il suffirait de soigner pour les défanatiser. Le passage à l'acte, dans la très grande majorité des cas, n'est pas l'expression d'une pathologie psychiatrique.",
+            "L'augmentation de la durée de rétention ne permettra en aucun cas de mieux éloigner un ressortissant étranger dont le pays d'origine ne veut pas."
           ],
-          "statut": "auto"
+          "annonce": "Celle-ci relève de cette dernière catégorie et c'est pourquoi nous voterons résolument contre.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "DR": {
           "ancre": "4123810",
           "citations": [
-            "Il faut voir le danger, nommer les failles et agir. Les députés du groupe Droite républicaine voteront ce texte, sans hésitation, parce que c'est notre devoir."
+            "Il permet de retenir plus longtemps les individus dangereux qui font l'objet d'une expulsion, le temps que les démarches consulaires aboutissent.",
+            "Ce texte crée des outils pour traiter les profils les plus inquiétants, ces individus qui mêlent radicalisation et troubles psychiatriques, qui profitent des failles de la justice et que personne ne peut retenir avant qu'ils ne passent à l'acte."
           ],
-          "statut": "auto"
+          "annonce": "Les députés du groupe Droite républicaine voteront ce texte, sans hésitation, parce que c'est notre devoir.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "Dem": {
           "ancre": "4123844",
           "citations": [
-            "Le groupe Les Démocrates considère que l'équilibre trouvé est le bon. Nous voterons donc ce texte avec résolution."
+            "Elles en assurent au contraire la réussite : une mesure censurée est une mesure inefficace, alors qu'une mesure juridiquement solide est une mesure qui protège durablement nos concitoyens.",
+            "Ce texte apporte des réponses concrètes à des difficultés bien identifiées, tout en assurant la sécurité juridique des dispositifs proposés pour ne pas se heurter à la censure constitutionnelle."
           ],
-          "statut": "auto"
+          "annonce": "Nous voterons donc ce texte avec résolution.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "HOR": {
           "ancre": "4123953",
           "citations": [
-            "La colère des Français est juste ; elle interroge la capacité de l'État à les protéger ; elle impose des réponses concrètes, si nous voulons une France réconciliée et apaisée. C'est pourquoi le groupe Horizons & indépendants votera avec conviction, fermeté et détermination le texte qui nous est proposé."
+            "Lorsqu'un terroriste radicalisé est à l'évidence atteint de troubles psychiatriques, bien sûr que le préfet doit pouvoir prononcer une mesure d'injonction d'examen psychiatrique ! Bien sûr que la place d'un individu radicalisé, faisant l'objet d'une OQTF, déjà condamné pour des crimes tels que des viols ou des actes terroristes, n'est pas dans la rue ! Sa place est en centre de rétention administrative, dans l'attente de son éloignement définitif."
           ],
-          "statut": "auto"
+          "annonce": "C'est pourquoi le groupe Horizons & indépendants votera avec conviction, fermeté et détermination le texte qui nous est proposé.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "LIOT": {
           "ancre": "4123959",
           "citations": [
-            "Mais il fait ce que la loi peut faire : il comble des failles, il donne des outils pratiques, il envoie un signal clair. C'est pourquoi je voterai ce texte et invite tous ceux qui partagent cette conviction à faire de même."
+            "Depuis 2023, dix des quarante-trois individus impliqués dans des projets d'attentat présentaient des troubles mentaux avérés. Jusqu'à présent, le droit ne permettait pas de les prendre en charge avant le passage à l'acte. Le présent texte y remédie.",
+            "Quatrièmement, il étend le régime dérogatoire aux étrangers dangereux, condamnés pour atteintes graves aux personnes. Nous ne pouvons plus tolérer que des individus dont la dangerosité est avérée circulent librement sur notre sol."
           ],
-          "statut": "auto"
+          "annonce": "C'est pourquoi je voterai ce texte et invite tous ceux qui partagent cette conviction à faire de même.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "GDR": {
           "ancre": "4123976",
           "citations": [
-            "Chers collègues, cet hémicycle en a été témoin au cours de son histoire : lorsque la peur devient la seule boussole de la loi, l'État de droit recule. Ce texte faisant reculer l'État de droit, nous voterons évidemment contre."
+            "Par ailleurs, il entretient une confusion inquiétante entre radicalisation et troubles psychiques. Un tel amalgame est dangereux car il risque de stigmatiser des personnes vulnérables et nuit à la compréhension réelle des mécanismes de radicalisation.",
+            "S'agissant de personnes qui ne sont pas condamnées à une peine de prison, mais privées de liberté dans le cadre d'une procédure administrative d'éloignement, cette évolution transforme progressivement la rétention administrative en un enfermement de longue durée, alors même que les chiffres démontrent les limites du système : la majorité des personnes placées en rétention ne sont finalement pas éloignées du territoire. Allonger encore les durées d'enfermement ne résoudra donc pas les difficultés structurelles de la politique migratoire, mais accroîtra de façon certaine les atteintes aux libertés fondamentales."
           ],
-          "statut": "auto"
+          "annonce": "Ce texte faisant reculer l'État de droit, nous voterons évidemment contre.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "UDR": {
           "ancre": "4124096",
           "citations": [
-            "Lorsqu'il s'agit de protéger les Français, nous avons toujours considéré que le mieux ne devait jamais être l'ennemi du bien ; dès lors, même si ce texte a été affaibli, le groupe UDR votera en sa faveur."
+            "Les Français ne comprennent plus que leur sécurité puisse être menacée par des individus qui n'ont plus rien à faire en France.",
+            "Chaque fois qu'un individu sous OQTF échappe à l'éloignement, qu'un terroriste est remis en liberté faute de moyens juridiques appropriés, que survient un drame qui aurait pu être évité, les Français en paient le prix – parfois le prix de leur vie."
           ],
-          "statut": "auto"
+          "annonce": "Lorsqu'il s'agit de protéger les Français, nous avons toujours considéré que le mieux ne devait jamais être l'ennemi du bien ; dès lors, même si ce texte a été affaibli, le groupe UDR votera en sa faveur.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "LFI-NFP": {
+          "ancre": "4123346",
+          "citations": [
+            "Vous instrumentalisez la peur en proposant d'enfermer les étrangers sans procès et sur décision du pouvoir exécutif pendant 210 jours en centre de rétention administrative. Vous savez bien que cela ne sert à rien, mais vous le faites quand même. Vous faites exactement ce que les terroristes attendent : des lois irrationnelles, inutiles et qui contreviennent aux valeurs de la République."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "EcoS": {
+          "ancre": "4123832",
+          "citations": [
+            "Troisième exemple : ce texte permettrait de maintenir certaines mesures de surveillance lorsque le juge les a annulées. Cela peut sembler n'être qu'un point technique, mais cela touche à un principe fondamental : la séparation des pouvoirs. Dans un État de droit, lorsqu'un juge estime qu'une mesure est illégale, celle-ci doit cesser.",
+            "La vraie question est pourtant simple : si une expulsion n'a pas pu être réalisée après plusieurs mois, pourquoi le serait-elle davantage après quelques jours supplémentaires ? Les associations observent depuis des années que l'allongement de rétention n'améliore pas significativement le nombre d'éloignements."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "RN": {
+          "ancre": "4124107",
+          "citations": [
+            "Vous êtes opposés à ce texte, qui pourtant vise à protéger un peu plus les Français en prolongeant la durée de rétention des étrangers condamnés et dangereux, en instaurant une rétention judiciaire des individus condamnés pour terrorisme et susceptibles de récidiver.",
+            "Rappelons qu'un seul individu armé peut commettre un véritable carnage, que les commandos qui ont dévasté le Bataclan, plusieurs terrasses de café, les abords du Stade de France, comptaient au total neuf personnes – neuf de trop : il faut une tolérance zéro."
+          ],
+          "annonce": "Nous n'en voterons pas moins pour ce texte, car notre boussole restera toujours l'intérêt de la France, des Français.",
+          "statut": "auto",
+          "methode": "justification"
         }
       }
     },
@@ -69,72 +116,113 @@
         "EPR": {
           "ancre": "4075134",
           "citations": [
-            "Nous en sommes convaincus. C'est avec force et responsabilité que les députés du groupe Ensemble pour la République voteront en faveur de ce texte."
+            "D'un texte ciblé et précis qui ne concerne qu'une dizaine d'individus chaque année – dangereux, radicalisés, parfois instables – qui échappaient jusqu'à présent au droit, non par manque de vigilance, mais par manque d'outils.",
+            "C'est dans les quelques heures ou jours de vide juridique entre la fin d'une rétention administrative, l'attente d'une autorisation ou la transmission d'une information que le drame peut survenir. Nous bouchons ces interstices."
           ],
-          "statut": "auto"
+          "annonce": "C'est avec force et responsabilité que les députés du groupe Ensemble pour la République voteront en faveur de ce texte.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "SOC": {
           "ancre": "4075276",
           "citations": [
-            "Nous voterons contre ce texte,…"
+            "La proposition de loi que nous avons examinée tombe complètement à côté de son sujet. Elle propose simplement de durcir un certain nombre d'instruments, qui sont des mesures privatives de liberté, peu importe leur efficacité pour lutter contre le terrorisme, peu importe leur conformité aux exigences de notre État de droit.",
+            "L'extension de la durée de rétention est une chimère, elle aussi. Elle valide le principe de la prison sans procès ; elle contribue à empirer les conditions déjà déplorables de rétention dans les CRA."
           ],
-          "statut": "auto"
+          "annonce": "Nous voterons contre ce texte,…",
+          "statut": "auto",
+          "methode": "justification"
         },
         "DR": {
           "ancre": "4075290",
           "citations": [
-            "Le groupe Droite républicaine votera ce texte."
+            "En 2024, sur 130 000 obligations de quitter le territoire prononcées au nom de la République, moins de 15 000 ont été exécutées – un peu plus d'une sur dix. Que vaut une décision de justice si l'État est incapable de la faire respecter ?",
+            "Ce texte vise à corriger trois failles majeures de notre droit : l'inadéquation entre la durée de rétention et les délais d'éloignement effectif, l'absence de dispositif pour les profils à double dangerosité – radicalisation et troubles psychiatriques – et la fragilité juridique des mécanismes de surveillance."
           ],
-          "statut": "auto"
+          "annonce": "Le groupe Droite républicaine votera ce texte.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "EcoS": {
           "ancre": "4075307",
           "citations": [
-            "Nous refusons cette logique, nous refusons que la psychiatrie soit instrumentalisée, que l'État de droit soit contourné au nom de la peur. Pour toutes ces raisons, nous voterons résolument contre le texte."
+            "Au sujet des Micas, vous permettez que l'administration passe outre une décision de justice, et ce, de manière complètement décomplexée.",
+            "Contrairement à ce que vous laissez entendre, il n'y a aucun lien démontré entre troubles psychiatriques et radicalisation. Vous légiférez donc sur la base d'un amalgame, dangereux en ceci qu'il empêche la surveillance et la prévention des actes terroristes.",
+            "Non contents de vous tromper, vous changez la nature même de la psychiatrie : en leur demandant de prédire, de trier, de suspecter, bref de surveiller, vous transformez les psychiatres en agents de sécurité intérieure."
           ],
-          "statut": "auto"
+          "annonce": "Nous voterons contre ce texte, une véritable accumulation d'erreurs qui méritent d'être relevées.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "Dem": {
           "ancre": "4075737",
           "citations": [
-            "La proposition de loi fournit des outils supplémentaires ciblés et encadrés destinés à mieux prévenir les risques et à renforcer l'efficacité de l'action publique. Elle répond aux attentes des Français, sans rien céder sur l'État de droit ; c'est pourquoi nous voterons en sa faveur, en conscience et avec résolution."
+            "L'allongement de la durée maximale de rétention administrative pour les étrangers condamnés pour terrorisme constitue une mesure pragmatique. Il ne s'agit pas de durcir le droit de manière symbolique, mais de permettre à l'administration d'exécuter effectivement des décisions d'éloignement trop souvent entravées par des contraintes opérationnelles.",
+            "La transmission d'informations est indispensable pour prévenir les passages à l'acte."
           ],
-          "statut": "auto"
+          "annonce": "Elle répond aux attentes des Français, sans rien céder sur l'État de droit ; c'est pourquoi nous voterons en sa faveur, en conscience et avec résolution.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "HOR": {
           "ancre": "4075745",
           "citations": [
-            "Il y va de la sécurité des Français, mais aussi de la crédibilité de l'État. Nous voterons en faveur de ce texte avec fermeté et détermination."
+            "Le cadre juridique existant n'y suffit pas : il n'a pas permis d'empêcher des attentats commis par des individus dont les troubles psychiatriques étaient pourtant connus, comme dans le cas dramatique de Mulhouse.",
+            "Mais qui pourrait comprendre qu'un individu sous OQTF, condamné définitivement au pénal pour des faits graves d'atteinte aux personnes – soit des violences volontaires, des viols, des meurtres ou des actes de barbarie – puisse circuler librement dans le pays plutôt que d'être placé en centre de rétention administrative avant d'être expulsé du territoire ?"
           ],
-          "statut": "auto"
+          "annonce": "Nous voterons en faveur de ce texte avec fermeté et détermination.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "LIOT": {
           "ancre": "4075753",
           "citations": [
-            "Mais il fait ce que la loi peut faire : il corrige des failles, il donne des outils, il envoie un signal clair. Pour ces raisons, je voterai en faveur de ce texte et j'invite ceux qui partagent ces convictions à en faire de même."
+            "Depuis 2023, sur quarante-trois individus impliqués dans des projets d'attentat, dix présentaient des troubles mentaux. Notre droit ne sait pas se saisir de ces cas avant le passage à l'acte.",
+            "Enfin, s'agissant de la rétention administrative, l'article 7 rétablit la base légale qui avait disparu à la suite de la censure prononcée par le Conseil constitutionnel en août 2025. Cinq personnes dangereuses, condamnées pour terrorisme, ont d'ores et déjà dû être libérées faute de fondement juridique pour les retenir. Rétablir cette base légale constitue donc une nécessité immédiate."
           ],
-          "statut": "auto"
+          "annonce": "Pour ces raisons, je voterai en faveur de ce texte et j'invite ceux qui partagent ces convictions à en faire de même.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "GDR": {
           "ancre": "4075856",
           "citations": [
-            "Mais cela suppose une stratégie fondée sur l'efficacité, sur l'évaluation, sur les moyens humains et judiciaires renforcés, sur la confiance dans les sciences humaines – pas sur l'accumulation de dispositifs toujours plus restrictifs, qui n'ont jamais fait la preuve de leur utilité. Pour toutes ces raisons et certainement encore d'autres, le groupe de la Gauche démocrate et républicaine votera contre cette proposition de loi."
+            "En l'espèce, une ligne apparaît clairement dans la présente proposition de loi : celle de l'amalgame, entre immigration et délinquance, entre immigration et terrorisme, entre juridique et psychiatrique.",
+            "De la même manière, l'allongement de la rétention administrative jusqu'à 540 jours marque un basculement grave.",
+            "Les chiffres le prouvent : en 2023, 60 % des personnes placées en rétention administrative ont finalement été libérées. Cela signifie que plus de la moitié des placements n'aboutissent pas à une expulsion ; cela révèle l'ampleur des procédures inutiles, voire abusives, et l'inefficacité du dispositif."
           ],
-          "statut": "auto"
+          "annonce": "Pour toutes ces raisons et certainement encore d'autres, le groupe de la Gauche démocrate et républicaine votera contre cette proposition de loi.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "UDR": {
           "ancre": "4075866",
           "citations": [
-            "Fidèle à ses principes, le groupe UDR votera en faveur de cette proposition de loi, qu'il estime nécessaire, même si elle manque de courage et même si la formation politique qui en est à l'origine s'enferme dans des postures caricaturales et opportunistes lorsque nous examinons des textes ou même des amendements issus de nos rangs."
+            "En liant votre dispositif à l'existence d'un trouble mental, vous introduisez une faille ; vous laissez de côté ceux qui sont les plus lucides dans leur engagement, c'est-à-dire ceux qui sont peut-être les plus dangereux.",
+            "En résumé, ce texte n'est pas inutile, loin de là ; mais il est insuffisant."
           ],
-          "statut": "auto"
+          "annonce": "Fidèle à ses principes, le groupe UDR votera en faveur de cette proposition de loi, qu'il estime nécessaire, même si elle manque de courage et même si la formation politique qui en est à l'origine s'enferme dans des postures caricaturales et opportunistes lorsque nous examinons des textes ou même des amendements issus de nos rangs.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "RN": {
           "ancre": "4075872",
           "citations": [
-            "Nous voterons en faveur de cette proposition de loi car, je le répète, l'intérêt de la France et des Français demeurent et seront toujours la seule boussole du Rassemblement national, avec Marine Le Pen et Jordan Bardella."
+            "Nous voici parvenus au vote solennel de cette proposition de loi qui vise à augmenter la durée de rétention en CRA des étrangers en situation irrégulière, dangereux et condamnés par la justice. Elle vise aussi à instaurer une rétention judiciaire pour les individus les plus dangereux, notamment ceux condamnés pour terrorisme qui sont susceptibles de réitérer leurs actes barbares."
           ],
-          "statut": "auto"
+          "annonce": "Nous voterons en faveur de cette proposition de loi car, je le répète, l'intérêt de la France et des Français demeurent et seront toujours la seule boussole du Rassemblement national, avec Marine Le Pen et Jordan Bardella.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "LFI-NFP": {
+          "ancre": "4075146",
+          "citations": [
+            "Plutôt que de parler des moyens efficaces de lutter contre le terrorisme, vous mélangez la question de la radicalisation avec celle des troubles psychiatriques.",
+            "L'instrumentalisation de la peur, c'est ce que vous faites sur le dos des étrangers, quand vous proposez de les enfermer sans procès et sur décision du pouvoir exécutif pendant 210 jours en centre de rétention administrative.",
+            "Vous savez bien que la mesure ne sert à rien, mais vous la votez quand même. Vous faites exactement ce que les terroristes attendent : des lois irrationnelles, inutiles et qui contreviennent aux valeurs de la République."
+          ],
+          "statut": "auto",
+          "methode": "justification"
         }
       }
     },
@@ -147,58 +235,109 @@
         "DR": {
           "ancre": "3969720",
           "citations": [
-            "Pour ces raisons et contre le titre de séjour à vie, la Droite républicaine votera contre cette proposition de loi qui affaiblit l'État et va à rebours des attentes des Français."
+            "Rendre automatique ce qui doit être contrôlé, c'est ouvrir la porte à des dérives, à des fraudes et à un appel d'air migratoire ; et créer un droit automatique, c'est défaire la logique même du séjour régulier qui repose sur un contrôle continu des conditions légales.",
+            "Nécessaire, il l'est d'abord pour notre sécurité – c'est la question du verre à moitié plein ou à moitié vide, madame la rapporteure –, quand on sait que 15 000 renouvellements sont refusés chaque année en raison d'une menace à l'ordre public ou d'une condamnation pénale. Il est aussi nécessaire pour lutter contre la fraude aux titres de séjour, quand on sait que derrière 12 % des demandes de renouvellement, on trouve de faux documents, un mariage blanc ou encore la disparition des conditions qui avaient justifié l'octroi du titre initial."
           ],
-          "statut": "auto"
+          "annonce": "Pour ces raisons et contre le titre de séjour à vie, la Droite républicaine votera contre cette proposition de loi qui affaiblit l'État et va à rebours des attentes des Français.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "EcoS": {
           "ancre": "3969727",
           "citations": [
-            "Pendant que certains, par dogmatisme et par racisme, refusent de prendre des mesures basiques pour nous permettre d'avancer ensemble, le groupe Écologiste et social votera ce texte qui apporte une réponse certes minimale à un problème particulièrement important."
+            "Leur redonner de la dignité est une urgence parce que la réalité est dure : les préfectures n'arrivent pas à traiter les demandes dans des délais corrects, et les tribunaux administratifs ressentent un mal-être croissant à devoir de plus en plus souvent annuler leurs décisions pour non-respect des délais et des droits des personnes.",
+            "Je m'étonne aussi de votre peu d'intérêt pour les fonctionnaires des préfectures, qui représentent l'État dans les territoires et qui souffrent d'une surcharge de travail inutile."
           ],
-          "statut": "auto"
+          "annonce": "Pendant que certains, par dogmatisme et par racisme, refusent de prendre des mesures basiques pour nous permettre d'avancer ensemble, le groupe Écologiste et social votera ce texte qui apporte une réponse certes minimale à un problème particulièrement important.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "Dem": {
           "ancre": "3969739",
           "citations": [
-            "Parce que ce texte soulève des difficultés juridiques et opérationnelles que nous jugeons trop importantes, le groupe Les Démocrates votera contre cette proposition de loi."
+            "Cela reviendrait à supprimer le contrôle essentiel exercé par l'administration à chaque échéance, qui permet de vérifier que la présence d'une personne de nationalité étrangère sur le territoire reste conforme aux règles prévues par la loi.",
+            "En réalité, sous couvert de simplification, ce texte opère un renversement complet de la charge de la preuve. Aujourd'hui, il appartient au demandeur de démontrer qu'il demeure éligible à son titre de séjour ; demain, si la proposition de loi était adoptée, il reviendrait à l'administration de justifier une éventuelle opposition à un renouvellement automatique, ce qui constituerait une rupture nette avec l'architecture même de notre droit."
           ],
-          "statut": "auto"
+          "annonce": "Parce que ce texte soulève des difficultés juridiques et opérationnelles que nous jugeons trop importantes, le groupe Les Démocrates votera contre cette proposition de loi.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "HOR": {
           "ancre": "3969941",
           "citations": [
-            "Or il est nécessaire que la loi s'applique, telle qu'elle est. Pour l'ensemble de ces raisons, le groupe Horizons & indépendants ne votera pas en faveur de cette proposition de loi."
+            "Cette procédure, ce n'est pas une formalité administrative inutile : il s'agit d'un acte de contrôle de l'État, qu'il exerce dans le cadre de ses missions régaliennes pour vérifier que la personne respecte toujours les critères demandés, qu'aucune décision de justice ou d'éloignement ne s'oppose à son maintien sur le territoire, et qu'elle souhaite véritablement y demeurer.",
+            "Il n'est pas acceptable qu'un étranger qui violerait les principes fondateurs de notre pacte social se voie tout de même autorisé à rester sur notre territoire sous prétexte qu'il aurait obtenu un titre de séjour de longue durée."
           ],
-          "statut": "auto"
+          "annonce": "Pour l'ensemble de ces raisons, le groupe Horizons & indépendants ne votera pas en faveur de cette proposition de loi.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "LIOT": {
           "ancre": "3969950",
           "citations": [
-            "C'est pour cette raison que notre groupe soutiendra majoritairement ce texte, parce qu'il répond à une réalité concrète, parce qu'il protège des personnes en règle, parce qu'il renforce l'État de droit et non l'inverse."
+            "Au contraire, elle vise à répondre à une injustice que nous constatons dans nos territoires avec une certaine incompréhension : des hommes et des femmes, parfaitement en règle, basculent du jour au lendemain dans l'irrégularité, non pas parce qu'ils auraient manqué à leurs obligations, mais parce que l'administration n'a pas été en mesure de remplir les siennes.",
+            "Ce texte ne crée pas un droit aveugle puisque l'administration gardera évidemment la main : elle pourra toujours s'opposer au renouvellement en cas de menace à l'ordre public ou de condamnation pénale."
           ],
-          "statut": "auto"
+          "annonce": "C'est pour cette raison que notre groupe soutiendra majoritairement ce texte, parce qu'il répond à une réalité concrète, parce qu'il protège des personnes en règle, parce qu'il renforce l'État de droit et non l'inverse.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "UDR": {
           "ancre": "3969974",
           "citations": [
-            "Vous proposez plus de titres de séjour, là où les Français veulent moins d'immigration. C'est pourquoi le groupe UDR votera contre."
+            "Pourtant, les données montrent exactement l'inverse de votre narration : en 2024, le taux de refus de renouvellement des titres de longue durée était de 0,8 % pour les cartes pluriannuelles et de 0,5 % pour les cartes de résident, ce qui est extrêmement faible. Cela signifie très clairement que le problème n'est ni l'arbitraire, ni une sévérité excessive, ni encore un État qui multiplierait les refus ; le problème, c'est la machine administrative, trop lente, trop complexe, trop fragile.",
+            "La question centrale reste entière : si le renouvellement devient automatique, comment l'État vérifiera-t-il que les conditions initiales sont toujours remplies ?"
           ],
-          "statut": "auto"
+          "annonce": "C'est pourquoi le groupe UDR votera contre.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "RN": {
           "ancre": "3970349",
           "citations": [
-            "Nous affirmons avec force et sérénité que l'immigration n'est pas un projet et que la France doit retrouver sa souveraineté, et qu'elle doit pouvoir contrôler qui entre ou n'entre pas. Face à cette proposition de loi qui ne saurait être rien d'autre qu'une provocation, le Rassemblement national remplira son rôle : il votera contre."
+            "Premièrement, elle érige en principe le bien-fondé du renouvellement automatique d'un titre de séjour de longue durée et, par voie de conséquence, charge l'administration de faire la preuve que le titre ne doit pas être délivré une nouvelle fois.",
+            "Nous affirmons avec force et sérénité que l'immigration n'est pas un projet et que la France doit retrouver sa souveraineté, et qu'elle doit pouvoir contrôler qui entre ou n'entre pas."
           ],
-          "statut": "auto"
+          "annonce": "Face à cette proposition de loi qui ne saurait être rien d'autre qu'une provocation, le Rassemblement national remplira son rôle : il votera contre.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "EPR": {
           "ancre": "3970381",
           "citations": [
-            "Elles constitueraient même, à bien des égards, une réponse inadaptée à un problème réel. C'est la raison pour laquelle notre groupe votera contre ce texte."
+            "En supprimant cette étape, nous renverserions la logique du dispositif : ce serait alors à l'État de prouver que les conditions ne sont plus remplies, non au demandeur de prouver qu'elles le sont. Cette inversion de la charge de la preuve affaiblirait considérablement l'efficacité de l'action administrative, en particulier lorsqu'il s'agit de prévenir les atteintes à l'ordre public.",
+            "Dans le système proposé, ces titres auraient été automatiquement renouvelés sans contrôle préalable, avant d'être éventuellement retirés, sans que l'on sache d'ailleurs sur quel fondement, puisque le texte est muet sur ce point."
           ],
-          "statut": "auto"
+          "annonce": "C'est la raison pour laquelle notre groupe votera contre ce texte.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "SOC": {
+          "ancre": "3971280",
+          "citations": [
+            "Les chiffres parlent d'eux-mêmes : les refus de renouvellement sont extrêmement rares. Dans mon département, la Seine-Saint-Denis, la préfecture a rendu 14 000 décisions favorables en 2024, pour 48 refus. C'est bien pour gérer ces 48 dossiers exceptionnels que l'ensemble du système est ralenti, au détriment de milliers de personnes qui remplissent toutes les conditions requises.",
+            "En évitant de mobiliser les agents pour des renouvellements qui, dans l'immense majorité des cas, ne posent aucune difficulté, elle leur permet de se concentrer sur les cas les plus complexes."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "GDR": {
+          "ancre": "3969961",
+          "citations": [
+            "Le texte que nous examinons aujourd'hui vise précisément à répondre à cette situation en instaurant un renouvellement automatique des titres de séjour de longue durée. Une mesure simple, pragmatique, destinée à redonner de la stabilité à celles et ceux qui vivent ici et participent à la vie de notre pays.",
+            "Le présent texte ne place personne au-dessus des lois, n'institue aucun privilège : les titres pourront toujours être retirés si les conditions cessent d'être remplies."
+          ],
+          "annonce": "C'est pourquoi nous soutenons pleinement cette proposition de loi, qui redonne de la dignité et met fin à des parcours administratifs indignes de notre République.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "LFI-NFP": {
+          "ancre": "3970401",
+          "citations": [
+            "Pour autant, cette proposition de loi va dans le bon sens. Elle dispenserait les étrangers souhaitant renouveler leur titre de séjour longue durée de mener des démarches administratives complexes, coûteuses et de plus en plus longues. Elle faciliterait la délivrance d'une carte de résident permanent pour les personnes disposant d'une carte de résident de dix ans, celle-ci étant de droit dès le deuxième renouvellement d'une carte de résident."
+          ],
+          "statut": "auto",
+          "methode": "justification"
         }
       }
     },
@@ -211,30 +350,109 @@
         "Dem": {
           "ancre": "3703092",
           "citations": [
-            "Pour toutes ces raisons, le groupe Les Démocrates votera en faveur de cette proposition de loi, sous réserve que sa rédaction finale garantisse pleinement sa conformité constitutionnelle,…"
+            "D'abord, il exige que les deux parents, et non plus un seul, soient en situation régulière. C'est une mesure forte visant à réduire l'attractivité migratoire – qui n'est pas un mythe, n'en déplaise à certains – et à enrayer des pratiques connues sur le terrain.",
+            "Il adapte, dans un cadre constitutionnel, les modalités d'accès à la nationalité à une situation territoriale exceptionnelle."
           ],
-          "statut": "auto"
+          "annonce": "Pour toutes ces raisons, le groupe Les Démocrates votera en faveur de cette proposition de loi, sous réserve que sa rédaction finale garantisse pleinement sa conformité constitutionnelle,…",
+          "statut": "auto",
+          "methode": "justification"
         },
         "HOR": {
           "ancre": "3703516",
           "citations": [
-            "Avec ces dispositions, la proposition de loi atteint un équilibre et fera œuvre utile pour les Mahoraises et les Mahorais. Pour l'ensemble de ces raisons, le groupe Horizons & indépendants votera en faveur de la proposition de loi."
+            "Dans ce contexte, le groupe Horizons & indépendants estime qu'il faut agir ; il faut agir sur ce qui peut encourager les migrations irrégulières, notamment l'acquisition de la nationalité française par le droit du sol.",
+            "La réduction de trois ans à un an de la durée minimale de résidence régulière en France exigée des deux parents à la date de naissance de leur enfant garantira la pleine constitutionnalité des nouvelles dispositions législatives."
           ],
-          "statut": "auto"
+          "annonce": "Pour l'ensemble de ces raisons, le groupe Horizons & indépendants votera en faveur de la proposition de loi.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "UDR": {
           "ancre": "3703678",
           "citations": [
-            "Les Mahorais demandent des mesures fermes et explicites, mais force est de constater que ce texte, réduit à peau de chagrin, n'est pas à la hauteur de leurs attentes. Cependant, ne vous méprenez pas, chers collègues : nous voterons en faveur de votre texte."
+            "La réponse est claire : le salaire moyen aux Comores est de 120 euros, tandis que dans notre pays, le RSA est supérieur à 600 euros, soit cinq fois ce montant. Les Mahorais demandent des mesures fermes et explicites, mais force est de constater que ce texte, réduit à peau de chagrin, n'est pas à la hauteur de leurs attentes."
           ],
-          "statut": "auto"
+          "annonce": "Cependant, ne vous méprenez pas, chers collègues : nous voterons en faveur de votre texte.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "EPR": {
           "ancre": "3703708",
           "citations": [
-            "Vous l'avez dit, il n'est ni la solution ni l'alpha et l'oméga, mais il constitue un début de solution. C'est pourquoi le groupe Ensemble pour la République votera en faveur de cette proposition de loi."
+            "L'accélération de la croissance démographique à Mayotte – la population a quadruplé ces quarante dernières années et devrait atteindre les 760 000 habitants d'ici à 2050 – impose d'agir dès maintenant.",
+            "Le présent texte doit nous permettre d'aller plus loin que ce premier pas : horizontalement, en étendant l'obligation aux deux parents ; verticalement, en portant l'exigence de résidence légale de trois à douze mois."
           ],
-          "statut": "auto"
+          "annonce": "C'est pourquoi le groupe Ensemble pour la République votera en faveur de cette proposition de loi.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "DR": {
+          "ancre": "3703149",
+          "citations": [
+            "Je rappelle qu'il y a un précédent à cet égard : l'amendement Thani, adopté en 2018 dans le cadre de l'examen de la loi pour une immigration maîtrisée, permet déjà d'avoir un accès à la nationalité française dérogatoire à Mayotte compte tenu de la situation, à savoir son insularité, sa population et une immigration caractérisée par le grand nombre de personnes présentes de façon irrégulière sur le territoire. Cette disposition n'est pas transposable ailleurs, elle est bien propre à la situation de Mayotte.",
+            "Il est probable que la proposition de loi en débat ne sera pas suffisante et n'aura pas tous les effets escomptés. Mais à tout le moins, agissons !"
+          ],
+          "annonce": "Voilà pourquoi nous vous proposons de confirmer le vote de la CMP et de boucler le parcours parlementaire de ce texte.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "EcoS": {
+          "ancre": "3703070",
+          "citations": [
+            "Simplement, quand vous admettez que la proposition de loi ne réglera pas tous les problèmes et qu'elle n'est pas l'alpha et l'oméga, pour reprendre votre formule, j'affirme pour ma part qu'elle ne réglera aucun des problèmes de Mayotte.",
+            "À l'exigence de régularité de la présence sur le territoire des deux parents avant même la conception de l'enfant s'ajoute une exception pour les mères seules. Comment ne pas comprendre que lorsque le père n'est pas en règle, cette mesure ne fera qu'amplifier les phénomènes de non-reconnaissance de paternité ou de reconnaissance frauduleuse par un tiers ?",
+            "J'ai souligné plus tôt que cette mesure ne dissuaderait aucunement les candidats comoriens à l'exil."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "LIOT": {
+          "ancre": "3703525",
+          "citations": [
+            "On constate qu'à partir de cette date, de nombreuses femmes enceintes y sont venues pour accoucher, dans l'espoir d'obtenir la nationalité française pour leurs enfants et, pour elles-mêmes, un statut les rendant inexpulsables.",
+            "Premièrement, l'application aux deux parents de la condition de présence régulière, avec au moins un an de présence sur le territoire avant la naissance de l'enfant ; afin de ne pas contrevenir au principe constitutionnel d'égalité, une exception est prévue pour les enfants nés dans le cadre monoparental. Deuxièmement, l'obligation de présenter un passeport biométrique, avec photographie, pour prouver la régularité du séjour ; cette disposition, qui découle de l'adoption d'un amendement que j'avais présenté, est cruciale pour lutter contre la fraude documentaire, phénomène massif à Mayotte et dont les Comores se font une spécialité."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "GDR": {
+          "ancre": "3703545",
+          "citations": [
+            "Il aurait fallu au moins évaluer cette disposition dérogatoire au droit français du sol et son application ; cela vous aurait amenés à faire preuve d'un peu de modestie, car la situation s'aggrave encore – mais non : vous accentuez ce qui n'a pas fonctionné.",
+            "Depuis 2018, le nombre d'enfants nés à Mayotte de parents étrangers ne cesse d'augmenter ! Celui des nouveau-nés de mère étrangère a même grimpé de 14 % entre 2018 et 2022, avec près de 12 000 naissances par an, alors même que le nombre des acquisitions de la nationalité française à Mayotte était divisé par trois.",
+            "Cette proposition de loi est vouée à l'échec, faute d'élaboration d'une politique pour les dits outre-mer depuis plus de dix ans."
+          ],
+          "annonce": "C'est pourquoi nous nous y opposerons avec la plus grande fermeté et la plus grande détermination.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "RN": {
+          "ancre": "3703698",
+          "citations": [
+            "Nous avons eu l'occasion de le dire pendant le débat, son effet sur la vie de nos compatriotes mahorais et sur le déferlement migratoire subi par Mayotte sera minime. Il n'est pas à la hauteur des immenses besoins de la reconstruction post-Chido. La première urgence consisterait – vous le savez – à supprimer purement et simplement le droit du sol, non seulement à Mayotte, mais sur l'ensemble du territoire national."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "LFI-NFP": {
+          "ancre": "3703716",
+          "citations": [
+            "De remettre en cause le droit du sol, c'est-à-dire ce qui fait de nous des Français. Oui, le droit du sol, c'est la France, car le droit du sol, c'est la République !",
+            "Oui, à Mayotte comme ailleurs, la pauvreté est la première cause de l'immigration !"
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "SOC": {
+          "ancre": "3704111",
+          "citations": [
+            "La réforme du droit du sol introduite en 2018 a déjà exclu la grande majorité des étrangers nés à Mayotte de l'accès à la nationalité française, et elle n'a eu absolument aucun effet sur les flux migratoires.",
+            "Nous considérons toujours que faire passer la condition de résidence régulière de trois à douze mois, soit un quadruplement de la durée requise, est disproportionné, alors que les conséquences concrètes du nouveau dispositif n'ont jamais été honnêtement évaluées.",
+            "Comme le relève un professeur de droit public, en imposant un tel document à des ressortissants dont le pays d'origine ne prévoit pas ce type de mécanisme, la loi opérerait de fait une discrimination selon l'origine ou la nationalité, prohibée par l'article 1er de la Constitution."
+          ],
+          "annonce": "Nous voterons donc contre et j'appelle tous les collègues à nous suivre.",
+          "statut": "auto",
+          "methode": "justification"
         }
       }
     },
@@ -247,65 +465,111 @@
         "DR": {
           "ancre": "3620573",
           "citations": [
-            "Ceux qui s'y sont opposés par des recours ont eu tort. Notre groupe, avec Laurent Wauquiez, soutiendra évidemment ce texte."
+            "Ces derniers subissent la surpopulation et la pression démographique qui ont des conséquences en termes de logement, d'éducation et de sécurité. Tous ceux qui se sont intéressés à la question mahoraise savent que le règlement de la question migratoire est le principal enjeu."
           ],
-          "statut": "auto"
+          "annonce": "Notre groupe, avec Laurent Wauquiez, soutiendra évidemment ce texte.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "Dem": {
-          "ancre": "3623896",
+          "ancre": "3620869",
           "citations": [
-            "En cela la proposition de loi va dans le bon sens et c'est pourquoi nous la voterons, en attendant la seconde lecture à l'occasion de laquelle, j'y insiste, nous serons très vigilants."
+            "D'abord, en exigeant que les deux parents, et non plus un seul, remplissent les conditions de résidence régulière. C'est une mesure forte, qui vise à réduire des mécanismes d'attractivité migratoire bien identifiés sur le terrain.",
+            "Ensuite, cette proposition tend à allonger la durée de résidence nécessaire pour les parents, passant de trois mois, une durée manifestement trop courte, à un an. Ce n'est pas excessif, ce n'est pas insurmontable. C'est une étape raisonnable, proportionnée, et adaptée aux défis spécifiques auxquels est confrontée Mayotte."
           ],
-          "statut": "auto"
+          "annonce": "Pour toutes ces raisons, le Modem soutiendra cette proposition de loi, sous réserve que sa rédaction finale garantisse sa parfaite conformité constitutionnelle.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "HOR": {
-          "ancre": "3623909",
+          "ancre": "3620884",
           "citations": [
-            "Le groupe Horizons & indépendants votera le texte."
+            "Nous devons regarder et dire la vérité sans sourciller : le droit du sol, dans sa forme actuelle, n'a plus aucun sens à Mayotte. Il n'est plus un principe républicain ; il est devenu un instrument de pression. L'immigration clandestine est organisée, instrumentalisée et exploitée pour faire basculer le territoire. L'accès à la nationalité nécessite dès lors d'être durci."
           ],
-          "statut": "auto"
+          "annonce": "Nous le voterons, parce que refuser d'agir, c'est abandonner Mayotte.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "LIOT": {
-          "ancre": "3623923",
+          "ancre": "3620896",
           "citations": [
-            "Le groupe LIOT votera pour la limitation du droit du sol à Mayotte."
+            "Il faut le savoir, les enfants sont utilisés à Mayotte comme des passeports, puisque lorsqu'un enfant naît sur l'île, lui et ses parents deviennent presque inexpulsables jusqu'à sa majorité. Dans la pratique, la venue d'un enfant garantit à sa famille des titres de séjour et, in fine, la nationalité.",
+            "En 2018, vous l'avez rappelé, notre assemblée a restreint l'application du droit du sol à Mayotte, exigeant trois mois de présence régulière pour au moins l'un des parents : reste que cette mesure, validée par le Conseil constitutionnel en vertu de l'article 73 de la Constitution, commencera à produire ses effets en 2031 !"
           ],
-          "statut": "auto"
+          "annonce": "je voterai en sa faveur, mais cela ne réglera pas la question de fond.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "GDR": {
           "ancre": "3623932",
           "citations": [
-            "C'est ce qui pose problème à Mayotte : les Français ne peuvent plus y vivre correctement parce que vous considérez que le vrai problème, ce sont les étrangers, ce qui est complètement faux. Nous voterons bien évidemment contre cette proposition de loi mais sachez que nous ne le faisons pas pour des raisons purement idéologiques,…"
+            "On l'a dit : même pas un millier de personnes sont concernées par la nationalité française selon le droit du sol. Pourtant, au moins 150 000 habitants, à Mayotte, sont de nationalité étrangère.",
+            "Les gens viennent à Mayotte parce qu'ils ont faim, parce que dans leur pays, c'est la guerre. Ils viennent à Mayotte parce que, en moyenne, ils sont beaucoup plus pauvres que le reste de la population française."
           ],
-          "statut": "auto"
+          "annonce": "Nous voterons bien évidemment contre cette proposition de loi mais sachez que nous ne le faisons pas pour des raisons purement idéologiques,…",
+          "statut": "auto",
+          "methode": "justification"
         },
         "UDR": {
-          "ancre": "3623951",
+          "ancre": "3621074",
           "citations": [
-            "Une petite action valant mieux que le statu quo, tout ce qui est à même de soulager le fardeau de nos compatriotes mahorais est bon à prendre. Nous voterons cette proposition de loi, malgré son manque d'ambition."
+            "Or les clandestins qui gagnent ses rivages le font quasi exclusivement dans l'espoir d'acquérir, pour eux-mêmes ou leurs enfants, la nationalité française : logiquement, afin de les décourager, il convient de supprimer cette perspective.",
+            "Pour autant, je le répète, ce n'est pas cela que réclament de manière quasi unanime les représentants des Mahorais, mais la suppression pure et simple du droit du sol dans leur île !"
           ],
-          "statut": "auto"
+          "annonce": "Ne vous méprenez pas, chers collègues : nous voterons en faveur de votre texte.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "RN": {
           "ancre": "3623964",
           "citations": [
-            "J'ai bien compris que l'on « blablate » sur Mayotte et que l'on ne veut pas s'attaquer franchement à ses problèmes. Notre groupe votera sans hésiter pour ce texte."
+            "Votre texte a toute sa place dans la politique de fermeté que nous souhaitons mettre au service de la souveraineté. Il fait partie des nombreuses mesures nécessaires pour faire cesser l'immigration.",
+            "Elle ne permettra pas d'endiguer le flux des bateaux qui ne cessent de débarquer à Mayotte."
           ],
-          "statut": "auto"
+          "annonce": "Notre groupe votera sans hésiter pour ce texte.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "EPR": {
-          "ancre": "3623980",
+          "ancre": "3621734",
           "citations": [
-            "vous avez été responsables tout au long de la journée d'une obstruction délibérée. Nous voterons pour cette proposition, puisque le ministre s'est engagé à faire en sorte que le texte retourne pour une deuxième lecture à l'Assemblée."
+            "Mayotte ne prendra pas le chemin du plein développement ni du plein épanouissement dans la République ni même, à court terme, de la reconstruction effective après le passage du cyclone Chido, sans une réduction de l'immigration illégale.",
+            "C'est pour garantir aux résidents légaux dans l'île l'accès à des services publics de qualité que nous ne pouvons éluder le sujet."
           ],
-          "statut": "auto"
+          "annonce": "C'est pourquoi nous le soutiendrons.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "SOC": {
-          "ancre": "3624021",
+          "ancre": "3621780",
           "citations": [
-            "Notre groupe votera contre ce texte et le combattra jusqu'au bout de la procédure législative, soyez-en assurés."
+            "Inefficace, car aucune étude sérieuse de la réforme adoptée en 2018 n'a été menée pour justifier aussi rapidement un réexamen du droit du sol à Mayotte. Un récent rapport de la délégation sénatoriale aux outre-mer publié en janvier 2025 – Mme Voynet l'a évoqué – appelle d'ailleurs à disposer d'une étude d'impact sérieuse pour éclairer la décision du législateur.",
+            "Les observateurs sur place nous indiquent que les règles d'accès à la nationalité française n'ont pas d'effet direct sur les flux migratoires."
           ],
-          "statut": "auto"
+          "annonce": "Le groupe Socialistes et apparentés s'oppose fermement à cette proposition de loi, qui n'est qu'une attaque directe contre les fondements de notre république.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "EcoS": {
+          "ancre": "3620580",
+          "citations": [
+            "Un minimum de sérieux parlementaire devrait nous conduire, avant d'adopter une nouvelle mesure, à évaluer d'abord l'efficacité et les conséquences des mesures adoptées en 2018.",
+            "Les quelques données dont nous disposons nous permettraient de montrer que ce n'est pas pour devenir français que l'on vient à Mayotte.",
+            "C'est pour manger à sa faim ; c'est pour accéder à des soins médicaux de base ; c'est pour envoyer ses enfants à l'école ; c'est pour travailler, même clandestinement, sur des chantiers, dans des champs, en étant exploité pour 100 à 200 euros par mois."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "LFI-NFP": {
+          "ancre": "3621755",
+          "citations": [
+            "En exigeant une condition de régularité du séjour d'au moins un an pour les deux parents, vous priverez la quasi-totalité des enfants nés à Mayotte de parents étrangers de la possibilité d'accéder à la nationalité française.",
+            "Ils résultent tous, sans exception, d'un seul et même fléau : celui du désengagement de l'État et de la destruction des services publics.",
+            "Votre proposition de loi n'aura donc aucun effet sur la taille de la population dans l'île."
+          ],
+          "annonce": "La France insoumise refuse de participer à cette ignominie.",
+          "statut": "auto",
+          "methode": "justification"
         }
       }
     },
@@ -318,58 +582,99 @@
         "RN": {
           "ancre": "3499346",
           "citations": [
-            "Sept ans pour accoucher péniblement d'une toute petite proposition de loi : un registre pour que les espions et les agents étrangers s'inscrivent – volontairement – et un rapport pour répéter tous les deux ans ce que nos excellents services savent déjà ! Nous voterons ce texte, mais force est de constater qu'il est loin, très loin, des enjeux."
+            "Sept ans pour accoucher péniblement d'une toute petite proposition de loi : un registre pour que les espions et les agents étrangers s'inscrivent – volontairement – et un rapport pour répéter tous les deux ans ce que nos excellents services savent déjà !",
+            "Créez un véritable délit d'ingérence étrangère incriminant les personnes physiques ou morales françaises agissant pour le compte d'une personne physique ou morale étrangère, comme nous l'avons demandé par amendement – vous l'avez refusé."
           ],
-          "statut": "auto"
+          "annonce": "Nous voterons ce texte, mais force est de constater qu'il est loin, très loin, des enjeux.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "HOR": {
-          "ancre": "3500799",
+          "ancre": "3499096",
           "citations": [
-            "Nous avons besoin d'une telle loi, nous avons besoin d'en débattre. Le groupe Horizons et apparentés votera contre la motion de rejet préalable."
+            "Outre les moyens financiers, il faut donner les moyens juridiques aux services de l'État de mieux identifier et sanctionner ceux qui se livrent à de telles activités sur notre territoire.",
+            "L'algorithme n'est pas un outil de surveillance de masse, mais de détection de signaux faibles, qui pourra ensuite justifier l'usage d'une technique de renseignement, dans le cadre du droit commun."
           ],
-          "statut": "auto"
+          "annonce": "C'est donc avec conviction que notre groupe votera en faveur de la proposition de loi.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "Dem": {
           "ancre": "3500865",
           "citations": [
-            "À titre personnel, je me réjouis de ce débat que je demandais depuis longtemps et j'y prendrai toute ma part. Le groupe Démocrate soutiendra donc ce texte et le votera sans réserve."
+            "Elle doit nous permettre de renforcer notre dispositif de prévention et d'entrave aux ingérences étrangères ainsi que d'améliorer l'information des responsables publics et des élus sur la nature de leurs interlocuteurs étrangers.",
+            "Ce texte était nécessaire. La lutte contre toutes les ingérences étrangères, y compris économiques, avait besoin d'être encadrée."
           ],
-          "statut": "auto"
+          "annonce": "C'est pourquoi nous voterons cette proposition de loi, élaborée dans la plus grande sérénité avec le Sénat, et nous remercions le président et rapporteur Houlié de cette initiative.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "RE": {
-          "ancre": "3500806",
+          "ancre": "3499147",
           "citations": [
-            "Le groupe Renaissance votera contre la présente motion de rejet préalable."
+            "Nous n'avons donc pas le choix : nous devons impérativement nous adapter. Cela passe par une réaction rapide et consistante, notamment grâce à un cadre législatif renforcé permettant de prévenir les ingérences étrangères.",
+            "Ce texte vise donc à améliorer la transparence en rendant obligatoire la déclaration des activités effectuées pour le compte d'intérêts étrangers. Elle a également pour but de renforcer notre capacité de détection, avec le développement des outils à disposition de nos services de renseignement. Enfin, elle introduit des sanctions pénales et financières participant à un effort de dissuasion."
           ],
-          "statut": "auto"
+          "annonce": "Le Groupe Renaissance la votera donc avec enthousiasme, conviction et détermination.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "LR": {
-          "ancre": "3500819",
+          "ancre": "3499384",
           "citations": [
-            "Ceux qui travaillent pour leur pays s'opposeront à la présente motion de rejet préalable et voteront en faveur de la proposition de loi."
+            "Toutes ces propositions vont dans le sens d'une limitation de ces ingérences, désormais omniprésentes et protéiformes, et d'une sortie de la naïveté vis-à-vis de puissances étrangères comme la Russie, la Chine ou l'Azerbaïdjan. Toutefois, malgré la richesse des travaux sur le sujet, les réponses proposées semblent beaucoup trop timides pour amorcer les changements nécessaires."
           ],
-          "statut": "auto"
+          "annonce": "Malgré les lacunes de ce texte, le groupe LR le soutiendra, car il contribuera à régler une partie des problématiques liées aux ingérences étrangères.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "LIOT": {
-          "ancre": "3500828",
+          "ancre": "3499130",
           "citations": [
-            "Le groupe LIOT votera, évidemment, contre cette motion de rejet."
+            "Le groupe LIOT est satisfait des compléments et précisions apportés à ce texte qui permettra de mieux encadrer les représentants d'intérêts étrangers en France, en rendant obligatoire leur inscription auprès de la Haute Autorité pour la transparence de la vie publique.",
+            "Enfin, la tenue d'un débat sur le contrôle des investissements étrangers en France apparaît salutaire pour mieux surveiller le pouvoir que peuvent prendre certains pays sur la France en entrant au capital de nos entreprises."
           ],
-          "statut": "auto"
+          "statut": "auto",
+          "methode": "justification"
         },
         "GDR-NUPES": {
           "ancre": "3499118",
           "citations": [
-            "Ne laissons pas la dystopie devenir réalité. Le groupe GDR votera donc contre ce texte."
+            "Je pense ici à l'article 3 de la proposition de loi, qui constitue une grave atteinte aux libertés.",
+            "L'élargissement des finalités permettant aux services de renseignement de recourir à l'usage de techniques algorithmiques demeure, en l'état actuel de la rédaction, trop vague et peut donc permettre d'utiliser ces techniques pour révéler des activités sans aucune relation avec les enjeux de défense."
           ],
-          "statut": "auto"
+          "annonce": "Le groupe GDR votera donc contre ce texte.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "Ecolo-NUPES": {
           "ancre": "3499139",
           "citations": [
-            "Notre démocratie doit pouvoir se protéger, mais elle ne peut le faire que dans le respect très strict des libertés fondamentales et des libertés publiques. C'est la raison pour laquelle le groupe Écologiste s'abstiendra sur le vote final de ce texte."
+            "Nous sommes particulièrement favorables au renforcement de la transparence des activités d'influence.",
+            "La définition retenue est problématique en ce qu'elle est incomplète : elle recouvre des comportements qui ne relèvent pas nécessairement de l'ingérence étrangère. Servir les intérêts d'une entité étrangère, ce n'est pas nécessairement faire acte d'ingérence. L'ingérence suppose une volonté de nuire aux intérêts de la France."
           ],
-          "statut": "auto"
+          "annonce": "C'est la raison pour laquelle le groupe Écologiste s'abstiendra sur le vote final de ce texte.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "LFI-NUPES": {
+          "ancre": "3500841",
+          "citations": [
+            "Revenons à votre texte : il est flou, et aucune notion n'y est définie.",
+            "Elle est le prétexte parfait pour continuer à mettre en place la surveillance de masse : avocats, associations, opposants politiques, candidats aux élections européennes, lanceurs d'alerte, syndicalistes, tous sont suspects."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "SOC": {
+          "ancre": "3499108",
+          "citations": [
+            "Celle-ci vise notamment à créer un répertoire, géré par la HATVP, retraçant les activités d'influence étrangère.",
+            "Parallèlement, les pouvoirs des assemblées ont été accrus en ce qui concerne les investissements étrangers, qui peuvent entraîner une perte de souveraineté de la nation. Enfin, s'y ajoute désormais la possibilité de geler les avoirs des personnes physiques ou morales qui pratiquent des actes d'ingérence étrangère."
+          ],
+          "annonce": "Le groupe Socialistes et apparentés apporte son soutien au texte, en soulignant à la fois les progrès qu'il porte et la nécessité de mener une politique d'ensemble.",
+          "statut": "auto",
+          "methode": "justification"
         }
       }
     },
@@ -382,44 +687,98 @@
         "LFI-NUPES": {
           "ancre": "3499669",
           "citations": [
-            "Si cette dématérialisation répond à un besoin des usagers, elle ne peut pas pour autant se faire au détriment de l'égalité d'accès aux services publics et dans une vision déshumanisante. Nous nous abstiendrons."
+            "Or, en prévoyant d'expérimenter la fermeture des guichets consulaires d'ici à 2027, vous rompez avec ce principe et vous vous retrouvez complètement hors-sol, car des régions entières du monde ont un accès très limité à internet.",
+            "Si cette dématérialisation répond à un besoin des usagers, elle ne peut pas pour autant se faire au détriment de l'égalité d'accès aux services publics et dans une vision déshumanisante."
           ],
-          "statut": "auto"
+          "annonce": "Nous nous abstiendrons.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "LR": {
           "ancre": "3499683",
           "citations": [
-            "Les députés du groupe Les Républicains voteront ce texte, parce que cette expérimentation mérite d'être pérennisée, eu égard aux bénéfices constatés tant pour nos compatriotes établis hors de France que pour l'administration."
+            "Au-delà des questions touchant à l'identité et dans la mesure où les actes d'état civil servent désormais à établir d'autres documents et à ouvrir des droits, il importe qu'ils soient d'une fiabilité absolue. Si l'expérimentation en tant que telle ne semble pas poser de problème particulier, il faut absolument veiller à ce que l'établissement des actes, comme leur transfert, soit parfaitement sécurisé."
           ],
-          "statut": "auto"
+          "annonce": "Les députés du groupe Les Républicains voteront ce texte, parce que cette expérimentation mérite d'être pérennisée, eu égard aux bénéfices constatés tant pour nos compatriotes établis hors de France que pour l'administration.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "HOR": {
           "ancre": "3499777",
           "citations": [
-            "Elle est aussi un gage de liberté donné aux Français de l'étranger, en particulier ceux qui sont plus éloignés des outils et des pratiques numériques, qui conserveront la possibilité d'accéder au guichet. Le groupe Horizons et apparentés votera la proposition de loi."
+            "Compte tenu du succès de la dématérialisation de la délivrance des actes d'état civil établis par le ministère de l'Europe et des affaires étrangères, il paraît opportun de pérenniser ce dispositif. Cette dématérialisation est largement plébiscitée par les Français établis hors de France et a déjà permis à l'administration d'économiser chaque année 1,3 million d'euros de frais postaux."
           ],
-          "statut": "auto"
+          "annonce": "Le groupe Horizons et apparentés votera la proposition de loi.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "GDR-NUPES": {
           "ancre": "3499794",
           "citations": [
-            "Si ce texte va plutôt dans le bon sens – notamment grâce aux améliorations qui lui ont été apportées au Sénat –, il nous semble que certaines garanties en matière de transparence et d'accès aux services physiques sont encore insuffisantes. En l'état actuel des choses, le groupe GDR s'abstiendra."
+            "Pourtant, si la dématérialisation peut apparaître, par sa rapidité, comme une avancée, elle laisse de côté les millions de personnes qui peinent à utiliser les outils numériques.",
+            "Or, alors même que dans tous les consulats, les équipes sont sous tension, onze ETP ont été supprimés en 2021 et le ministère prévoit d'en supprimer vingt de plus."
           ],
-          "statut": "auto"
+          "annonce": "En l'état actuel des choses, le groupe GDR s'abstiendra.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "LIOT": {
           "ancre": "3500581",
           "citations": [
-            "Notre groupe votera pour ce texte, car il sera utile à nos concitoyens, mais espère que le Parlement sera informé mieux – et annuellement – de l'avancement de cette dématérialisation."
+            "En l'espèce, les choses sont différentes, car la proposition de loi vise à simplifier la vie des Français de l'étranger. Il arrive souvent que nos concitoyens établis hors de France rencontrent des difficultés d'accès à l'administration, notamment lorsqu'ils vivent loin d'une ambassade ou d'une section consulaire.",
+            "Il a produit des résultats positifs, puisqu'en 2023, seulement 0,3 % des 1,26 million de demandes adressées à l'état civil du ministère des affaires étrangères étaient assorties d'une demande d'impression. Certains résultats peuvent toutefois conduire à s'interroger : alors que l'un des objectifs de la réforme était de réduire le délai de traitement, le bilan de l'expérimentation atteste d'une contreperformance, avec un délai moyen de traitement passant de 8,5 jours en 2021 à 14 jours en 2023."
           ],
-          "statut": "auto"
+          "annonce": "Notre groupe votera pour ce texte, car il sera utile à nos concitoyens, mais espère que le Parlement sera informé mieux – et annuellement – de l'avancement de cette dématérialisation.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "Ecolo-NUPES": {
           "ancre": "3500591",
           "citations": [
-            "J'espère que vous pourrez rassurer la représentation nationale à ce sujet. Nous voterons favorablement à ce texte, qui permet une avancée essentielle, qu'il faut maintenir et encourager."
+            "Pourtant, son bilan est d'ores et déjà positif : le service central d'état civil a délivré plus de 1 million de copies et extraits d'actes aux usagers en 2022, dont 99,5 % ont été remis à leurs demandeurs grâce au registre d'état civil électronique créé par cette expérimentation. Pour de nombreuses catégories d'usagers, les délais de délivrance ont ainsi été considérablement raccourcis, passant de trente à trois jours, voire de trois mois à trois jours.",
+            "Le projet de dématérialisation doit être pensé pour réduire les délais, mais il ne doit pas servir à masquer un tel manque de moyens humains dans les postes que la demande de nos compatriotes en matière de création – et non de délivrance – d'actes d'état civil n'est plus convenablement satisfaite."
           ],
-          "statut": "auto"
+          "annonce": "Nous voterons favorablement à ce texte, qui permet une avancée essentielle, qu'il faut maintenir et encourager.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "RE": {
+          "ancre": "3499646",
+          "citations": [
+            "Elle vise principalement à donner davantage de temps au ministère pour achever une réforme profonde de la gestion de l'état civil qui relève de sa responsabilité, à savoir la dématérialisation complète des actes – de leur établissement à leur conservation.",
+            "Accorder plus de temps à la réalisation de ce changement, c'est permettre sa réussite et ouvrir la porte à une généralisation."
+          ],
+          "annonce": "Le groupe Renaissance soutient sans réserve le report de calendrier de cette expérimentation et je salue à nouveau le remarquable travail d'innovation mené par le ministère.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "RN": {
+          "ancre": "3499661",
+          "citations": [
+            "Si l'intention est louable, tant dans son intention de privilégier un service public de qualité, plus confortable pour les agents et plus réactif pour les usagers, que dans sa volonté de diminuer les dépenses publiques, le bilan de l'expérimentation est mitigé.",
+            "De plus, un retard a été pris du fait des crises sanitaires et le délai moyen de traitement a augmenté, passant de 8,5 jours en 2021 à 14 jours en 2023."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "Dem": {
+          "ancre": "3499768",
+          "citations": [
+            "La dématérialisation est une grande amélioration, qui fonctionne – ce qui est notable.",
+            "Si nous devons être un laboratoire de la modernisation des services, plutôt que nous contenter d'ajouter un nouveau logiciel ou de morceler les réformes, nous devons dès le départ avoir une vision d'ensemble de la modernisation."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "SOC": {
+          "ancre": "3499784",
+          "citations": [
+            "Si l'objet même du dispositif n'est pas sujet à discussion, comme nous l'avons dit en commission des lois, la question des moyens nécessaires à sa réalisation, au mieux et au plus vite, doit retenir notre attention.",
+            "Tout d'abord, le service d'état civil doit rester accessible à tous, notamment à celles et ceux qui ne sont pas familiers d'internet ou qui ne disposent pas d'un accès à celui-ci."
+          ],
+          "annonce": "Le groupe Socialistes et apparentés apporte son soutien au texte, mais restera attentif à ce que les moyens soient affectés efficacement et à ce qu'ils le restent jusqu'au terme de l'expérimentation.",
+          "statut": "auto",
+          "methode": "justification"
         }
       }
     },
@@ -432,58 +791,96 @@
         "LFI-NUPES": {
           "ancre": "3416567",
           "citations": [
-            "Voilà comment on agit utilement pour son pays : ce projet de loi ne le permet pas et, évidemment, nous voterons contre."
+            "Dans ce texte, vous proposez d'instaurer une surveillance algorithmique dont vous nous aviez d'abord dit qu'elle serait réservée à la lutte contre le terrorisme. Et voilà que vous étendez cette surveillance à d'autres domaines !",
+            "Vous êtes donc très dangereux, parce que vous introduisez des outils de surveillance généralisée de la population."
           ],
-          "statut": "auto"
+          "annonce": "Voilà comment on agit utilement pour son pays : ce projet de loi ne le permet pas et, évidemment, nous voterons contre.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "LR": {
           "ancre": "3417339",
           "citations": [
-            "Les députés du groupe Les Républicains voteront ce texte, qui apporte des éléments de réponse utiles en matière de protection de notre souveraineté."
+            "Alors que des jeux d'influence étrangère s'exercent indéniablement dans notre vie politique et économique, l'article 1er, qui prévoit la création d'un registre des représentants d'intérêts étrangers, me semble très important pour mieux identifier et connaître les influenceurs intervenant dans le débat politique au service de telle ou telle puissance étrangère, comme la Chine ou la Russie, mais aussi – je partage en cela le constat dressé par notre collègue Tanguy – pour mieux nous protéger d'intérêts économiques étrangers."
           ],
-          "statut": "auto"
+          "annonce": "Les députés du groupe Les Républicains voteront ce texte, qui apporte des éléments de réponse utiles en matière de protection de notre souveraineté.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "Dem": {
           "ancre": "3417347",
           "citations": [
-            "Alors que notre sécurité et notre souveraineté nationale sont engagées et que la presse se fait quotidiennement l'écho des nouveaux assauts que nous subissons, le groupe Démocrate votera donc pour ce texte, qui constitue une véritable avancée."
+            "Au vu de l'intensification de la menace, ces outils demandent à être encore renforcés. La proposition de loi va dans ce sens."
           ],
-          "statut": "auto"
+          "annonce": "Alors que notre sécurité et notre souveraineté nationale sont engagées et que la presse se fait quotidiennement l'écho des nouveaux assauts que nous subissons, le groupe Démocrate votera donc pour ce texte, qui constitue une véritable avancée.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "HOR": {
-          "ancre": "3417349",
+          "ancre": "3415962",
           "citations": [
-            "Parce qu'il s'agit de mettre une pierre de plus à l'édifice de la réconciliation avec notre pleine souveraineté politique, économique, militaire et technologique, le groupe Horizons et apparentés votera en faveur de cette proposition de loi."
+            "Nous soutenons pleinement les dispositions prévues aux articles 1er et 3 visant, d'une part, à la création d'un registre public des représentants d'intérêts étrangers et, d'autre part, à l'élargissement des techniques de renseignement dites algorithmiques aux ingérences étrangères. Prévue à titre expérimental, cette technique permettrait aux services de renseignement de mieux détecter les comportements susceptibles de révéler une menace pour les intérêts fondamentaux de la nation.",
+            "La sanction financière est, on le sait, une sanction efficace et souvent nécessaire, et il nous paraît ainsi des plus pertinent d'élargir la possibilité de geler les avoirs financiers des personnes participant à ce type de manœuvres déstabilisatrices."
           ],
-          "statut": "auto"
+          "annonce": "C'est donc avec conviction que le groupe Horizons et apparentés votera ce texte.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "SOC": {
           "ancre": "3417353",
           "citations": [
-            "Cette exigence étant respectée, nous voterons ce texte."
+            "La deuxième observation consiste à souligner que nous ne nous bornons pas à aggraver des sanctions pénales, comme c'est trop souvent le cas dans cet hémicycle : nous proposons avant tout des outils. En matière d'influence, le texte prévoit la création d'un registre spécifique, sous le contrôle de la HATVP, dans le droit fil de la loi relative à la transparence de la vie publique et de la loi Sapin 2.",
+            "Les amendements de notre groupe visant à conforter le contrôle parlementaire auquel nous sommes attachés et à encadrer la technique d'investigation envisagée ayant été adoptés, nous considérons que cette proposition de loi constituera un premier levier pour armer notre démocratie, tout en veillant à ne pas la dénaturer."
           ],
-          "statut": "auto"
+          "annonce": "Cette exigence étant respectée, nous voterons ce texte.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "Ecolo-NUPES": {
           "ancre": "3417358",
           "citations": [
-            "Nous serons très attentifs au rapport qui sera remis dans deux ans sur l'efficacité de ces techniques, dont l'emploi doit rester exceptionnel, et sur les risques qu'elles peuvent comporter. Nous voterons en faveur de ce texte, parce qu'il traite d'un sujet d'actualité et que nous avons besoin de protéger notre pays des ingérences étrangères."
+            "Si, comme cela a été souligné, ce texte ne permettra pas de le régler dans son entièreté, notre groupe considère que le registre de transparence constitue une avancée importante en matière de lutte contre les influences étrangères, à défaut de régler la question de l'ingérence.",
+            "Comme notre collègue Untermaier, nous sommes cependant rassurés par la rédaction consolidée finalement adoptée ainsi que par les débats qui ont eu lieu hier soir et qui ont permis d'établir que les « finalités prévues aux 1o, 2o et 4o de l'article L."
           ],
-          "statut": "auto"
+          "annonce": "Nous voterons en faveur de ce texte, parce qu'il traite d'un sujet d'actualité et que nous avons besoin de protéger notre pays des ingérences étrangères.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "LIOT": {
           "ancre": "3417362",
           "citations": [
-            "Il était temps ! Le groupe LIOT le votera donc sans réserve."
+            "Nous soutenons donc cette proposition de loi, qui renforcera nos capacités répressives et préventives face à toute forme d'ingérence, en améliorant l'identification de l'influence étrangère par la création d'un registre, en généralisant la technique dite des boîtes noires face aux menaces étrangères, et en renforçant les sanctions économiques."
           ],
-          "statut": "auto"
+          "annonce": "Le groupe LIOT votera sans réserve pour cette proposition de loi visant à prévenir les ingérences étrangères en France.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "RE": {
           "ancre": "3417371",
           "citations": [
-            "Le groupe Renaissance, dont les membres siégeant au sein de la délégation parlementaire au renseignement ont été à l'initiative de ce texte, le votera bien entendu avec détermination et conviction."
+            "Il constitue en effet une véritable avancée, susceptible de fournir des outils concrets, opérationnels, ajustés et ciblés en vue d'apporter une première série de réponses et de riposter face à l'ampleur et à la gravité des ingérences étrangères de toute nature qui sont à l'œuvre contre notre modèle démocratique, nos intérêts économiques et nationaux, notre indépendance et notre souveraineté."
           ],
-          "statut": "auto"
+          "annonce": "Le groupe Renaissance, dont les membres siégeant au sein de la délégation parlementaire au renseignement ont été à l'initiative de ce texte, le votera bien entendu avec détermination et conviction.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "GDR-NUPES": {
+          "ancre": "3414958",
+          "citations": [
+            "Nous sommes résolument opposés à l'article 3, qui permet aux services de renseignement de recourir à la technique de l'algorithme, aujourd'hui uniquement autorisée dans le cadre de la lutte contre le terrorisme. Cet article n'apporte pas assez de garanties concernant la protection des droits et libertés fondamentales."
+          ],
+          "annonce": "Pour toutes ces raisons, nous comptons pour l'instant nous abstenir sur ce texte, tout en espérant que lors de l'examen de l'article 3, M.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "RN": {
+          "ancre": "3415038",
+          "citations": [
+            "Votre texte ne prévoit même pas un délit punissant les ingérences étrangères et les Français qui trahissent.",
+            "Vous ne proposez rien – et pour cause – contre la corruption, rien contre les conflits d'intérêts."
+          ],
+          "statut": "auto",
+          "methode": "justification"
         }
       }
     },
@@ -496,16 +893,91 @@
         "HOR": {
           "ancre": "3334636",
           "citations": [
-            "Il y va de notre responsabilité individuelle et collective. Le groupe Horizons et apparentés votera ce texte, car nous sommes responsables…"
+            "Un étranger qui brise le contrat social passé avec la France en commettant un délit grave doit être éloigné du territoire ; la durée de sa présence ne saurait justifier, à elle seule, son maintien sur notre sol.",
+            "Il s'agit finalement d'envoyer un message clair : sans travail ni adhésion aux valeurs de la République, l'intégration ne peut avoir lieu."
           ],
-          "statut": "auto"
+          "statut": "auto",
+          "methode": "justification"
         },
         "RE": {
           "ancre": "3334850",
           "citations": [
-            "Ainsi, avec l'esprit de responsabilité qui s'impose à tout parti qui se dit de gouvernement, nous voterons pour ce projet de loi."
+            "Ainsi le texte respecte-t-il les deux impératifs que mon groupe lui avait assignés dès le début : la fermeté lorsque c'est nécessaire, l'intégration lorsque c'est mérité.",
+            "L'intégration ensuite, par l'apprentissage de la langue et l'exigence d'un niveau minimal de maîtrise du français, mais aussi – nous y tenons – par l'accès au travail."
           ],
-          "statut": "auto"
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3334657",
+          "citations": [
+            "Vous avez cédé sur tout, restreignant le regroupement familial, réintroduisant dans le droit français la préférence nationale pour les prestations sociales",
+            "Pour la première fois de l'histoire de la Ve République – crime indélébile à l'encontre de la devise républicaine –, vous avez porté atteinte au droit du sol."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "GDR-NUPES": {
+          "ancre": "3334680",
+          "citations": [
+            "Certains articles reprennent les mêmes formules et les mêmes propositions que celles défendues depuis des décennies par le Front national : préférence nationale, quotas, caution de retour pour les étudiants étrangers, atteinte au droit du sol, déchéance de nationalité.",
+            "Les lits d'hôpitaux supprimés, les professeurs non remplacés, les bureaux de poste qui ferment ou les déserts médicaux sont le fruit de choix politiques – les vôtres –, et non le résultat d'un solde migratoire qui reste stable.",
+            "Cette folie raciste vous conduit même à couper les allocations familiales ou la prime de rentrée scolaire à des enfants français, au prétexte que leurs parents sont étrangers."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "LIOT": {
+          "ancre": "3334831",
+          "citations": [
+            "Soucieux de maintenir un équilibre, nous souhaitons à la fois protéger nos compatriotes et, en même temps, intégrer les étrangers en situation irrégulière qui travaillent et créent de la valeur. Lorsqu'on est en situation irrégulière et qu'on ne respecte pas le droit républicain ni l'ordre public, on n'a pas sa place sur le territoire français. Mais lorsqu'on travaille en France, qu'on crée de la valeur et qu'on paie des impôts, on a droit à un statut."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "RN": {
+          "ancre": "3334871",
+          "citations": [
+            "Expurgé du droit automatique à la régularisation, le texte comporte des avancées en matière de lutte contre l'immigration.",
+            "Le texte demeure en effet muet sur la suppression de l'AME. Il en va de même concernant la trop grande facilité à obtenir la nationalité française, le problème criant des prétendus mineurs étrangers, le dévoiement du droit d'asile et, évidemment, le contrôle de nos frontières."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "LFI-NUPES": {
+          "ancre": "3335018",
+          "citations": [
+            "Suppression déguisée de l'aide médicale d'État, restriction drastique du regroupement familial, conditions d'accès absurdes au titre de séjour « étranger malade », préférence nationale pour l'accès aux prestations sociales,…",
+            "Ce texte, c'est l'annonce d'une catastrophe sociale et sanitaire"
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "LR": {
+          "ancre": "3335050",
+          "citations": [
+            "Ce texte marque un véritable tournant. Pour la première fois depuis longtemps, en effet, la France se donne les moyens de reprendre le contrôle de sa politique migratoire. Il est animé par un principe simple : moins d'immigration et plus d'expulsions des étrangers indésirables."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "Dem": {
+          "ancre": "3335086",
+          "citations": [
+            "Dès l'origine, le groupe Démocrate a considéré que le projet du Gouvernement était le bon : équilibré puisqu'intégrateur et ferme pour tous ceux qui ont vocation à rester chez nous, et clair et juste pour ceux qui doivent quitter notre sol.",
+            "Parce que si nous les sortons nous-mêmes de notre contrat social et républicain, si nous décidons dès le départ de les exclure de notre communauté, comment peut-on leur demander de s'intégrer dans notre société ?"
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "SOC": {
+          "ancre": "3335204",
+          "citations": [
+            "Nous n'avons pas débattu de politique migratoire, mais de politique anti-immigrés.",
+            "Enfin, ce texte est un grand mensonge fait aux Françaises et aux Français. Il ne réglera rien."
+          ],
+          "statut": "auto",
+          "methode": "justification"
         }
       }
     },
@@ -518,16 +990,97 @@
         "HOR": {
           "ancre": "3334636",
           "citations": [
-            "Il y va de notre responsabilité individuelle et collective. Le groupe Horizons et apparentés votera ce texte, car nous sommes responsables…"
+            "Un étranger qui brise le contrat social passé avec la France en commettant un délit grave doit être éloigné du territoire ; la durée de sa présence ne saurait justifier, à elle seule, son maintien sur notre sol.",
+            "Il s'agit finalement d'envoyer un message clair : sans travail ni adhésion aux valeurs de la République, l'intégration ne peut avoir lieu."
           ],
-          "statut": "auto"
+          "annonce": "Le groupe Horizons et apparentés votera ce texte, car nous sommes responsables…",
+          "statut": "auto",
+          "methode": "justification"
         },
         "RE": {
           "ancre": "3334850",
           "citations": [
-            "Ainsi, avec l'esprit de responsabilité qui s'impose à tout parti qui se dit de gouvernement, nous voterons pour ce projet de loi."
+            "Ainsi le texte respecte-t-il les deux impératifs que mon groupe lui avait assignés dès le début : la fermeté lorsque c'est nécessaire, l'intégration lorsque c'est mérité.",
+            "L'intégration ensuite, par l'apprentissage de la langue et l'exigence d'un niveau minimal de maîtrise du français, mais aussi – nous y tenons – par l'accès au travail."
           ],
-          "statut": "auto"
+          "annonce": "Ainsi, avec l'esprit de responsabilité qui s'impose à tout parti qui se dit de gouvernement, nous voterons pour ce projet de loi.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3334657",
+          "citations": [
+            "Vous avez cédé sur tout, restreignant le regroupement familial, réintroduisant dans le droit français la préférence nationale pour les prestations sociales",
+            "Pour la première fois de l'histoire de la Ve République – crime indélébile à l'encontre de la devise républicaine –, vous avez porté atteinte au droit du sol."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "GDR-NUPES": {
+          "ancre": "3334680",
+          "citations": [
+            "Certains articles reprennent les mêmes formules et les mêmes propositions que celles défendues depuis des décennies par le Front national : préférence nationale, quotas, caution de retour pour les étudiants étrangers, atteinte au droit du sol, déchéance de nationalité.",
+            "Les lits d'hôpitaux supprimés, les professeurs non remplacés, les bureaux de poste qui ferment ou les déserts médicaux sont le fruit de choix politiques – les vôtres –, et non le résultat d'un solde migratoire qui reste stable.",
+            "Cette folie raciste vous conduit même à couper les allocations familiales ou la prime de rentrée scolaire à des enfants français, au prétexte que leurs parents sont étrangers."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "LIOT": {
+          "ancre": "3334831",
+          "citations": [
+            "Soucieux de maintenir un équilibre, nous souhaitons à la fois protéger nos compatriotes et, en même temps, intégrer les étrangers en situation irrégulière qui travaillent et créent de la valeur. Lorsqu'on est en situation irrégulière et qu'on ne respecte pas le droit républicain ni l'ordre public, on n'a pas sa place sur le territoire français. Mais lorsqu'on travaille en France, qu'on crée de la valeur et qu'on paie des impôts, on a droit à un statut."
+          ],
+          "annonce": "Notre groupe, dont les membres viennent d'horizons divers, reste partagé : certains d'entre nous ont décidé d'approuver le projet de loi ; d'autres s'y opposent ou s'abstiendront.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "RN": {
+          "ancre": "3334871",
+          "citations": [
+            "Expurgé du droit automatique à la régularisation, le texte comporte des avancées en matière de lutte contre l'immigration.",
+            "Le texte demeure en effet muet sur la suppression de l'AME. Il en va de même concernant la trop grande facilité à obtenir la nationalité française, le problème criant des prétendus mineurs étrangers, le dévoiement du droit d'asile et, évidemment, le contrôle de nos frontières."
+          ],
+          "annonce": "Mais, parce que nous sommes des députés responsables, nous allons voter…",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "LFI-NUPES": {
+          "ancre": "3335018",
+          "citations": [
+            "Suppression déguisée de l'aide médicale d'État, restriction drastique du regroupement familial, conditions d'accès absurdes au titre de séjour « étranger malade », préférence nationale pour l'accès aux prestations sociales,…",
+            "Ce texte, c'est l'annonce d'une catastrophe sociale et sanitaire"
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "LR": {
+          "ancre": "3335050",
+          "citations": [
+            "Ce texte marque un véritable tournant. Pour la première fois depuis longtemps, en effet, la France se donne les moyens de reprendre le contrôle de sa politique migratoire. Il est animé par un principe simple : moins d'immigration et plus d'expulsions des étrangers indésirables."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "Dem": {
+          "ancre": "3335086",
+          "citations": [
+            "Dès l'origine, le groupe Démocrate a considéré que le projet du Gouvernement était le bon : équilibré puisqu'intégrateur et ferme pour tous ceux qui ont vocation à rester chez nous, et clair et juste pour ceux qui doivent quitter notre sol.",
+            "Parce que si nous les sortons nous-mêmes de notre contrat social et républicain, si nous décidons dès le départ de les exclure de notre communauté, comment peut-on leur demander de s'intégrer dans notre société ?"
+          ],
+          "annonce": "Parce qu'au groupe Démocrate, nous respectons chacun, parce que les deux mots qui nous guident depuis toujours sont conscience et responsabilité, les députés du groupe Démocrate que j'ai l'honneur de présider sont libres de leur vote.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "SOC": {
+          "ancre": "3335204",
+          "citations": [
+            "Nous n'avons pas débattu de politique migratoire, mais de politique anti-immigrés.",
+            "Enfin, ce texte est un grand mensonge fait aux Françaises et aux Français. Il ne réglera rien."
+          ],
+          "annonce": "Il est temps de repousser ce texte et de voter contre !",
+          "statut": "auto",
+          "methode": "justification"
         }
       }
     },
@@ -543,46 +1096,90 @@
       "statut": "auto",
       "explications": {
         "Dem": {
-          "ancre": "3145258",
+          "ancre": "3144236",
           "citations": [
-            "Elle a été dévoyée de son sens premier. Nous voterons contre cette proposition de résolution, même si nous pensons, madame Louwagie, qu'il y a là un vrai débat."
+            "En revanche, la restriction du panier de soins AME aux seuls soins urgents nous semble plus difficilement applicable. En effet, la frontière entre soins urgents et non urgents est en réalité difficile à définir avec précision, et cela pourrait se traduire par un report massif sur l'hôpital, donnant lieu à une nouvelle surcharge des services d'urgence et à des coûts beaucoup plus élevés qu'en ville."
           ],
-          "statut": "auto"
+          "annonce": "C'est pour ces raisons que notre groupe ne votera pas en faveur de cette proposition.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "SOC": {
-          "ancre": "3145026",
+          "ancre": "3144257",
           "citations": [
-            "La République, c'est tout simplement cela. Le groupe Socialistes votera fièrement contre cette proposition de résolution."
+            "Ils nous disent que selon toutes les études, une prise en charge tardive des soins est bien plus coûteuse… …que l'accès aux soins primaires couverts par l'AME.",
+            "Mais toutes les études le montrent : le motif de santé n'est jamais prioritaire pour motiver le départ, qui est bien plus souvent un choix d'ordre économique ou politique."
           ],
-          "statut": "auto"
+          "statut": "auto",
+          "methode": "justification"
         },
         "HOR": {
           "ancre": "3144305",
           "citations": [
-            "Nous pourrons donc avoir cette discussion dans le cadre de l'examen du projet de loi dédié qui nous permettra de crever les non-dits sur lesquels nous ne devons pas nous tromper et sur lesquels les Français nous attendent. Pour toutes ces raisons, le groupe Horizons et apparentés votera contre cette proposition de résolution."
+            "Mais il nous semble que le recentrage du dispositif sur les seuls soins urgents, tel que proposé par la proposition de résolution, n'est pas souhaitable. Cela reviendrait de facto à supprimer l'AME. Surtout, il s'agirait d'un contresens au regard des objectifs visés par ce dispositif, induisant notamment un risque d'aggravation des pathologies bénignes aux conséquences désastreuses en matière de santé publique, sans parler du renchérissement du coût économique du soin rendu in fine."
           ],
-          "statut": "auto"
+          "annonce": "Pour toutes ces raisons, le groupe Horizons et apparentés votera contre cette proposition de résolution.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "Ecolo-NUPES": {
           "ancre": "3144836",
           "citations": [
-            "Parce que nous, nous avons du cœur – et peut-être, en cet instant, son monopole –, une boussole républicaine et que nous sommes fidèles à ce que disait le président Chirac en 2002, ne vous en déplaise, nous voterons contre votre proposition de résolution."
+            "Vous avez choisi de nous faire perdre du temps avec un débat sur 0,5 % du budget de l'assurance maladie.",
+            "Les pandémies, les infections, les fractures et les cancers ne pratiquent pas le contrôle d'identité, ne vous en déplaise."
           ],
-          "statut": "auto"
+          "annonce": "Parce que nous, nous avons du cœur – et peut-être, en cet instant, son monopole –, une boussole républicaine et que nous sommes fidèles à ce que disait le président Chirac en 2002, ne vous en déplaise, nous voterons contre votre proposition de résolution.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "RN": {
-          "ancre": "3145234",
+          "ancre": "3144580",
           "citations": [
-            "Parce que nous sommes cohérents, sincères et que nous ne sommes pas sectaires,… …nous voterons en faveur de cette proposition de résolution."
+            "Laissez-moi couper court à leurs délires : nous créerons un dispositif raisonnable, à savoir une aide médicale d'urgence destinée à soigner les étrangers en détresse sanitaire. Ce nouveau mécanisme sera salvateur pour les finances publiques, mettra un coup d'arrêt aux dérives de l'immigration irrégulière et signera la fin de l'appel d'air créé par l'AME, dispositif unique en Europe."
           ],
-          "statut": "auto"
+          "annonce": "nous voterons en faveur de cette proposition de résolution.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "LFI-NUPES": {
           "ancre": "3144626",
           "citations": [
-            "Visiblement, la seule priorité de la minorité présidentielle – qui voterait contre la proposition de résolution, mais trouve le temps de l'inscrire à l'ordre du jour plutôt que, par exemple, ma proposition de loi établissant un ratio minimal d'encadrement au chevet des résidents des Ehpad"
+            "Tout d'abord, l'AME ne représente que 0,5 % du budget de la sécurité sociale.",
+            "Enfin, toutes les études menées par les plus grandes associations, notamment Médecins du monde, convergent pour montrer que seuls 3 % des patients déclarent avoir quitté leur pays pour des raisons de santé.",
+            "Il n'est donc absolument pas opportun de remettre en cause l'AME, laquelle permet de prendre en charge des soins qui, sans elle, pèseraient sur le budget d'hôpitaux déjà exsangues."
           ],
-          "statut": "auto"
+          "annonce": "Le groupe La France insoumise-Nouvelle Union populaire, écologique et sociale rejettera évidemment avec véhémence cette proposition de résolution.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "LR": {
+          "ancre": "3144173",
+          "citations": [
+            "Mes chers collègues, le dérapage devenu totalement incontrôlable des dépenses de soins à destination des étrangers en situation irrégulière est en train de devenir un scandale démocratique et une très grande injustice sociale.",
+            "En ce qui concerne l'AME, nous ne pouvons accepter de ne pas pouvoir connaître la nationalité des bénéficiaires ni les pathologies soignées, alors que pour les demandeurs d'asile, ces données sont connues.",
+            "Ce serait d'autant plus incompréhensible que nous ne demandons que l'alignement de la situation française sur le droit commun européen – ni plus, ni moins !"
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "GDR-NUPES": {
+          "ancre": "3144856",
+          "citations": [
+            "Selon le rapport annuel de l'Observatoire de l'accès aux droits et aux soins pour l'année 2015 de Médecins du monde, la migration pour soins est un mythe, rien ne prouve l'existence de filières de soins.",
+            "Dans les faits, c'est un dispositif complexe et défectueux au regard de l'objectif de santé publique qu'il se fixe : 64 % des personnes interrogées dans le cadre d'une enquête interassociative ont rencontré des difficultés pour se faire soigner et sept sur dix ont finalement renoncé. Une enquête du ministère de l'intérieur a même estimé à 51 % le taux de non-recours des personnes éligibles à l'AME.",
+            "En Espagne, la restriction de la couverture santé aux urgences avait provoqué une hausse de 15 % de la mortalité des personnes migrantes."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "RE": {
+          "ancre": "3145231",
+          "citations": [
+            "Cependant, le groupe Renaissance ne peut soutenir la proposition de réduire ce dispositif aux seuls soins d'urgence. Ce serait une erreur pour la santé des bénéficiaires de l'AME, bien sûr, comme pour celle de nos concitoyens, mais aussi une erreur économique. Prévenir l'urgence est évidemment bien moins coûteux que de la soigner."
+          ],
+          "annonce": "Nous sommes donc opposés à ce texte.",
+          "statut": "auto",
+          "methode": "justification"
         }
       }
     }

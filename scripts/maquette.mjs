@@ -373,7 +373,7 @@ function appSujet(DATA) {
         <div class="ligne-haut">
           ${logoHtml(g)}
           <span class="nom-groupe"><strong>${esc(g.sigle)}</strong><small>${detail} — ${votants} votants sur ${r.membres}</small></span>
-          <span class="badge b-${r.position}">${POSITIONS[r.position]}</span>
+          <span class="badge b-${r.position}">${vote.motion === 'censure' && !r.position ? 'Ne vote pas la censure' : POSITIONS[r.position]}</span>
         </div>
         ${explicationHtml(vote.explications[g.sigle], g.sigle)}
       </li>`;

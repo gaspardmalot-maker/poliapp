@@ -387,9 +387,9 @@ function proposer() {
     const extraits = lireSiExiste(`data/explications/${selection.sujet}.json`);
     if (!extraits) continue;
     for (const sel of selection.scrutins) {
-      // --refaire : on repart de zéro pour les citations automatiques (jamais pour celles choisies à la main).
+      // --refaire : on repart de zéro pour les citations automatiques (jamais pour celles choisies à la main ni pour les justifications).
       if (process.argv.includes('--refaire') && sel.explications) {
-        sel.explications = Object.fromEntries(Object.entries(sel.explications).filter(([, e]) => e.statut !== 'auto'));
+        sel.explications = Object.fromEntries(Object.entries(sel.explications).filter(([, e]) => e.statut !== 'auto' || e.methode === 'justification'));
       }
       const interventions = extraits.scrutins.find((s) => s.id === idDe(sel))?.interventions ?? {};
       for (const [groupe, liste] of Object.entries(interventions)) {

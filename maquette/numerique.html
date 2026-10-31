@@ -127,6 +127,8 @@ ul.groupes { list-style: none; margin: 0; padding: 0; }
 .explication blockquote { margin: 0; font-size: 15px; line-height: 1.6; }
 .explication[data-ouvert="false"] blockquote { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 .explication .coupe { color: var(--discret); }
+.annonce { margin: 6px 0 0; font-size: 13px; color: var(--discret); }
+.pas-explication + .annonce { margin-left: 68px; }
 .actions { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 14px; margin-top: 8px; font-size: 13px; }
 .action { all: unset; cursor: pointer; color: var(--accent); font-weight: 500; }
 .action:hover { text-decoration: underline; }
@@ -174,7 +176,7 @@ dialog#lecteur video { display: block; width: 100%; aspect-ratio: 16 / 9; backgr
   .recherche-entete { width: auto; flex: 1; }
   .ligne-haut { grid-template-columns: 48px minmax(0, 1fr) auto; gap: 10px; }
   .ligne-haut .cadre-logo { width: 48px; height: 30px; }
-  .explication, .pas-explication { margin-left: 0; }
+  .explication, .pas-explication, .pas-explication + .annonce { margin-left: 0; }
   .qui { margin-left: 0; width: 100%; }
   .programmes { grid-template-columns: 1fr; }
   .panneau h3 { font-size: 19px; }
@@ -371,10 +373,12 @@ dialog#lecteur video { display: block; width: 100%; aspect-ratio: 16 / 9; backgr
   // --- Panneau d'un vote.
   function explicationHtml(ex, sigle) {
     if (!ex) return sigle === 'NI' ? '' : `<p class="pas-explication">Pas d'explication de vote relevée dans les débats.</p>`;
-    if (!ex.citations.length) return `<p class="pas-explication">${esc(ex.remarque)} <a href="${ex.url}" target="_blank" rel="noopener">Voir l'intervention</a></p>`;
+    const annonce = ex.annonce ? `<p class="annonce">Annonce du vote : « ${esc(ex.annonce)} »</p>` : '';
+    if (!ex.citations.length) return `<p class="pas-explication">${esc(ex.remarque)} <a href="${ex.url}" target="_blank" rel="noopener">Voir l'intervention</a></p>${annonce}`;
     return `
       <div class="explication" data-ouvert="false">
         <blockquote>${ex.citations.map((c) => `« ${esc(c)} »`).join(' <span class="coupe">[…]</span> ')}</blockquote>
+        ${annonce}
         <div class="actions">
           ${
             ex.video

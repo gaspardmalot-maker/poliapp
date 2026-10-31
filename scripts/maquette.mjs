@@ -57,7 +57,7 @@ function donneesSujet(sujet) {
     const explications = Object.fromEntries(
       Object.entries(sel.explications ?? {}).map(([sigle, e]) => {
         const i = (interventions[sigle] ?? []).find((i) => i.ancre === e.ancre);
-        return [sigle, { citations: e.citations, remarque: e.remarque, statut: e.statut, orateur: i?.orateur, date: i?.date, url: i?.url, video: i?.video ?? null }];
+        return [sigle, { citations: e.citations, annonce: e.annonce, remarque: e.remarque, statut: e.statut, orateur: i?.orateur, date: i?.date, url: i?.url, video: i?.video ?? null }];
       }).filter(([, e]) => e.url || e.remarque),
     );
     return {
@@ -219,7 +219,7 @@ function miniHemicycle(vote, ordre) {
   const total = presents.reduce((n, g) => n + vote.groupes[g.sigle].membres, 0);
   const { sieges, rayon } = dispositionHemicycle(total);
   // Format compact (une page d'accueil en affiche des dizaines) : points regroupés par position,
-  // coordonnées courtes, rayon commun porté par une variable CSS.
+  // coordonnées courtes. Le rayon est un attribut : Safari (iPhone) ignore la propriété CSS « r ».
   const court = (n) => n.toFixed(3).replace(/^(-?)0\./, '$1.');
   const parPosition = { pour: [], contre: [], abstention: [], null: [] };
   let i = 0;
@@ -227,11 +227,11 @@ function miniHemicycle(vote, ordre) {
     const r = vote.groupes[g.sigle];
     const absents = Math.max(r.membres - r.pour - r.contre - r.abstention, 0);
     for (const [pos, nb] of [['pour', r.pour], ['contre', r.contre], ['abstention', r.abstention], ['null', absents]]) {
-      for (let k = 0; k < nb && i < sieges.length; k++, i++) parPosition[pos].push(`<circle cx="${court(sieges[i].x)}" cy="${court(sieges[i].y)}"/>`);
+      for (let k = 0; k < nb && i < sieges.length; k++, i++) parPosition[pos].push(`<circle cx="${court(sieges[i].x)}" cy="${court(sieges[i].y)}" r="${rayon}"/>`);
     }
   }
   const groupes = Object.entries(parPosition).map(([pos, c]) => `<g class="s-${pos}">${c.join('')}</g>`).join('');
-  return `<svg class="mini-hemi" viewBox="-1.04 -1.04 2.08 1.08" style="--r:${rayon}" aria-hidden="true">${groupes}</svg>`;
+  return `<svg class="mini-hemi" viewBox="-1.04 -1.04 2.08 1.08" aria-hidden="true">${groupes}</svg>`;
 }
 
 // --- Page sujet --------------------------------------------------------------------------------
@@ -345,10 +345,12 @@ function appSujet(DATA) {
   // --- Panneau d'un vote.
   function explicationHtml(ex, sigle) {
     if (!ex) return sigle === 'NI' ? '' : `<p class="pas-explication">Pas d'explication de vote relevée dans les débats.</p>`;
-    if (!ex.citations.length) return `<p class="pas-explication">${esc(ex.remarque)} <a href="${ex.url}" target="_blank" rel="noopener">Voir l'intervention</a></p>`;
+    const annonce = ex.annonce ? `<p class="annonce">Annonce du vote : « ${esc(ex.annonce)} »</p>` : '';
+    if (!ex.citations.length) return `<p class="pas-explication">${esc(ex.remarque)} <a href="${ex.url}" target="_blank" rel="noopener">Voir l'intervention</a></p>${annonce}`;
     return `
       <div class="explication" data-ouvert="false">
         <blockquote>${ex.citations.map((c) => `« ${esc(c)} »`).join(' <span class="coupe">[…]</span> ')}</blockquote>
+        ${annonce}
         <div class="actions">
           ${
             ex.video
@@ -526,6 +528,8 @@ ul.groupes { list-style: none; margin: 0; padding: 0; }
 .explication blockquote { margin: 0; font-size: 15px; line-height: 1.6; }
 .explication[data-ouvert="false"] blockquote { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 .explication .coupe { color: var(--discret); }
+.annonce { margin: 6px 0 0; font-size: 13px; color: var(--discret); }
+.pas-explication + .annonce { margin-left: 68px; }
 .actions { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 14px; margin-top: 8px; font-size: 13px; }
 .action { all: unset; cursor: pointer; color: var(--accent); font-weight: 500; }
 .action:hover { text-decoration: underline; }
@@ -573,7 +577,7 @@ dialog#lecteur video { display: block; width: 100%; aspect-ratio: 16 / 9; backgr
   .recherche-entete { width: auto; flex: 1; }
   .ligne-haut { grid-template-columns: 48px minmax(0, 1fr) auto; gap: 10px; }
   .ligne-haut .cadre-logo { width: 48px; height: 30px; }
-  .explication, .pas-explication { margin-left: 0; }
+  .explication, .pas-explication, .pas-explication + .annonce { margin-left: 0; }
   .qui { margin-left: 0; width: 100%; }
   .programmes { grid-template-columns: 1fr; }
   .panneau h3 { font-size: 19px; }
@@ -726,7 +730,6 @@ const CSS_ACCUEIL = `
 .une .chiffres-une { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: 13px; color: var(--discret); }
 .une .chiffres-une b { color: var(--texte); }
 .mini-hemi { display: block; width: 100%; height: auto; }
-.mini-hemi circle { r: var(--r); }
 .mini-hemi .s-pour { fill: var(--pour); } .mini-hemi .s-contre { fill: var(--contre); }
 .mini-hemi .s-abstention { fill: var(--abstention); } .mini-hemi .s-null { fill: var(--absent); }
 section { padding-top: 40px; }

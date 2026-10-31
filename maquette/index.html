@@ -78,7 +78,6 @@ footer { margin: 64px 0 0; padding: 24px 0 48px; border-top: 1px solid var(--bor
 .une .chiffres-une { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: 13px; color: var(--discret); }
 .une .chiffres-une b { color: var(--texte); }
 .mini-hemi { display: block; width: 100%; height: auto; }
-.mini-hemi circle { r: var(--r); }
 .mini-hemi .s-pour { fill: var(--pour); } .mini-hemi .s-contre { fill: var(--contre); }
 .mini-hemi .s-abstention { fill: var(--abstention); } .mini-hemi .s-null { fill: var(--absent); }
 section { padding-top: 40px; }
@@ -222,7 +221,7 @@ function miniHemicycle(vote, ordre) {
   const total = presents.reduce((n, g) => n + vote.groupes[g.sigle].membres, 0);
   const { sieges, rayon } = dispositionHemicycle(total);
   // Format compact (une page d'accueil en affiche des dizaines) : points regroupés par position,
-  // coordonnées courtes, rayon commun porté par une variable CSS.
+  // coordonnées courtes. Le rayon est un attribut : Safari (iPhone) ignore la propriété CSS « r ».
   const court = (n) => n.toFixed(3).replace(/^(-?)0\./, '$1.');
   const parPosition = { pour: [], contre: [], abstention: [], null: [] };
   let i = 0;
@@ -230,11 +229,11 @@ function miniHemicycle(vote, ordre) {
     const r = vote.groupes[g.sigle];
     const absents = Math.max(r.membres - r.pour - r.contre - r.abstention, 0);
     for (const [pos, nb] of [['pour', r.pour], ['contre', r.contre], ['abstention', r.abstention], ['null', absents]]) {
-      for (let k = 0; k < nb && i < sieges.length; k++, i++) parPosition[pos].push(`<circle cx="${court(sieges[i].x)}" cy="${court(sieges[i].y)}"/>`);
+      for (let k = 0; k < nb && i < sieges.length; k++, i++) parPosition[pos].push(`<circle cx="${court(sieges[i].x)}" cy="${court(sieges[i].y)}" r="${rayon}"/>`);
     }
   }
   const groupes = Object.entries(parPosition).map(([pos, c]) => `<g class="s-${pos}">${c.join('')}</g>`).join('');
-  return `<svg class="mini-hemi" viewBox="-1.04 -1.04 2.08 1.08" style="--r:${rayon}" aria-hidden="true">${groupes}</svg>`;
+  return `<svg class="mini-hemi" viewBox="-1.04 -1.04 2.08 1.08" aria-hidden="true">${groupes}</svg>`;
 }
 (function appAccueil(DATA) {
   const $ = (sel) => document.querySelector(sel);

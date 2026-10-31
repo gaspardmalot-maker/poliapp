@@ -4,7 +4,7 @@
 export const DEPOT = 'https://github.com/gaspardmalot-maker/poliapp';
 export const SIGNALER = `${DEPOT}/issues/new`;
 
-const MISE_A_JOUR = '30 octobre 2026';
+const MISE_A_JOUR = '31 octobre 2026';
 
 export const PAGES = [
   {
@@ -61,7 +61,8 @@ export const PAGES = [
 <p>Scrutins, députés, groupes et comptes rendus des débats : <a href="https://data.assemblee-nationale.fr" target="_blank" rel="noopener">data.assemblee-nationale.fr</a>, sous <a href="https://www.etalab.gouv.fr/licence-ouverte-open-licence/" target="_blank" rel="noopener">Licence Ouverte / Open Licence 2.0</a>. La date de dernière récupération figure en bas de chaque page. Les débats parlementaires sont des documents publics, librement reproductibles : chaque citation renvoie au passage original du compte rendu sur assemblee-nationale.fr.</p>
 
 <h2>Vidéos des séances</h2>
-<p>Les vidéos appartiennent à l'Assemblée nationale. Le site ne les héberge ni ne les reproduit : le bouton « Voir la vidéo » ouvre le compte rendu officiel au moment de l'intervention, où la vidéo peut être lancée sur le site de l'Assemblée.</p>
+<p>Les vidéos appartiennent à l'Assemblée nationale. Le site ne les télécharge, ne les héberge ni ne les modifie : le bouton « Voir en vidéo » lit le flux public de la séance directement depuis les serveurs de l'Assemblée, au moment de l'intervention, avec un lien vers le compte rendu officiel. Sur demande de l'Assemblée, cette lecture intégrée sera retirée au profit d'un simple lien.</p>
+<p>La lecture des vidéos utilise la bibliothèque <a href="https://github.com/video-dev/hls.js" target="_blank" rel="noopener">hls.js</a> (licence Apache 2.0), servie par le site lui-même.</p>
 
 <h2>Programmes et déclarations des partis</h2>
 <p>Les propositions sont de courtes citations, accompagnées de leur source, au titre du droit de citation (article L. 122-5 du code de la propriété intellectuelle). Les documents complets ne sont pas republiés : le site renvoie vers leur adresse d'origine.</p>
@@ -103,7 +104,8 @@ export const PAGES = [
 <h2>Visiteurs du site</h2>
 <ul>
   <li>Le site ne dépose <strong>aucun cookie</strong>, n'utilise <strong>aucun outil de mesure d'audience</strong> ni de publicité, et ne demande aucune information (pas de compte, pas de formulaire). Aucun bandeau de consentement n'est donc nécessaire.</li>
-  <li>Toutes les ressources (pages, styles, logos) sont servies par l'hébergeur ; le site ne charge aucune police ni script depuis un service tiers.</li>
+  <li>Toutes les ressources (pages, styles, logos, scripts) sont servies par l'hébergeur ; le site ne charge aucune police ni script depuis un service tiers.</li>
+  <li>Seule exception, et uniquement si vous cliquez sur « Voir en vidéo » : la vidéo est lue depuis les serveurs de l'Assemblée nationale, qui reçoivent alors votre adresse IP, comme lorsque vous la regardez sur leur site.</li>
   <li>Comme tout hébergeur, GitHub enregistre techniquement l'adresse IP des visiteurs pour assurer le service et la sécurité : voir la <a href="https://docs.github.com/fr/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener">politique de confidentialité de GitHub</a>.</li>
   <li>Les liens vers l'Assemblée nationale ou les sites des partis mènent à des sites qui ont leurs propres règles.</li>
 </ul>

@@ -13,7 +13,7 @@ import { PAGES, SIGNALER } from './pages.mjs';
 // Lecture des vidéos dans la page : désactivée tant que l'Assemblée nationale n'a pas donné son accord
 // (ses conditions interdisent de reproduire ses ressources multimédias sans accord préalable).
 // Sans accord, « Voir la vidéo » ouvre le compte rendu officiel au moment de l'intervention.
-const VIDEO_INTEGREE = false;
+const VIDEO_INTEGREE = true;
 
 const lire = (chemin) => JSON.parse(readFileSync(chemin, 'utf8'));
 const lireSiExiste = (chemin, defaut) => (existsSync(chemin) ? lire(chemin) : defaut);
@@ -301,7 +301,7 @@ function appSujet(DATA) {
   const chargerHls = () =>
     (chargementHls ??= new Promise((ok, ko) => {
       const s = document.createElement('script');
-      s.src = 'https://cdnjs.cloudflare.com/ajax/libs/hls.js/1.5.13/hls.min.js';
+      s.src = 'vendor/hls.min.js'; // hls.js 1.5.13 (Apache 2.0), servi par le site
       s.onload = () => ok(window.Hls);
       s.onerror = ko;
       document.head.appendChild(s);

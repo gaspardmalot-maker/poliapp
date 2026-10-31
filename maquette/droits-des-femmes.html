@@ -127,6 +127,7 @@ ul.groupes { list-style: none; margin: 0; padding: 0; }
 .explication blockquote { margin: 0; font-size: 15px; line-height: 1.6; }
 .explication[data-ouvert="false"] blockquote { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 .explication .coupe { color: var(--discret); }
+.aide-video { flex-basis: 100%; font-size: 12px; color: var(--discret); }
 .annonce { margin: 6px 0 0; font-size: 13px; color: var(--discret); }
 .pas-explication + .annonce { margin-left: 68px; }
 .actions { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 14px; margin-top: 8px; font-size: 13px; }
@@ -401,7 +402,7 @@ dialog#lecteur video { display: block; width: 100%; aspect-ratio: 16 / 9; backgr
             ex.video
               ? DATA.videoIntegree
                 ? `<button class="action video" data-groupe="${esc(sigle)}"><span aria-hidden="true">▶</span> Voir en vidéo</button>`
-                : `<a class="action video" href="${ex.url}" target="_blank" rel="noopener" title="Ouvre le compte rendu officiel à ce passage, avec la vidéo de la séance"><span aria-hidden="true">▶</span> Voir la vidéo</a>`
+                : `<a class="action video" href="${ex.url}" target="_blank" rel="noopener" title="Ouvre le compte rendu officiel à ce passage : la vidéo se lance avec le bouton ▶ à côté du nom de l'orateur"><span aria-hidden="true">▶</span> Vidéo sur le site de l'Assemblée</a><span class="aide-video">Sur la page de l'Assemblée, touchez ▶ à côté du nom de l'orateur.</span>`
               : ''
           }
           <button class="action lire">Lire tout</button>

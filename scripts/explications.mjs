@@ -6,7 +6,7 @@
 //
 //   extraire  → data/explications/<sujet>.json (interventions complètes + phrases clés pré-repérées)
 //               docs/revue/explications-<sujet>.md (version lisible, pour choisir les citations)
-//   verifier  → contrôle que chaque citation de data/selection/<sujet>.json figure mot pour mot dans l'intervention
+//   verifier  → contrôle que chaque citation (et l'annonce du vote) de data/selection/<sujet>.json figure mot pour mot dans l'intervention
 //
 // Le choix des 2-3 phrases citées reste humain : elles sont recopiées dans data/selection/<sujet>.json.
 //
@@ -321,7 +321,7 @@ function verifier() {
       const sources = extraits.scrutins.find((s) => s.id === idDe(sel))?.interventions ?? {};
       for (const [groupe, e] of Object.entries(sel.explications ?? {})) {
         const intervention = (sources[groupe] ?? []).find((i) => i.ancre === e.ancre);
-        for (const citation of e.citations) {
+        for (const citation of [...e.citations, ...(e.annonce ? [e.annonce] : [])]) {
           const ok = intervention && espaces(intervention.texte).includes(espaces(citation));
           if (!ok) erreurs++;
           console.log(`${ok ? '✓' : '✗'} ${idDe(sel)} ${groupe.padEnd(8)} « ${espaces(citation).slice(0, 70)}… »${intervention ? '' : ' (intervention introuvable)'}`);

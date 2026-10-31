@@ -394,6 +394,15 @@
             "Chers collègues, en votant ce texte, nous allons reconnaître les souffrances du passé. Nous allons refuser l'oubli. Nous allons affirmer une fois encore que le droit à disposer de son corps est un droit fondamental et qu'il fait pleinement partie de notre histoire, celle qui s'écrit avec un grand H."
           ],
           "statut": "brouillon"
+        },
+        "GDR": {
+          "ancre": "3978830",
+          "citations": [
+            "Avec cette proposition de loi, la nation admet que l'interdiction de l'IVG constituait une atteinte à la santé des femmes, à leur autonomie sexuelle et reproductive, à l'égalité entre les femmes et les hommes, aux droits des femmes et au droit au respect de la vie privée.",
+            "La création d'une commission nationale indépendante chargée de recueillir la parole des femmes afin de documenter leur vécu, d'enrichir les travaux historiques et de transmettre la mémoire des préjudices subis, est cruciale."
+          ],
+          "statut": "auto",
+          "methode": "justification"
         }
       }
     },
@@ -1004,23 +1013,91 @@
         "RN": {
           "ancre": "3384848",
           "citations": [
-            "Aussi, si les députés du Rassemblement national voteront chacun selon leurs légitimes convictions, nombre d'entre eux approuveront ce texte, rappelant clairement à qui, de bonne foi, craindrait le contraire qu'il ne serait pas envisageable de revenir sur cette liberté."
+            "Paradoxalement, c'est l'idée inverse qui s'est installée, selon laquelle le droit à l'IVG était en danger et qu'il était urgent de le constitutionnaliser pour le protéger d'une future majorité qui chercherait à le supprimer. Or aucune formation politique actuelle n'annonce un tel projet.",
+            "L'inscription du droit à l'IVG à l'article 34 de la Constitution confirme la pleine autorité du législateur pour fixer les conditions de son exercice et empêche l'adoption d'une loi qui l'interdirait totalement ou priverait sa légalité de toute effectivité."
           ],
-          "statut": "auto"
+          "annonce": "Aussi, si les députés du Rassemblement national voteront chacun selon leurs légitimes convictions, nombre d'entre eux approuveront ce texte, rappelant clairement à qui, de bonne foi, craindrait le contraire qu'il ne serait pas envisageable de revenir sur cette liberté.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "LR": {
           "ancre": "3384803",
           "citations": [
-            "Bien que ce risque soit lointain, nous acceptons de le regarder en face. C'est la raison pour laquelle la grande majorité des députés Les Républicains voteront pour cette modification de la Constitution."
+            "Sans parler des États-Unis, autour de nous, au sein de l'Union européenne, en Pologne et en Hongrie, le droit à l'avortement est restreint. Ces menaces ne peuvent pas nous laisser indifférents. Bien que ce risque soit lointain, nous acceptons de le regarder en face."
           ],
-          "statut": "auto"
+          "annonce": "C'est la raison pour laquelle la grande majorité des députés Les Républicains voteront pour cette modification de la Constitution.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "HOR": {
           "ancre": "3384881",
           "citations": [
-            "Évidemment, le groupe Horizons et apparentés votera en faveur de ce projet de loi."
+            "La liberté de recourir à l'IVG ne fait l'objet d'aucune consécration dans nos textes fondateurs, nationaux ou européens. Si, d'aventure, elle était un jour menacée, il serait trop tard pour la protéger.",
+            "Une fois cette dernière inscrite dans la Constitution, le législateur ne pourra plus interdire le recours à l'IVG, ni en restreindre les conditions d'exercice de façon telle qu'il priverait cette liberté de toute portée."
           ],
-          "statut": "auto"
+          "annonce": "Évidemment, le groupe Horizons et apparentés votera en faveur de ce projet de loi.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "RE": {
+          "ancre": "3384830",
+          "citations": [
+            "Car cette liberté, si chère à tous les Français, ne faisait pourtant l'objet d'aucune protection supralégislative. Or comment accepter qu'un droit aussi fondamental que celui des citoyennes à disposer de leur corps puisse être l'otage des conjonctures du monde ? Parce que nous considérons cette liberté comme fondamentale et intangible, notre devoir est de lui conférer une valeur constitutionnelle."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "LFI-NUPES": {
+          "ancre": "3384782",
+          "citations": [
+            "Notre vote aujourd'hui a le sens d'une reconnaissance, celle du droit à l'avortement comme droit fondamental humain. Car pèse toujours sur les droits des femmes la menace d'une régression. Car le droit à l'avortement figure toujours en premier sur la liste des conquêtes à abattre pour l'extrême droite."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "Dem": {
+          "ancre": "3384762",
+          "citations": [
+            "Inscrire la « liberté garantie pour toute femme de recourir à l'avortement » dans notre Constitution n'est ni inutile ni superflu. C'est une volonté forte et exigeante, pour le présent et pour le futur. C'est protéger ce droit et affirmer notre indéfectible attachement aux droits des femmes et des hommes."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "SOC": {
+          "ancre": "3384707",
+          "citations": [
+            "Qui peut alors, dans cette époque de doutes et d'instabilité, préjuger de ce qu'il pourrait advenir demain en France ?",
+            "Il ne s'agit pas uniquement d'inscrire ce droit dans notre loi fondamentale, mais bien de nous donner les moyens de le rendre effectif. Il serait bien malvenu de tous se réunir aujourd'hui pour consacrer un droit, sans pour autant en garantir l'applicabilité."
+          ],
+          "annonce": "Parce qu'aujourd'hui nous votons pour des milliers de femmes, pour leurs droits, leur liberté, leur corps et leur vie ; parce que, par ce vote, nous contribuerons à fonder une communauté politique de citoyennes et de citoyens égaux ; parce que, là où le droit est bien souvent en retard sur la société, il s'agit, dès aujourd'hui, de se prémunir ; parce qu'il est de la responsabilité de la France, pays des droits humains, d'envoyer un signal fort qui transcende ses frontières, les députés socialistes sont fiers de voter aujourd'hui pour graver l'inscription de l'IVG dans la norme suprême de la République.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3384907",
+          "citations": [
+            "Depuis 1975, l'avortement est enfin légal en France, mais il n'existait pas, jusqu'au vote qui nous réunit aujourd'hui, de protection de la liberté de recourir à l'interruption volontaire de grossesse par le juge constitutionnel. Ce que la loi a pu faire, la loi pouvait le défaire."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "GDR-NUPES": {
+          "ancre": "3384930",
+          "citations": [
+            "Pour nous, cette constitutionnalisation est loin de n'être qu'un symbole. Nous savons que même dans les grandes démocraties, le retour en arrière est possible. Nous savons aussi que lorsque l'extrême droite arrive au pouvoir, elle s'en prend d'abord aux droits des femmes, en particulier à leurs droits reproductifs.",
+            "Pour nos mères, nos filles et nos sœurs d'ici et d'ailleurs, nous affirmons, ici et maintenant, que le droit à disposer de son corps est un droit fondamental et qu'il est essentiel à la liberté individuelle. Il constitue donc une condition indispensable à l'existence de toutes les autres libertés."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "LIOT": {
+          "ancre": "3384945",
+          "citations": [
+            "Il est vrai qu'aujourd'hui, personne ne remet ce droit en cause, mais qu'en sera-t-il demain ? Nous avons tous en tête cette citation de Simone de Beauvoir : « Il suffira d'une crise politique, économique et religieuse pour que le droit des femmes soit remis en question. » Nous allons graver cette liberté dans la norme suprême ; nous lui donnons ainsi plus de force."
+          ],
+          "annonce": "Les membres de mon groupe se prononceront, comme toujours, à la lumière de ce que leur dicte leur conscience, mais très, très majoritairement en faveur de ce texte.",
+          "statut": "auto",
+          "methode": "justification"
         }
       }
     },
@@ -1032,58 +1109,102 @@
         "LIOT": {
           "ancre": "3357506",
           "citations": [
-            "Nous devons veiller à garantir un accès effectif à l'IVG ; cela impose une réponse forte de l'État. La très grande majorité des membres de mon groupe votera pour cette avancée en faveur du droit des femmes et de la liberté de choisir ou non de donner la vie."
+            "La loi Veil est une garantie essentielle pour le droit à l'IVG, mais ce droit n'est garanti que par la loi ordinaire. Une autre loi pourrait donc le limiter, le restreindre et revenir sur ces acquis.",
+            "À ceux qui estiment qu'il n'y a là qu'un symbole, je veux dire qu'il ne s'agit aucunement de faire semblant, mais de renforcer une protection ordinaire pour lui offrir un bouclier constitutionnel à la hauteur des enjeux."
           ],
-          "statut": "auto"
+          "annonce": "La très grande majorité des membres de mon groupe votera pour cette avancée en faveur du droit des femmes et de la liberté de choisir ou non de donner la vie.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "RE": {
           "ancre": "3357519",
           "citations": [
-            "Cette liberté, essentielle, a toute sa place dans notre Constitution. Pour toutes ces raisons, le groupe Renaissance votera bien sûr en faveur de ce projet de loi constitutionnelle."
+            "Non, le droit de recourir à l'IVG n'est, en l'état du droit, protégé par aucune norme supralégislative, de sorte que si nous ne parvenions pas à faire aboutir cette réforme constitutionnelle, une simple loi ordinaire pourrait tout à fait venir effacer l'édifice juridique qu'une succession de lois a créé en un demi-siècle.",
+            "Voter pour ce bouclier protecteur n'est pas faire preuve de pessimisme, mais de responsabilité. C'est anticiper de probables évolutions particulièrement néfastes avant qu'il ne soit trop tard pour nous en prémunir."
           ],
-          "statut": "auto"
+          "annonce": "Pour toutes ces raisons, le groupe Renaissance votera bien sûr en faveur de ce projet de loi constitutionnelle.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "LR": {
           "ancre": "3357854",
           "citations": [
-            "Je voterai donc pour ce texte avec exigence, en préconisant un vote final au Sénat, qui me paraît bien plus protecteur de cet équilibre"
+            "Pour nous, cette constitutionnalisation consiste à garantir que personne en France ne pourra revenir sur la liberté pour la femme de recourir à l'IVG,… …comme c'est dramatiquement le cas aux États-Unis, en Hongrie et en Pologne. Il s'agit tout autant de nous prémunir contre toute velléité d'utiliser cette inscription dans la Constitution pour supprimer les délais d'IVG ou restreindre la clause de conscience des soignants."
           ],
-          "statut": "auto"
+          "annonce": "Chez Les Républicains, nous respectons sur ces questions un principe fondamental : la liberté de conscience absolue et la liberté de vote de chacun de nos députés.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "Dem": {
           "ancre": "3357886",
           "citations": [
-            "En mémoire de nos grands-mères, qui ont tant souffert de ne pas avoir ce droit, à qui la liberté de disposer de leur corps a tant manqué, et pour garantir demain ce droit à nos filles et à nos petites-filles, écrivons un nouveau chapitre dans l'histoire des droits des femmes. Le groupe Démocrate votera pour la constitutionnalisation de l'IVG."
+            "Elle consacre l'existence d'une liberté, conformément à l'esprit de la loi de Simone Veil de 1975. Elle reconnaît le rôle du Parlement dans l'établissement des conditions dans lesquelles s'exerce cette liberté, garantie par la Constitution.",
+            "En votant ce texte, nous ne reviendrons toutefois jamais en arrière."
           ],
-          "statut": "auto"
+          "annonce": "Le groupe Démocrate votera pour la constitutionnalisation de l'IVG.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "SOC": {
           "ancre": "3358198",
           "citations": [
-            "Parce qu'il est important de mettre sévèrement en échec ceux qui combattent les droits des femmes ; parce que des millions de femmes attendent un signal fort pour aujourd'hui et pour demain ; parce que partout dans le monde, la voie tracée par la France est suivie de près lorsqu'il s'agit de protéger des droits fondamentaux ; parce que nous avons les droits des femmes chevillés au corps ; enfin, parce que c'est juste et nécessaire, les députés du groupe Socialistes et apparentés voteront avec fierté ce projet de loi constitutionnelle, pour contribuer à faire de ce jour une grande victoire féministe."
+            "Oui, la constitutionnalisation conférera un niveau supérieur de protection juridique, en protégeant ce qu'une simple loi pourrait défaire demain.",
+            "Non, le droit à l'avortement ne bénéficie pas encore d'un niveau de protection juridique renforcé. Non, il ne jouit pas d'une protection constitutionnelle autonome."
           ],
-          "statut": "auto"
+          "annonce": "Parce qu'il est important de mettre sévèrement en échec ceux qui combattent les droits des femmes ; parce que des millions de femmes attendent un signal fort pour aujourd'hui et pour demain ; parce que partout dans le monde, la voie tracée par la France est suivie de près lorsqu'il s'agit de protéger des droits fondamentaux ; parce que nous avons les droits des femmes chevillés au corps ; enfin, parce que c'est juste et nécessaire, les députés du groupe Socialistes et apparentés voteront avec fierté ce projet de loi constitutionnelle, pour contribuer à faire de ce jour une grande victoire féministe.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "HOR": {
           "ancre": "3358220",
           "citations": [
-            "Parce qu'il consacre la liberté de la femme, la protection de ses choix et le rôle des représentants du peuple dans la fixation du cadre dans lequel cette liberté s'exerce, le groupe Horizons et apparentés votera en faveur de ce projet de loi avec force et conviction."
+            "Oui, d'abord et avant tout parce que le jour où cette liberté sera réellement menacée, il sera trop tard.",
+            "En outre, vous n'êtes pas sans savoir qu'assise sur une simple loi ordinaire, cette liberté est bien plus fragile qu'il n'y paraît : elle est réversible au gré de la composition de cet hémicycle.",
+            "Ce texte n'a qu'un seul but : encadrer l'office du législateur, afin qu'il ne puisse plus interdire tout recours à l'IVG ni en restreindre les conditions d'exercice de façon à priver cette liberté de toute portée."
           ],
-          "statut": "auto"
+          "annonce": "Parce qu'il consacre la liberté de la femme, la protection de ses choix et le rôle des représentants du peuple dans la fixation du cadre dans lequel cette liberté s'exerce, le groupe Horizons et apparentés votera en faveur de ce projet de loi avec force et conviction.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "Ecolo-NUPES": {
           "ancre": "3358242",
           "citations": [
-            "Nous, écologistes, voterons pour ce texte !"
+            "Les femmes n'ont pas à voir leur parcours d'IVG compliqué par l'éloignement du centre de soins ou par la nécessité de conférer à cet acte un caractère exceptionnel. Lorsqu'une femme décide d'avorter, c'est à la société de s'adapter pour lui garantir ce droit.",
+            "Intégrer le droit à l'IVG dans la Constitution, c'est passer de la Déclaration des droits de l'homme à celle des droits humains. C'est postuler que le masculin n'est pas le neutre et que la liberté se décline sur nos corps de manière différente."
           ],
-          "statut": "auto"
+          "annonce": "Nous, écologistes, voterons pour ce texte !",
+          "statut": "auto",
+          "methode": "justification"
         },
         "GDR-NUPES": {
           "ancre": "3358450",
           "citations": [
-            "Le combat du groupe GDR pour les droits des femmes s'inscrit dans la lignée des grandes luttes féministes d'hier, d'aujourd'hui et de demain. Parce que jamais nous ne baisserons la garde, nous voterons pour ce projet de loi constitutionnelle."
+            "Ces exemples démontrent bien le danger que de telles décisions représentent, y compris en France. C'est la raison pour laquelle nous ne voulons pas attendre que ce risque se transforme en réalité pour agir : nous ne voulons pas que ce droit si durement acquis soit confisqué.",
+            "Cela étant, il faut garantir partout en France le droit effectif à l'interruption volontaire de grossesse, en y consacrant les moyens nécessaires."
           ],
-          "statut": "auto"
+          "annonce": "Parce que jamais nous ne baisserons la garde, nous voterons pour ce projet de loi constitutionnelle.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "RN": {
+          "ancre": "3357535",
+          "citations": [
+            "Vous ne m'enlèverez pas de l'esprit qu'il s'agit d'une pâle diversion, notamment destinée à masquer le véritable problème : l'effectivité de l'accès à l'IVG sur tout le territoire français. Cela devrait d'ailleurs vous inquiéter car, près de cinquante ans après l'adoption de la loi Veil, nombre de femmes, principalement dans les zones rurales, ne parviennent pas à recourir à une IVG dans le délai légal.",
+            "La Constitution étant le texte suprême, les députés du Rassemblement national considèrent que ce projet de loi constitutionnelle devrait quoi qu'il en soit être soumis à référendum car la Constitution ne devrait pouvoir être modifiée que directement par le peuple souverain."
+          ],
+          "annonce": "Farouchement attaché à la liberté de conscience, le groupe Rassemblement national laissera chacun voter en conscience.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "LFI-NUPES": {
+          "ancre": "3357837",
+          "citations": [
+            "Ce texte est surtout une promesse de sûreté, une garantie apportée à toutes celles qui viendront après nous qu'elles jouiront des mêmes droits que nous.",
+            "Loin d'être un droit parmi d'autres dans un catalogue, le droit à l'avortement est celui qui préside tous les autres, celui qui nous élève au rang de sujets politiques."
+          ],
+          "annonce": "Des marges, entrons maintenant au cœur de l'histoire : votons cette loi.",
+          "statut": "auto",
+          "methode": "justification"
         }
       }
     },
@@ -1095,44 +1216,97 @@
         "LFI-NUPES": {
           "ancre": "2926071",
           "citations": [
-            "Bien entendu, certains ont émis des réserves ; ils ont déposé des amendements. Mais ils la voteront."
+            "La preuve, c'est qu'elles sont tout aussi nombreuses à avorter lorsque l'IVG est interdite. Elles sont donc prêtes à mettre en danger leur santé, voire leur vie, en pratiquant des IVG clandestines non sécurisées.",
+            "C'est pour ces raisons que nous nous battons aujourd'hui pour assurer une meilleure protection juridique au droit à l'avortement ainsi qu'à la contraception."
           ],
-          "statut": "auto"
+          "statut": "auto",
+          "methode": "justification"
         },
         "LIOT": {
           "ancre": "2926107",
           "citations": [
-            "Mes chers collègues, je fais le choix de renforcer les acquis de la loi Veil et de parer à un avenir incertain, en actant cette consécration au rang constitutionnel. Je voterai pour cette proposition de loi."
+            "La loi Veil est une garantie essentielle pour le droit à l'IVG mais ce droit est inscrit dans la loi ordinaire. Une autre loi pourrait le limiter, le restreindre et revenir sur ces acquis.",
+            "À ceux qui disent que cette PPLC est d'ordre symbolique, je veux dire qu'il ne s'agit aucunement de faire semblant mais de renforcer une protection ordinaire pour lui offrir un bouclier constitutionnel à la hauteur des enjeux."
           ],
-          "statut": "auto"
+          "annonce": "Je voterai pour cette proposition de loi.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "Dem": {
           "ancre": "2926121",
           "citations": [
-            "En d'autres termes, cette nouvelle formulation consacrerait le caractère fondamental de ce droit, la nécessité de son encadrement par la loi, mais aussi un principe de non-régression en la matière, rendant inconstitutionnel tout dispositif législatif qui porterait atteinte à son exercice. Mon groupe souhaite également que la contraception ne figure pas dans le dispositif : si tel est le cas, il votera ce texte."
+            "Si nous débattons aujourd'hui, c'est que le droit à l'IVG ne bénéficie pas de la protection la plus forte qui soit : son inscription dans notre norme suprême, la Constitution.",
+            "En ces temps de nécessaire protection des droits des femmes et du renforcement de l'égalité entre les femmes et les hommes, la constitutionnalisation de l'IVG serait un signal fort et un message utile au reste du monde car, à ce jour, aucune Constitution ne reconnaît ce droit de façon positive."
           ],
-          "statut": "auto"
+          "annonce": "Mon groupe souhaite également que la contraception ne figure pas dans le dispositif : si tel est le cas, il votera ce texte.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "SOC": {
           "ancre": "2926132",
           "citations": [
-            "Nous ne voulons pas d'un débat public nauséabond et insultant à l'encontre de toutes les femmes. C'est pourquoi nous vous demandons de reprendre ce texte dans un projet de loi, pour lequel nous voterons."
+            "L'absence actuelle de remise en cause de l'avortement dans notre pays constitue précisément la raison pour laquelle le droit à l'IVG doit être constitutionnalisé dès maintenant. Dès lors que le droit fondamental serait inscrit dans la Constitution, il serait protégé d'initiatives politiques qui tendraient à lui porter atteinte."
           ],
-          "statut": "auto"
+          "statut": "auto",
+          "methode": "justification"
         },
         "HOR": {
           "ancre": "2926147",
           "citations": [
-            "Madame la rapporteure, je tiens à souligner la qualité de la collaboration transpartisane qui s'est établie entre nous : vous avez pris en considération nos remarques sur la nouvelle rédaction et nous vous en remercions. Le groupe Horizons votera donc en faveur de la constitutionnalisation du droit à l'interruption volontaire de grossesse."
+            "Le groupe Horizons et apparentés estime qu'il est absolument nécessaire que ce droit continue d'être protégé et renforcé.",
+            "C'est la raison pour laquelle nous souhaitons qu'il soit précisé qu'il revient à la loi de garantir l'effectivité de l'accès à l'IVG."
           ],
-          "statut": "auto"
+          "annonce": "Le groupe Horizons votera donc en faveur de la constitutionnalisation du droit à l'interruption volontaire de grossesse.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "RE": {
           "ancre": "2926431",
           "citations": [
-            "Malgré ces réserves majeures et malgré les désaccords profonds et nombreux que nous avons avec le groupe La France insoumise-NUPES, nous voterons cette proposition de loi car, face aux menaces et au nom de cette responsabilité forte que nous avons vis-à-vis de nos filles et de nos petites-filles ainsi que des combattantes et des combattants féministes du monde entier, le combat en faveur du droit des femmes à disposer de leur corps ne peut souffrir aucun atermoiement, ni aucune considération partisane."
+            "Elle atteste d'une nécessité apparue à tous les défenseurs des droits des femmes : celle de se prémunir contre toute régression de ces droits, acquis de haute lutte, et qui, n'en déplaise à certaines personnes présentes ici, sont effectivement, profondément et gravement menacés.",
+            "On véhicule insidieusement l'idée selon laquelle le droit à l'IVG n'est pas vraiment un droit, qu'il doit s'appréhender comme un dispositif dérogatoire, qu'il s'agit d'une tolérance. Or une tolérance, on peut y mettre fin à tout moment."
           ],
-          "statut": "auto"
+          "annonce": "Et c'est également pour cette raison que nous voterons en faveur du texte qui nous est soumis aujourd'hui.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "2926157",
+          "citations": [
+            "À l'heure actuelle, rien dans notre texte fondamental ne protège directement le droit à l'avortement ; et nous savons à quel point la jurisprudence constitutionnelle laisse au législateur une grande latitude d'action.",
+            "La liberté d'interrompre une grossesse est une condition de l'égalité réelle entre les femmes et les hommes."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "GDR-NUPES": {
+          "ancre": "2926181",
+          "citations": [
+            "D'abord, tout simplement, parce que nous considérons qu'il s'agit là d'un droit fondamental, et qui doit être consacré comme tel.",
+            "Nous voulons cette constitutionnalisation car nous savons que ce droit peut être remis en cause à la faveur de l'une des crises qui s'accumulent dans nos sociétés.",
+            "Depuis quinze ans, 130 centres d'IVG ont été fermés ; et vu l'état de la santé publique dans notre pays, oui, on peut dire que l'effectivité de ce droit est menacée."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "LR": {
+          "ancre": "2926200",
+          "citations": [
+            "Dans notre pays, le droit à l'IVG fait déjà l'objet d'une protection constitutionnelle solide et durable.",
+            "Il y a donc un véritable risque d'inscrire dans la Constitution un droit à l'avortement sans conditions et jusqu'au terme de la grossesse."
+          ],
+          "annonce": "En définitive, le groupe Les Républicains ne donnera pas de consigne de vote sur ce texte.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "RN": {
+          "ancre": "2926459",
+          "citations": [
+            "Tout d'abord, le fait d'inscrire un droit à l'IVG dans la Constitution ne permettrait pas de résoudre la question majeure de l'effectivité de l'accès à ce droit.",
+            "En effet, la formulation proposée dans le présent texte laisse à penser que l'accès à l'IVG serait un droit inconditionnel et absolu, sans que le législateur ne puisse y fixer de bornes."
+          ],
+          "statut": "auto",
+          "methode": "justification"
         }
       }
     }

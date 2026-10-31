@@ -12,58 +12,109 @@
         "GDR": {
           "ancre": "4118994",
           "citations": [
-            "Je remercie grandement la rapporteure Émeline K/Bidi pour son travail constant et déterminé. Pour toutes ces raisons, les députés du groupe GDR voteront en faveur de cette proposition de loi."
+            "La récupération sur succession ne concerne pas les grandes fortunes qui, elles, disposent généralement de tous les outils pour y échapper. Nous parlons ici de familles modestes qui possèdent parfois uniquement leur résidence principale.",
+            "Depuis des années, on nous explique qu'il faut lutter contre le non-recours aux droits sociaux. Dans le même temps, on maintient un mécanisme qui conduit encore de nombreuses personnes âgées à renoncer à une aide essentielle."
           ],
-          "statut": "auto"
+          "annonce": "Pour toutes ces raisons, les députés du groupe GDR voteront en faveur de cette proposition de loi.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "UDR": {
           "ancre": "4119003",
           "citations": [
-            "Le groupe UDR n'est évidemment pas opposé à la solidarité, mais combat l'assistanat déguisé en réforme sociale, les mesures qui, sous couvert de justice, créent de nouvelles injustices et de nouveaux déséquilibres. Pour toutes ces raisons, le groupe UDR votera contre ce texte en l'état."
+            "Le texte amendé prévoit l'abandon pur et simple de tout principe de récupération, ce qui revient à ouvrir une brèche béante dans nos finances publiques déjà exsangues, sans étude d'impact sérieuse, sans mécanisme de contrôle, sans considération pour la diversité des situations patrimoniales.",
+            "Si le seuil de 150 000 euros ne suffit plus dans les territoires d'outre-mer, relevons-le encore ou indexons-le sur les prix de l'immobilier local, avec une actualisation tous les trois ans sur la base d'études des services préfectoraux."
           ],
-          "statut": "auto"
+          "annonce": "Pour toutes ces raisons, le groupe UDR votera contre ce texte en l'état.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "RN": {
           "ancre": "4119009",
           "citations": [
-            "C'est dans cet esprit que le groupe Rassemblement national votera en faveur de la proposition de loi."
+            "Elle envoie un message net à nos aînés : demander l'Aspa ne fait plus peser une menace sur les familles. Il n'est pas acceptable que le non-recours concerne aujourd'hui 300 000 personnes. Supprimer la récupération sur succession revient à lever un frein."
           ],
-          "statut": "auto"
+          "annonce": "C'est dans cet esprit que le groupe Rassemblement national votera en faveur de la proposition de loi.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "EPR": {
           "ancre": "4119087",
           "citations": [
-            "Je salue votre travail, monsieur le ministre, ainsi que celui de votre cabinet et de vos services, qui ont sans doute été mobilisés jusqu'à une heure avancée pour aboutir à cette solution. Le groupe Ensemble pour la République votera en faveur de l'amendement no 14 du gouvernement et de la proposition de loi ainsi amendée."
+            "Le nouveau mécanisme proposé ce matin par le gouvernement, inspiré de celui applicable au RSA, renverse cette logique en instaurant un forfait logement sur la base d'un dégrèvement de l'Aspa pour les personnes propriétaires ou hébergées gratuitement.",
+            "Comme vous, madame la rapporteure, nous entendons remédier à ces deux situations, et la solution trouvée par le gouvernement nous satisfait largement car elle permet une simplification et garantit la solidarité en favorisant le recours à l'Aspa."
           ],
-          "statut": "auto"
+          "annonce": "Le groupe Ensemble pour la République votera en faveur de l'amendement no 14 du gouvernement et de la proposition de loi ainsi amendée.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "LFI-NFP": {
           "ancre": "4119093",
           "citations": [
-            "Il va cependant dans le bon sens et constitue une avancée réelle. C'est pourquoi nous le soutiendrons."
+            "Selon la Drees, plus d'un bénéficiaire potentiel sur deux ne demande pas l'Aspa – un non-recours massif.",
+            "D'autre part parce que l'État reprend l'argent à votre mort. La récupération sur succession est inadmissible. Après avoir trimé toute votre vie, vous touchez l'Aspa pour survivre et vos enfants devront rembourser."
           ],
-          "statut": "auto"
+          "annonce": "C'est pourquoi nous le soutiendrons.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "EcoS": {
           "ancre": "4119189",
           "citations": [
-            "Merci à Émeline K/Bidi, merci au groupe GDR de présenter ce texte. Évidemment, nous voterons pour."
+            "Or chaque année, plus de 300 000 personnes âgées éligibles n'en font pas la demande – des personnes isolées, bien trop souvent des femmes.",
+            "Cette proposition de loi est donc bienvenue. Elle permettra d'améliorer les conditions de vie de plusieurs milliers de personnes victimes de la vie chère, en incitant davantage les retraités précaires à recourir à l'Aspa."
           ],
-          "statut": "auto"
+          "annonce": "Évidemment, nous voterons pour.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "Dem": {
           "ancre": "4119195",
           "citations": [
-            "Ce serait neutre budgétairement, plus simple administrativement et il n'y aurait plus la crainte du recours sur succession. Si cet amendement est adopté, nous voterons en faveur de ce texte ; à défaut, nous nous abstiendrons."
+            "La suppression totale du mécanisme bénéficierait aux héritiers, pas aux allocataires les plus modestes.",
+            "Ce serait neutre budgétairement, plus simple administrativement et il n'y aurait plus la crainte du recours sur succession."
           ],
-          "statut": "auto"
+          "annonce": "Si cet amendement est adopté, nous voterons en faveur de ce texte ; à défaut, nous nous abstiendrons.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "HOR": {
           "ancre": "4119202",
           "citations": [
-            "Le groupe Horizons & indépendants aborde donc la discussion du texte dans un esprit constructif, fidèle au double objectif qui devrait tous nous rassembler : protéger le toit des familles modestes sans renoncer à l'équité qui fonde la solidarité nationale. Nous voterons donc en faveur de l'amendement du gouvernement et du texte qui serait issu de son adoption."
+            "Supprimer entièrement le recouvrement, ce serait faire bénéficier de la même protection l'héritier d'un patrimoine de 600 000 euros et celui d'une modeste maison familiale.",
+            "C'est le sens de l'amendement du gouvernement, qui propose, à l'issue d'un travail avec la rapporteure, de remplacer le dispositif par un mécanisme de forfait logement, inspiré de celui applicable au revenu de solidarité active."
           ],
-          "statut": "auto"
+          "annonce": "Nous voterons donc en faveur de l'amendement du gouvernement et du texte qui serait issu de son adoption.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "SOC": {
+          "ancre": "4119099",
+          "citations": [
+            "Ce système pénalise les classes moyennes, notamment les petits propriétaires, très nombreux dans le monde rural, ceux qui ont économisé toute leur vie pour acquérir leur résidence et dont les enfants sont privés d'un héritage mérité du fait de la récupération sur succession. Ce système favorise en outre le non-recours."
+          ],
+          "annonce": "Ce texte recueille donc le soutien du groupe Socialiste et apparentés et nous remercions la rapporteure pour le travail qu'elle a mené.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "DR": {
+          "ancre": "4119103",
+          "citations": [
+            "Ce changement n'est pas neutre, d'autant plus que la récupération sur succession repose sur une logique particulière : l'Aspa n'est pas une prestation contributive mais une prestation de solidarité financée par la collectivité, et le législateur a toujours considéré qu'il était légitime que cette solidarité puisse être récupérée lorsque le bénéficiaire dispose d'un patrimoine significatif à son décès.",
+            "On peut débattre de cette logique, souhaiter l'assouplir, mais le choix politique d'y mettre totalement fin appellerait une évaluation précise qui nous manque ce matin, vu notamment que le gouvernement a déposé son amendement à la dernière minute."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "LIOT": {
+          "ancre": "4119522",
+          "citations": [
+            "Nous ne pouvons accepter que des personnes âgées renoncent à une aide à laquelle elles ont droit par crainte de pénaliser leurs enfants ou leurs petits-enfants. La solidarité nationale ne doit pas avoir pour condition la perte du peu que l'on espère transmettre à ses proches.",
+            "Le remboursement de l'Aspa ne représente que 117 millions d'euros chaque année, soit moins de 0,004 % du PIB. Au vu de la faible ressource qu'il constitue, sa suppression nous apparaît donc comme un choix de justice pondéré."
+          ],
+          "annonce": "Pour toutes ces raisons, le groupe LIOT soutient la proposition de loi, ainsi que l'amendement no 14 du gouvernement.",
+          "statut": "auto",
+          "methode": "justification"
         }
       }
     },
@@ -76,37 +127,107 @@
         "RN": {
           "ancre": "4116380",
           "citations": [
-            "Au fond, le texte que nous examinons pose la question simple de la justice et de la reconnaissance envers le monde agricole. Le groupe Rassemblement national soutient les principales mesures de cette proposition de loi et votera en faveur du texte."
+            "Nous soutenons l'article 1er, qui supprime le mécanisme d'écrêtement du complément différentiel de retraite complémentaire obligatoire. Ce système a privé des dizaines de milliers de retraités agricoles, notamment des polypensionnés, de la revalorisation promise des pensions à hauteur de 85 % du smic.",
+            "Nous soutenons également l'article 3, qui étend cette garantie minimale aux conjoints collaborateurs et aux aides familiaux. Derrière ces statuts, il y a souvent des femmes ayant travaillé toute leur vie sur une exploitation sans bénéficier d'une véritable reconnaissance sociale ni de droits suffisants pour leur retraite."
           ],
-          "statut": "auto"
+          "annonce": "Le groupe Rassemblement national soutient les principales mesures de cette proposition de loi et votera en faveur du texte.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "EPR": {
           "ancre": "4116395",
           "citations": [
-            "Pour toutes ces raisons, je voterai ce texte."
+            "De nombreux retraités n'ont pas pleinement bénéficié des revalorisations annoncées. Les mécanismes d'écrêtement ont parfois réduit, voire annulé les gains attendus.",
+            "Je la vote parce qu'il n'est pas acceptable que des femmes ayant exercé pendant des décennies comme conjointes collaboratrices continuent de vivre avec des pensions qui demeurent parmi les plus faibles de notre système de retraite."
           ],
-          "statut": "auto"
+          "annonce": "Parce que ce texte soulève à la fois des enjeux de justice sociale et des questions légitimes de financement, le groupe Ensemble pour la République a fait le choix de laisser à chacun de ses membres sa liberté d'appréciation.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "DR": {
           "ancre": "4116432",
           "citations": [
-            "Pour ma part, ayant été agriculteur et ayant vu ma mère être la première à se lever le matin pour démarrer la journée et la dernière à se coucher le soir après une dure journée de labeur, je voterai ce texte."
+            "Nous soutenons notamment la suppression du mécanisme d'écrêtement du complément différentiel de RCO, et l'extension de ce dernier aux conjoints collaborateurs et aux aides familiaux.",
+            "D'une part, certaines mesures, en particulier l'article 2, étaient inconstitutionnelles et fragilisaient l'ensemble de la proposition de loi.",
+            "D'autre part, les mesures que contient la proposition de loi ne sont pour l'instant pas financées puisqu'elles reposent uniquement sur une augmentation de la taxe sur les transactions financières."
           ],
-          "statut": "auto"
+          "annonce": "Mon groupe décidera de son vote sur ce texte en fonction des amendements adoptés.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "EcoS": {
           "ancre": "4116441",
           "citations": [
-            "Nous apporterons notre soutien plein et entier à cette proposition de loi, nécessaire à la dignité des agriculteurs et des agricultrices qui ont consacré leur vie à assurer notre subsistance."
+            "La proposition de loi que défend notre collègue Brugerolles tend à rectifier le tir en corrigeant ces injustices. Elle étend le bénéfice de la revalorisation du régime complémentaire obligatoire à l'ensemble des conjointes et des aides familiaux. Elle revient sur la prise en compte honteuse des majorations liées aux enfants et de la pension de réversion dans le calcul des revalorisations."
           ],
-          "statut": "auto"
+          "annonce": "Nous apporterons notre soutien plein et entier à cette proposition de loi, nécessaire à la dignité des agriculteurs et des agricultrices qui ont consacré leur vie à assurer notre subsistance.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "GDR": {
           "ancre": "4116846",
           "citations": [
-            "Il prolonge ainsi notre combat pour la justice, pour la dignité et pour la reconnaissance. Pour toutes ces raisons, nous voterons bien évidemment le texte présenté par notre collègue Julien Brugerolles, que nous félicitons pour cette initiative."
+            "La proposition de loi s'attache donc à supprimer d'abord l'écrêtement du complément différentiel de retraite complémentaire obligatoire, qui a privé de nombreux assurés polypensionnés du bénéfice plein de la garantie portée à 85 % du smic. Elle étend ensuite ce complément aux conjoints collaborateurs et aux aides familiaux, autrement dit à celles qui ont travaillé sur les exploitations, souvent dans l'ombre.",
+            "Ce texte ne prétend pas tout régler, mais il répond à une exigence : que les avancées votées par le Parlement produisent réellement leurs effets pour toutes celles et tous ceux auxquelles elles étaient destinées."
           ],
-          "statut": "auto"
+          "annonce": "Pour toutes ces raisons, nous voterons bien évidemment le texte présenté par notre collègue Julien Brugerolles, que nous félicitons pour cette initiative.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "LFI-NFP": {
+          "ancre": "4116413",
+          "citations": [
+            "L'effet de ces dispositions a cependant été limité par des mécanismes d'écrêtement introduits par les gouvernements macronistes de l'époque. Plus de 100 000 retraités agricoles ont ainsi été exclus de la revalorisation. Le texte examiné aujourd'hui permet de réparer cette injustice en supprimant l'écrêtement."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "SOC": {
+          "ancre": "4116424",
+          "citations": [
+            "C'est pourquoi le groupe socialiste accueille favorablement plusieurs mesures techniques de cette proposition de loi qui corrigent des injustices frappant particulièrement les femmes : la suppression de certains mécanismes d'écrêtement qui neutralisent les revalorisations, l'extension du complément différentiel aux conjoints et aux aides familiaux ainsi que l'exclusion de la pension de réversion et des majorations pour enfants du calcul de certains seuils."
+          ],
+          "annonce": "Parce que la dignité des retraités agricoles n'est pas négociable, le groupe Socialistes et apparentés apporte évidemment son soutien à ce texte important.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "Dem": {
+          "ancre": "4116822",
+          "citations": [
+            "En réalité, il procède d'une logique de solidarité : il vise à orienter l'effort national vers le soutien à celles et ceux dont les ressources demeurent les plus faibles. Supprimer purement et simplement ce dispositif conduirait au versement des mêmes majorations à des retraités dont les situations sont parfois très différentes, et à une dilution des moyens disponibles plutôt qu'à leur concentration au profit de ceux qui en ont le plus besoin.",
+            "Le coût du texte pour notre système social est estimé à 1 milliard d'euros, alors que nous devons déjà résorber un déficit d'une vingtaine de milliards."
+          ],
+          "annonce": "Mais les conditions pour que nous soutenions ce texte jusqu'au bout ne sont pas réunies.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "HOR": {
+          "ancre": "4116830",
+          "citations": [
+            "Sur le fond, notre groupe doit être honnête – il faut l'être avec nos agriculteurs : ce texte tend à engager 1 milliard d'euros de dépenses nouvelles. Son seul article 3 coûterait 600 millions d'euros, selon votre évaluation, monsieur le rapporteur, alors même que la loi Dive, qui fonde enfin le calcul des pensions agricoles sur les vingt-cinq meilleures années, n'est entrée en vigueur que le 1er janvier dernier et que nous n'avons aucun recul sur ses effets.",
+            "Le dire, ce n'est pas manquer de cœur envers nos agriculteurs, mais bien respecter la parole publique et refuser de promettre une fois encore aux retraités agricoles ce que nous ne sommes pas en état de financer."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "LIOT": {
+          "ancre": "4116839",
+          "citations": [
+            "Il s'agit donc également d'un enjeu d'égalité entre les femmes et les hommes, de nombreuses agricultrices ayant travaillé pendant toute leur vie sur l'exploitation sans bénéficier, on le sait, des droits complets à la retraite. Réparer les petites retraites agricoles, c'est donc aussi réparer une part de l'invisibilisation du travail des femmes dans le monde agricole.",
+            "Le texte apporte des réponses utiles : il améliore l'accès effectif aux compléments de pension, corrige certains effets de seuil et cherche à éviter que des revalorisations votées par le Parlement soient ensuite neutralisées dans leur portée concrète."
+          ],
+          "annonce": "Notre groupe soutient donc cette proposition de loi, qui va dans le sens d'une meilleure reconnaissance des parcours agricoles, d'une plus grande justice pour les petites pensions et de la correction de situations manifestement inéquitables.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "UDR": {
+          "ancre": "4116854",
+          "citations": [
+            "Mais on ne construit pas de bonnes retraites avec de mauvais revenus, ni l'avenir agricole de la France à coups de formulaires, de contrôles et de contraintes administratives.",
+            "Le véritable enjeu est aussi de redonner de la rentabilité aux exploitations, de réduire les charges qui pèsent sur le travail, d'alléger le poids des prélèvements et des normes, et de permettre aux agriculteurs de vivre dignement de leur métier avant de pouvoir vivre honorablement de leur retraite."
+          ],
+          "statut": "auto",
+          "methode": "justification"
         }
       }
     },
@@ -118,44 +239,108 @@
         "GDR": {
           "ancre": "3780026",
           "citations": [
-            "Selon l'étude de l'Ifop d'avril 2025, plus des deux tiers des Français et plus de 78 % des salariés voteraient l'abrogation de cette réforme ; par ailleurs, sept Français sur dix plébiscitent le système par répartition."
+            "Le relèvement de l'âge de départ à la retraite de 62 à 64 ans s'est accompagné, dès la promulgation de la loi, d'une augmentation de la durée de cotisation obligeant chacun à travailler un trimestre de plus tous les ans pour prétendre à une carrière complète.",
+            "Cette réforme n'est pas seulement injuste, elle est punitive pour les travailleurs seniors, relégués dans un chômage de longue durée, enfermés dans un sas de précarité au mépris de leur expérience, ou contraints de passer quelques années de plus en invalidité.",
+            "Le Conseil avait identifié l'origine de la dégradation financière de notre système de retraite : la diminution des ressources qui lui sont affectées."
           ],
-          "statut": "auto"
+          "statut": "auto",
+          "methode": "justification"
         },
         "UDR": {
           "ancre": "3780062",
           "citations": [
-            "Ainsi, nous vous proposons d'anticiper la crise et d'offrir un système de retraite plus équitable, durable et pérenne. Pour l'ensemble de ces raisons, le groupe UDR votera contre cette proposition de résolution."
+            "Dans les années 1950, lors de la création du premier régime de retraite, on comptait quatre cotisants pour un retraité, contre 1,4 cotisant aujourd'hui ; d'ici à 2070, ce chiffre tombera à 1,2 cotisant pour un retraité.",
+            "Oui, ayons le courage de regarder en face cette proposition d'introduire une dose de capitalisation. Elle permettrait de sauver notre système et d'assurer aux générations futures une retraite à la hauteur de leurs cotisations."
           ],
-          "statut": "auto"
+          "annonce": "Pour l'ensemble de ces raisons, le groupe UDR votera contre cette proposition de résolution.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "RN": {
           "ancre": "3780169",
           "citations": [
-            "Tenir cette promesse sera l'occasion de vous rappeler un élément essentiel : sans le Rassemblement national, personne ne pourra rien faire pour tenter d'abroger ou réussir à abroger la réforme des retraites. Aussi inopérante soit-elle, nous voterons cette proposition de résolution."
+            "Pour ceux qui ont commencé avant l'âge de 20 ans et qui exercent un métier difficile, nous proposons un départ à la retraite à 60 ans avec 40 annuités. Pour ceux qui ont commencé après 20 ans, nous proposons un système progressif avec un départ à 62 ans avec 42 annuités. Ce projet, c'est celui qui concilie justice sociale et maîtrise des dépenses publiques face au dérapage incontrôlé de tous les indicateurs sous les mandats d'Emmanuel Macron."
           ],
-          "statut": "auto"
+          "annonce": "Aussi inopérante soit-elle, nous voterons cette proposition de résolution.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "HOR": {
           "ancre": "3780611",
           "citations": [
-            "La Cour des comptes alerte sur le risque de défaut de paiement de la sécurité sociale – voilà la réalité ! Le groupe Horizons & indépendants votera contre cette proposition de résolution,…"
+            "Cette proposition de résolution ne modifie aucune ligne du code de la sécurité sociale, n'ouvre aucun droit nouveau et n'abaissera l'âge de départ à la retraite pour personne. Elle ne comporte ni étude d'impact ni chiffrage sérieux.",
+            "Abaisser l'âge légal de départ à la retraite à 62 ans ouvrirait un trou d'environ 15 milliards d'euros à l'horizon 2030."
           ],
-          "statut": "auto"
+          "annonce": "Le groupe Horizons & indépendants votera contre cette proposition de résolution,…",
+          "statut": "auto",
+          "methode": "justification"
         },
         "Dem": {
           "ancre": "3780869",
           "citations": [
-            "C'est pourquoi nous voterons contre cette proposition de résolution."
+            "Pour ce qui est de l'équilibre budgétaire, le déficit de la branche vieillesse atteint déjà 5,6 milliards d'euros pour 2024 et la suppression de la réforme de 2023 aurait pour effet de l'amplifier de 3,4 milliards d'euros dès l'an prochain et de 16 milliards d'ici 2032.",
+            "Elle promet un retour en arrière, sans financement, sans aucune alternative."
           ],
-          "statut": "auto"
+          "annonce": "C'est pourquoi nous voterons contre cette proposition de résolution.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "LIOT": {
           "ancre": "3780919",
           "citations": [
-            "C'est dans cet esprit que le groupe LIOT continuera, sur un sujet aussi sensible et important que la protection sociale et les retraites des Français, à faire entendre une voie responsable, humaine et ancrée dans le réel. Chacun de ses députés s'exprimera et votera librement selon ses convictions."
+            "Ce traumatisme démocratique est toujours à vif, nous le voyons encore ce matin, et cette réforme n'a apporté ni la justice ni la clarté espérée.",
+            "Parce qu'il ne s'agit que d'une proposition de résolution, le texte n'aborde en effet ni les carrières longues ni les carrières hachées, pas plus que l'emploi des plus de 55 ans ou le financement pérenne du système."
           ],
-          "statut": "auto"
+          "annonce": "Chacun de ses députés s'exprimera et votera librement selon ses convictions.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "EPR": {
+          "ancre": "3780210",
+          "citations": [
+            "Le déficit de notre système de retraites doublera d'ici 2035, puis doublera de nouveau d'ici 2045. Il s'élèvera alors à 30 milliards d'euros, sans compter le déficit du régime public. Notre démographie vieillissante est une réalité.",
+            "Enfin, cette proposition de résolution est indifférente au sort des générations futures, car, derrière vos grands discours, il est question de la retraite que toucheront nos enfants et nos petits-enfants."
+          ],
+          "annonce": "Vous l'aurez compris, le groupe Ensemble pour la République ne participera pas à cette farce.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "LFI-NFP": {
+          "ancre": "3780237",
+          "citations": [
+            "Une réforme qui touche des millions de personnes dans leur chair et ce pour des générations ; 15 000 personnes qui mourront avant de toucher leur première journée de retraite ; les femmes aux carrières hachées qui se demandent comment tenir jusqu'à 67 ans ; les ouvriers épuisés ; nos compatriotes ultramarins frappés de plein fouet par le chômage et la pauvreté ; les artisans abandonnés ; la jeunesse précarisée.",
+            "Depuis votre réforme, deux fois plus de salariés du privé partent en retraite avec une décote."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "SOC": {
+          "ancre": "3780583",
+          "citations": [
+            "En repoussant de force l'âge légal de départ à la retraite à 64 ans, vous avez méprisé le quotidien et les difficultés des travailleuses et des travailleurs aux métiers pénibles et aux carrières longues. En pénalisant encore davantage les ouvriers par rapport aux cadres et les femmes par rapport aux hommes, vous avez fait preuve d'une violence sociale sans nom.",
+            "Nous voulons mieux reconnaître la pénibilité, faciliter les départs anticipés pour les vies cassées par le travail, garantir des pensions décentes qui permettent de vivre dignement, et non de survivre."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "EcoS": {
+          "ancre": "3780661",
+          "citations": [
+            "Les salaires sont gelés, et affectés depuis trois ans par l'inflation. Les critères de pénibilité ont été retirés – vibrations, port de charges, postures pénibles, produits chimiques respirés – et deux années de retraite volées.",
+            "Vous contournez le peuple, avançant contre 3, 4, 5 millions de manifestants, contre deux tiers des Français, contre 80 % des salariés, contre tous les syndicats unis et, comme nous allons le constater grâce à nos camarades communistes, contre une majorité de députés de notre Assemblée."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "DR": {
+          "ancre": "3780900",
+          "citations": [
+            "Alors même que tous les organismes dont l'objectivité n'est pas sujette à caution annoncent un déficit annuel de 25 à 32 milliards d'euros, à périmètre constant, vous voulez l'alourdir de 16 milliards d'euros par an.",
+            "Je vous rappelle que les 130 milliards d'euros versés chaque année par l'État pour abonder les caisses de retraite sont autant de milliards d'euros qui manquent à tous les budgets que vous prétendez défendre – par exemple, cette somme représente environ 20 % des crédits de la dépense intérieure d'éducation."
+          ],
+          "annonce": "Pour cette raison, nous ne nous livrerons pas à cette mascarade.",
+          "statut": "auto",
+          "methode": "justification"
         }
       }
     },
@@ -168,37 +353,104 @@
         "EPR": {
           "ancre": "3548166",
           "citations": [
-            "Le groupe Ensemble pour la République présidé par Gabriel Attal votera contre le texte."
+            "Tous les pays d'Europe ont déjà fixé l'âge légal de départ à la retraite à 65, 66, 67 ans, voire envisagent de l'augmenter de nouveau. Revenir à 60 ou 62 ans ruinerait l'économie française.",
+            "Vous êtes irresponsables car, dans la situation actuelle, nos finances publiques ne peuvent pas supporter le coût délirant d'une abrogation de la réforme de 2023."
           ],
-          "statut": "auto"
+          "annonce": "Le groupe Ensemble pour la République présidé par Gabriel Attal votera contre le texte.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "LFI-NFP": {
           "ancre": "3546961",
-          "citations": [
-            "Nous assistons donc à une pantalonnade absolue. Heureusement, le bout du tunnel se rapproche : le 28 novembre, cette assemblée se prononcera sur le rétablissement d'un départ à 62 ans"
-          ],
-          "statut": "auto"
+          "citations": [],
+          "statut": "auto",
+          "methode": "justification",
+          "remarque": "L'orateur n'avance pas de justification de fond dans son intervention."
         },
         "SOC": {
-          "ancre": "3546989",
+          "ancre": "3545997",
           "citations": [
-            "Les socialistes voteront donc contre cette réforme – et vous pouvez ajouter mon nom et le nom de beaucoup d'autres ici sur la longue liste des ennemis de l'extrême droite"
+            "Elle ne contient plus que l'article relatif au financement de la réforme, qui prévoit de faire porter sur le tabac les 20 milliards de dépenses qu'elle représente par an.",
+            "Vous ne disposez d'aucune piste de financement sérieuse."
           ],
-          "statut": "auto"
+          "annonce": "Sachez pour l'heure, mesdames et messieurs les députés du RN, que nous ne participerons pas à cette escroquerie.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "Dem": {
           "ancre": "3547110",
           "citations": [
-            "Le groupe Les Démocrates ne votera pas votre réforme et je vais vous expliquer pourquoi."
+            "Son adoption fragiliserait le pacte républicain de 1945, auquel tout le monde se réfère encore et qui veut que les retraites soient financées par les actifs. Vous savez très bien, monsieur Ménagé, que votre texte n'est pas financé.",
+            "Vous expliquerez aux femmes dont les trimestres au titre de la maternité ont été comptabilisés qu'ils ne le seront plus demain !"
           ],
-          "statut": "auto"
+          "annonce": "Le groupe Les Démocrates ne votera pas votre réforme et je vais vous expliquer pourquoi.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "HOR": {
-          "ancre": "3548156",
+          "ancre": "3546870",
           "citations": [
-            "Comme de nombreux autres groupes, nous voterons contre ce texte, pour des raisons de fond et par responsabilité, contrairement aux collègues du NFP qui voteront contre pour des raisons politiques – afin de se réserver la primeur d'une abrogation irresponsable et délétère."
+            "Aujourd'hui, le rapport entre les deux est déjà sous pression : il n'y a plus 4 actifs pour financer un retraité, mais à peine 1,7. Face à ce constat, les réformes que nous avons engagées étaient indispensables pour éviter un effondrement financier.",
+            "Plutôt que de proposer des mesures irréalistes et populistes, qui creuseraient le déficit de plus de 15 milliards d'euros par an d'ici à 2030, concentrons-nous sur des solutions concrètes."
           ],
-          "statut": "auto"
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "RN": {
+          "ancre": "3545539",
+          "citations": [
+            "Concrètement, elle propose de rétablir l'âge de départ à 62 ans et d'alléger les critères de cotisation pour garantir aux travailleurs ayant eu des carrières longues et hachées de pouvoir partir plus tôt.",
+            "En plus d'être injuste, cette réforme Macron est coûteuse."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "DR": {
+          "ancre": "3546265",
+          "citations": [
+            "Quel en serait l'impact ? Un déficit encore plus important qu'aujourd'hui : 3,4 milliards en 2025 et 16 milliards par an à partir de 2032 !",
+            "Soyons clairs : il en découlerait soit une baisse des pensions, soit une augmentation des cotisations – c'est-à-dire une baisse du pouvoir d'achat des actifs –, voire les deux en même temps."
+          ],
+          "annonce": "Telles sont les raisons pour lesquelles le groupe Droite républicaine s'opposera à cette proposition de loi qui menacerait le pouvoir d'achat des Français, retraités comme actifs.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "EcoS": {
+          "ancre": "3547082",
+          "citations": [
+            "D'abord, avec une fake news : raconter que ce texte abrogerait la réforme des retraites est un mensonge absolu.",
+            "Votre non-texte est vide ; il n'abroge rien."
+          ],
+          "annonce": "Nous ne voterons donc pas ce non-texte, parce qu'il ment aux Français sur ses intentions,…",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "LIOT": {
+          "ancre": "3548162",
+          "citations": [
+            "La question qui se pose est celle du financement de notre système. Il en est le socle – on distribue ce que l'on a collecté. Dans la proposition de loi, il n'y a rien – sinon du vide.",
+            "Nous n'avons pas davantage parlé des carrières longues, des carrières hachées, de l'égalité entre les femmes et les hommes, de la pénibilité – rien de rien."
+          ],
+          "annonce": "Aujourd'hui, pour nous, c'est non !",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "GDR": {
+          "ancre": "3546889",
+          "citations": [
+            "Pour réellement défendre notre système de retraite par répartition et abroger les précédentes réformes tout aussi injustes socialement qu'inefficaces économiquement, il faudrait au préalable avoir une autre conception que la vôtre de ce que doit être la sécurité sociale. Or, depuis le début de l'examen du PLFSS en cours, vous ne cessez de vous opposer à l'augmentation des ressources assises sur la cotisation sociale, rejetant toutes nos propositions en la matière."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "UDR": {
+          "ancre": "3547013",
+          "citations": [
+            "Aux injustices s'ajoute de l'inefficacité : malgré la réforme, notre système de retraite reste déficitaire et son déficit va continuer à se creuser. La réforme ne l'a en rien équilibré.",
+            "Notre démographie vieillissante met en péril le système et empêche un retour en arrière sur l'âge de départ à la retraite, qui ne serait donc pas opportun."
+          ],
+          "statut": "auto",
+          "methode": "justification"
         }
       }
     },
@@ -210,37 +462,104 @@
         "RE": {
           "ancre": "3054866",
           "citations": [
-            "L'avenir, c'est ce qui se dessinera à partir de ce soir : quel que soit le résultat souverain de notre assemblée, qui se prononcera en faveur de l'adoption ou du rejet de la réforme,…"
+            "Sans cette réforme, nous aurions accumulé dans dix ans 150 milliards de déficit !",
+            "La justice, c'est de faire en sorte que la réforme soit adoptée, faute de quoi ce sont les Français les plus fragiles, qui ne disposent que de la solidarité intergénérationnelle pour espérer un jour bénéficier d'une retraite, qui trinqueront en premier."
           ],
-          "statut": "auto"
+          "statut": "auto",
+          "methode": "justification"
         },
         "Dem": {
           "ancre": "3055845",
           "citations": [
-            "Vous l'aurez bien sûr compris, soutenant le Gouvernement et persuadés de la nécessité d'une réforme pour pérenniser notre système de retraite, nous ne voterons pas la censure."
+            "Certains d'entre nous pouvaient avoir des doutes, mais nous avions surtout la conviction que cette loi était nécessaire et utile.",
+            "Cet outil existe. Il permet aux forces politiques qui sont contre ce texte de le rejeter si elles sont majoritaires."
           ],
-          "statut": "auto"
+          "annonce": "Vous l'aurez bien sûr compris, soutenant le Gouvernement et persuadés de la nécessité d'une réforme pour pérenniser notre système de retraite, nous ne voterons pas la censure.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "SOC": {
           "ancre": "3055880",
           "citations": [
-            "Les députés du groupe Socialistes et apparentés voteront cette motion de censure transpartisane."
+            "Vous taisez, derrière ce projet dont vous soutenez qu'il est « juste et équitable », que 60 % des économies seront faites sur le dos des femmes, déjà les grandes perdantes, tout au long de leur carrière, de notre modèle économique.",
+            "Songez-y, l'Assemblée nationale aura à peine débattu et n'aura, en définitive, jamais voté ce projet de réforme des retraites.",
+            "Madame la Première ministre, votre réforme percluse de fausses promesses et de vrais mensonges, votre réforme injuste et brutale, n'a pas de majorité."
           ],
-          "statut": "auto"
+          "annonce": "Les députés du groupe Socialistes et apparentés voteront cette motion de censure transpartisane.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "HOR": {
           "ancre": "3054832",
           "citations": [
-            "Je sais, madame la Première ministre, que nous pourrons compter pour y parvenir sur votre plein et entier engagement. C'est pourquoi les députés du groupe Horizons et apparentés ne voteront pas en faveur des motions de censure."
+            "Nous sommes confrontés à une réalité démographique implacable et devons travailler plus longtemps pour y faire face.",
+            "Le projet de loi ne prétend pas, bien sûr, gommer toutes les injustices qui existent – elles sont nombreuses – mais il y contribue en consacrant 7 milliards d'euros à leur réparation, ce qui n'est pas négligeable – c'est même plus d'un tiers des économies réalisées."
           ],
-          "statut": "auto"
+          "annonce": "C'est pourquoi les députés du groupe Horizons et apparentés ne voteront pas en faveur des motions de censure.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "Ecolo-NUPES": {
           "ancre": "3055501",
           "citations": [
-            "Vous n'avez plus les moyens de gouverner un pays qui s'enfonce dans une spirale inflationniste où les plus vulnérables sont broyés. C'est pourquoi, madame la Première ministre, les écologistes voteront sans la moindre hésitation pour cette motion de censure."
+            "Pour financer les baisses d'impôt dont bénéficieront les grandes entreprises ; pour, de l'aveu du Président lui-même, satisfaire les marchés financiers. La voici enfin, la vérité : le système n'était pas en danger et ne l'aurait pas davantage été demain !",
+            "Parmi les nombreux perdants de cette réforme, les sacrifiés sont toujours les mêmes – les femmes.",
+            "Certes, comme vous nous le rappelez à grand renfort d'éléments de langage, vous nous piétinez en toute légalité ; seulement voilà, ce qui est légal n'est pas toujours légitime."
           ],
-          "statut": "auto"
+          "annonce": "C'est pourquoi, madame la Première ministre, les écologistes voteront sans la moindre hésitation pour cette motion de censure.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "LIOT": {
+          "ancre": "3054503",
+          "citations": [
+            "En réalité, rien ne vous obligeait à recourir à l'article 49, alinéa 3, de la Constitution.",
+            "Le report de l'âge légal de 62 à 64 ans cristallise en réalité toutes les injustices.",
+            "Ainsi, non seulement vous n'arrivez pas à atténuer l'injustice de cette réforme, mais, par ailleurs, vous n'assurez pas non plus l'équilibre du système de retraite."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "RN": {
+          "ancre": "3054748",
+          "citations": [
+            "Que nos compatriotes le comprennent bien : le report de l'âge de départ ne les fera pas seulement travailler deux ans de plus, y compris ceux qui sont usés ; il aboutira à la régression suprême, la baisse des pensions par l'effondrement des surcotes et l'augmentation des décotes.",
+            "Elle est avant tout l'un des derniers moyens constitutionnels de rejeter cette réforme inutile et injuste dont l'immense majorité des Français ne veut pas."
+          ],
+          "annonce": "Nous, députés du Rassemblement national, voterons toutes les motions de censure, car nous ne craindrons jamais les urnes et sommes prêts à y retourner !",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "LFI-NUPES": {
+          "ancre": "3055634",
+          "citations": [
+            "Vous n'avez aucune légitimité à mener cette réforme, et vous le savez.",
+            "Nous savons bien que les 12 milliards d'euros que vous cherchez pour les retraites se trouvent dans la poche des plus riches qui ne paient pas d'impôts, comme le révèle l'Institut des politiques publiques.",
+            "Ils savent où réside la violence, la vraie : pas dans des autocollants placardés sur une permanence, mais dans le fait d'imposer deux ans ferme, de briser, d'user, d'épuiser encore davantage les corps et les nerfs."
+          ],
+          "annonce": "Madame la Première ministre, il faut donc vous censurer, pour l'intérêt de tous.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "LR": {
+          "ancre": "3055676",
+          "citations": [
+            "Oui, nous assumons qu'une réforme est nécessaire pour sauvegarder notre système de retraite et défendre le pouvoir d'achat des retraités.",
+            "Oui, nous assumons avoir tempéré la réforme, avec un âge de départ à la retraite à 63 ans à la fin du quinquennat plutôt qu'à 65 ans. Oui, nous assumons d'en redistribuer tout de suite le bénéfice à 1,8 million de retraités ayant des carrières complètes mais percevant les pensions les plus modestes, pour leur permettre de recevoir 670 euros de plus en moyenne chaque année."
+          ],
+          "annonce": "Nous ne voterons donc pas les motions de censure.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "GDR-NUPES": {
+          "ancre": "3055524",
+          "citations": [
+            "Je ne vous répéterai même pas combien vos opérations de publicité mensongère ont été ridicules, ni que votre diagnostic a été percé à jour, que tout le monde a bien compris quelle était votre volonté : affaiblir le droit solidaire à la retraite par répartition. Un tel changement ne peut s'accomplir sans avoir été consenti. La seule chose à dire, c'est que cette réforme, quoi qu'on en pense, doit être retirée d'une manière ou d'une autre.",
+            "Eh bien, non, vous avez choisi de placer des engagements comptables au-dessus de la volonté populaire, les intérêts de la finance au-dessus du bien-être social, du respect du travail, du droit mérité à la retraite."
+          ],
+          "annonce": "C'est contre cette réforme, pour que vive le droit à la retraite, pour le respect de la volonté populaire, pour sortir de la crise et au nom de la République que les députés communistes et ultramarins du groupe Gauche démocrate et républicaine sont actrices et acteurs d'une motion de censure !",
+          "statut": "auto",
+          "methode": "justification"
         }
       }
     },
@@ -252,37 +571,86 @@
         "RE": {
           "ancre": "3054866",
           "citations": [
-            "L'avenir, c'est ce qui se dessinera à partir de ce soir : quel que soit le résultat souverain de notre assemblée, qui se prononcera en faveur de l'adoption ou du rejet de la réforme,…"
+            "Sans cette réforme, nous aurions accumulé dans dix ans 150 milliards de déficit !",
+            "La justice, c'est de faire en sorte que la réforme soit adoptée, faute de quoi ce sont les Français les plus fragiles, qui ne disposent que de la solidarité intergénérationnelle pour espérer un jour bénéficier d'une retraite, qui trinqueront en premier."
           ],
-          "statut": "auto"
+          "statut": "auto",
+          "methode": "justification"
         },
         "Dem": {
           "ancre": "3055845",
           "citations": [
-            "Vous l'aurez bien sûr compris, soutenant le Gouvernement et persuadés de la nécessité d'une réforme pour pérenniser notre système de retraite, nous ne voterons pas la censure."
+            "Certains d'entre nous pouvaient avoir des doutes, mais nous avions surtout la conviction que cette loi était nécessaire et utile.",
+            "Cet outil existe. Il permet aux forces politiques qui sont contre ce texte de le rejeter si elles sont majoritaires."
           ],
-          "statut": "auto"
+          "annonce": "Vous l'aurez bien sûr compris, soutenant le Gouvernement et persuadés de la nécessité d'une réforme pour pérenniser notre système de retraite, nous ne voterons pas la censure.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "SOC": {
           "ancre": "3055880",
-          "citations": [
-            "Les députés du groupe Socialistes et apparentés voteront cette motion de censure transpartisane."
-          ],
-          "statut": "auto"
+          "citations": [],
+          "statut": "auto",
+          "methode": "justification",
+          "remarque": "L’intervention défend la motion de censure transpartisane du groupe LIOT et ne justifie pas le vote sur cette motion-ci."
         },
         "HOR": {
           "ancre": "3054832",
           "citations": [
-            "Je sais, madame la Première ministre, que nous pourrons compter pour y parvenir sur votre plein et entier engagement. C'est pourquoi les députés du groupe Horizons et apparentés ne voteront pas en faveur des motions de censure."
+            "Nous sommes confrontés à une réalité démographique implacable et devons travailler plus longtemps pour y faire face.",
+            "Le projet de loi ne prétend pas, bien sûr, gommer toutes les injustices qui existent – elles sont nombreuses – mais il y contribue en consacrant 7 milliards d'euros à leur réparation, ce qui n'est pas négligeable – c'est même plus d'un tiers des économies réalisées."
           ],
-          "statut": "auto"
+          "annonce": "C'est pourquoi les députés du groupe Horizons et apparentés ne voteront pas en faveur des motions de censure.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "Ecolo-NUPES": {
           "ancre": "3055501",
+          "citations": [],
+          "statut": "auto",
+          "methode": "justification",
+          "remarque": "L’intervention défend la motion de censure transpartisane du groupe LIOT et ne justifie pas le vote sur cette motion-ci."
+        },
+        "LIOT": {
+          "ancre": "3054503",
+          "citations": [],
+          "statut": "auto",
+          "methode": "justification",
+          "remarque": "L’intervention défend la motion de censure transpartisane du groupe LIOT et ne justifie pas le vote sur cette motion-ci."
+        },
+        "RN": {
+          "ancre": "3054748",
           "citations": [
-            "Vous n'avez plus les moyens de gouverner un pays qui s'enfonce dans une spirale inflationniste où les plus vulnérables sont broyés. C'est pourquoi, madame la Première ministre, les écologistes voteront sans la moindre hésitation pour cette motion de censure."
+            "Que nos compatriotes le comprennent bien : le report de l'âge de départ ne les fera pas seulement travailler deux ans de plus, y compris ceux qui sont usés ; il aboutira à la régression suprême, la baisse des pensions par l'effondrement des surcotes et l'augmentation des décotes.",
+            "Elle est avant tout l'un des derniers moyens constitutionnels de rejeter cette réforme inutile et injuste dont l'immense majorité des Français ne veut pas."
           ],
-          "statut": "auto"
+          "annonce": "Nous, députés du Rassemblement national, voterons toutes les motions de censure, car nous ne craindrons jamais les urnes et sommes prêts à y retourner !",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "LFI-NUPES": {
+          "ancre": "3055634",
+          "citations": [],
+          "statut": "auto",
+          "methode": "justification",
+          "remarque": "L’intervention défend la motion de censure transpartisane du groupe LIOT et ne justifie pas le vote sur cette motion-ci."
+        },
+        "LR": {
+          "ancre": "3055676",
+          "citations": [
+            "Oui, nous assumons qu'une réforme est nécessaire pour sauvegarder notre système de retraite et défendre le pouvoir d'achat des retraités.",
+            "Oui, nous assumons avoir tempéré la réforme, avec un âge de départ à la retraite à 63 ans à la fin du quinquennat plutôt qu'à 65 ans. Oui, nous assumons d'en redistribuer tout de suite le bénéfice à 1,8 million de retraités ayant des carrières complètes mais percevant les pensions les plus modestes, pour leur permettre de recevoir 670 euros de plus en moyenne chaque année."
+          ],
+          "annonce": "Nous ne voterons donc pas les motions de censure.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "GDR-NUPES": {
+          "ancre": "3055524",
+          "citations": [],
+          "statut": "auto",
+          "methode": "justification",
+          "remarque": "L’intervention défend la motion de censure transpartisane du groupe LIOT et ne justifie pas le vote sur cette motion-ci."
         }
       }
     },
@@ -295,9 +663,97 @@
         "HOR": {
           "ancre": "2999666",
           "citations": [
-            "Nous resterons attentifs aux évolutions apportées à ce texte pour tendre vers la justice en préservant l'équilibre des comptes. Nous soutiendrons, en responsabilité, ce projet de loi."
+            "Ce phénomène a pour conséquence un déficit de plus de 30 milliards d'euros par an du système de retraite par répartition qui, je le rappelle, repose sur un financement solidaire intergénérationnel par le travail. Si nous ne modifions par les paramètres du système, sa pérennité et sa prospérité ne sont pas garanties pour les générations à venir.",
+            "Ce texte contient de nombreuses avancées, telles que la revalorisation inédite des petites pensions de retraite, la retraite progressive élargie, la fermeture de certains régimes spéciaux, la création d'un index seniors, la réforme du compte pénibilité."
           ],
-          "statut": "auto"
+          "annonce": "Nous soutiendrons, en responsabilité, ce projet de loi.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "GDR-NUPES": {
+          "ancre": "2999332",
+          "citations": [
+            "Décaler l'âge et augmenter la durée de cotisation nécessaire revient à réduire la durée de la retraite en bonne santé d'un grand nombre de personnes, voire à la supprimer.",
+            "Ne vous dites pas que vous agissez pour le niveau de vie des retraités : la réforme n'en traite presque pas. Ne vous dites pas que vous allez sauver le système : vous allez le fragiliser."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "LIOT": {
+          "ancre": "3000510",
+          "citations": [
+            "Nous ne cautionnerons pas une réforme qui va pénaliser ceux qui ont commencé plus tôt et ceux qui ont les revenus les plus faibles.",
+            "Pour les femmes non plus, la situation ne va pas s'arranger. Au contraire : elles partiront en moyenne sept mois plus tard, avec une pension quasiment inchangée et largement inférieure à celle des hommes.",
+            "En repoussant l'âge de départ, vous n'allez pas prolonger leur activité, mais seulement allonger ces périodes de précarité."
+          ],
+          "annonce": "Je vais vous l'expliquer en termes simples : le recul de l'âge légal de départ à 64 ans, c'est non !",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "RE": {
+          "ancre": "2999560",
+          "citations": [
+            "Pourtant, nous avons besoin de cette réforme d'effort – car elle demande bien un effort – pour préserver notre système par répartition, pour assurer la solidarité intergénérationnelle, pour garantir de meilleures pensions aux plus modestes et pour rééquilibrer nos comptes.",
+            "Contrairement à ce que suggèrent certains en présentant des analyses faussées, le rapport du COR est sans appel : si nous ne prenons pas de mesures, le déficit cumulé du système de retraite pourrait atteindre 500 milliards en 2047. Si nous ne faisons rien, les pensions de demain ne seront plus financées."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "RN": {
+          "ancre": "2999029",
+          "citations": [
+            "Cette tragi-comédie, le président du COR – Conseil d'orientation des retraites – lui-même l'a dénoncée, en rappelant que « les dépenses de retraite ne dérapent pas, elles sont relativement maîtrisées ».",
+            "De surcroît, votre énorme omission, c'est la baisse annoncée des pensions, soit par la multiplication des pensions avec décote, soit par la suppression des pensions avec surcote que touchaient les Français qui choisissaient de travailler au-delà de 62 ans – et je ne parle pas des femmes en général, et des mères de famille en particulier, grandes sacrifiées de votre réforme."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "LFI-NUPES": {
+          "ancre": "2999070",
+          "citations": [
+            "Vous bloquez le pays, vous l'embourbez – tout ça pour quoi ? Pour économiser 0,1 point de PIB !",
+            "Et les deux tiers de ces 80 milliards ne vont pas aux 10 % les plus riches, pas même aux 1 % les plus riches, mais aux 0,1 % les plus riches, ceux à qui vous ne toucherez pas alors que vous toucherez à Maryvonne, cette femme de ménage qui doit porter des bandages aux poignets et qui va prendre deux ans de plus."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "LR": {
+          "ancre": "2999160",
+          "citations": [
+            "Vous le savez, messieurs les ministres : notre groupe considère que la question des retraites est essentielle, mais que la réforme que vous proposez est un acte manqué ! Votre projet de loi est insuffisant et, en tout état de cause, à la fois perfectible et injuste.",
+            "Cette réforme n'est pas la nôtre, mais nous chercherons à la corriger pour la rendre plus juste."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "Dem": {
+          "ancre": "2999188",
+          "citations": [
+            "Comme, pour notre part, nous lui restons profondément attachés, et que nous constatons l'écroulement du rapport entre le nombre d'actifs et le nombre de retraités, nous sommes favorables au décalage de l'âge légal de départ et à l'accélération du calendrier proposé par Mme Touraine en 2014.",
+            "Mes chers collègues, la réforme des retraites soumise à notre examen est indispensable si nous voulons pouvoir transmettre à nos enfants et petits-enfants un modèle de solidarité entre les générations parmi les plus généreux au monde, et qui fait honneur à notre pays."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "SOC": {
+          "ancre": "2999639",
+          "citations": [
+            "Car la vérité, la voici : « les dépenses de retraites ne dérapent pas ; elles sont relativement maîtrisées ». Tels sont, sans exégèse et sans intermédiaire, les propos du président du COR.",
+            "Après la réforme, la probabilité de mourir avant d'atteindre l'âge de la retraite augmentera deux fois plus pour les plus modestes que pour les plus aisés.",
+            "Les deux tiers des économies réalisées le seront sur le dos des femmes, qui surcotiseront deux fois plus longtemps que les hommes sans que les écarts entre les pensions ne se réduisent, et qui continueront à partir à la retraite plus tardivement."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "Ecolo-NUPES": {
+          "ancre": "3000303",
+          "citations": [
+            "Celles et ceux qui ne sont ni en emploi ni à la retraite, dont la proportion s'élève à 40 % autour de la soixantaine, ont appris avec horreur qu'ils devront faire encore pendant plusieurs mois avec le RSA avant de pouvoir débloquer leurs droits à la retraite.",
+            "Alors que treize années d'espérance de vie séparent les 5 % des travailleurs les plus pauvres des 5 % des travailleurs les plus riches, vous décidez de les aligner sur une ligne de départ à la retraite identique.",
+            "Économistes, COR, tout le monde le dit : il n'y a pas d'envolée des dépenses, il y a seulement un problème de recettes."
+          ],
+          "statut": "auto",
+          "methode": "justification"
         }
       }
     },
@@ -308,53 +764,96 @@
       "statut": "auto",
       "explications": {
         "Dem": {
-          "ancre": "2937918",
+          "ancre": "2937061",
           "citations": [
-            "Le groupe Dem votera sans réserve la proposition de loi déposée par Julien Dive."
+            "Dans le système général comme dans le système agricole, vingt-cinq années sur une carrière de quarante-deux ans permettent de passer l'éponge sur dix-sept années qui peuvent avoir été marquées par l'absence de revenus pour cause de maladie, de chômage ou d'éducation des enfants, ou bien par des revenus faibles, voire nuls, en raison du climat ou du niveau des cours mondiaux."
           ],
-          "statut": "auto"
+          "annonce": "Compte tenu de cet amendement, qui modifie le texte examiné en commission et prévoit un rapport d'évaluation, notre groupe votera ce texte.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "HOR": {
           "ancre": "2937283",
           "citations": [
-            "Nous soutenons également la proposition d'une entrée en vigueur progressive de ladite réforme au 1er janvier 2026, ce qui permettra d'aboutir à un processus pleinement opérationnel. Le groupe Horizons et apparentés votera donc en faveur de cette proposition de loi, amendée comme je l'ai indiqué."
+            "Rappelons que la retraite des non-salariés agricoles est calculée sur toute la durée de la vie professionnelle, quand les salariés du régime général et les indépendants, eux, voient le calcul de leurs droits s'effectuer sur les vingt-cinq meilleures années de leur carrière. Cette proposition de loi présentée par le groupe Les Républicains vise donc à corriger cette différence de mode de calcul, et nous soutenons cette intention.",
+            "Nous soutenons également la proposition d'une entrée en vigueur progressive de ladite réforme au 1er janvier 2026, ce qui permettra d'aboutir à un processus pleinement opérationnel."
           ],
-          "statut": "auto"
+          "annonce": "Le groupe Horizons et apparentés votera donc en faveur de cette proposition de loi, amendée comme je l'ai indiqué.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "Ecolo-NUPES": {
-          "ancre": "2937938",
+          "ancre": "2937291",
           "citations": [
-            "C'est une question de justice sociale. Pour cette raison, nous voterons cette proposition de loi."
+            "Les agriculteurs sont désormais les derniers pour lesquels la retraite est calculée sur l'intégralité de la carrière, bonnes et mauvaises année confondues, ce qui est un non-sens total quand on sait que pour les salariés, elle est calculée sur les vingt-cinq meilleures années. C'est une double peine, celle de paysans qui font face de plein fouet à tous les impacts du changement climatique et de la fluctuation des prix pendant leur activité, et qui en font à nouveau les frais lors du calcul de leur retraite."
           ],
-          "statut": "auto"
+          "annonce": "Nous, écologistes, voterons en faveur de cette proposition de loi qui rétablit la justice.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "SOC": {
-          "ancre": "2937929",
+          "ancre": "2937309",
           "citations": [
-            "À mon tour, je remercie M. le rapporteur et l'ensemble des collègues qui ont œuvré pour ce texte que nous voterons, bien entendu."
+            "Il nous semble donc de bon sens de calquer le mode de calcul des retraites des salariés non agricoles sur le régime de base, en prenant en compte leurs vingt-cinq meilleures années, quelles que soient les difficultés administratives qui en découlent.",
+            "Toutefois, nous préférons un progrès, aussi petit soit-il, à un statu quo défaillant."
           ],
-          "statut": "auto"
+          "annonce": "Le groupe Socialistes et apparentés soutiendra donc cette proposition de loi.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "LIOT": {
           "ancre": "2937384",
           "citations": [
-            "Le groupe Libertés, indépendants, outre-mer et territoires est conscient du fait que ces dispositions pourront être complétées par une réforme des retraites plus vaste, incluant la question des taux et assiettes de cotisation et visant une plus grande contributivité, mais il votera en faveur de ce texte qui va dans le bon sens."
+            "Ce mode de calcul les expose à subir doublement le coût des mauvaises années, eux qui sont de plus en plus frappés par les effets des aléas climatiques mais aussi des crises géopolitiques, qui rendent chaque année incertaine. Faire reposer le calcul de leur retraite de base sur leurs vingt-cinq meilleures années est une réponse adaptée et sécurisante."
           ],
-          "statut": "auto"
+          "annonce": "Le groupe Libertés, indépendants, outre-mer et territoires est conscient du fait que ces dispositions pourront être complétées par une réforme des retraites plus vaste, incluant la question des taux et assiettes de cotisation et visant une plus grande contributivité, mais il votera en faveur de ce texte qui va dans le bon sens.",
+          "statut": "auto",
+          "methode": "justification"
         },
         "RE": {
-          "ancre": "2937951",
+          "ancre": "2937399",
           "citations": [
-            "Nous devons nous montrer reconnaissants à l'égard de ces femmes et de ces hommes qui s'engagent au quotidien et sans relâche pour une agriculture de qualité proposée à des prix abordables, bref, pour assurer la souveraineté alimentaire. C'est pourquoi le groupe Renaissance votera en faveur de cette proposition de loi."
+            "Comme le rappelle une organisation syndicale très représentative du monde agricole, cette réforme vise à réparer une injustice, car « les agriculteurs sont les derniers à calculer leur retraite sur la totalité de leur carrière, bonnes et mauvaises années mêlées ».",
+            "D'abord, il est prévu que le Gouvernement remette un rapport au Parlement dans un délai de trois mois afin de préciser les modalités de mise en œuvre techniques spécifiques de ce nouveau dispositif, sur lesquelles a insisté notre collègue Turquois. Ensuite, le report de l'application du nouveau régime de 2024 à 2026 permettra à la MSA de bénéficier du temps indispensable pour reconstituer les vingt-cinq meilleures années de nos agriculteurs."
           ],
-          "statut": "auto"
+          "statut": "auto",
+          "methode": "justification"
         },
         "LFI-NUPES": {
           "ancre": "2937550",
           "citations": [
-            "Les retraites par points ne sont ni fiables ni viables ; elles conduisent systématiquement à des rectifications législatives ultérieures, ce qui plaide en faveur d'un système de retraite ordinaire par répartition, à même d'assurer à toutes et à tous, après une vie de travail, un revenu décent. Parce que ce texte est étonnamment social et implicitement anti-macroniste, nous le voterons."
+            "La raison en est que l'activité agricole est par essence variable : il y a les bonnes et les mauvaises années, indépendamment du travail accompli. Avec le dérèglement climatique, cette déconnexion empire : sécheresses, inondations, vents violents, salinisation des sols, grêle sont autant d'événements qui frappent les rendements et amputent le revenu des agriculteurs, limitant ainsi leur capacité contributive et sabrant le niveau des pensions de retraite futures. Dès lors qu'il existe de mauvaises années, de plus en plus nombreuses et récurrentes, il convient de les écarter du calcul de la retraite pour éviter que les agriculteurs et agricultrices soient sacrifiés en raison du dérèglement climatique."
           ],
-          "statut": "auto"
+          "annonce": "Je ne laisserai pas durer excessivement le suspense : notre position a évolué depuis que vous proposez de modifier le contenu de cette proposition de loi et nous la voterons avec enthousiasme, car elle possède deux qualités essentielles.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "LR": {
+          "ancre": "2937033",
+          "citations": [
+            "Le calcul des retraites agricoles est en fait basé sur l'intégralité de la carrière, ce qui constitue bien entendu un non-sens au regard des nombreux aléas auxquels est confronté le monde agricole : sécheresses, gelées, grêle, grippe aviaire, brucellose, salmonelles, et j'en passe.",
+            "Le calcul sur les vingt-cinq meilleures années est simplement une mesure d'équité et de justice sociale."
+          ],
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "GDR-NUPES": {
+          "ancre": "2937072",
+          "citations": [
+            "Là encore, vous avez raison : alors même que les agriculteurs sont soumis aux mêmes exigences que les autres professions en matière d'âge légal et de durée de cotisation, le niveau moyen des pensions de retraite agricole dans notre pays reste très insuffisant et très en deçà du niveau moyen des autres pensionnés, ce qui n'est pas à la hauteur de la reconnaissance que nous leur devons. Votre proposition d'alignement du calcul de la retraite de base des non-salariés agricoles sur la base des vingt-cinq meilleures années apparaît donc comme une mesure de justice, en ce qu'elle ouvre des droits identiques à ceux de la majorité des actifs de notre pays."
+          ],
+          "annonce": "Pour leur part, convaincus par la portée révolutionnaire de votre texte et par le soutien bienvenu du Gouvernement, les députés du groupe GDR lèveront la main, voire le poing, pour le voter.",
+          "statut": "auto",
+          "methode": "justification"
+        },
+        "RN": {
+          "ancre": "2937415",
+          "citations": [
+            "Aujourd'hui, ils subissent les effets d'un régime profondément injuste qu'il convient de corriger. Profondément injuste, puisque le calcul de la pension de retraite prend en compte la totalité de leur carrière, alors qu'il se fonde sur les vingt-cinq meilleures années pour les indépendants et sur les six derniers mois pour les fonctionnaires. Profondément injuste, puisqu'ils sont soumis à des lois qu'ils ne peuvent pas maîtriser : les lois des marchés financiers, mais aussi les lois climatiques, toutes deux aussi imprévisibles que violentes."
+          ],
+          "annonce": "Vous l'aurez compris, nous sommes favorables à cette proposition de loi, car au Rassemblement national, nous savons remercier la main qui nous nourrit et qui fait notre fierté depuis tant de siècles.",
+          "statut": "auto",
+          "methode": "justification"
         }
       }
     }
